@@ -1,6 +1,6 @@
 ---
 layout: page
-title: simple site
+title: BSHA3
 tagline: BSHA3 
 description: BSHA3
 ---
