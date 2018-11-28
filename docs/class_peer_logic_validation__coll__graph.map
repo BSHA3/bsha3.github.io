@@ -1,0 +1,14 @@
+<map id="PeerLogicValidation" name="PeerLogicValidation">
+<area shape="rect" id="node2" href="$class_c_validation_interface.html" title="Implement this to subscribe to events generated in validation. " alt="" coords="770,5,910,31"/>
+<area shape="rect" id="node3" href="$class_net_events_interface.html" title="Interface for message handling. " alt="" coords="500,49,635,75"/>
+<area shape="rect" id="node4" href="$class_c_connman.html" title="CConnman" alt="" coords="796,216,885,241"/>
+<area shape="rect" id="node5" href="$class_c_addr_man.html" title="Stochastical (IP) address manager. " alt="" coords="525,99,610,124"/>
+<area shape="rect" id="node6" href="$classuint256.html" title="256&#45;bit opaque blob. " alt="" coords="260,59,325,84"/>
+<area shape="rect" id="node7" href="$classbase__blob.html" title="base_blob\&lt; 256 \&gt;" alt="" coords="13,59,142,84"/>
+<area shape="rect" id="node8" href="$class_fast_random_context.html" title="Fast randomness source. " alt="" coords="221,108,364,133"/>
+<area shape="rect" id="node9" href="$class_cha_cha20.html" title="A PRNG class for ChaCha20. " alt="" coords="35,108,120,133"/>
+<area shape="rect" id="node10" href="$class_annotated_mixin.html" title="AnnotatedMixin\&lt; std\l::recursive_mutex \&gt;" alt="" coords="221,197,364,236"/>
+<area shape="rect" id="node12" href="$class_annotated_mixin.html" title="AnnotatedMixin\&lt; std\l::mutex \&gt;" alt="" coords="221,283,364,321"/>
+<area shape="rect" id="node15" href="$class_c_thread_interrupt.html" title="CThreadInterrupt" alt="" coords="506,339,629,364"/>
+<area shape="rect" id="node14" href="$class_c_client_u_i_interface.html" title="Signals for UI communication. " alt="" coords="503,388,633,413"/>
+</map>

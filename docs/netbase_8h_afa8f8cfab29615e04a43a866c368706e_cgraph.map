@@ -1,0 +1,11 @@
+<map id="CreateSocket" name="CreateSocket">
+<area shape="rect" id="node2" href="$class_c_service.html#ac4c6d655fab3af40937f0b0c65581745" title="CService::GetSockAddr" alt="" coords="155,56,318,81"/>
+<area shape="rect" id="node3" href="$class_c_net_addr.html#a7021b79e9a33c342b68db09dbb6c2293" title="CNetAddr::IsIPv4" alt="" coords="750,30,875,56"/>
+<area shape="rect" id="node4" href="$class_c_net_addr.html#a4f73432c55d4acb6b9e4c54833eefea6" title="CNetAddr::GetInAddr" alt="" coords="369,30,517,56"/>
+<area shape="rect" id="node7" href="$class_c_net_addr.html#aad5f7a372c56ccf4d773f728b6b46e18" title="CNetAddr::IsIPv6" alt="" coords="569,130,693,156"/>
+<area shape="rect" id="node10" href="$class_c_net_addr.html#a3616012f94b27148e5b8e27d943d4884" title="CNetAddr::GetIn6Addr" alt="" coords="366,80,521,105"/>
+<area shape="rect" id="node5" href="$glibc__compat_8cpp.html#a0f46826ab0466591e136db24394923cf" title="memcpy" alt="" coords="595,81,667,106"/>
+<area shape="rect" id="node6" href="$glibc__compat_8cpp.html#a9778d49e9029dd75bc53ecbbf9f5e9a1" title="memmove" alt="" coords="771,81,854,106"/>
+<area shape="rect" id="node8" href="$class_c_net_addr.html#a4db37b4997ff3b8c57959f2aa915a9a3" title="CNetAddr::IsTor" alt="" coords="754,130,871,156"/>
+<area shape="rect" id="node9" href="$class_c_net_addr.html#ab0848a1ba29b6f72fcc3b6ba8d7c8fbb" title="CNetAddr::IsInternal" alt="" coords="741,180,884,205"/>
+</map>

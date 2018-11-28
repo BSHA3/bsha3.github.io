@@ -1,0 +1,5 @@
+<map id="CWallet::AddToSpends" name="CWallet::AddToSpends">
+<area shape="rect" id="node2" href="$group__map_wallet.html#gad87827a3161e8767ac2ba7a6177579d7" title="CWallet::AddToSpends" alt="" coords="211,5,369,31"/>
+<area shape="rect" id="node3" href="$group__map_wallet.html#gab32af23e63dcdc0314aaf44f800e25da" title="CWallet::SyncMetaData" alt="" coords="417,5,580,31"/>
+<area shape="rect" id="node4" href="$group__map_wallet.html#ga663593382cf8b0fb993e2515261bb017" title="CWalletTx::IsEquivalentTo" alt="" coords="628,5,804,31"/>
+</map>

@@ -1,0 +1,50 @@
+<map id="ScriptToUniv" name="ScriptToUniv">
+<area shape="rect" id="node2" href="$class_uni_value.html#abab649c2dbd593233de6364254456026" title="UniValue::pushKV" alt="" coords="152,55,281,80"/>
+<area shape="rect" id="node5" href="$core__write_8cpp.html#accaf6e3c14d2f3045f85984aa9cec2c8" title="Create the assembly string representation of a CScript object. " alt="" coords="347,332,460,357"/>
+<area shape="rect" id="node6" href="$classprevector.html#aa9210cbe708412a70868d6e0bca844c9" title="prevector::begin" alt="" coords="786,307,903,332"/>
+<area shape="rect" id="node11" href="$classprevector.html#aab7f6e13a3cac85cc340fc6b90c5365c" title="prevector::end" alt="" coords="792,469,898,495"/>
+<area shape="rect" id="node17" href="$utilstrencodings_8h.html#ace13a819ca4e98c22847d26b3b357e75" title="HexStr" alt="" coords="583,457,645,483"/>
+<area shape="rect" id="node19" href="$class_uni_value.html#a5b33bfd4be1574e610eee5a7cdae77d1" title="UniValue::type" alt="" coords="163,584,270,609"/>
+<area shape="rect" id="node21" href="$standard_8cpp.html#a5a3369fceeb25173e2faa4a7ebc7a4e4" title="Parse a scriptPubKey and identify script type for standard scripts. " alt="" coords="374,635,433,660"/>
+<area shape="rect" id="node25" href="$standard_8cpp.html#a998a2df1a42dc68c4cffa9933aa713c2" title="Get the name of a txnouttype as a C string, or nullptr if unknown. " alt="" coords="150,685,283,711"/>
+<area shape="rect" id="node26" href="$standard_8cpp.html#a951f7e601746ae076afdf3169ecca2fc" title="Parse a standard scriptPubKey for the destination address. " alt="" coords="152,735,281,760"/>
+<area shape="rect" id="node48" href="$key__io_8cpp.html#a69b845c325e6bf516251cd3a67fe1df7" title="EncodeDestination" alt="" coords="150,808,283,833"/>
+<area shape="rect" id="node3" href="$class_uni_value.html#a85f3a2f520375b464fb506b2ede5c3df" title="UniValue::findKey" alt="" coords="340,5,466,31"/>
+<area shape="rect" id="node4" href="$class_uni_value.html#a505a2087cb7d9ee51d24a97a5cc7910c" title="UniValue::__pushKV" alt="" coords="331,55,475,80"/>
+<area shape="rect" id="node13" href="$class_c_script.html#ae07231780831ba57f723bd35e4572753" title="CScript::GetOp" alt="" coords="558,356,669,381"/>
+<area shape="rect" id="node15" href="$class_c_script.html#a11c26ad1d03fa2d60a733337c21b6719" title="Returns whether the script is guaranteed to fail at execution, regardless of the initial stack..." alt="" coords="533,307,694,332"/>
+<area shape="rect" id="node16" href="$interpreter_8cpp.html#a4e9bf849122ca85e8010906bb23a2a40" title="CheckSignatureEncoding" alt="" coords="528,156,699,181"/>
+<area shape="rect" id="node18" href="$script_8cpp.html#a573587022d52d3542eb6fbf5a1190489" title="GetOpName" alt="" coords="565,205,662,231"/>
+<area shape="rect" id="node7" href="$classprevector.html#a59f1d7bcbc751cfa0faddd7ffa184846" title="prevector::item_ptr" alt="" coords="998,445,1131,471"/>
+<area shape="rect" id="node8" href="$classprevector.html#a933e204a7e29c6bbc85479d023c00ff8" title="prevector::is_direct" alt="" coords="1211,495,1345,520"/>
+<area shape="rect" id="node9" href="$classprevector.html#a20150a43dd87c33f0e855a55bd3418e8" title="prevector::direct_ptr" alt="" coords="1208,445,1348,471"/>
+<area shape="rect" id="node10" href="$classprevector.html#ae3343cc65be9fd678b4a6f8305624de6" title="prevector::indirect_ptr" alt="" coords="1203,396,1353,421"/>
+<area shape="rect" id="node12" href="$classprevector.html#a626f7d206dbc24e5610631809762758b" title="prevector::size" alt="" coords="1011,495,1119,520"/>
+<area shape="rect" id="node14" href="$script_8h.html#a7641081d14775e4dd30a9d35e82a7c31" title="GetScriptOp" alt="" coords="797,408,892,433"/>
+<area shape="rect" id="node20" href="$class_uni_value.html#a2dbc9c5aa9d209338b0bef650f3d1987" title="UniValue::getType" alt="" coords="339,584,468,609"/>
+<area shape="rect" id="node22" href="$class_c_script.html#a0c3729c606d318923dc06f95d85a0971" title="CScript::IsPayToScriptHash" alt="" coords="752,659,937,684"/>
+<area shape="rect" id="node23" href="$class_c_script.html#ae6f2ab1af6361c5772f62b28b19f5eae" title="CScript::IsWitnessProgram" alt="" coords="523,609,704,635"/>
+<area shape="rect" id="node24" href="$class_c_script.html#a7f975fca06b3e9a17da8ba23c7647e2e" title="Encode/decode small integers: " alt="" coords="767,609,922,635"/>
+<area shape="rect" id="node27" href="$class_c_pub_key.html#a4fa94293cf8577fd039b9a133f6c7f30" title="CPubKey::IsValid" alt="" coords="341,685,465,711"/>
+<area shape="rect" id="node30" href="$class_c_pub_key.html#a2675f7e6f72eff68e7a5227289feb021" title="Get the KeyID of this public key (hash of its serialization) " alt="" coords="343,735,463,760"/>
+<area shape="rect" id="node47" href="$classbase__blob.html#aeee68e00ceeacf49086e98b661e017ff" title="base_blob::begin" alt="" coords="342,784,465,809"/>
+<area shape="rect" id="node28" href="$class_c_pub_key.html#a6bb28fcf0a5f799c69f5b7269363b309" title="Simple read&#45;only vector&#45;like interface to the pubkey data. " alt="" coords="559,711,668,736"/>
+<area shape="rect" id="node29" href="$class_c_pub_key.html#a7dc71b3f037c84268dc22de97d7b65fb" title="Compute the length of a pubkey with a given first byte. " alt="" coords="780,711,909,736"/>
+<area shape="rect" id="node31" href="$_hash_8h.html#a3f56a9b8501ec9d021aad11389d419c4" title="Compute the 160&#45;bit hash an object. " alt="" coords="576,760,651,785"/>
+<area shape="rect" id="node32" href="$class_c_hash360.html#a9268162ed4d951b479493d16f0bfb5df" title="CHash360::Write" alt="" coords="783,760,906,785"/>
+<area shape="rect" id="node37" href="$class_c_hash360.html#abb6b8a5693cd0b09e52bb624bafc1efd" title="CHash360::Finalize" alt="" coords="776,821,914,847"/>
+<area shape="rect" id="node33" href="$class_c_s_h_a3.html#a439a0fade3fa1b7989c6cf053d39161b" title="CSHA3::Write" alt="" coords="1013,747,1117,772"/>
+<area shape="rect" id="node34" href="$class_s_h_a3__256.html#a8356957ea403c5da326fc6899b91ea71" title="Updates the hash with more data. " alt="" coords="1211,747,1345,772"/>
+<area shape="rect" id="node35" href="$class_keccak_core.html#aaaa0355ccec0f469ac8eb577bdf853ed" title="Updates the Keccak sponge function with more input data. " alt="" coords="1412,747,1554,772"/>
+<area shape="rect" id="node36" href="$class_keccak_core.html#aba3225c7a4ceff3580236a900b72a1c3" title="Transform the state with the KECCAK&#45;p sponge function with b = 1600. " alt="" coords="1602,796,1752,821"/>
+<area shape="rect" id="node38" href="$class_c_s_h_a3.html#a7aa515a9a0fa6d72667d74897f699ae9" title="CSHA3::Finalize" alt="" coords="1005,796,1124,821"/>
+<area shape="rect" id="node44" href="$class_c_r_i_p_e_m_d160.html#a221143b9d94af623d07c4f4ba1bf6007" title="CRIPEMD160::Write" alt="" coords="993,845,1136,871"/>
+<area shape="rect" id="node46" href="$class_c_r_i_p_e_m_d160.html#a2a11566fbf9d1339b819833313fc4e51" title="CRIPEMD160::Finalize" alt="" coords="985,895,1144,920"/>
+<area shape="rect" id="node39" href="$class_s_h_a3__256.html#a8fe7cad1f83bd1bae1a0d521324247a1" title="Finalizes the hashing process and returns the hash. " alt="" coords="1210,796,1345,821"/>
+<area shape="rect" id="node40" href="$class_keccak_core.html#a97852ee4381ced17ee6d21704cf0b4d7" title="Pads the last block of input data to blockSize(). " alt="" coords="1421,796,1545,821"/>
+<area shape="rect" id="node41" href="$class_keccak_core.html#aad83ece853c0cc15fcab947fdcba924f" title="Extracts data from the Keccak sponge function. " alt="" coords="1412,845,1554,871"/>
+<area shape="rect" id="node42" href="$glibc__compat_8cpp.html#a0f46826ab0466591e136db24394923cf" title="memcpy" alt="" coords="1641,871,1713,896"/>
+<area shape="rect" id="node43" href="$glibc__compat_8cpp.html#a9778d49e9029dd75bc53ecbbf9f5e9a1" title="memmove" alt="" coords="1800,871,1884,896"/>
+<area shape="rect" id="node45" href="$namespacesha256__shani.html#a97d2e267c87add9a1172d948e05ba471" title="sha256_shani::Transform" alt="" coords="1192,845,1364,871"/>
+<area shape="rect" id="node49" href="$chainparams_8cpp.html#ace5c5b706d71a324a417dd2db394fd4a" title="Return the currently selected parameters. " alt="" coords="370,833,437,859"/>
+</map>

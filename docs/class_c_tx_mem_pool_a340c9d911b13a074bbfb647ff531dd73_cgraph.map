@@ -1,0 +1,4 @@
+<map id="CTxMemPool::UpdateChildrenForRemoval" name="CTxMemPool::UpdateChildrenForRemoval">
+<area shape="rect" id="node2" href="$class_c_tx_mem_pool.html#a33448b87844f4e6091a394a6fdc4ebb0" title="CTxMemPool::GetMemPoolChildren" alt="" coords="255,5,492,31"/>
+<area shape="rect" id="node3" href="$class_c_tx_mem_pool.html#ae6cc140209f782be93c522048595b797" title="CTxMemPool::UpdateParent" alt="" coords="278,55,470,80"/>
+</map>

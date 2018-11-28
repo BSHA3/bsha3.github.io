@@ -1,0 +1,8 @@
+<map id="src/pow.h" name="src/pow.h">
+<area shape="rect" id="node2" href="$block__assemble_8cpp.html" title="src/bench/block_assemble.cpp" alt="" coords="5,79,209,104"/>
+<area shape="rect" id="node3" href="$miner_8cpp.html" title="src/miner.cpp" alt="" coords="233,79,333,104"/>
+<area shape="rect" id="node4" href="$pow_8cpp.html" title="src/pow.cpp" alt="" coords="357,79,449,104"/>
+<area shape="rect" id="node5" href="$mining_8cpp.html" title="src/rpc/mining.cpp" alt="" coords="473,79,603,104"/>
+<area shape="rect" id="node6" href="$txdb_8cpp.html" title="src/txdb.cpp" alt="" coords="627,79,720,104"/>
+<area shape="rect" id="node7" href="$validation_8cpp.html" title="src/validation.cpp" alt="" coords="745,79,869,104"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="MutableTransactionSignatureCreator" name="MutableTransactionSignatureCreator">
+<area shape="rect" id="node2" href="$class_base_signature_creator.html" title="Interface for signature creators. " alt="" coords="5,287,159,312"/>
+<area shape="rect" id="node3" href="$class_generic_transaction_signature_checker.html" title="GenericTransactionSignature\lChecker\&lt; T \&gt;" alt="" coords="182,280,376,319"/>
+<area shape="rect" id="node4" href="$class_base_signature_checker.html" title="BaseSignatureChecker" alt="" coords="139,193,297,219"/>
+<area shape="rect" id="node5" href="$struct_precomputed_transaction_data.html" title="PrecomputedTransactionData" alt="" coords="322,193,520,219"/>
+<area shape="rect" id="node6" href="$classuint256.html" title="256&#45;bit opaque blob. " alt="" coords="388,80,453,105"/>
+<area shape="rect" id="node7" href="$classbase__blob.html" title="base_blob\&lt; 256 \&gt;" alt="" coords="357,5,485,31"/>
+<area shape="rect" id="node8" href="$struct_c_mutable_transaction.html" title="A mutable version of CTransaction. " alt="" coords="400,287,548,312"/>
+</map>

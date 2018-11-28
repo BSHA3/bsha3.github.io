@@ -1,0 +1,5 @@
+<map id="WalletView::showProgress" name="WalletView::showProgress">
+<area shape="rect" id="node2" href="$class_wallet_view.html#af74afee27526920cadb16622b1f836c1" title="WalletView::getWalletModel" alt="" coords="232,5,417,31"/>
+<area shape="rect" id="node3" href="$class_wallet_model.html#aa3a3b4a8064de3af096dbf64bfe12655" title="WalletModel::wallet" alt="" coords="257,55,392,80"/>
+<area shape="rect" id="node4" href="$classinterfaces_1_1_wallet.html#a6800b176d05af90b8de45d41bb2bab76" title="Abort a rescan. " alt="" coords="263,104,386,143"/>
+</map>

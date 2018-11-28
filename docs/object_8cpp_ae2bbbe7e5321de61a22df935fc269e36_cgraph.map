@@ -1,0 +1,7 @@
+<map id="BOOST_AUTO_TEST_CASE" name="BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$class_uni_value.html#a073f2837ea47118d3be94360e3e93061" title="UniValue::setNumStr" alt="" coords="251,5,396,31"/>
+<area shape="rect" id="node3" href="$class_uni_value.html#ac5271a9bb4ece86f00052bb5603eaa78" title="UniValue::isNum" alt="" coords="263,55,383,80"/>
+<area shape="rect" id="node4" href="$class_uni_value.html#ae8a27d40aa1b1322ea95ff4fb2dec2b1" title="UniValue::get_bool" alt="" coords="257,104,390,129"/>
+<area shape="rect" id="node5" href="$class_uni_value.html#acb5c848d20cb741dbe65e28bc513baa8" title="UniValue::getBool" alt="" coords="444,104,571,129"/>
+<area shape="rect" id="node6" href="$class_uni_value.html#a1491167609f899d0c7773749b5047969" title="UniValue::isTrue" alt="" coords="619,104,737,129"/>
+</map>

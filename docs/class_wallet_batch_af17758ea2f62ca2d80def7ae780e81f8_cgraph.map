@@ -1,0 +1,6 @@
+<map id="WalletBatch::LoadWallet" name="WalletBatch::LoadWallet">
+<area shape="rect" id="node2" href="$class_berkeley_batch.html#afbf2d778e5791c88149b8c6c1cab0ab8" title="BerkeleyBatch::Read" alt="" coords="234,5,380,31"/>
+<area shape="rect" id="node3" href="$class_c_wallet.html#ab23f2585ab9f1cc8284518b573048d2c" title="CWallet::LoadMinVersion" alt="" coords="222,55,392,80"/>
+<area shape="rect" id="node4" href="$class_berkeley_batch.html#a1e32d0aeea205d2a9a57c62a9c2d9d7d" title="BerkeleyBatch::GetCursor" alt="" coords="219,104,395,129"/>
+<area shape="rect" id="node5" href="$class_c_wallet.html#a4083c9a8583aa7b355da55280a519cc8" title="Prepends the wallet name in logging output to ease debugging in multi&#45;wallet use cases. " alt="" coords="225,153,389,179"/>
+</map>

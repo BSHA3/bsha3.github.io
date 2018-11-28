@@ -1,0 +1,12 @@
+<map id="src/net_processing.h" name="src/net_processing.h">
+<area shape="rect" id="node2" href="$init_8cpp.html" title="src/init.cpp" alt="" coords="5,79,90,104"/>
+<area shape="rect" id="node3" href="$node_8cpp.html" title="src/interfaces/node.cpp" alt="" coords="115,79,274,104"/>
+<area shape="rect" id="node4" href="$net__processing_8cpp.html" title="src/net_processing.cpp" alt="" coords="298,79,456,104"/>
+<area shape="rect" id="node5" href="$peertablemodel_8h.html" title="src/qt/peertablemodel.h" alt="" coords="481,79,642,104"/>
+<area shape="rect" id="node11" href="$rpc_2net_8cpp.html" title="src/rpc/net.cpp" alt="" coords="665,79,774,104"/>
+<area shape="rect" id="node6" href="$clientmodel_8cpp.html" title="src/qt/clientmodel.cpp" alt="" coords="299,152,450,177"/>
+<area shape="rect" id="node7" href="$peertablemodel_8cpp.html" title="src/qt/peertablemodel.cpp" alt="" coords="474,152,649,177"/>
+<area shape="rect" id="node8" href="$rpcconsole_8h.html" title="src/qt/rpcconsole.h" alt="" coords="672,152,805,177"/>
+<area shape="rect" id="node9" href="$bitcoingui_8cpp.html" title="src/qt/bitcoingui.cpp" alt="" coords="585,225,724,251"/>
+<area shape="rect" id="node10" href="$rpcconsole_8cpp.html" title="src/qt/rpcconsole.cpp" alt="" coords="748,225,895,251"/>
+</map>

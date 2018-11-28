@@ -1,0 +1,8 @@
+<map id="interfaces::Wallet::haveWatchOnly" name="interfaces::Wallet::haveWatchOnly">
+<area shape="rect" id="node2" href="$class_overview_page.html#a2ed52a3a87e9c74fee38fa873c9bc71f" title="OverviewPage::setWalletModel" alt="" coords="177,5,383,31"/>
+<area shape="rect" id="node5" href="$class_transaction_view.html#a4920c2cd57d72eb50248948fa160c83c" title="TransactionView::setModel" alt="" coords="190,55,370,80"/>
+<area shape="rect" id="node6" href="$class_transaction_view.html#a5983022ff1e5395f87de3c5728eff8da" title="TransactionView::exportClicked" alt="" coords="176,104,384,129"/>
+<area shape="rect" id="node3" href="$class_wallet_view.html#a0a37ff693a4f9c1e5ddc23f9cd3913be" title="Set the wallet model. " alt="" coords="432,31,616,56"/>
+<area shape="rect" id="node4" href="$class_wallet_frame.html#a06cb28194836995e50cc46716b2227ff" title="WalletFrame::addWallet" alt="" coords="664,31,827,56"/>
+<area shape="rect" id="node7" href="$class_wallet_view.html#a8c584ab249ed6d5ca68c4f936ad74161" title="WalletView::WalletView" alt="" coords="445,104,604,129"/>
+</map>

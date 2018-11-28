@@ -1,0 +1,6 @@
+<map id="CAddrMan::ClearNew" name="CAddrMan::ClearNew">
+<area shape="rect" id="node2" href="$class_c_addr_man.html#af7a45c248782cf74daced27458da236b" title="Move an entry from the &quot;new&quot; table(s) to the &quot;tried&quot; table. " alt="" coords="204,5,359,31"/>
+<area shape="rect" id="node3" href="$class_c_addr_man.html#a0f280b5874a6507b463cae6075063ec2" title="Add an entry to the &quot;new&quot; table. " alt="" coords="220,55,344,80"/>
+<area shape="rect" id="node4" href="$class_c_addr_man.html#a03fcc7109b5f014760dc50a81f68c5ec" title="Add a single address. " alt="" coords="407,55,524,80"/>
+<area shape="rect" id="node5" href="$class_c_connman.html#a47d9024273a8c421fa7de641c30e9081" title="CConnman::AddNewAddresses" alt="" coords="572,55,781,80"/>
+</map>

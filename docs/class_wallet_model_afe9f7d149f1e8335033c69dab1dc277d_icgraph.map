@@ -1,0 +1,11 @@
+<map id="WalletModel::getTransactionTableModel" name="WalletModel::getTransactionTableModel">
+<area shape="rect" id="node2" href="$class_overview_page.html#a2ed52a3a87e9c74fee38fa873c9bc71f" title="OverviewPage::setWalletModel" alt="" coords="258,136,464,161"/>
+<area shape="rect" id="node3" href="$class_wallet_view.html#a0a37ff693a4f9c1e5ddc23f9cd3913be" title="Set the wallet model. " alt="" coords="547,62,732,88"/>
+<area shape="rect" id="node5" href="$class_transaction_view.html#a4920c2cd57d72eb50248948fa160c83c" title="TransactionView::setModel" alt="" coords="271,37,451,62"/>
+<area shape="rect" id="node6" href="$class_transaction_view.html#a8dc3e9fc910cec4f6764d84c21941180" title="TransactionView::abandonTx" alt="" coords="264,185,458,210"/>
+<area shape="rect" id="node8" href="$class_transaction_view.html#a6cf5d062668e5e29c6203b6e0dc3836b" title="TransactionView::bumpFee" alt="" coords="269,284,452,309"/>
+<area shape="rect" id="node9" href="$class_transaction_view.html#a03be25d0d7808e8f96dffc8fb83e637e" title="TransactionView::focusTransaction" alt="" coords="247,234,475,260"/>
+<area shape="rect" id="node10" href="$class_wallet_view.html#addde7d2260658ee06f47f9c095a8cb2a" title="Show incoming transaction notification for new transactions. " alt="" coords="243,86,479,112"/>
+<area shape="rect" id="node4" href="$class_wallet_frame.html#a06cb28194836995e50cc46716b2227ff" title="WalletFrame::addWallet" alt="" coords="800,62,962,88"/>
+<area shape="rect" id="node7" href="$class_transaction_view.html#a6bad80e62c684ad1e77250510c9323aa" title="TransactionView::TransactionView" alt="" coords="527,234,752,260"/>
+</map>

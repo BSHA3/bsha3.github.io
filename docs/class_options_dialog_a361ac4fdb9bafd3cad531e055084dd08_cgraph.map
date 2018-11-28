@@ -1,0 +1,10 @@
+<map id="OptionsDialog::on_okButton_clicked" name="OptionsDialog::on_okButton_clicked">
+<area shape="rect" id="node2" href="$class_options_dialog.html#a44ffc21aae73b251333b75907aa8ff8c" title="OptionsDialog::updateDefault\lProxyNets" alt="" coords="241,73,436,112"/>
+<area shape="rect" id="node3" href="$class_options_model.html#ad5ae1bb7c44cc3d9ae91cbee7e3a4830" title="OptionsModel::node" alt="" coords="503,5,644,31"/>
+<area shape="rect" id="node4" href="$classinterfaces_1_1_node.html#a62123e0abdccfc6dbc7ef77b52bb02f8" title="Get proxy. " alt="" coords="484,55,663,80"/>
+<area shape="rect" id="node5" href="$class_c_net_addr.html#a0c8d9b5ed3824546ff4dccca3b28b073" title="CNetAddr::ToStringIP" alt="" coords="499,104,648,129"/>
+<area shape="rect" id="node9" href="$class_c_service.html#a95d6f24b6a613fca24734ba4e38ef3dc" title="CService::ToStringPort" alt="" coords="495,153,652,179"/>
+<area shape="rect" id="node6" href="$class_c_net_addr.html#a4db37b4997ff3b8c57959f2aa915a9a3" title="CNetAddr::IsTor" alt="" coords="724,55,840,80"/>
+<area shape="rect" id="node7" href="$utilstrencodings_8cpp.html#aed1944a78afffe9d5f3129e656dc8aa6" title="EncodeBase32" alt="" coords="726,104,838,129"/>
+<area shape="rect" id="node8" href="$class_c_net_addr.html#ab0848a1ba29b6f72fcc3b6ba8d7c8fbb" title="CNetAddr::IsInternal" alt="" coords="711,153,853,179"/>
+</map>

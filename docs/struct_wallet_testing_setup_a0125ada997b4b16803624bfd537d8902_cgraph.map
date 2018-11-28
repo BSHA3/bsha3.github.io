@@ -1,0 +1,11 @@
+<map id="WalletTestingSetup::WalletTestingSetup" name="WalletTestingSetup::WalletTestingSetup">
+<area shape="rect" id="node2" href="$group___actions.html#ga5d7b244b8ed0cbe24233ee0b6ca3cae0" title="CWallet::LoadWallet" alt="" coords="227,104,368,129"/>
+<area shape="rect" id="node9" href="$validationinterface_8cpp.html#ade8ef59282b5f7521ecfd870a8e3b137" title="Register a wallet to receive updates from core. " alt="" coords="207,153,388,179"/>
+<area shape="rect" id="node10" href="$rpcwallet_8cpp.html#a9588923ef8339a1b820fcd61797639d5" title="RegisterWalletRPCCommands" alt="" coords="196,203,400,228"/>
+<area shape="rect" id="node3" href="$class_wallet_batch.html#af17758ea2f62ca2d80def7ae780e81f8" title="WalletBatch::LoadWallet" alt="" coords="449,80,614,105"/>
+<area shape="rect" id="node8" href="$group__map_wallet.html#ga647681fa084c9d03742f9522f8779ca7" title="check if a certain wallet flag is set " alt="" coords="448,129,615,155"/>
+<area shape="rect" id="node4" href="$class_berkeley_batch.html#afbf2d778e5791c88149b8c6c1cab0ab8" title="BerkeleyBatch::Read" alt="" coords="678,5,825,31"/>
+<area shape="rect" id="node5" href="$class_c_wallet.html#ab23f2585ab9f1cc8284518b573048d2c" title="CWallet::LoadMinVersion" alt="" coords="666,55,837,80"/>
+<area shape="rect" id="node6" href="$class_berkeley_batch.html#a1e32d0aeea205d2a9a57c62a9c2d9d7d" title="BerkeleyBatch::GetCursor" alt="" coords="663,104,840,129"/>
+<area shape="rect" id="node7" href="$class_c_wallet.html#a4083c9a8583aa7b355da55280a519cc8" title="Prepends the wallet name in logging output to ease debugging in multi&#45;wallet use cases. " alt="" coords="669,153,834,179"/>
+</map>

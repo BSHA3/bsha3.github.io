@@ -1,0 +1,5 @@
+<map id="BitcoinGUI::message" name="BitcoinGUI::message">
+<area shape="rect" id="node2" href="$class_bitcoin_g_u_i.html#aca9a193e0484c1caf924e76d96800a9f" title="Show window if hidden, unminimize when minimized, rise when obscured or show if hidden and fToggleHid..." alt="" coords="200,29,374,68"/>
+<area shape="rect" id="node3" href="$class_notificator.html#ae08e1e7e85ddc4690f307649021f7fdc" title="Show notification message. " alt="" coords="227,92,347,117"/>
+<area shape="rect" id="node4" href="$class_notificator.html#ac48ec94cd02fc4ea80db6c50e24086c1" title="Notificator::notifySystray" alt="" coords="422,92,587,117"/>
+</map>

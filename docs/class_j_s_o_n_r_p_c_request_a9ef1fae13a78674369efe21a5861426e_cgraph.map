@@ -1,0 +1,11 @@
+<map id="JSONRPCRequest::parse" name="JSONRPCRequest::parse">
+<area shape="rect" id="node2" href="$class_uni_value.html#af1a6df88c2bee59a863dd6f8d12e9be5" title="UniValue::isObject" alt="" coords="229,5,359,31"/>
+<area shape="rect" id="node3" href="$rpc_2protocol_8cpp.html#a40b75d3d265c4a2e1d5fe3e129743884" title="JSONRPCError" alt="" coords="236,55,351,80"/>
+<area shape="rect" id="node5" href="$class_uni_value.html#a49a6ac464f3c2d918e7379d3203c7337" title="UniValue::get_obj" alt="" coords="231,104,357,129"/>
+<area shape="rect" id="node6" href="$univalue_8h.html#a33625d562f1ef5f44ceb171d5c8f2a85" title="find_value" alt="" coords="253,153,335,179"/>
+<area shape="rect" id="node7" href="$class_uni_value.html#a3661be0f5580daceb23e5338e3a0df22" title="UniValue::isNull" alt="" coords="237,203,351,228"/>
+<area shape="rect" id="node8" href="$class_uni_value.html#a8abe13a4663ccfda54ae2440ed445c5a" title="UniValue::isStr" alt="" coords="240,252,348,277"/>
+<area shape="rect" id="node9" href="$class_uni_value.html#a087ea6ccec615333371fa1aaf83ab7df" title="UniValue::get_str" alt="" coords="233,301,355,327"/>
+<area shape="rect" id="node4" href="$util_8h.html#a96c5fc7111f69f7dcaba992d95d13e03" title="error" alt="" coords="450,55,499,80"/>
+<area shape="rect" id="node10" href="$class_uni_value.html#a4c9a5fa9114affbf31f6e346c032be12" title="UniValue::getValStr" alt="" coords="407,301,543,327"/>
+</map>

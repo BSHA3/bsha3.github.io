@@ -1,0 +1,7 @@
+<map id="RPCTypeCheckArgument" name="RPCTypeCheckArgument">
+<area shape="rect" id="node2" href="$class_uni_value.html#a5b33bfd4be1574e610eee5a7cdae77d1" title="UniValue::type" alt="" coords="231,5,338,31"/>
+<area shape="rect" id="node4" href="$rpc_2protocol_8cpp.html#a40b75d3d265c4a2e1d5fe3e129743884" title="JSONRPCError" alt="" coords="227,55,342,80"/>
+<area shape="rect" id="node6" href="$univalue_8h.html#aa037153cdbc98dd3683ff1918dc70932" title="uvTypeName" alt="" coords="235,104,335,129"/>
+<area shape="rect" id="node3" href="$class_uni_value.html#a2dbc9c5aa9d209338b0bef650f3d1987" title="UniValue::getType" alt="" coords="390,5,519,31"/>
+<area shape="rect" id="node5" href="$util_8h.html#a96c5fc7111f69f7dcaba992d95d13e03" title="error" alt="" coords="430,55,479,80"/>
+</map>

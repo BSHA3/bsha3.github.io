@@ -1,0 +1,10 @@
+<map id="TxViewDelegate::paint" name="TxViewDelegate::paint">
+<area shape="rect" id="node2" href="$class_bitcoin_units.html#aef9fb7509257bc84ee459d7f0c663020" title="Format as string (with unit) " alt="" coords="208,99,395,124"/>
+<area shape="rect" id="node9" href="$namespace_g_u_i_util.html#aae732a04fea25190081120bf0cc773e8" title="GUIUtil::dateTimeStr" alt="" coords="230,148,373,173"/>
+<area shape="rect" id="node3" href="$class_bitcoin_units.html#ab07437e5a788c80a82d75e3714bd3925" title="Format as string. " alt="" coords="457,68,594,93"/>
+<area shape="rect" id="node7" href="$class_bitcoin_units.html#af65eb534385613f176593cc7545136d0" title="Short name. " alt="" coords="443,129,607,155"/>
+<area shape="rect" id="node4" href="$class_bitcoin_units.html#a81cbc41480adfb600dad79711d336e5f" title="Is unit ID valid? " alt="" coords="672,5,799,31"/>
+<area shape="rect" id="node5" href="$class_bitcoin_units.html#ae967b9e6ecbb8f041bfe398d27533b09" title="Number of Satoshis (1e&#45;8) per unit. " alt="" coords="669,55,802,80"/>
+<area shape="rect" id="node6" href="$class_bitcoin_units.html#a3f0fc21634520ea06c684ba0d7e25f2f" title="Number of decimals left. " alt="" coords="660,104,811,129"/>
+<area shape="rect" id="node8" href="$class_bitcoin_units.html#a97f983970ff33cae20996ba26ab257cd" title="Long name. " alt="" coords="655,153,815,179"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="bench_inv_t" name="bench_inv_t">
+<area shape="rect" id="node2" href="$structsecp256k1__gej.html" title="A group element of the secp256k1 curve, in jacobian coordinates. " alt="" coords="50,119,161,145"/>
+<area shape="rect" id="node3" href="$structsecp256k1__fe.html" title="secp256k1_fe" alt="" coords="53,5,158,31"/>
+<area shape="rect" id="node4" href="$structsecp256k1__ge.html" title="A group element of the secp256k1 curve, in affine coordinates. " alt="" coords="185,119,293,145"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="Notificator::notifySystray" name="Notificator::notifySystray">
+<area shape="rect" id="node2" href="$class_notificator.html#ae08e1e7e85ddc4690f307649021f7fdc" title="Show notification message. " alt="" coords="218,73,339,99"/>
+<area shape="rect" id="node3" href="$class_bitcoin_g_u_i.html#ad3d278358e571a9b70ee99dacaeaa0f5" title="Notify the user of an event from the core network or transaction handling code. " alt="" coords="387,73,534,99"/>
+<area shape="rect" id="node4" href="$class_bitcoin_application.html#a5bcf1bf32a7508326e0dd630a59a887d" title="BitcoinApplication\l::initializeResult" alt="" coords="828,11,955,49"/>
+<area shape="rect" id="node8" href="$class_bitcoin_g_u_i.html#a99d71e1f8478ab937ce2522c8d3815e3" title="Set the client model. " alt="" coords="582,73,762,99"/>
+<area shape="rect" id="node9" href="$class_wallet_view.html#a4405b0cf33d31ea663cb1e5047ae1d97" title="WalletView::setBitcoinGUI" alt="" coords="584,123,760,148"/>
+<area shape="rect" id="node5" href="$class_bitcoin_application.html#a61afce9356e452c53ad4c83f5ca19df8" title="BitcoinApplication\l::startThread" alt="" coords="1021,11,1147,49"/>
+<area shape="rect" id="node6" href="$class_bitcoin_application.html#ade19c44b87b00b6b19b433caf4c22ba6" title="Request core initialization. " alt="" coords="1198,5,1325,44"/>
+<area shape="rect" id="node7" href="$class_bitcoin_application.html#a37c560d4c04d14a6da151b82caf8888f" title="Request core shutdown. " alt="" coords="1195,68,1328,107"/>
+<area shape="rect" id="node10" href="$class_wallet_frame.html#a06cb28194836995e50cc46716b2227ff" title="WalletFrame::addWallet" alt="" coords="810,125,973,151"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CTxMemPool::GetMinFee" name="CTxMemPool::GetMinFee">
+<area shape="rect" id="node2" href="$wallet_2fees_8h.html#a9d542d5ea12dcb9956820227d7fdd50b" title="Estimate the minimum fee rate considering user set parameters and the required fee. " alt="" coords="229,31,377,56"/>
+<area shape="rect" id="node3" href="$group___actions.html#ga588aa50e86669d089e0debe68665ada0" title="Shuffle and select coins until nTargetValue is reached while avoiding small change; This method is st..." alt="" coords="425,5,621,31"/>
+<area shape="rect" id="node4" href="$wallet_2fees_8h.html#aa38f3270682c7f696a702ab43ec76001" title="Estimate the minimum fee considering user set parameters and the required fee. " alt="" coords="463,55,583,80"/>
+</map>

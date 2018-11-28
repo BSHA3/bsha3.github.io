@@ -1,0 +1,5 @@
+<map id="CSHA256::Reset" name="CSHA256::Reset">
+<area shape="rect" id="node2" href="$class_c_hash256.html#aa8a70c1b7cf24ce7d00240a1131cf4e7" title="CHash256::Finalize" alt="" coords="176,5,314,31"/>
+<area shape="rect" id="node3" href="$class_c_hash256.html#ab25b00e4cda7e209173f2ce90475953d" title="CHash256::Reset" alt="" coords="182,55,308,80"/>
+<area shape="rect" id="node4" href="$class_c_hash160.html#a971a8d59073455b1ef0ac0f65e964772" title="CHash160::Reset" alt="" coords="182,104,308,129"/>
+</map>

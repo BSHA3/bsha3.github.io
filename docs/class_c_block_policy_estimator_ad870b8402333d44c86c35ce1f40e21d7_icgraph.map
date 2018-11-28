@@ -1,0 +1,8 @@
+<map id="CBlockPolicyEstimator::BlockSpan" name="CBlockPolicyEstimator::BlockSpan">
+<area shape="rect" id="node2" href="$class_c_block_policy_estimator.html#ae6b52f035c5946e6f29af903400c4972" title="Calculation of highest target that reasonable estimate can be provided for. " alt="" coords="209,24,364,63"/>
+<area shape="rect" id="node3" href="$class_c_block_policy_estimator.html#af766877edc815e15192134ff3401658c" title="Estimate feerate needed to get be included in a block within confTarget blocks. " alt="" coords="412,24,568,63"/>
+<area shape="rect" id="node4" href="$wallet_2fees_8h.html#a9d542d5ea12dcb9956820227d7fdd50b" title="Estimate the minimum fee rate considering user set parameters and the required fee. " alt="" coords="616,55,764,80"/>
+<area shape="rect" id="node7" href="$wallet_2fees_8h.html#a8bbd3b782624edbdd4f98975bb1cc39e" title="Return the maximum feerate for discarding change. " alt="" coords="632,5,748,31"/>
+<area shape="rect" id="node5" href="$group___actions.html#ga588aa50e86669d089e0debe68665ada0" title="Shuffle and select coins until nTargetValue is reached while avoiding small change; This method is st..." alt="" coords="812,5,1007,31"/>
+<area shape="rect" id="node6" href="$wallet_2fees_8h.html#aa38f3270682c7f696a702ab43ec76001" title="Estimate the minimum fee considering user set parameters and the required fee. " alt="" coords="850,55,969,80"/>
+</map>

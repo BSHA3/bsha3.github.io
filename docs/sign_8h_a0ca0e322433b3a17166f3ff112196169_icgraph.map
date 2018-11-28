@@ -1,0 +1,5 @@
+<map id="SerializeToVector" name="SerializeToVector">
+<area shape="rect" id="node2" href="$sign_8h.html#ac41104c16086f2946ec4c3926643e4c3" title="SerializeHDKeypaths" alt="" coords="181,5,329,31"/>
+<area shape="rect" id="node3" href="$struct_p_s_b_t_input.html#a893b339425d4c607cd4dbe50e2f28159" title="PSBTInput::Serialize" alt="" coords="183,55,327,80"/>
+<area shape="rect" id="node4" href="$struct_p_s_b_t_output.html#a9161b9130bab56916fb8fdc88ecb865a" title="PSBTOutput::Serialize" alt="" coords="178,104,332,129"/>
+</map>

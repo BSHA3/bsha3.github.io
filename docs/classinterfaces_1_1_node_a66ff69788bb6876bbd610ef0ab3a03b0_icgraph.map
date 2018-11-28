@@ -1,0 +1,5 @@
+<map id="interfaces::Node::startShutdown" name="interfaces::Node::startShutdown">
+<area shape="rect" id="node2" href="$class_bitcoin_application.html#a37c560d4c04d14a6da151b82caf8888f" title="Request core shutdown. " alt="" coords="287,5,419,44"/>
+<area shape="rect" id="node3" href="$class_splash_screen.html#adf416207e2b2c8bc92c7f339a30ac63b" title="SplashScreen::eventFilter" alt="" coords="266,68,440,93"/>
+<area shape="rect" id="node4" href="$class_splash_screen.html#af2b8ee5e860e5584621eb6224ce7c959" title="SplashScreen::closeEvent" alt="" coords="264,117,441,143"/>
+</map>

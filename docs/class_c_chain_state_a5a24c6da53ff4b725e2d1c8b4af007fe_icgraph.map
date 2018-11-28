@@ -1,0 +1,5 @@
+<map id="CChainState::ActivateBestChain" name="CChainState::ActivateBestChain">
+<area shape="rect" id="node2" href="$validation_8h.html#a81d9ced51eb72d4df66abddb00318b64" title="Find the best known block, and make it the tip of the block chain. " alt="" coords="261,5,391,31"/>
+<area shape="rect" id="node3" href="$class_c_chain_state.html#a1c2bc46ff4824c106a100d684fd5f4dd" title="CChainState::PreciousBlock" alt="" coords="232,55,421,80"/>
+<area shape="rect" id="node4" href="$validation_8h.html#a3f8adbd1749f9d3a146cfc3658dd649b" title="Mark a block as precious and reorganize. " alt="" coords="469,55,574,80"/>
+</map>

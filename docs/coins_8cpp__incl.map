@@ -1,0 +1,30 @@
+<map id="src/coins.cpp" name="src/coins.cpp">
+<area shape="rect" id="node2" href="$coins_8h.html" title="coins.h" alt="" coords="1117,79,1180,104"/>
+<area shape="rect" id="node48" href="$consensus_8h.html" title="consensus/consensus.h" alt="" coords="2540,519,2704,544"/>
+<area shape="rect" id="node49" href="$random_8h.html" title="random.h" alt="" coords="286,299,363,324"/>
+<area shape="rect" id="node3" href="$transaction_8h.html" title="primitives/transaction.h" alt="" coords="1227,299,1385,324"/>
+<area shape="rect" id="node18" href="$serialize_8h.html" title="serialize.h" alt="" coords="972,445,1053,471"/>
+<area shape="rect" id="node31" href="$uint256_8h.html" title="uint256.h" alt="" coords="1192,372,1268,397"/>
+<area shape="rect" id="node33" href="$compressor_8h.html" title="compressor.h" alt="" coords="863,225,965,251"/>
+<area shape="rect" id="node34" href="$core__memusage_8h.html" title="core_memusage.h" alt="" coords="1179,152,1310,177"/>
+<area shape="rect" id="node36" href="$memusage_8h.html" title="memusage.h" alt="" coords="1834,445,1932,471"/>
+<area shape="rect" id="node40" href="$_hash_8h.html" title="hash.h" alt="" coords="1778,299,1839,324"/>
+<area shape="rect" id="node5" href="$amount_8h.html" title="amount.h" alt="" coords="1581,372,1658,397"/>
+<area shape="rect" id="node6" href="$script_8h.html" title="script/script.h" alt="" coords="681,372,781,397"/>
+<area shape="rect" id="node7" href="$common_8h.html" title="crypto/common.h" alt="" coords="561,445,685,471"/>
+<area shape="rect" id="node11" href="$prevector_8h.html" title="prevector.h" alt="" coords="697,519,784,544"/>
+<area shape="rect" id="node9" href="$endian_8h.html" title="compat/endian.h" alt="" coords="809,519,929,544"/>
+<area shape="rect" id="node10" href="$byteswap_8h.html" title="compat/byteswap.h" alt="" coords="940,592,1077,617"/>
+<area shape="rect" id="node17" href="$compat_8h.html" title="compat.h" alt="" coords="702,592,779,617"/>
+<area shape="rect" id="node28" href="$span_8h.html" title="span.h" alt="" coords="81,519,142,544"/>
+<area shape="rect" id="node35" href="$block_8h.html" title="primitives/block.h" alt="" coords="1132,225,1256,251"/>
+<area shape="rect" id="node37" href="$indirectmap_8h.html" title="indirectmap.h" alt="" coords="1834,519,1935,544"/>
+<area shape="rect" id="node41" href="$ripemd160_8h.html" title="crypto/ripemd160.h" alt="" coords="2330,519,2466,544"/>
+<area shape="rect" id="node42" href="$sha256_8h.html" title="crypto/sha256.h" alt="" coords="1956,445,2072,471"/>
+<area shape="rect" id="node43" href="$_s_h_a3_8h.html" title="crypto/sha3.h" alt="" coords="2727,519,2829,544"/>
+<area shape="rect" id="node47" href="$version_8h.html" title="version.h" alt="" coords="1833,372,1909,397"/>
+<area shape="rect" id="node44" href="$keccak_2_s_h_a3_8h.html" title="crypto/keccak/SHA3.h" alt="" coords="2702,592,2854,617"/>
+<area shape="rect" id="node45" href="$_keccak_core_8h.html" title="KeccakCore.h" alt="" coords="2671,665,2776,691"/>
+<area shape="rect" id="node46" href="$crypto_2keccak_2_hash_8h.html" title="Hash.h" alt="" coords="2799,665,2863,691"/>
+<area shape="rect" id="node50" href="$chacha20_8h.html" title="crypto/chacha20.h" alt="" coords="1446,519,1576,544"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="CWallet::UpdateTimeFirstKey" name="CWallet::UpdateTimeFirstKey">
+<area shape="rect" id="node2" href="$group__map_wallet.html#ga5abb589b31879b8f4bf1890c22f15f64" title="keystore implementation Generate a new key " alt="" coords="256,5,437,31"/>
+<area shape="rect" id="node4" href="$group__map_wallet.html#gaab39ed756609758c1297cf8bc30430e7" title="Load metadata (used by LoadWallet) " alt="" coords="255,55,438,80"/>
+<area shape="rect" id="node5" href="$group__map_wallet.html#ga9f38e00755e22d7784378d016055ee31" title="CWallet::LoadScriptMetadata" alt="" coords="249,104,444,129"/>
+<area shape="rect" id="node6" href="$group__map_wallet.html#ga84e18fec1f19c9963fd810d076b71e82" title="Private version of AddWatchOnly method which does not accept a timestamp, and which will reset the wa..." alt="" coords="265,153,428,179"/>
+<area shape="rect" id="node8" href="$rpcwallet_8cpp.html#a2f46e2bb304dda9a197b5a68db6106f7" title="importprivkey" alt="" coords="296,203,397,228"/>
+<area shape="rect" id="node3" href="$group___actions.html#gac452f46eafeb2b4adfe86f7208048032" title="CWallet::GetKeyFromPool" alt="" coords="492,5,669,31"/>
+<area shape="rect" id="node7" href="$group__map_wallet.html#gaf96e275eac457df2013e8ceb1810b703" title="Adds a watch&#45;only address to the store, and saves it to disk. " alt="" coords="498,153,662,179"/>
+</map>

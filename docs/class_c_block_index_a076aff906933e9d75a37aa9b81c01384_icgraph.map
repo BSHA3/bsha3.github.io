@@ -1,0 +1,4 @@
+<map id="CBlockIndex::RaiseValidity" name="CBlockIndex::RaiseValidity">
+<area shape="rect" id="node2" href="$class_c_chain_state.html#a75381aa4f08cbb957a2158dd852602a8" title="CChainState::AddToBlockIndex" alt="" coords="233,5,440,31"/>
+<area shape="rect" id="node3" href="$class_c_chain_state.html#a58e0c027d75d7a5f2fc604ce01b93ba2" title="Mark a block as having its data received and checked (up to BLOCK_VALID_TRANSACTIONS). " alt="" coords="240,55,433,93"/>
+</map>

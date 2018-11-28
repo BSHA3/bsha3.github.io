@@ -1,0 +1,4 @@
+<map id="CNode::GetSendVersion" name="CNode::GetSendVersion">
+<area shape="rect" id="node2" href="$class_peer_logic_validation.html#af87f0e0b6f4103d1c6cb35c575769ae2" title="Consider evicting an outbound peer based on the amount of time they&#39;ve been behind our tip..." alt="" coords="221,5,360,44"/>
+<area shape="rect" id="node3" href="$class_peer_logic_validation.html#a36a284fceddbba112ed000475e52a4e3" title="Send queued protocol messages to be sent to a give node. " alt="" coords="221,68,360,107"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="LockedPool::LockedPageArena" name="LockedPool::LockedPageArena">
+<area shape="rect" id="node2" href="$class_arena.html" title="Arena" alt="" coords="18,5,75,31"/>
+<area shape="rect" id="node3" href="$class_locked_page_allocator.html" title="OS&#45;dependent allocation and deallocation of locked/pinned memory pages. " alt="" coords="100,5,247,31"/>
+</map>

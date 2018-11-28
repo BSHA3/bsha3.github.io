@@ -1,0 +1,31 @@
+<map id="src/wallet/test/init_tests.cpp" name="src/wallet/test/init_tests.cpp">
+<area shape="rect" id="node4" href="$init__test__fixture_8h.html" title="wallet/test/init_test\l_fixture.h" alt="" coords="240,92,370,131"/>
+<area shape="rect" id="node5" href="$init_8h.html" title="init.h" alt="" coords="2407,252,2456,277"/>
+<area shape="rect" id="node28" href="$walletinitinterface_8h.html" title="walletinitinterface.h" alt="" coords="394,99,528,124"/>
+<area shape="rect" id="node29" href="$wallet_2wallet_8h.html" title="wallet/wallet.h" alt="" coords="1391,99,1496,124"/>
+<area shape="rect" id="node8" href="$util_8h.html" title="util.h" alt="" coords="2464,325,2514,351"/>
+<area shape="rect" id="node9" href="$compat_8h.html" title="compat.h" alt="" coords="2655,405,2731,431"/>
+<area shape="rect" id="node10" href="$fs_8h.html" title="fs.h" alt="" coords="3004,492,3046,517"/>
+<area shape="rect" id="node12" href="$logging_8h.html" title="logging.h" alt="" coords="2907,405,2983,431"/>
+<area shape="rect" id="node13" href="$tinyformat_8h.html" title="tinyformat.h" alt="" coords="3297,492,3388,517"/>
+<area shape="rect" id="node18" href="$sync_8h.html" title="sync.h" alt="" coords="1603,405,1663,431"/>
+<area shape="rect" id="node19" href="$utilmemory_8h.html" title="utilmemory.h" alt="" coords="2134,492,2231,517"/>
+<area shape="rect" id="node21" href="$utiltime_8h.html" title="utiltime.h" alt="" coords="801,492,876,517"/>
+<area shape="rect" id="node30" href="$amount_8h.html" title="amount.h" alt="" coords="396,492,473,517"/>
+<area shape="rect" id="node31" href="$outputtype_8h.html" title="outputtype.h" alt="" coords="1354,179,1448,204"/>
+<area shape="rect" id="node33" href="$sign_8h.html" title="script/sign.h" alt="" coords="2109,325,2202,351"/>
+<area shape="rect" id="node34" href="$streams_8h.html" title="streams.h" alt="" coords="2193,405,2273,431"/>
+<area shape="rect" id="node41" href="$feerate_8h.html" title="policy/feerate.h" alt="" coords="1236,405,1347,431"/>
+<area shape="rect" id="node42" href="$ui__interface_8h.html" title="ui_interface.h" alt="" coords="1049,492,1150,517"/>
+<area shape="rect" id="node43" href="$utilstrencodings_8h.html" title="utilstrencodings.h" alt="" coords="900,492,1025,517"/>
+<area shape="rect" id="node44" href="$validationinterface_8h.html" title="validationinterface.h" alt="" coords="1624,325,1764,351"/>
+<area shape="rect" id="node45" href="$ismine_8h.html" title="script/ismine.h" alt="" coords="441,252,548,277"/>
+<area shape="rect" id="node47" href="$crypter_8h.html" title="wallet/crypter.h" alt="" coords="1950,179,2060,204"/>
+<area shape="rect" id="node48" href="$coinselection_8h.html" title="wallet/coinselection.h" alt="" coords="571,252,719,277"/>
+<area shape="rect" id="node49" href="$walletdb_8h.html" title="wallet/walletdb.h" alt="" coords="1092,405,1211,431"/>
+<area shape="rect" id="node50" href="$rpcwallet_8h.html" title="wallet/rpcwallet.h" alt="" coords="742,252,865,277"/>
+<area shape="rect" id="node32" href="$keystore_8h.html" title="keystore.h" alt="" coords="1524,252,1606,277"/>
+<area shape="rect" id="node40" href="$standard_8h.html" title="script/standard.h" alt="" coords="676,325,796,351"/>
+<area shape="rect" id="node35" href="$zeroafterfree_8h.html" title="support/allocators\l/zeroafterfree.h" alt="" coords="1883,485,2010,524"/>
+<area shape="rect" id="node36" href="$serialize_8h.html" title="serialize.h" alt="" coords="2407,492,2488,517"/>
+</map>

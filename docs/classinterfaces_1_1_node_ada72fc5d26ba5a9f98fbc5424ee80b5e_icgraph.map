@@ -1,0 +1,4 @@
+<map id="interfaces::Node::shutdownRequested" name="interfaces::Node::shutdownRequested">
+<area shape="rect" id="node2" href="$class_bitcoin_g_u_i.html#ab538e65665498f59d10baa6b157270f9" title="called by a timer to check if ShutdownRequested() has been set " alt="" coords="236,12,424,37"/>
+<area shape="rect" id="node3" href="$class_bitcoin_application.html#a6703e53287323f1437ea445e1c635151" title="Create main window. " alt="" coords="472,5,599,44"/>
+</map>

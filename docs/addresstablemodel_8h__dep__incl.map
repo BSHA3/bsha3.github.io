@@ -1,0 +1,12 @@
+<map id="src/qt/addresstablemodel.h" name="src/qt/addresstablemodel.h">
+<area shape="rect" id="node2" href="$addressbookpage_8cpp.html" title="src/qt/addressbookpage.cpp" alt="" coords="5,79,194,104"/>
+<area shape="rect" id="node3" href="$addresstablemodel_8cpp.html" title="src/qt/addresstablemodel.cpp" alt="" coords="218,79,414,104"/>
+<area shape="rect" id="node4" href="$coincontroldialog_8cpp.html" title="src/qt/coincontroldialog.cpp" alt="" coords="438,79,621,104"/>
+<area shape="rect" id="node5" href="$editaddressdialog_8cpp.html" title="src/qt/editaddressdialog.cpp" alt="" coords="645,79,832,104"/>
+<area shape="rect" id="node6" href="$receivecoinsdialog_8cpp.html" title="src/qt/receivecoinsdialog.cpp" alt="" coords="855,79,1048,104"/>
+<area shape="rect" id="node7" href="$sendcoinsdialog_8cpp.html" title="src/qt/sendcoinsdialog.cpp" alt="" coords="1072,79,1250,104"/>
+<area shape="rect" id="node8" href="$sendcoinsentry_8cpp.html" title="src/qt/sendcoinsentry.cpp" alt="" coords="1274,79,1446,104"/>
+<area shape="rect" id="node9" href="$transactiontablemodel_8cpp.html" title="src/qt/transactiontablemodel.cpp" alt="" coords="1469,79,1682,104"/>
+<area shape="rect" id="node10" href="$transactionview_8cpp.html" title="src/qt/transactionview.cpp" alt="" coords="1706,79,1880,104"/>
+<area shape="rect" id="node11" href="$walletmodel_8cpp.html" title="src/qt/walletmodel.cpp" alt="" coords="1904,79,2058,104"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="CAddrMan::GetAddr_" name="CAddrMan::GetAddr_">
+<area shape="rect" id="node2" href="$class_c_addr_man.html#a69cc6138e696cf88de60925d26023bf2" title="Return a bunch of addresses, selected at random. " alt="" coords="203,5,345,31"/>
+<area shape="rect" id="node3" href="$class_c_connman.html#a4ba34cd3557ab0ba1cfcbe7c18bf1199" title="CConnman::GetAddresses" alt="" coords="393,5,574,31"/>
+</map>

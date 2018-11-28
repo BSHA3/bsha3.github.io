@@ -1,0 +1,11 @@
+<map id="src/rpc/mining.h" name="src/rpc/mining.h">
+<area shape="rect" id="node2" href="$script_8h.html" title="script/script.h" alt="" coords="1883,79,1983,104"/>
+<area shape="rect" id="node42" href="$univalue_8h.html" title="univalue.h" alt="" coords="2144,152,2226,177"/>
+<area shape="rect" id="node3" href="$common_8h.html" title="crypto/common.h" alt="" coords="2250,152,2373,177"/>
+<area shape="rect" id="node8" href="$prevector_8h.html" title="prevector.h" alt="" coords="1048,225,1135,251"/>
+<area shape="rect" id="node29" href="$serialize_8h.html" title="serialize.h" alt="" coords="1632,152,1713,177"/>
+<area shape="rect" id="node6" href="$endian_8h.html" title="compat/endian.h" alt="" coords="2251,225,2371,251"/>
+<area shape="rect" id="node7" href="$byteswap_8h.html" title="compat/byteswap.h" alt="" coords="2185,299,2321,324"/>
+<area shape="rect" id="node14" href="$compat_8h.html" title="compat.h" alt="" coords="793,299,869,324"/>
+<area shape="rect" id="node39" href="$span_8h.html" title="span.h" alt="" coords="1418,225,1479,251"/>
+</map>

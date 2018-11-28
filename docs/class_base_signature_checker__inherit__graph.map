@@ -1,0 +1,5 @@
+<map id="BaseSignatureChecker" name="BaseSignatureChecker">
+<area shape="rect" id="node2" href="$class_generic_transaction_signature_checker.html" title="GenericTransactionSignature\lChecker\&lt; T \&gt;" alt="" coords="6,79,201,117"/>
+<area shape="rect" id="node4" href="$class_signature_extractor_checker.html" title="SignatureExtractorChecker" alt="" coords="225,85,406,111"/>
+<area shape="rect" id="node3" href="$class_caching_transaction_signature_checker.html" title="CachingTransactionSignature\lChecker\&lt; CTransaction \&gt;" alt="" coords="5,165,202,204"/>
+</map>

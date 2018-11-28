@@ -1,0 +1,51 @@
+<map id="BitcoinGUI::setClientModel" name="BitcoinGUI::setClientModel">
+<area shape="rect" id="node2" href="$class_bitcoin_g_u_i.html#a6373ff0bd56c1c633f3a3dc2f34af884" title="Create system tray menu (or setup the dock menu) " alt="" coords="234,123,448,148"/>
+<area shape="rect" id="node7" href="$class_bitcoin_g_u_i.html#a6f96b70c5cf881831ff04df0f97c0af1" title="Update UI with latest network info from model. " alt="" coords="532,259,714,297"/>
+<area shape="rect" id="node8" href="$class_bitcoin_g_u_i.html#ae5b9dc62c6a52764a92cfacbe128626f" title="Set number of connections shown in the UI. " alt="" coords="235,224,447,249"/>
+<area shape="rect" id="node9" href="$class_bitcoin_g_u_i.html#afe40030466c11a4a3aace3c2576d2c60" title="Set network state shown in the UI. " alt="" coords="243,273,439,299"/>
+<area shape="rect" id="node10" href="$class_modal_overlay.html#a21b223aa0e1bb5a161b39b165ee213dd" title="ModalOverlay::setKnownBest\lHeight" alt="" coords="243,323,439,361"/>
+<area shape="rect" id="node11" href="$class_client_model.html#a2d3579ef717497df235062ee3f874dc6" title="ClientModel::getHeaderTip\lHeight" alt="" coords="251,385,431,424"/>
+<area shape="rect" id="node13" href="$class_client_model.html#a9dbed4eb3ca6afcdeef233f35cd7dc41" title="ClientModel::getHeaderTipTime" alt="" coords="237,448,445,473"/>
+<area shape="rect" id="node14" href="$class_bitcoin_g_u_i.html#a6cd4a94b6742919131e9ce2154580711" title="Set number of blocks and last block date shown in the UI. " alt="" coords="252,497,430,523"/>
+<area shape="rect" id="node15" href="$classinterfaces_1_1_node.html#ad84d08f89120b9a365713a4429e30e01" title="Get num blocks. " alt="" coords="537,548,709,587"/>
+<area shape="rect" id="node16" href="$classinterfaces_1_1_node.html#a67c8c69943cdb0fce3685a37ed4150d4" title="Get last block time. " alt="" coords="538,611,708,649"/>
+<area shape="rect" id="node17" href="$classinterfaces_1_1_node.html#aa3cb283d1b1f617dc750e32c27384176" title="Get verification progress. " alt="" coords="518,673,728,712"/>
+<area shape="rect" id="node18" href="$class_bitcoin_g_u_i.html#ad3d278358e571a9b70ee99dacaeaa0f5" title="Notify the user of an event from the core network or transaction handling code. " alt="" coords="268,547,414,572"/>
+<area shape="rect" id="node21" href="$class_bitcoin_g_u_i.html#a89029e61a405a976ba8117d4b38568f0" title="Show progress dialog e.g. " alt="" coords="253,749,430,775"/>
+<area shape="rect" id="node22" href="$class_r_p_c_console.html#a355349a33664a07628e9ca22a60f5fa7" title="RPCConsole::setClientModel" alt="" coords="244,1015,438,1040"/>
+<area shape="rect" id="node45" href="$class_bitcoin_g_u_i.html#a4795699a03140316ff014740fdbea8ca" title="Set the proxy&#45;enabled icon as shown in the UI. " alt="" coords="245,1064,437,1089"/>
+<area shape="rect" id="node46" href="$class_wallet_frame.html#a72f3a61b1d882a894c65fbf1adc1a954" title="WalletFrame::setClientModel" alt="" coords="245,1113,437,1139"/>
+<area shape="rect" id="node47" href="$class_unit_display_status_bar_control.html#ac8d2a43f66f3f71c7d6926dbd5927066" title="Lets the control know about the Options Model (and its signals) " alt="" coords="246,1163,436,1201"/>
+<area shape="rect" id="node48" href="$class_client_model.html#ae8da1e2eabfbbcc49a7eed821908bdb6" title="ClientModel::getOptionsModel" alt="" coords="241,1225,441,1251"/>
+<area shape="rect" id="node49" href="$class_bitcoin_g_u_i.html#ad20ff9ce84d5b030976dc298320fbad2" title="When hideTrayIcon setting is changed in OptionsModel hide or show the icon accordingly. " alt="" coords="241,1275,441,1300"/>
+<area shape="rect" id="node50" href="$class_options_model.html#ad802657807bc648ff8b622e0ed07c03b" title="OptionsModel::getHideTrayIcon" alt="" coords="237,1324,445,1349"/>
+<area shape="rect" id="node3" href="$class_bitcoin_g_u_i.html#ae753f1d521f7c17804419f6a9054738b" title="Handle tray icon clicked. " alt="" coords="526,131,720,156"/>
+<area shape="rect" id="node4" href="$class_mac_dock_icon_handler.html#afd3ef7126d0b6ef02eaf85e5455fe6f4" title="MacDockIconHandler\l::instance" alt="" coords="549,180,697,219"/>
+<area shape="rect" id="node5" href="$class_mac_dock_icon_handler.html#a4d2d18c7d56286ea745e349497941293" title="MacDockIconHandler\l::setMainWindow" alt="" coords="549,5,697,44"/>
+<area shape="rect" id="node6" href="$class_mac_dock_icon_handler.html#a8aff3dc6410687e432f8d9314eba0ab9" title="MacDockIconHandler\l::dockMenu" alt="" coords="549,68,697,107"/>
+<area shape="rect" id="node12" href="$classinterfaces_1_1_node.html#aa7305fdaaf98f0002a2569a2b8e32b60" title="Get header tip height and time. " alt="" coords="520,363,726,388"/>
+<area shape="rect" id="node19" href="$class_bitcoin_g_u_i.html#aca9a193e0484c1caf924e76d96800a9f" title="Show window if hidden, unminimize when minimized, rise when obscured or show if hidden and fToggleHid..." alt="" coords="536,485,710,524"/>
+<area shape="rect" id="node20" href="$class_notificator.html#ae08e1e7e85ddc4690f307649021f7fdc" title="Show notification message. " alt="" coords="563,412,683,437"/>
+<area shape="rect" id="node23" href="$class_client_model.html#a643fc112ce94f50ac7187ecdf3c75360" title="ClientModel::getPeerTable\lModel" alt="" coords="818,1696,996,1735"/>
+<area shape="rect" id="node24" href="$class_client_model.html#ad02b8bf216a08845e393f9bac8c4ed42" title="ClientModel::getBanTable\lModel" alt="" coords="820,1231,993,1269"/>
+<area shape="rect" id="node25" href="$class_r_p_c_console.html#aa4546cb7812dd35704de8bf09a6ceb60" title="Set number of connections shown in the UI. " alt="" coords="510,839,736,864"/>
+<area shape="rect" id="node26" href="$class_client_model.html#ab1a71928e2ff3902e854d301f4cfe6ef" title="Return number of connections, default is in&#45; and outbound (total) " alt="" coords="1064,812,1284,837"/>
+<area shape="rect" id="node27" href="$class_client_model.html#a5ddf55fdfcc4f8e8382b96e278e90032" title="ClientModel::node" alt="" coords="1110,865,1238,891"/>
+<area shape="rect" id="node28" href="$class_r_p_c_console.html#a8a3dc7ad11aed5071c3c00329f75f736" title="Set number of blocks and last block date shown in the UI. " alt="" coords="527,989,718,1015"/>
+<area shape="rect" id="node29" href="$class_r_p_c_console.html#a62c423db4ed102ce48dc650e15e49a96" title="Update UI with latest network info from model. " alt="" coords="809,832,1005,871"/>
+<area shape="rect" id="node30" href="$class_r_p_c_console.html#acb43211055d842769637a2de7e0a6c4d" title="Set network state shown in the UI. " alt="" coords="519,888,727,913"/>
+<area shape="rect" id="node31" href="$class_r_p_c_console.html#a41bc6977fc2aab06f408da81dfd2034f" title="update traffic statistics " alt="" coords="531,1140,714,1179"/>
+<area shape="rect" id="node32" href="$classinterfaces_1_1_node.html#aad3ff5433693832c54d5874dd0b8bd45" title="Get total bytes recv. " alt="" coords="537,1203,709,1241"/>
+<area shape="rect" id="node33" href="$classinterfaces_1_1_node.html#ac9a207f916f301b029fb6abd3ba6c3db" title="Get total bytes sent. " alt="" coords="537,1265,709,1304"/>
+<area shape="rect" id="node34" href="$class_r_p_c_console.html#a86e7d08d527792b6e9bb65659b21c2af" title="Set size (number of transactions and memory usage) of the mempool in the UI. " alt="" coords="521,1328,725,1353"/>
+<area shape="rect" id="node35" href="$class_r_p_c_console.html#aacaf485583b6342c5e1877e7582f95c5" title="Ban a selected node on the Peers tab. " alt="" coords="517,1555,729,1580"/>
+<area shape="rect" id="node36" href="$class_r_p_c_console.html#a9c6e2b13f981313a28bcbf10433d0d11" title="clear the selected node " alt="" coords="798,1580,1016,1605"/>
+<area shape="rect" id="node37" href="$class_r_p_c_console.html#a920a08f6248cb341fb47318403f015be" title="Show custom context menu on Peers tab. " alt="" coords="521,1492,725,1531"/>
+<area shape="rect" id="node38" href="$class_r_p_c_console.html#a697e3fab280ee0c9033eeff2f64ec742" title="Disconnect a selected node on the Peers tab. " alt="" coords="496,1604,750,1629"/>
+<area shape="rect" id="node39" href="$class_r_p_c_console.html#a2487fa6a90cddcbb17ae4bb13ecc5359" title="Handle selection of peer in peers list. " alt="" coords="531,1703,715,1728"/>
+<area shape="rect" id="node40" href="$class_r_p_c_console.html#af952ebc6484c8f7d1262fa0bceed41bf" title="Handle updated peer information. " alt="" coords="510,1653,736,1679"/>
+<area shape="rect" id="node41" href="$class_r_p_c_console.html#ae2d43a386af5a7cd92b4b000f102785d" title="Handle selection caching before update. " alt="" coords="519,1815,727,1853"/>
+<area shape="rect" id="node42" href="$class_r_p_c_console.html#ae080520be8c972076c2fad22cb998ce2" title="Show custom context menu on Bans tab. " alt="" coords="527,1752,719,1791"/>
+<area shape="rect" id="node43" href="$class_r_p_c_console.html#a9a974887c33bf1d4b25eb6aeea002941" title="Unban a selected node on the Bans tab. " alt="" coords="510,1091,736,1116"/>
+<area shape="rect" id="node44" href="$class_r_p_c_console.html#af285a241961af11845a76ea995ca45c5" title="Hides ban table if no bans are present. " alt="" coords="521,1377,724,1416"/>
+</map>

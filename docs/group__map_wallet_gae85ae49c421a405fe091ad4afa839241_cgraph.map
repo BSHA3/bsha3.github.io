@@ -1,0 +1,5 @@
+<map id="CWallet::GetCredit" name="CWallet::GetCredit">
+<area shape="rect" id="node2" href="$group__map_wallet.html#gaa60b69c7d4ea6063ed83b13d7c6fe695" title="CWallet::GetCredit" alt="" coords="185,55,317,80"/>
+<area shape="rect" id="node3" href="$amount_8h.html#a12db56a9a1c931941f0943ecbb278aae" title="MoneyRange" alt="" coords="372,5,473,31"/>
+<area shape="rect" id="node4" href="$group__map_wallet.html#ga4eada57edc1c443564b8cc9b853d955c" title="CWallet::IsMine" alt="" coords="365,55,480,80"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CMerkleTx::Init" name="CMerkleTx::Init">
+<area shape="rect" id="node2" href="$class_c_merkle_tx.html#a02303b4d9f649ddca9e51c72c7a5211b" title="CMerkleTx::CMerkleTx" alt="" coords="164,5,322,31"/>
+<area shape="rect" id="node3" href="$class_c_wallet_tx.html#adf43cb4114e0c26fe75baa5d00f8780e" title="CWalletTx::CWalletTx" alt="" coords="168,55,318,80"/>
+<area shape="rect" id="node4" href="$class_c_wallet_tx.html#a6fe1312dccef9b53dbdcfe6bc3f70b1b" title="CWalletTx::Unserialize" alt="" coords="165,104,321,129"/>
+</map>

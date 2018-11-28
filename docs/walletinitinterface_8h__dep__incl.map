@@ -1,0 +1,9 @@
+<map id="src/walletinitinterface.h" name="src/walletinitinterface.h">
+<area shape="rect" id="node2" href="$bsha3d_8cpp.html" title="src/bsha3d.cpp" alt="" coords="5,85,117,111"/>
+<area shape="rect" id="node3" href="$dummywallet_8cpp.html" title="src/dummywallet.cpp" alt="" coords="142,85,287,111"/>
+<area shape="rect" id="node4" href="$httprpc_8cpp.html" title="src/httprpc.cpp" alt="" coords="311,85,420,111"/>
+<area shape="rect" id="node5" href="$init_8cpp.html" title="src/init.cpp" alt="" coords="444,85,529,111"/>
+<area shape="rect" id="node6" href="$bitcoin_8cpp.html" title="src/qt/bitcoin.cpp" alt="" coords="553,85,674,111"/>
+<area shape="rect" id="node7" href="$wallet_2init_8cpp.html" title="src/wallet/init.cpp" alt="" coords="698,85,821,111"/>
+<area shape="rect" id="node8" href="$init__tests_8cpp.html" title="src/wallet/test/init\l_tests.cpp" alt="" coords="845,79,968,117"/>
+</map>

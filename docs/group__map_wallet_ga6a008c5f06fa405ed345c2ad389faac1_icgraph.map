@@ -1,0 +1,5 @@
+<map id="CWalletTx::GetAvailableCredit" name="CWalletTx::GetAvailableCredit">
+<area shape="rect" id="node2" href="$group___actions.html#ga595a76e26660b8066450c21bb883ef7f" title="CWallet::GetBalance" alt="" coords="292,5,436,31"/>
+<area shape="rect" id="node3" href="$group___actions.html#ga6e6e1497535d499242c2f2a76d1cbe63" title="CWallet::GetUnconfirmedBalance" alt="" coords="254,55,474,80"/>
+<area shape="rect" id="node4" href="$group___actions.html#gab0c110f14f0429f9de594b2293837621" title="CWallet::GetUnconfirmedWatch\lOnlyBalance" alt="" coords="259,104,469,143"/>
+</map>

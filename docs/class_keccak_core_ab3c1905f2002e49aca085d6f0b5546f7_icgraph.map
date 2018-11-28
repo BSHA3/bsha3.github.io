@@ -1,0 +1,4 @@
+<map id="KeccakCore::setCapacity" name="KeccakCore::setCapacity">
+<area shape="rect" id="node2" href="$class_s_h_a3__256.html#ac091b276c6d80a981fa64a9e8c68ca87" title="Constructs a new SHA3&#45;256 hash object. " alt="" coords="224,5,382,31"/>
+<area shape="rect" id="node3" href="$class_s_h_a3__512.html#a5f8bc4180e9d19597f499468098a82a4" title="Constructs a new SHA3&#45;512 hash object. " alt="" coords="224,55,382,80"/>
+</map>

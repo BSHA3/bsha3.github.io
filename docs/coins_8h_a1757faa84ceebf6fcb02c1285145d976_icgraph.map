@@ -1,0 +1,11 @@
+<map id="AccessByTxid" name="AccessByTxid">
+<area shape="rect" id="node2" href="$validation_8h.html#ae62f71fbc880d892968f6276e0b806aa" title="Retrieve a transaction (from memory pool, or from disk, if possible) " alt="" coords="159,19,271,44"/>
+<area shape="rect" id="node3" href="$validation_8cpp.html#a492da8f7add38097a8e55f3445a9c83b" title="Restore the UTXO in a Coin at a given COutPoint. " alt="" coords="158,68,271,93"/>
+<area shape="rect" id="node4" href="$class_c_chain_state.html#a84c2802e12d40109c2189bfa8a5e0e8f" title="Undo the effects of this block (with given index) on the UTXO set represented by coins. " alt="" coords="319,68,522,93"/>
+<area shape="rect" id="node5" href="$class_c_chain_state.html#a57682556dc35715fba5f0c6075efcc6e" title="Disconnect chainActive&#39;s tip. " alt="" coords="570,68,758,93"/>
+<area shape="rect" id="node6" href="$class_c_chain_state.html#afb6986710de5db645a000d4bac55cf9f" title="Try to make some progress towards making pindexMostWork the active block. " alt="" coords="814,5,992,44"/>
+<area shape="rect" id="node7" href="$class_c_chain_state.html#a657a2d93faf38567ef34aeb75295ef4e" title="CChainState::InvalidateBlock" alt="" coords="806,68,1000,93"/>
+<area shape="rect" id="node9" href="$class_c_chain_state.html#afc0586502e4dd4092c4a0707d329f6eb" title="CChainState::RewindBlock\lIndex" alt="" coords="812,117,994,156"/>
+<area shape="rect" id="node8" href="$validation_8h.html#ac1125805255945a06f6f6fe1d9c6c154" title="Mark a block as invalid. " alt="" coords="1058,68,1169,93"/>
+<area shape="rect" id="node10" href="$validation_8h.html#a2e51de180124822c526ac8f82777fa32" title="When there are blocks in the active chain with missing data, rewind the chainstate and remove them fr..." alt="" coords="1048,124,1179,149"/>
+</map>

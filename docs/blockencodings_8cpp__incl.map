@@ -1,0 +1,32 @@
+<map id="src/blockencodings.cpp" name="src/blockencodings.cpp">
+<area shape="rect" id="node2" href="$blockencodings_8h.html" title="blockencodings.h" alt="" coords="299,79,423,104"/>
+<area shape="rect" id="node23" href="$consensus_8h.html" title="consensus/consensus.h" alt="" coords="35,159,199,184"/>
+<area shape="rect" id="node24" href="$consensus_2validation_8h.html" title="consensus/validation.h" alt="" coords="834,79,990,104"/>
+<area shape="rect" id="node26" href="$chainparams_8h.html" title="chainparams.h" alt="" coords="533,79,642,104"/>
+<area shape="rect" id="node30" href="$_hash_8h.html" title="hash.h" alt="" coords="1453,239,1515,264"/>
+<area shape="rect" id="node34" href="$random_8h.html" title="random.h" alt="" coords="413,239,491,264"/>
+<area shape="rect" id="node36" href="$streams_8h.html" title="streams.h" alt="" coords="1349,239,1429,264"/>
+<area shape="rect" id="node39" href="$txmempool_8h.html" title="txmempool.h" alt="" coords="1975,79,2073,104"/>
+<area shape="rect" id="node49" href="$validation_8h.html" title="validation.h" alt="" coords="2885,79,2974,104"/>
+<area shape="rect" id="node50" href="$util_8h.html" title="util.h" alt="" coords="2934,319,2983,344"/>
+<area shape="rect" id="node3" href="$block_8h.html" title="primitives/block.h" alt="" coords="717,159,840,184"/>
+<area shape="rect" id="node4" href="$transaction_8h.html" title="primitives/transaction.h" alt="" coords="1808,239,1965,264"/>
+<area shape="rect" id="node7" href="$serialize_8h.html" title="serialize.h" alt="" coords="1969,319,2050,344"/>
+<area shape="rect" id="node21" href="$uint256_8h.html" title="uint256.h" alt="" coords="1816,319,1893,344"/>
+<area shape="rect" id="node6" href="$amount_8h.html" title="amount.h" alt="" coords="2579,319,2656,344"/>
+<area shape="rect" id="node19" href="$prevector_8h.html" title="prevector.h" alt="" coords="1528,399,1616,424"/>
+<area shape="rect" id="node22" href="$common_8h.html" title="crypto/common.h" alt="" coords="1098,399,1222,424"/>
+<area shape="rect" id="node25" href="$version_8h.html" title="version.h" alt="" coords="2328,319,2403,344"/>
+<area shape="rect" id="node27" href="$chainparamsbase_8h.html" title="chainparamsbase.h" alt="" coords="904,319,1042,344"/>
+<area shape="rect" id="node28" href="$params_8h.html" title="consensus/params.h" alt="" coords="1640,239,1784,264"/>
+<area shape="rect" id="node29" href="$protocol_8h.html" title="protocol.h" alt="" coords="2141,239,2221,264"/>
+<area shape="rect" id="node31" href="$ripemd160_8h.html" title="crypto/ripemd160.h" alt="" coords="939,399,1074,424"/>
+<area shape="rect" id="node32" href="$sha256_8h.html" title="crypto/sha256.h" alt="" coords="1574,319,1690,344"/>
+<area shape="rect" id="node33" href="$_s_h_a3_8h.html" title="crypto/sha3.h" alt="" coords="763,399,864,424"/>
+<area shape="rect" id="node35" href="$chacha20_8h.html" title="crypto/chacha20.h" alt="" coords="285,399,416,424"/>
+<area shape="rect" id="node37" href="$zeroafterfree_8h.html" title="support/allocators\l/zeroafterfree.h" alt="" coords="703,312,830,351"/>
+<area shape="rect" id="node40" href="$coins_8h.html" title="coins.h" alt="" coords="2347,159,2410,184"/>
+<area shape="rect" id="node42" href="$indirectmap_8h.html" title="indirectmap.h" alt="" coords="1883,159,1984,184"/>
+<area shape="rect" id="node43" href="$feerate_8h.html" title="policy/feerate.h" alt="" coords="2485,239,2597,264"/>
+<area shape="rect" id="node44" href="$sync_8h.html" title="sync.h" alt="" coords="3413,399,3472,424"/>
+</map>

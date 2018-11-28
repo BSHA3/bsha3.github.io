@@ -1,0 +1,24 @@
+<map id="src/dbwrapper.cpp" name="src/dbwrapper.cpp">
+<area shape="rect" id="node2" href="$dbwrapper_8h.html" title="dbwrapper.h" alt="" coords="2512,79,2607,104"/>
+<area shape="rect" id="node42" href="$random_8h.html" title="random.h" alt="" coords="416,79,493,104"/>
+<area shape="rect" id="node3" href="$clientversion_8h.html" title="clientversion.h" alt="" coords="1912,232,2018,257"/>
+<area shape="rect" id="node6" href="$fs_8h.html" title="fs.h" alt="" coords="3208,312,3251,337"/>
+<area shape="rect" id="node10" href="$serialize_8h.html" title="serialize.h" alt="" coords="1150,232,1231,257"/>
+<area shape="rect" id="node26" href="$streams_8h.html" title="streams.h" alt="" coords="1331,152,1410,177"/>
+<area shape="rect" id="node28" href="$util_8h.html" title="util.h" alt="" coords="2567,152,2617,177"/>
+<area shape="rect" id="node38" href="$utilstrencodings_8h.html" title="utilstrencodings.h" alt="" coords="1661,232,1786,257"/>
+<area shape="rect" id="node39" href="$version_8h.html" title="version.h" alt="" coords="3143,152,3219,177"/>
+<area shape="rect" id="node11" href="$endian_8h.html" title="compat/endian.h" alt="" coords="363,312,482,337"/>
+<area shape="rect" id="node22" href="$prevector_8h.html" title="prevector.h" alt="" coords="659,312,746,337"/>
+<area shape="rect" id="node25" href="$span_8h.html" title="span.h" alt="" coords="1250,312,1312,337"/>
+<area shape="rect" id="node24" href="$compat_8h.html" title="compat.h" alt="" coords="992,385,1069,411"/>
+<area shape="rect" id="node27" href="$zeroafterfree_8h.html" title="support/allocators\l/zeroafterfree.h" alt="" coords="2042,225,2168,264"/>
+<area shape="rect" id="node29" href="$logging_8h.html" title="logging.h" alt="" coords="2750,232,2826,257"/>
+<area shape="rect" id="node30" href="$tinyformat_8h.html" title="tinyformat.h" alt="" coords="2660,312,2751,337"/>
+<area shape="rect" id="node32" href="$sync_8h.html" title="sync.h" alt="" coords="2495,232,2555,257"/>
+<area shape="rect" id="node33" href="$utilmemory_8h.html" title="utilmemory.h" alt="" coords="2629,232,2725,257"/>
+<area shape="rect" id="node34" href="$utiltime_8h.html" title="utiltime.h" alt="" coords="2468,312,2542,337"/>
+<area shape="rect" id="node43" href="$chacha20_8h.html" title="crypto/chacha20.h" alt="" coords="5,312,136,337"/>
+<area shape="rect" id="node44" href="$common_8h.html" title="crypto/common.h" alt="" coords="325,232,448,257"/>
+<area shape="rect" id="node45" href="$uint256_8h.html" title="uint256.h" alt="" coords="464,152,541,177"/>
+</map>

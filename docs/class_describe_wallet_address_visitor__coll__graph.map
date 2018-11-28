@@ -1,0 +1,19 @@
+<map id="DescribeWalletAddressVisitor" name="DescribeWalletAddressVisitor">
+<area shape="rect" id="node3" href="$class_c_wallet.html" title="A CWallet is an extension of a keystore, which also maintains a set of transactions and balances..." alt="" coords="1105,151,1172,176"/>
+<area shape="rect" id="node4" href="$class_c_crypto_key_store.html" title="Keystore which keeps the private keys encrypted. " alt="" coords="740,32,865,57"/>
+<area shape="rect" id="node5" href="$class_c_basic_key_store.html" title="Basic key store, that keeps keys in an address&#45;&gt;secret map. " alt="" coords="469,32,587,57"/>
+<area shape="rect" id="node6" href="$class_c_key_store.html" title="A virtual base class for key stores. " alt="" coords="227,5,313,31"/>
+<area shape="rect" id="node7" href="$class_signing_provider.html" title="An interface to be implemented by keystores that support signing. " alt="" coords="20,5,135,31"/>
+<area shape="rect" id="node8" href="$class_annotated_mixin.html" title="AnnotatedMixin\&lt; std\l::recursive_mutex \&gt;" alt="" coords="199,65,342,104"/>
+<area shape="rect" id="node10" href="$class_c_validation_interface.html" title="Implement this to subscribe to events generated in validation. " alt="" coords="732,133,873,159"/>
+<area shape="rect" id="node11" href="$class_c_block_index.html" title="The block chain is a tree shaped structure starting with the genesis block at the root..." alt="" coords="754,233,851,259"/>
+<area shape="rect" id="node12" href="$classuint256.html" title="256&#45;bit opaque blob. " alt="" coords="495,208,561,233"/>
+<area shape="rect" id="node13" href="$classbase__blob.html" title="base_blob\&lt; 256 \&gt;" alt="" coords="206,208,334,233"/>
+<area shape="rect" id="node14" href="$classarith__uint256.html" title="256&#45;bit unsigned big integer. " alt="" coords="479,257,577,283"/>
+<area shape="rect" id="node15" href="$classbase__uint.html" title="base_uint\&lt; 256 \&gt;" alt="" coords="208,257,332,283"/>
+<area shape="rect" id="node16" href="$class_c_fee_rate.html" title="Fee rate in satoshis per kilobyte: CAmount / kB. " alt="" coords="761,283,844,308"/>
+<area shape="rect" id="node17" href="$class_c_h_d_chain.html" title="CHDChain" alt="" coords="760,332,845,357"/>
+<area shape="rect" id="node18" href="$class_c_key_i_d.html" title="A reference to a CKey: the Hash360 of its serialized public key. " alt="" coords="494,332,562,357"/>
+<area shape="rect" id="node19" href="$classuint160.html" title="160&#45;bit opaque blob. " alt="" coords="238,332,303,357"/>
+<area shape="rect" id="node20" href="$classbase__blob.html" title="base_blob\&lt; 160 \&gt;" alt="" coords="13,332,142,357"/>
+</map>

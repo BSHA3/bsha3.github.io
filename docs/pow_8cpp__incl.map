@@ -1,0 +1,21 @@
+<map id="src/pow.cpp" name="src/pow.cpp">
+<area shape="rect" id="node2" href="$pow_8h.html" title="pow.h" alt="" coords="1450,152,1506,177"/>
+<area shape="rect" id="node4" href="$uint256_8h.html" title="uint256.h" alt="" coords="1413,299,1490,324"/>
+<area shape="rect" id="node17" href="$arith__uint256_8h.html" title="arith_uint256.h" alt="" coords="1834,372,1944,397"/>
+<area shape="rect" id="node18" href="$chain_8h.html" title="chain.h" alt="" coords="1562,79,1626,104"/>
+<area shape="rect" id="node19" href="$block_8h.html" title="primitives/block.h" alt="" coords="1164,152,1288,177"/>
+<area shape="rect" id="node42" href="$logging_8h.html" title="logging.h" alt="" coords="2318,299,2393,324"/>
+<area shape="rect" id="node3" href="$params_8h.html" title="consensus/params.h" alt="" coords="1362,225,1506,251"/>
+<area shape="rect" id="node11" href="$common_8h.html" title="crypto/common.h" alt="" coords="1282,372,1405,397"/>
+<area shape="rect" id="node13" href="$endian_8h.html" title="compat/endian.h" alt="" coords="1354,445,1474,471"/>
+<area shape="rect" id="node14" href="$byteswap_8h.html" title="compat/byteswap.h" alt="" coords="1241,519,1377,544"/>
+<area shape="rect" id="node38" href="$tinyformat_8h.html" title="tinyformat.h" alt="" coords="2221,372,2312,397"/>
+<area shape="rect" id="node20" href="$transaction_8h.html" title="primitives/transaction.h" alt="" coords="759,225,917,251"/>
+<area shape="rect" id="node30" href="$serialize_8h.html" title="serialize.h" alt="" coords="891,372,972,397"/>
+<area shape="rect" id="node21" href="$amount_8h.html" title="amount.h" alt="" coords="461,299,538,324"/>
+<area shape="rect" id="node22" href="$script_8h.html" title="script/script.h" alt="" coords="991,299,1091,324"/>
+<area shape="rect" id="node23" href="$prevector_8h.html" title="prevector.h" alt="" coords="309,445,396,471"/>
+<area shape="rect" id="node28" href="$compat_8h.html" title="compat.h" alt="" coords="5,519,82,544"/>
+<area shape="rect" id="node36" href="$span_8h.html" title="span.h" alt="" coords="597,445,658,471"/>
+<area shape="rect" id="node43" href="$fs_8h.html" title="fs.h" alt="" coords="2481,372,2524,397"/>
+</map>

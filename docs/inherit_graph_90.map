@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_c_chain_params.html" title="CChainParams defines various tweakable parameters of a given instance of the Bitcoin system..." alt="" coords="5,55,117,80"/>
+<area shape="rect" id="node2" href="$class_c_main_params.html" title="Main network. " alt="" coords="175,5,281,31"/>
+<area shape="rect" id="node3" href="$class_c_reg_test_params.html" title="Regression test. " alt="" coords="165,55,291,80"/>
+<area shape="rect" id="node4" href="$class_c_test_net_params.html" title="Testnet (v3&#45;SHA3) " alt="" coords="167,104,289,129"/>
+</map>

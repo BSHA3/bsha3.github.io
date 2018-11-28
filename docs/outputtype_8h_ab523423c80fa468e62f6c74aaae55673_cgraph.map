@@ -1,0 +1,5 @@
+<map id="AddAndGetDestinationForScript" name="AddAndGetDestinationForScript">
+<area shape="rect" id="node2" href="$class_c_key_store.html#a2fb2e02e8cdc364607efd5ebb14b8064" title="Support for BIP 0013 : see https://github.com/bitcoin/bips/blob/master/bip&#45;0013.mediawiki. " alt="" coords="266,5,427,31"/>
+<area shape="rect" id="node3" href="$standard_8cpp.html#ae40f28d3b46c21033f6ee1f1200d0321" title="Generate a Bitcoin scriptPubKey for the given CTxDestination. " alt="" coords="264,55,428,80"/>
+<area shape="rect" id="node4" href="$sign_8cpp.html#a88a309e2fcf97929f223e03eaba88bd6" title="IsSolvable" alt="" coords="305,104,388,129"/>
+</map>

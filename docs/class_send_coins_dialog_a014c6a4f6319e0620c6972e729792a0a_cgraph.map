@@ -1,0 +1,10 @@
+<map id="SendCoinsDialog::useAvailableBalance" name="SendCoinsDialog::useAvailableBalance">
+<area shape="rect" id="node2" href="$class_wallet_model.html#a96d53e56b3f8f07537ea2523f7a7d300" title="WalletModel::getOptionsModel" alt="" coords="264,5,466,31"/>
+<area shape="rect" id="node3" href="$class_options_model.html#a2b094b0e95f630938054c90b35956263" title="OptionsModel::getCoinControl\lFeatures" alt="" coords="265,55,465,93"/>
+<area shape="rect" id="node4" href="$class_coin_control_dialog.html#ad6c08e81a0cfc70cbf6e40f65857ab98" title="CoinControlDialog::\lcoinControl" alt="" coords="297,117,434,156"/>
+<area shape="rect" id="node5" href="$class_wallet_model.html#aa3a3b4a8064de3af096dbf64bfe12655" title="WalletModel::wallet" alt="" coords="297,180,433,205"/>
+<area shape="rect" id="node6" href="$classinterfaces_1_1_wallet.html#a3ce03dcae0b94cba593fb5d93ebfad2b" title="Get available balance. " alt="" coords="291,229,440,268"/>
+<area shape="rect" id="node7" href="$class_send_coins_entry.html#af36fb0ed9e2e07079c1a982b31e793c8" title="SendCoinsEntry::getValue" alt="" coords="277,292,454,317"/>
+<area shape="rect" id="node8" href="$class_send_coins_entry.html#aecb04a64d79002630f1c04cef6b0e446" title="SendCoinsEntry::checkSubtract\lFeeFromAmount" alt="" coords="260,341,470,380"/>
+<area shape="rect" id="node9" href="$class_send_coins_entry.html#aa3b846406c9bf67315fd1783102670bb" title="SendCoinsEntry::setAmount" alt="" coords="271,404,460,429"/>
+</map>

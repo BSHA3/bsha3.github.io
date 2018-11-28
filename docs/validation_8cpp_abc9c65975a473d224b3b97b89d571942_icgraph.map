@@ -1,0 +1,7 @@
+<map id="CheckBlock" name="CheckBlock">
+<area shape="rect" id="node2" href="$class_partially_downloaded_block.html#ae31ee4302e77d9757aae8b96df99486a" title="PartiallyDownloadedBlock\l::FillBlock" alt="" coords="151,5,326,44"/>
+<area shape="rect" id="node3" href="$class_c_chain_state.html#a06a01f2d89b7a40b5341083aa522a1e2" title="Apply the effects of this block (with given index) on the UTXO set represented by coins..." alt="" coords="145,68,332,93"/>
+<area shape="rect" id="node4" href="$validation_8h.html#a32c6dfc4ade001f117ac3fac3da9d123" title="Process an incoming block. " alt="" coords="174,117,303,143"/>
+<area shape="rect" id="node5" href="$mining_8h.html#a4910d289954727eb7c4c24a6b3c50c55" title="Generate blocks (mine) " alt="" coords="380,117,493,143"/>
+<area shape="rect" id="node6" href="$rpcwallet_8cpp.html#a236a42206aa464fbb10bae6e6243092b" title="generate" alt="" coords="541,117,615,143"/>
+</map>

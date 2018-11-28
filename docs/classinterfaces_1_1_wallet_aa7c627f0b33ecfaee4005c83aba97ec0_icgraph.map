@@ -1,0 +1,7 @@
+<map id="interfaces::Wallet::getKeyFromPool" name="interfaces::Wallet::getKeyFromPool">
+<area shape="rect" id="node2" href="$class_address_table_model.html#a9f9ac7d8e7582bbcd73ce5a92995a0e4" title="AddressTableModel::\laddRow" alt="" coords="181,37,327,76"/>
+<area shape="rect" id="node3" href="$class_edit_address_dialog.html#a8494a551799cd1f4c253e557424c206c" title="EditAddressDialog::\lsaveCurrentRow" alt="" coords="396,5,535,44"/>
+<area shape="rect" id="node5" href="$class_receive_coins_dialog.html#a9db8de31f6889288cb22c061aa51e0cd" title="ReceiveCoinsDialog\l::on_receiveButton_clicked" alt="" coords="375,68,556,107"/>
+<area shape="rect" id="node4" href="$class_edit_address_dialog.html#ac52b71129806bccf6533d0e9441393b6" title="EditAddressDialog::\laccept" alt="" coords="605,5,744,44"/>
+<area shape="rect" id="node6" href="$class_receive_coins_dialog.html#abcf17b510c473bf3e94ef12f7f5cfc10" title="ReceiveCoinsDialog\l::keyPressEvent" alt="" coords="604,68,745,107"/>
+</map>

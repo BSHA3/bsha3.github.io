@@ -1,0 +1,4 @@
+<map id="SingleThreadedSchedulerClient::MaybeScheduleProcessQueue" name="SingleThreadedSchedulerClient::MaybeScheduleProcessQueue">
+<area shape="rect" id="node2" href="$class_c_scheduler.html#a5b5accdef59aa10c5a99f4ee86a1740f" title="CScheduler::schedule" alt="" coords="295,5,447,31"/>
+<area shape="rect" id="node3" href="$class_single_threaded_scheduler_client.html#a0a1198fe58f64c7337944173db7ed579" title="SingleThreadedSchedulerClient\l::ProcessQueue" alt="" coords="266,55,475,93"/>
+</map>

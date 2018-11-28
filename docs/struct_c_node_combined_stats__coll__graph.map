@@ -1,0 +1,7 @@
+<map id="CNodeCombinedStats" name="CNodeCombinedStats">
+<area shape="rect" id="node2" href="$struct_c_node_state_stats.html" title="CNodeStateStats" alt="" coords="5,255,130,280"/>
+<area shape="rect" id="node3" href="$class_c_node_stats.html" title="CNodeStats" alt="" coords="154,255,247,280"/>
+<area shape="rect" id="node4" href="$class_c_address.html" title="A CService with information about it as peer. " alt="" coords="161,155,241,180"/>
+<area shape="rect" id="node5" href="$class_c_service.html" title="A combination of a network address (CNetAddr) and a (TCP) port. " alt="" coords="163,80,239,105"/>
+<area shape="rect" id="node6" href="$class_c_net_addr.html" title="IP address (IPv6, or IPv4 using mapped IPv6 range (::FFFF:0:0/96)) " alt="" coords="161,5,241,31"/>
+</map>

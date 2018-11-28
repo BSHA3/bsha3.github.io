@@ -1,0 +1,32 @@
+<map id="src/qt/signverifymessagedialog.cpp" name="src/qt/signverifymessagedialog.cpp">
+<area shape="rect" id="node2" href="$signverifymessagedialog_8h.html" title="qt/signverifymessagedialog.h" alt="" coords="380,79,574,104"/>
+<area shape="rect" id="node5" href="$addressbookpage_8h.html" title="qt/addressbookpage.h" alt="" coords="871,79,1024,104"/>
+<area shape="rect" id="node6" href="$guiutil_8h.html" title="qt/guiutil.h" alt="" coords="640,225,722,251"/>
+<area shape="rect" id="node19" href="$platformstyle_8h.html" title="qt/platformstyle.h" alt="" coords="973,225,1096,251"/>
+<area shape="rect" id="node22" href="$walletmodel_8h.html" title="qt/walletmodel.h" alt="" coords="2458,152,2576,177"/>
+<area shape="rect" id="node34" href="$key__io_8h.html" title="key_io.h" alt="" coords="2923,152,2994,177"/>
+<area shape="rect" id="node37" href="$wallet_2wallet_8h.html" title="wallet/wallet.h" alt="" coords="1831,79,1936,104"/>
+<area shape="rect" id="node7" href="$amount_8h.html" title="amount.h" alt="" coords="1584,305,1661,331"/>
+<area shape="rect" id="node8" href="$fs_8h.html" title="fs.h" alt="" coords="950,385,993,411"/>
+<area shape="rect" id="node23" href="$key_8h.html" title="key.h" alt="" coords="2811,225,2863,251"/>
+<area shape="rect" id="node25" href="$serialize_8h.html" title="serialize.h" alt="" coords="2456,385,2538,411"/>
+<area shape="rect" id="node28" href="$secure_8h.html" title="support/allocators\l/secure.h" alt="" coords="2106,299,2232,337"/>
+<area shape="rect" id="node29" href="$standard_8h.html" title="script/standard.h" alt="" coords="3026,385,3146,411"/>
+<area shape="rect" id="node30" href="$walletmodeltransaction_8h.html" title="qt/walletmodeltransaction.h" alt="" coords="1963,225,2146,251"/>
+<area shape="rect" id="node31" href="$interfaces_2wallet_8h.html" title="interfaces/wallet.h" alt="" coords="2658,225,2786,251"/>
+<area shape="rect" id="node24" href="$pubkey_8h.html" title="pubkey.h" alt="" coords="2765,305,2839,331"/>
+<area shape="rect" id="node32" href="$ismine_8h.html" title="script/ismine.h" alt="" coords="3033,305,3140,331"/>
+<area shape="rect" id="node33" href="$ui__interface_8h.html" title="ui_interface.h" alt="" coords="1685,305,1786,331"/>
+<area shape="rect" id="node35" href="$chainparams_8h.html" title="chainparams.h" alt="" coords="3325,385,3434,411"/>
+<area shape="rect" id="node38" href="$outputtype_8h.html" title="outputtype.h" alt="" coords="2863,305,2958,331"/>
+<area shape="rect" id="node39" href="$feerate_8h.html" title="policy/feerate.h" alt="" coords="1301,225,1413,251"/>
+<area shape="rect" id="node40" href="$streams_8h.html" title="streams.h" alt="" coords="2408,305,2488,331"/>
+<area shape="rect" id="node41" href="$tinyformat_8h.html" title="tinyformat.h" alt="" coords="1797,152,1888,177"/>
+<area shape="rect" id="node42" href="$utilstrencodings_8h.html" title="utilstrencodings.h" alt="" coords="1962,385,2087,411"/>
+<area shape="rect" id="node43" href="$validationinterface_8h.html" title="validationinterface.h" alt="" coords="2075,152,2215,177"/>
+<area shape="rect" id="node44" href="$sign_8h.html" title="script/sign.h" alt="" coords="2887,225,2979,251"/>
+<area shape="rect" id="node46" href="$crypter_8h.html" title="wallet/crypter.h" alt="" coords="2220,225,2331,251"/>
+<area shape="rect" id="node47" href="$coinselection_8h.html" title="wallet/coinselection.h" alt="" coords="1437,225,1584,251"/>
+<area shape="rect" id="node48" href="$walletdb_8h.html" title="wallet/walletdb.h" alt="" coords="2312,152,2431,177"/>
+<area shape="rect" id="node49" href="$rpcwallet_8h.html" title="wallet/rpcwallet.h" alt="" coords="1199,385,1322,411"/>
+</map>

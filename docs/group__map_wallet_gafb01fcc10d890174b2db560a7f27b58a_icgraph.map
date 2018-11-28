@@ -1,0 +1,4 @@
+<map id="CWallet::DeriveNewChildKey" name="CWallet::DeriveNewChildKey">
+<area shape="rect" id="node2" href="$group__map_wallet.html#ga5abb589b31879b8f4bf1890c22f15f64" title="keystore implementation Generate a new key " alt="" coords="247,5,427,31"/>
+<area shape="rect" id="node3" href="$group___actions.html#gac452f46eafeb2b4adfe86f7208048032" title="CWallet::GetKeyFromPool" alt="" coords="475,5,652,31"/>
+</map>

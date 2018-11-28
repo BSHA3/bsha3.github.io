@@ -1,0 +1,4 @@
+<map id="SignatureHash" name="SignatureHash">
+<area shape="rect" id="node2" href="$class_generic_transaction_signature_checker.html#ac2f7d09fbb8afa5bde71fbc5ff6e1e19" title="GenericTransactionSignature\lChecker::CheckSig" alt="" coords="163,5,358,44"/>
+<area shape="rect" id="node3" href="$class_mutable_transaction_signature_creator.html#ad66cfa8bc9e1222e30125c90d1ecaddf" title="Create a singular (non&#45;script) signature. " alt="" coords="163,68,358,107"/>
+</map>

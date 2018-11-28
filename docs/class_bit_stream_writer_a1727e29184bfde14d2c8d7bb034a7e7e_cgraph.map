@@ -1,0 +1,3 @@
+<map id="BitStreamWriter::Write" name="BitStreamWriter::Write">
+<area shape="rect" id="node2" href="$class_bit_stream_writer.html#ac9726b10e1f8b247ac17f67b1ee33c4c" title="Flush any unwritten bits to the output stream, padding with 0&#39;s to the next byte boundary. " alt="" coords="207,5,362,31"/>
+</map>

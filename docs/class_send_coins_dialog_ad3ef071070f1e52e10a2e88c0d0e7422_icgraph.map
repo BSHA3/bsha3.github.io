@@ -1,0 +1,4 @@
+<map id="SendCoinsDialog::message" name="SendCoinsDialog::message">
+<area shape="rect" id="node2" href="$class_send_coins_dialog.html#a349fff162bb43ec63e56e8f7db203a66" title="SendCoinsDialog::process\lSendCoinsReturn" alt="" coords="239,5,418,44"/>
+<area shape="rect" id="node3" href="$class_wallet_view.html#a8c584ab249ed6d5ca68c4f936ad74161" title="WalletView::WalletView" alt="" coords="249,68,408,93"/>
+</map>

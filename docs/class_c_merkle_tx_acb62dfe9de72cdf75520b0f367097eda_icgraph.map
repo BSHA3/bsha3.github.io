@@ -1,0 +1,12 @@
+<map id="CMerkleTx::IsImmatureCoinBase" name="CMerkleTx::IsImmatureCoinBase">
+<area shape="rect" id="node2" href="$group__map_wallet.html#ga7e8f86fd4171608c1777ece32dffc57b" title="CWalletTx::GetCredit" alt="" coords="300,5,447,31"/>
+<area shape="rect" id="node3" href="$group__map_wallet.html#gabb3eec7968dec62cf41937aab0985087" title="CWalletTx::GetImmatureCredit" alt="" coords="272,55,475,80"/>
+<area shape="rect" id="node5" href="$group__map_wallet.html#ga6a008c5f06fa405ed345c2ad389faac1" title="CWalletTx::GetAvailableCredit" alt="" coords="273,104,474,129"/>
+<area shape="rect" id="node9" href="$group__map_wallet.html#ga283fbf2ff029a0052aba10aa4224fbdb" title="CWalletTx::GetImmatureWatch\lOnlyCredit" alt="" coords="271,153,476,192"/>
+<area shape="rect" id="node11" href="$group___actions.html#ga0bbcbd8b9632b13e646f046d4dcc17d6" title="CWallet::GetAddressBalances" alt="" coords="273,216,474,241"/>
+<area shape="rect" id="node4" href="$group___actions.html#ga6ab8dfa75c5c8d5539325f3981697964" title="CWallet::GetImmatureBalance" alt="" coords="533,5,734,31"/>
+<area shape="rect" id="node6" href="$group___actions.html#ga595a76e26660b8066450c21bb883ef7f" title="CWallet::GetBalance" alt="" coords="562,55,706,80"/>
+<area shape="rect" id="node7" href="$group___actions.html#ga6e6e1497535d499242c2f2a76d1cbe63" title="CWallet::GetUnconfirmedBalance" alt="" coords="524,104,744,129"/>
+<area shape="rect" id="node8" href="$group___actions.html#gab0c110f14f0429f9de594b2293837621" title="CWallet::GetUnconfirmedWatch\lOnlyBalance" alt="" coords="529,153,739,192"/>
+<area shape="rect" id="node10" href="$group___actions.html#ga1372ba886aaeda65bf28758c9ccb65b4" title="CWallet::GetImmatureWatch\lOnlyBalance" alt="" coords="539,216,729,255"/>
+</map>

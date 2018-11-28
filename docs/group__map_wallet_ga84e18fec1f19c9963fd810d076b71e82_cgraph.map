@@ -1,0 +1,8 @@
+<map id="CWallet::AddWatchOnly" name="CWallet::AddWatchOnly">
+<area shape="rect" id="node2" href="$class_c_basic_key_store.html#af5641504058ae079925af7d00e513a77" title="Support for Watch&#45;only addresses. " alt="" coords="217,5,431,31"/>
+<area shape="rect" id="node3" href="$group__map_wallet.html#gab7b95f29dbf960047aa0511713036871" title="Update wallet first key creation time. " alt="" coords="226,55,422,80"/>
+<area shape="rect" id="node4" href="$class_wallet_batch.html#a9acc3acfab37505bc68ae2a57d669168" title="WalletBatch::WriteWatchOnly" alt="" coords="226,104,421,129"/>
+<area shape="rect" id="node5" href="$class_wallet_batch.html#a552eb421cff45a9ed94b1ec77e5c76c3" title="WalletBatch::WriteIC" alt="" coords="479,104,623,129"/>
+<area shape="rect" id="node6" href="$class_berkeley_batch.html#ac31c83ec96f7bd149f856d28e97dba23" title="BerkeleyBatch::Write" alt="" coords="696,76,842,101"/>
+<area shape="rect" id="node7" href="$class_berkeley_database.html#a313cd767c211da5738bdb5578cd59af7" title="BerkeleyDatabase::Increment\lUpdateCounter" alt="" coords="671,125,868,164"/>
+</map>

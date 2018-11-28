@@ -1,0 +1,4 @@
+<map id="SigningProvider::GetKey" name="SigningProvider::GetKey">
+<area shape="rect" id="node2" href="$class_mutable_transaction_signature_creator.html#ad66cfa8bc9e1222e30125c90d1ecaddf" title="Create a singular (non&#45;script) signature. " alt="" coords="221,5,416,44"/>
+<area shape="rect" id="node3" href="$class_hiding_signing_provider.html#a39f2c6985440995db9ac81979b746b46" title="HidingSigningProvider\l::GetKey" alt="" coords="242,68,395,107"/>
+</map>

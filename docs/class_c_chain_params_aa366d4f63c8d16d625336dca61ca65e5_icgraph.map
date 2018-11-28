@@ -1,0 +1,21 @@
+<map id="CChainParams::GetConsensus" name="CChainParams::GetConsensus">
+<area shape="rect" id="node2" href="$class_base_index.html#a96a7407421fbf877509248bbe64f8d87" title="Sync the index with the block index starting from the current best block. " alt="" coords="274,5,438,31"/>
+<area shape="rect" id="node3" href="$class_block_assembler.html#a24b566785f9f88bc72d744095b89c607" title="Construct a new block template with coinbase to scriptPubKeyIn. " alt="" coords="261,55,452,93"/>
+<area shape="rect" id="node4" href="$class_peer_logic_validation.html#a36a284fceddbba112ed000475e52a4e3" title="Send queued protocol messages to be sent to a give node. " alt="" coords="287,117,426,156"/>
+<area shape="rect" id="node5" href="$class_bitcoin_g_u_i.html#ad06b7274e4d51189c0a1994866835f17" title="BitcoinGUI::updateHeaders\lSyncProgressLabel" alt="" coords="264,180,448,219"/>
+<area shape="rect" id="node6" href="$mining_8h.html#a4910d289954727eb7c4c24a6b3c50c55" title="Generate blocks (mine) " alt="" coords="921,376,1034,401"/>
+<area shape="rect" id="node8" href="$class_c_chain_state.html#a06a01f2d89b7a40b5341083aa522a1e2" title="Apply the effects of this block (with given index) on the UTXO set represented by coins..." alt="" coords="263,295,449,320"/>
+<area shape="rect" id="node9" href="$class_c_chain_state.html#a57682556dc35715fba5f0c6075efcc6e" title="Disconnect chainActive&#39;s tip. " alt="" coords="262,344,450,369"/>
+<area shape="rect" id="node13" href="$class_c_chain_state.html#afc0586502e4dd4092c4a0707d329f6eb" title="CChainState::RewindBlock\lIndex" alt="" coords="506,401,687,440"/>
+<area shape="rect" id="node15" href="$class_c_chain_state.html#a1ac66256eca2e5a25c7484f82b3b50ad" title="Connect a new block to chainActive. " alt="" coords="270,445,442,471"/>
+<area shape="rect" id="node16" href="$class_c_chain_state.html#ab70c11d94a3f6e5cae415521437ef627" title="If a block header hasn&#39;t already been seen, call CheckBlockHeader on it, ensure that it doesn&#39;t desce..." alt="" coords="267,495,445,533"/>
+<area shape="rect" id="node19" href="$validation_8h.html#a32c6dfc4ade001f117ac3fac3da9d123" title="Process an incoming block. " alt="" coords="743,513,872,539"/>
+<area shape="rect" id="node20" href="$class_c_chain_state.html#ac231f6529bc41aea7917d0716d0c9d1a" title="Apply the effects of a block on the utxo cache, ignoring that it may already have been applied..." alt="" coords="270,615,442,653"/>
+<area shape="rect" id="node7" href="$rpcwallet_8cpp.html#a236a42206aa464fbb10bae6e6243092b" title="generate" alt="" coords="1082,376,1156,401"/>
+<area shape="rect" id="node10" href="$class_c_chain_state.html#afb6986710de5db645a000d4bac55cf9f" title="Try to make some progress towards making pindexMostWork the active block. " alt="" coords="507,289,686,328"/>
+<area shape="rect" id="node11" href="$class_c_chain_state.html#a657a2d93faf38567ef34aeb75295ef4e" title="CChainState::InvalidateBlock" alt="" coords="500,352,694,377"/>
+<area shape="rect" id="node12" href="$validation_8h.html#ac1125805255945a06f6f6fe1d9c6c154" title="Mark a block as invalid. " alt="" coords="752,352,863,377"/>
+<area shape="rect" id="node14" href="$validation_8h.html#a2e51de180124822c526ac8f82777fa32" title="When there are blocks in the active chain with missing data, rewind the chainstate and remove them fr..." alt="" coords="742,408,873,433"/>
+<area shape="rect" id="node17" href="$validation_8h.html#ad959cc64d22660f1f561798040bb1f6a" title="Process incoming block headers. " alt="" coords="507,464,686,489"/>
+<area shape="rect" id="node18" href="$class_c_chain_state.html#ae73c43d5a0296d8972b1fe69da7e10ff" title="Store block on disk. " alt="" coords="508,513,686,539"/>
+</map>

@@ -1,0 +1,35 @@
+<map id="src/interfaces/wallet.h" name="src/interfaces/wallet.h">
+<area shape="rect" id="node2" href="$node_8cpp.html" title="src/interfaces/node.cpp" alt="" coords="1159,79,1318,104"/>
+<area shape="rect" id="node3" href="$interfaces_2wallet_8cpp.html" title="src/interfaces/wallet.cpp" alt="" coords="1342,79,1506,104"/>
+<area shape="rect" id="node4" href="$overviewpage_8h.html" title="src/qt/overviewpage.h" alt="" coords="1530,79,1681,104"/>
+<area shape="rect" id="node7" href="$splashscreen_8cpp.html" title="src/qt/splashscreen.cpp" alt="" coords="1869,79,2030,104"/>
+<area shape="rect" id="node8" href="$transactionrecord_8cpp.html" title="src/qt/transactionrecord.cpp" alt="" coords="2054,79,2240,104"/>
+<area shape="rect" id="node9" href="$walletmodel_8h.html" title="src/qt/walletmodel.h" alt="" coords="1705,79,1844,104"/>
+<area shape="rect" id="node5" href="$overviewpage_8cpp.html" title="src/qt/overviewpage.cpp" alt="" coords="30,152,195,177"/>
+<area shape="rect" id="node6" href="$walletview_8cpp.html" title="src/qt/walletview.cpp" alt="" coords="161,225,304,251"/>
+<area shape="rect" id="node10" href="$addresstablemodel_8cpp.html" title="src/qt/addresstablemodel.cpp" alt="" coords="3268,152,3463,177"/>
+<area shape="rect" id="node11" href="$askpassphrasedialog_8cpp.html" title="src/qt/askpassphrasedialog.cpp" alt="" coords="269,152,478,177"/>
+<area shape="rect" id="node12" href="$coincontroldialog_8cpp.html" title="src/qt/coincontroldialog.cpp" alt="" coords="502,152,685,177"/>
+<area shape="rect" id="node13" href="$guiutil_8cpp.html" title="src/qt/guiutil.cpp" alt="" coords="709,152,827,177"/>
+<area shape="rect" id="node14" href="$openuridialog_8cpp.html" title="src/qt/openuridialog.cpp" alt="" coords="851,152,1014,177"/>
+<area shape="rect" id="node15" href="$paymentserver_8h.html" title="src/qt/paymentserver.h" alt="" coords="3087,152,3244,177"/>
+<area shape="rect" id="node18" href="$walletmodel_8cpp.html" title="src/qt/walletmodel.cpp" alt="" coords="2205,225,2358,251"/>
+<area shape="rect" id="node19" href="$receivecoinsdialog_8cpp.html" title="src/qt/receivecoinsdialog.cpp" alt="" coords="2643,225,2835,251"/>
+<area shape="rect" id="node20" href="$receiverequestdialog_8h.html" title="src/qt/receiverequestdialog.h" alt="" coords="2643,152,2835,177"/>
+<area shape="rect" id="node22" href="$recentrequeststablemodel_8h.html" title="src/qt/recentrequeststablemodel.h" alt="" coords="2346,152,2569,177"/>
+<area shape="rect" id="node24" href="$rpcconsole_8cpp.html" title="src/qt/rpcconsole.cpp" alt="" coords="1037,152,1184,177"/>
+<area shape="rect" id="node25" href="$sendcoinsdialog_8h.html" title="src/qt/sendcoinsdialog.h" alt="" coords="1926,152,2090,177"/>
+<area shape="rect" id="node27" href="$transactionview_8cpp.html" title="src/qt/transactionview.cpp" alt="" coords="1609,225,1783,251"/>
+<area shape="rect" id="node28" href="$sendcoinsentry_8h.html" title="src/qt/sendcoinsentry.h" alt="" coords="2115,152,2272,177"/>
+<area shape="rect" id="node30" href="$signverifymessagedialog_8cpp.html" title="src/qt/signverifymessagedialog.cpp" alt="" coords="1208,152,1437,177"/>
+<area shape="rect" id="node31" href="$transactiontablemodel_8cpp.html" title="src/qt/transactiontablemodel.cpp" alt="" coords="1462,152,1675,177"/>
+<area shape="rect" id="node32" href="$walletframe_8cpp.html" title="src/qt/walletframe.cpp" alt="" coords="1699,152,1850,177"/>
+<area shape="rect" id="node33" href="$walletmodeltransaction_8h.html" title="src/qt/walletmodeltransaction.h" alt="" coords="2859,152,3064,177"/>
+<area shape="rect" id="node16" href="$paymentserver_8cpp.html" title="src/qt/paymentserver.cpp" alt="" coords="3331,225,3501,251"/>
+<area shape="rect" id="node17" href="$transactiondesc_8cpp.html" title="src/qt/transactiondesc.cpp" alt="" coords="3525,225,3702,251"/>
+<area shape="rect" id="node21" href="$receiverequestdialog_8cpp.html" title="src/qt/receiverequestdialog.cpp" alt="" coords="2859,225,3064,251"/>
+<area shape="rect" id="node23" href="$recentrequeststablemodel_8cpp.html" title="src/qt/recentrequeststablemodel.cpp" alt="" coords="2382,225,2618,251"/>
+<area shape="rect" id="node26" href="$sendcoinsdialog_8cpp.html" title="src/qt/sendcoinsdialog.cpp" alt="" coords="1807,225,1985,251"/>
+<area shape="rect" id="node29" href="$sendcoinsentry_8cpp.html" title="src/qt/sendcoinsentry.cpp" alt="" coords="2009,225,2181,251"/>
+<area shape="rect" id="node34" href="$walletmodeltransaction_8cpp.html" title="src/qt/walletmodeltransaction.cpp" alt="" coords="3088,225,3307,251"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="CWallet::SetHDChain" name="CWallet::SetHDChain">
+<area shape="rect" id="node2" href="$class_wallet_batch.html#a730373abe82d3c9dc4fe328caeafaeec" title="write the hdchain model (external chain child index counter) " alt="" coords="202,33,387,59"/>
+<area shape="rect" id="node3" href="$class_wallet_batch.html#a552eb421cff45a9ed94b1ec77e5c76c3" title="WalletBatch::WriteIC" alt="" coords="435,33,578,59"/>
+<area shape="rect" id="node4" href="$class_berkeley_batch.html#ac31c83ec96f7bd149f856d28e97dba23" title="BerkeleyBatch::Write" alt="" coords="652,5,798,31"/>
+<area shape="rect" id="node5" href="$class_berkeley_database.html#a313cd767c211da5738bdb5578cd59af7" title="BerkeleyDatabase::Increment\lUpdateCounter" alt="" coords="626,55,823,93"/>
+</map>

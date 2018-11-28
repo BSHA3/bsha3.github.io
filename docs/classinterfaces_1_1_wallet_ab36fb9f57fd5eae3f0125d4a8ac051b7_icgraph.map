@@ -1,0 +1,9 @@
+<map id="interfaces::Wallet::getMinimumFee" name="interfaces::Wallet::getMinimumFee">
+<area shape="rect" id="node2" href="$class_send_coins_dialog.html#ac42a9db733fbb2e06882660400c49517" title="SendCoinsDialog::updateSmart\lFeeLabel" alt="" coords="178,33,386,72"/>
+<area shape="rect" id="node3" href="$class_send_coins_dialog.html#a360a23c02bd0e581b78603ccb863eb79" title="SendCoinsDialog::setClient\lModel" alt="" coords="462,5,646,44"/>
+<area shape="rect" id="node6" href="$class_send_coins_dialog.html#a74815ad8502b126200b6fd2e59e9f042" title="SendCoinsDialog::updateDisplayUnit" alt="" coords="434,68,674,93"/>
+<area shape="rect" id="node4" href="$class_wallet_view.html#a46d9a8d93adfdcc29cae9ff0d44c313e" title="Set the client model. " alt="" coords="957,16,1139,41"/>
+<area shape="rect" id="node5" href="$class_wallet_frame.html#a06cb28194836995e50cc46716b2227ff" title="WalletFrame::addWallet" alt="" coords="1188,41,1351,67"/>
+<area shape="rect" id="node7" href="$class_send_coins_dialog.html#a73a6c1b1850a334ee652ac167713a2aa" title="SendCoinsDialog::setModel" alt="" coords="722,65,908,91"/>
+<area shape="rect" id="node8" href="$class_wallet_view.html#a0a37ff693a4f9c1e5ddc23f9cd3913be" title="Set the wallet model. " alt="" coords="956,65,1140,91"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="JSONRPCError" name="JSONRPCError">
+<area shape="rect" id="node2" href="$mining_8h.html#aeae629d66e8abfac91fb0b43f5f1962e" title="Check bounds on a command line confirm target. " alt="" coords="204,5,344,31"/>
+<area shape="rect" id="node3" href="$mining_8h.html#a4910d289954727eb7c4c24a6b3c50c55" title="Generate blocks (mine) " alt="" coords="218,764,331,789"/>
+<area shape="rect" id="node4" href="$rpcwallet_8cpp.html#a236a42206aa464fbb10bae6e6243092b" title="generate" alt="" coords="462,817,536,843"/>
+<area shape="rect" id="node5" href="$mining_8cpp.html#a10cdffdab4c77633047f774c424a3713" title="setgenerate" alt="" coords="229,157,320,183"/>
+<area shape="rect" id="node6" href="$rawtransaction_8h.html#aee85a5d91a985f7e1bc1b4a124870ab3" title="Create a transaction from univalue parameters. " alt="" coords="617,461,764,487"/>
+<area shape="rect" id="node9" href="$rawtransaction_8h.html#a69f132a19b8e91bd9b0b1330b5323f0a" title="Sign a transaction with the given keystore and previous transactions. " alt="" coords="632,1972,749,1997"/>
+<area shape="rect" id="node10" href="$rpcwallet_8h.html#a7c13054932c9e3b351bd6277fa9361d7" title="signrawtransactionwithwallet" alt="" coords="812,1747,1003,1772"/>
+<area shape="rect" id="node11" href="$rawtransaction_8cpp.html#a5b2abfea4548c97e780cfae39f9ac11b" title="signrawtransaction" alt="" coords="208,360,341,385"/>
+<area shape="rect" id="node12" href="$rawtransaction_8cpp.html#a0e9b5930a41831d5be26d74565f07340" title="decodepsbt" alt="" coords="645,71,736,96"/>
+<area shape="rect" id="node13" href="$rawtransaction_8cpp.html#a220a68cf9c7fa672caf17951c5d280bd" title="combinepsbt" alt="" coords="642,133,739,159"/>
+<area shape="rect" id="node14" href="$rawtransaction_8cpp.html#a5edaef38949646889470912893a56b88" title="finalizepsbt" alt="" coords="646,209,734,235"/>
+<area shape="rect" id="node15" href="$rawtransaction_8cpp.html#a6b6a0c0d5bd5b55553ea48b3da2e796c" title="converttopsbt" alt="" coords="640,259,741,284"/>
+<area shape="rect" id="node16" href="$server_8h.html#a34ca526f05cc7f2281e634a5be48c121" title="Type&#45;check one argument; throws JSONRPCError if wrong type given. " alt="" coords="187,409,361,435"/>
+<area shape="rect" id="node18" href="$wallet__tests_8cpp.html#af0e3c9469f1d8f368d3d5f38e5580367" title="importmulti" alt="" coords="647,1120,734,1145"/>
+<area shape="rect" id="node19" href="$rpcwallet_8cpp.html#a9c99ceacf389a1ce91977c6f7ffa5022" title="walletprocesspsbt" alt="" coords="627,616,754,641"/>
+<area shape="rect" id="node20" href="$rpcwallet_8cpp.html#aaaebd94e806360dd08e7254b09c7997b" title="FundTransaction" alt="" coords="438,417,559,443"/>
+<area shape="rect" id="node21" href="$server_8h.html#ab6e621702aaefd12b164609463e81150" title="RPCTypeCheckObj" alt="" coords="206,915,343,940"/>
+<area shape="rect" id="node22" href="$server_8h.html#abee2131e97f3e3d0ab3bdc47916e29f4" title="AmountFromValue" alt="" coords="209,865,340,891"/>
+<area shape="rect" id="node23" href="$server_8h.html#adb231eaeb57d26011655ee8aaa5315e2" title="Utilities: convert hex&#45;encoded Values (throws error if not hex). " alt="" coords="226,561,322,587"/>
+<area shape="rect" id="node26" href="$rpcwallet_8cpp.html#a85478b0b9837a3e5467dce66fcb5ffb0" title="removeprunedfunds" alt="" coords="429,768,569,793"/>
+<area shape="rect" id="node27" href="$server_8h.html#a250d292e8ce3793abe154667a8297d08" title="ParseHexV" alt="" coords="230,1924,319,1949"/>
+<area shape="rect" id="node29" href="$class_j_s_o_n_r_p_c_request.html#a9ef1fae13a78674369efe21a5861426e" title="JSONRPCRequest::parse" alt="" coords="187,1067,362,1092"/>
+<area shape="rect" id="node30" href="$rpc_2util_8h.html#ac18ea86a874bf7841b716eca2b467746" title="HexToPubKey" alt="" coords="221,1116,327,1141"/>
+<area shape="rect" id="node31" href="$rpc_2util_8h.html#ad97eb14e556166df34392ec8eb8d3167" title="AddrToPubKey" alt="" coords="219,1165,330,1191"/>
+<area shape="rect" id="node32" href="$rpc_2util_8h.html#a804d6824bed98b30dc92d53b40d776c9" title="CreateMultisigRedeemscript" alt="" coords="180,1215,369,1240"/>
+<area shape="rect" id="node33" href="$rpcwallet_8cpp.html#a2f46e2bb304dda9a197b5a68db6106f7" title="importprivkey" alt="" coords="448,1623,549,1648"/>
+<area shape="rect" id="node34" href="$rpcwallet_8cpp.html#aba44e0021b6111a1f0a8c54bbff34130" title="importaddress" alt="" coords="446,919,552,944"/>
+<area shape="rect" id="node35" href="$rpcwallet_8cpp.html#a4b35e53468d94704834a928013d7e716" title="importprunedfunds" alt="" coords="432,1069,565,1095"/>
+<area shape="rect" id="node36" href="$rpcwallet_8cpp.html#a1e79cb342ad4f0bf7b02a2b1e18af7ff" title="importpubkey" alt="" coords="448,968,549,993"/>
+<area shape="rect" id="node37" href="$wallet__tests_8cpp.html#a8c64ef6e0ced69002923098229448758" title="importwallet" alt="" coords="452,1721,545,1747"/>
+<area shape="rect" id="node38" href="$rpcwallet_8cpp.html#ab3f51d8e8fe414dbf91c37485e481ae3" title="dumpprivkey" alt="" coords="450,1820,547,1845"/>
+<area shape="rect" id="node39" href="$wallet__tests_8cpp.html#a73ce3a42e0b56b2e4516e55871d8590e" title="dumpwallet" alt="" coords="454,1771,543,1796"/>
+<area shape="rect" id="node40" href="$rpcwallet_8h.html#a13cf9bdc928d8ca0b67e34791da05ddc" title="Figures out what wallet, if any, to use for a JSONRPCRequest. " alt="" coords="168,1519,381,1544"/>
+<area shape="rect" id="node42" href="$rpcwallet_8cpp.html#a74b85c92ee6a84277c73b74f2e212bff" title="listtransactions" alt="" coords="444,1320,553,1345"/>
+<area shape="rect" id="node43" href="$rpcwallet_8cpp.html#a151535abf7394b299deb8d0a333de70b" title="rescanblockchain" alt="" coords="437,1369,561,1395"/>
+<area shape="rect" id="node44" href="$rpcwallet_8h.html#a3f008088e017b871e32cfae02b622bc8" title="getaddressinfo" alt="" coords="444,1271,553,1296"/>
+<area shape="rect" id="node45" href="$rpcwallet_8cpp.html#a61c7a90d1b36888fe11b751e746e18c0" title="sethdseed" alt="" coords="457,1672,540,1697"/>
+<area shape="rect" id="node46" href="$rpcwallet_8h.html#a2fb6c6dc387554e482ce3284dd9faec8" title="EnsureWalletIsAvailable" alt="" coords="192,1316,357,1341"/>
+<area shape="rect" id="node47" href="$rpcwallet_8h.html#aae9bc665151c5bab626a7ffcaeed9c0d" title="EnsureWalletIsUnlocked" alt="" coords="191,1772,357,1797"/>
+<area shape="rect" id="node48" href="$rpcwallet_8cpp.html#a82b2a40e1b15b128aa95486251077884" title="if" alt="" coords="255,1973,294,1999"/>
+<area shape="rect" id="node49" href="$rpcwallet_8cpp.html#a614a0b6d4fe51abf85bdb57475cb9d48" title="AddKeypathToMap" alt="" coords="207,2023,341,2048"/>
+<area shape="rect" id="node50" href="$rpcwallet_8h.html#ab2cdd07070dae2e6b1a2ea36a619b233" title="FillPSBT" alt="" coords="462,467,535,492"/>
+<area shape="rect" id="node7" href="$rawtransaction_8cpp.html#ab96b0b3cf82a8f50975ee74c26c4dbf8" title="createpsbt" alt="" coords="866,385,949,411"/>
+<area shape="rect" id="node8" href="$rpcwallet_8cpp.html#afca55ac7a3c6c274b8b7b3e6eab9cd86" title="walletcreatefundedpsbt" alt="" coords="828,537,987,563"/>
+<area shape="rect" id="node17" href="$server_8h.html#a6671e87353f4ee4fbcc82275d75bb96a" title="Type&#45;check arguments; throws JSONRPCError if wrong type given. " alt="" coords="441,309,557,335"/>
+<area shape="rect" id="node24" href="$blockchain_8cpp.html#a0d3ec9ae23b08828dd7ca646766ca637" title="gettxout" alt="" coords="464,516,533,541"/>
+<area shape="rect" id="node25" href="$server_8h.html#ad4549aceb751d2ed900b3235d5342815" title="ParseHashO" alt="" coords="450,565,548,591"/>
+<area shape="rect" id="node28" href="$server_8h.html#ada8166ce740029507c6f29ab8b025eab" title="ParseHexO" alt="" coords="454,2023,544,2048"/>
+<area shape="rect" id="node41" href="$rpcwallet_8cpp.html#a9df6d8c784683e22309cb2627d21b1f2" title="abortrescan" alt="" coords="453,1221,545,1247"/>
+</map>

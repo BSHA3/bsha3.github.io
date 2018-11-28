@@ -1,0 +1,4 @@
+<map id="CWallet::ListLockedCoins" name="CWallet::ListLockedCoins">
+<area shape="rect" id="node2" href="$group___actions.html#gae5981ab18713cc5fd785d67b9ac96a84" title="Return list of available coins and locked coins grouped by non&#45;change output address. " alt="" coords="226,5,356,31"/>
+<area shape="rect" id="node3" href="$wallet__tests_8cpp.html#a5124bfced35ed545732a62fc7c82f9b1" title="BOOST_FIXTURE_TEST_CASE" alt="" coords="404,5,622,31"/>
+</map>

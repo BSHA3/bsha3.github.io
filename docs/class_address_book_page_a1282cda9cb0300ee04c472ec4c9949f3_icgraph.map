@@ -1,0 +1,7 @@
+<map id="AddressBookPage::setModel" name="AddressBookPage::setModel">
+<area shape="rect" id="node2" href="$class_send_coins_entry.html#ac661741d286d9f3db32f78bd22125cb0" title="SendCoinsEntry::on\l_addressBookButton_clicked" alt="" coords="247,5,440,44"/>
+<area shape="rect" id="node3" href="$class_sign_verify_message_dialog.html#a792a3bd647958c8ae74286c5ab3cf205" title="SignVerifyMessageDialog\l::on_addressBookButton\l_SM_clicked" alt="" coords="257,68,430,120"/>
+<area shape="rect" id="node4" href="$class_sign_verify_message_dialog.html#a90ceb00084c68da5e9c481ba0841d976" title="SignVerifyMessageDialog\l::on_addressBookButton\l_VM_clicked" alt="" coords="257,144,430,196"/>
+<area shape="rect" id="node5" href="$class_wallet_view.html#a0a37ff693a4f9c1e5ddc23f9cd3913be" title="Set the wallet model. " alt="" coords="251,220,436,245"/>
+<area shape="rect" id="node6" href="$class_wallet_frame.html#a06cb28194836995e50cc46716b2227ff" title="WalletFrame::addWallet" alt="" coords="488,220,651,245"/>
+</map>

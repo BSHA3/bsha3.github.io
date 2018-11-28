@@ -1,0 +1,21 @@
+<map id="CTxMemPoolEntry::GetTx" name="CTxMemPoolEntry::GetTx">
+<area shape="rect" id="node2" href="$class_c_block_policy_estimator.html#af34606ec5f6af217e23b47b8c3b2e361" title="Process a transaction accepted to the mempool. " alt="" coords="267,5,422,44"/>
+<area shape="rect" id="node3" href="$class_c_tx_mem_pool.html#a18ad91b355c68ce224a4889145a088ed" title="CTxMemPool::addUnchecked" alt="" coords="523,21,722,47"/>
+<area shape="rect" id="node4" href="$class_c_block_policy_estimator.html#adac45c8dba3d152590fc65b0ac831bda" title="Process a transaction confirmed in a block. " alt="" coords="267,120,422,159"/>
+<area shape="rect" id="node7" href="$blockchain_8h.html#a3b8a8939a31de29ceb0ea581341eeb92" title="Mempool to JSON. " alt="" coords="282,183,408,208"/>
+<area shape="rect" id="node8" href="$class_c_tx_mem_pool.html#a8b15745bfd755afcacad8befd752b270" title="Try to calculate all in&#45;mempool ancestors of entry. " alt="" coords="247,232,442,271"/>
+<area shape="rect" id="node19" href="$structmempoolentry__txid.html#a37425be6b24c83f6b4d3aeb37e014f16" title="mempoolentry_txid::\loperator()" alt="" coords="274,295,415,333"/>
+<area shape="rect" id="node20" href="$class_compare_tx_mem_pool_entry_by_score.html#afb1f8bc8ea1b3734007c61c1171aca63" title="CompareTxMemPoolEntryByScore\l::operator()" alt="" coords="230,357,459,396"/>
+<area shape="rect" id="node5" href="$class_c_block_policy_estimator.html#a65e487a203acb59995c667ab91b87444" title="Process all the transactions that have been included in a block. " alt="" coords="809,99,964,137"/>
+<area shape="rect" id="node6" href="$class_c_tx_mem_pool.html#af0d277f190f134638cb0aa18e2099094" title="Called when a block is connected. " alt="" coords="1549,157,1756,183"/>
+<area shape="rect" id="node9" href="$class_block_assembler.html#ac88956b3067e44661e837505d1540aa0" title="Add transactions based on feerate including unconfirmed ancestors Increments nPackagesSelected / nDes..." alt="" coords="512,155,732,180"/>
+<area shape="rect" id="node10" href="$rbf_8h.html#a5c495f7484e6725aa5cd36afb8b836d0" title="IsRBFOptIn" alt="" coords="577,204,668,229"/>
+<area shape="rect" id="node11" href="$class_c_tx_mem_pool.html#ae6df7d624e9ef0fb35004e09077e39c6" title="For each transaction being removed, update ancestors and any direct children. " alt="" coords="511,253,733,292"/>
+<area shape="rect" id="node17" href="$class_c_tx_mem_pool.html#a076041ea11b38722d1419c1640bf6ac4" title="Affect CreateNewBlock prioritisation of transactions. " alt="" coords="507,316,738,341"/>
+<area shape="rect" id="node18" href="$class_c_tx_mem_pool.html#abc11d3a8b291a4355547237a498da187" title="CTxMemPool::addUnchecked" alt="" coords="523,365,722,391"/>
+<area shape="rect" id="node12" href="$class_c_tx_mem_pool.html#a89e7372fff3b27b9969f4f94d1f5cff0" title="Remove a set of transactions from the mempool. " alt="" coords="786,257,987,283"/>
+<area shape="rect" id="node13" href="$class_c_tx_mem_pool.html#a1bdc49203ca7654d8508c356bcbca47e" title="CTxMemPool::removeRecursive" alt="" coords="1035,208,1248,233"/>
+<area shape="rect" id="node15" href="$class_c_tx_mem_pool.html#a283d0422469c908a881a6484308ee2b6" title="Expire all transaction (and their dependencies) in the mempool older than time. " alt="" coords="1068,257,1215,283"/>
+<area shape="rect" id="node16" href="$class_c_tx_mem_pool.html#adb0214b2760eaedf15eb351348bc4f43" title="Remove transactions from the mempool until its dynamic size is &lt;= sizelimit. " alt="" coords="1054,307,1229,332"/>
+<area shape="rect" id="node14" href="$class_c_tx_mem_pool.html#a01aa5f8ce16839bfbaacf67f40fe461d" title="CTxMemPool::removeConflicts" alt="" coords="1296,208,1501,233"/>
+</map>

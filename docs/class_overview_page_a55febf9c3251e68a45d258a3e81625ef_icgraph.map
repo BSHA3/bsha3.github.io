@@ -1,0 +1,5 @@
+<map id="OverviewPage::updateWatchOnlyLabels" name="OverviewPage::updateWatchOnlyLabels">
+<area shape="rect" id="node2" href="$class_overview_page.html#a2ed52a3a87e9c74fee38fa873c9bc71f" title="OverviewPage::setWalletModel" alt="" coords="247,12,453,37"/>
+<area shape="rect" id="node3" href="$class_wallet_view.html#a0a37ff693a4f9c1e5ddc23f9cd3913be" title="Set the wallet model. " alt="" coords="501,12,686,37"/>
+<area shape="rect" id="node4" href="$class_wallet_frame.html#a06cb28194836995e50cc46716b2227ff" title="WalletFrame::addWallet" alt="" coords="734,12,896,37"/>
+</map>

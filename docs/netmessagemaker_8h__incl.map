@@ -1,0 +1,25 @@
+<map id="src/netmessagemaker.h" name="src/netmessagemaker.h">
+<area shape="rect" id="node2" href="$net_8h.html" title="net.h" alt="" coords="1857,79,1908,104"/>
+<area shape="rect" id="node6" href="$serialize_8h.html" title="serialize.h" alt="" coords="913,372,995,397"/>
+<area shape="rect" id="node3" href="$addrdb_8h.html" title="addrdb.h" alt="" coords="1113,299,1187,324"/>
+<area shape="rect" id="node21" href="$compat_8h.html" title="compat.h" alt="" coords="2387,519,2463,544"/>
+<area shape="rect" id="node32" href="$addrman_8h.html" title="addrman.h" alt="" coords="1421,152,1506,177"/>
+<area shape="rect" id="node33" href="$netaddress_8h.html" title="netaddress.h" alt="" coords="2173,299,2271,324"/>
+<area shape="rect" id="node34" href="$protocol_8h.html" title="protocol.h" alt="" coords="2045,225,2125,251"/>
+<area shape="rect" id="node35" href="$uint256_8h.html" title="uint256.h" alt="" coords="1785,372,1861,397"/>
+<area shape="rect" id="node37" href="$random_8h.html" title="random.h" alt="" coords="1429,299,1506,324"/>
+<area shape="rect" id="node38" href="$sync_8h.html" title="sync.h" alt="" coords="2639,299,2699,324"/>
+<area shape="rect" id="node43" href="$amount_8h.html" title="amount.h" alt="" coords="1633,372,1710,397"/>
+<area shape="rect" id="node44" href="$bloom_8h.html" title="bloom.h" alt="" coords="1020,299,1088,324"/>
+<area shape="rect" id="node45" href="$_hash_8h.html" title="hash.h" alt="" coords="934,299,995,324"/>
+<area shape="rect" id="node46" href="$limitedmap_8h.html" title="limitedmap.h" alt="" coords="83,372,180,397"/>
+<area shape="rect" id="node47" href="$feerate_8h.html" title="policy/feerate.h" alt="" coords="1632,299,1743,324"/>
+<area shape="rect" id="node48" href="$streams_8h.html" title="streams.h" alt="" coords="481,299,561,324"/>
+<area shape="rect" id="node49" href="$threadinterrupt_8h.html" title="threadinterrupt.h" alt="" coords="2613,225,2732,251"/>
+<area shape="rect" id="node4" href="$fs_8h.html" title="fs.h" alt="" coords="1886,372,1929,397"/>
+<area shape="rect" id="node7" href="$endian_8h.html" title="compat/endian.h" alt="" coords="986,445,1106,471"/>
+<area shape="rect" id="node19" href="$prevector_8h.html" title="prevector.h" alt="" coords="773,445,860,471"/>
+<area shape="rect" id="node31" href="$span_8h.html" title="span.h" alt="" coords="1874,445,1935,471"/>
+<area shape="rect" id="node41" href="$timedata_8h.html" title="timedata.h" alt="" coords="1323,372,1407,397"/>
+<area shape="rect" id="node42" href="$util_8h.html" title="util.h" alt="" coords="1920,225,1969,251"/>
+</map>

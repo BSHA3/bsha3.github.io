@@ -1,0 +1,4 @@
+<map id="SHA3_256::update" name="SHA3_256::update">
+<area shape="rect" id="node2" href="$class_keccak_core.html#aaaa0355ccec0f469ac8eb577bdf853ed" title="Updates the Keccak sponge function with more input data. " alt="" coords="187,5,329,31"/>
+<area shape="rect" id="node3" href="$class_keccak_core.html#aba3225c7a4ceff3580236a900b72a1c3" title="Transform the state with the KECCAK&#45;p sponge function with b = 1600. " alt="" coords="377,5,528,31"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="PartiallyDownloadedBlock" name="PartiallyDownloadedBlock">
+<area shape="rect" id="node2" href="$class_c_tx_mem_pool.html" title="CTxMemPool stores valid&#45;according&#45;to&#45;the&#45;current&#45;best&#45;chain transactions that may be included in the ..." alt="" coords="72,280,174,305"/>
+<area shape="rect" id="node3" href="$class_c_block_policy_estimator.html" title="The BlockPolicyEstimator is used for estimating the feerate needed for a transaction to be included i..." alt="" coords="58,180,214,205"/>
+<area shape="rect" id="node4" href="$class_annotated_mixin.html" title="AnnotatedMixin\&lt; std\l::recursive_mutex \&gt;" alt="" coords="6,80,149,119"/>
+<area shape="rect" id="node6" href="$class_c_block_header.html" title="Nodes collect new transactions into a block, hash them into a hash tree, and scan through nonce value..." alt="" coords="213,280,320,305"/>
+<area shape="rect" id="node7" href="$classuint256.html" title="256&#45;bit opaque blob. " alt="" coords="250,180,315,205"/>
+<area shape="rect" id="node8" href="$classbase__blob.html" title="base_blob\&lt; 256 \&gt;" alt="" coords="219,87,347,112"/>
+</map>

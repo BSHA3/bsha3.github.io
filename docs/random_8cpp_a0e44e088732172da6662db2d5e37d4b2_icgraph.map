@@ -1,0 +1,20 @@
+<map id="GetRandInt" name="GetRandInt">
+<area shape="rect" id="node2" href="$class_c_addr_man.html#a4bf12611bd89c5e524396e50bf8f3846" title="Wraps GetRandInt to allow tests to override RandomInt and make it determinismistic. " alt="" coords="173,104,330,129"/>
+<area shape="rect" id="node14" href="$class_c_addr_man.html#a52982135b090086173daaaec83eca791" title="Return a random to&#45;be&#45;evicted tried table address. " alt="" coords="143,203,360,228"/>
+<area shape="rect" id="node16" href="$group___actions.html#gac583d3981eaba225db79414b5159ef31" title="Create a new transaction paying the recipients with a set of coins selected by SelectCoins(); Also cr..." alt="" coords="159,252,344,277"/>
+<area shape="rect" id="node18" href="$coinselection_8h.html#a18bc5dae6dd2a951ff37c36259aea48a" title="KnapsackSolver" alt="" coords="193,301,310,327"/>
+<area shape="rect" id="node3" href="$class_c_addr_man.html#abd5503f25498115552e410fad2c31064" title="Mark an entry &quot;good&quot;, possibly moving it from &quot;new&quot; to &quot;tried&quot;. " alt="" coords="447,5,579,31"/>
+<area shape="rect" id="node6" href="$class_c_addr_man.html#a0f280b5874a6507b463cae6075063ec2" title="Add an entry to the &quot;new&quot; table. " alt="" coords="451,55,575,80"/>
+<area shape="rect" id="node9" href="$class_c_addr_man.html#ae43fc0dabcc3d111d40dfa8bebf7ffc5" title="Select an address to connect to, if newOnly is set to true, only the new table is selected from..." alt="" coords="445,104,581,129"/>
+<area shape="rect" id="node11" href="$class_c_addr_man.html#ac0175a2ff32d2c1f459b95039b344e2a" title="Select several addresses at once. " alt="" coords="438,153,588,179"/>
+<area shape="rect" id="node4" href="$class_c_addr_man.html#acca82020635b7df1b7c24dfaf6b4de1d" title="Mark an entry as accessible. " alt="" coords="674,5,800,31"/>
+<area shape="rect" id="node5" href="$class_c_connman.html#a85dedb235a648a1b8370228ba62ebacb" title="CConnman::MarkAddressGood" alt="" coords="857,5,1064,31"/>
+<area shape="rect" id="node7" href="$class_c_addr_man.html#a03fcc7109b5f014760dc50a81f68c5ec" title="Add a single address. " alt="" coords="679,55,795,80"/>
+<area shape="rect" id="node8" href="$class_c_connman.html#a47d9024273a8c421fa7de641c30e9081" title="CConnman::AddNewAddresses" alt="" coords="856,55,1066,80"/>
+<area shape="rect" id="node10" href="$class_c_addr_man.html#a6279e9fdd1b78378c016087daf09a439" title="Choose an address to connect to. " alt="" coords="672,104,802,129"/>
+<area shape="rect" id="node12" href="$class_c_addr_man.html#a69cc6138e696cf88de60925d26023bf2" title="Return a bunch of addresses, selected at random. " alt="" coords="666,153,808,179"/>
+<area shape="rect" id="node13" href="$class_c_connman.html#a4ba34cd3557ab0ba1cfcbe7c18bf1199" title="CConnman::GetAddresses" alt="" coords="870,153,1051,179"/>
+<area shape="rect" id="node15" href="$class_c_addr_man.html#a72b044d1ab8c7ec7cd67bd0fbc600e6c" title="Randomly select an address in tried that another address is attempting to evict. " alt="" coords="408,203,618,228"/>
+<area shape="rect" id="node17" href="$group___actions.html#ga15a558d8fa0db299f38ed1e45a60aaaf" title="Insert additional inputs into the transaction by calling CreateTransaction();. " alt="" coords="426,252,600,277"/>
+<area shape="rect" id="node19" href="$group___actions.html#ga588aa50e86669d089e0debe68665ada0" title="Shuffle and select coins until nTargetValue is reached while avoiding small change; This method is st..." alt="" coords="415,301,611,327"/>
+</map>

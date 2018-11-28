@@ -1,0 +1,9 @@
+<map id="GetStrongRandBytes" name="GetStrongRandBytes">
+<area shape="rect" id="node2" href="$group__map_wallet.html#gab34fe5bf771619dcbe22a65f013e5469" title="CWallet::EncryptWallet" alt="" coords="639,5,796,31"/>
+<area shape="rect" id="node3" href="$class_c_key.html#a9d12ed9d297e4286250fd7ea6b59e1a5" title="Generate a new private key using a cryptographic PRNG. " alt="" coords="201,55,344,80"/>
+<area shape="rect" id="node4" href="$group__map_wallet.html#ga5abb589b31879b8f4bf1890c22f15f64" title="keystore implementation Generate a new key " alt="" coords="396,129,577,155"/>
+<area shape="rect" id="node6" href="$group__map_wallet.html#ga35c26d9e81464f04a45375647c251d67" title="CWallet::GenerateNewSeed" alt="" coords="392,80,581,105"/>
+<area shape="rect" id="node8" href="$key_8h.html#adc8d142f5bcd2ca6646462fb45a7945d" title="Check that required EC support is available at runtime. " alt="" coords="412,31,561,56"/>
+<area shape="rect" id="node5" href="$group___actions.html#gac452f46eafeb2b4adfe86f7208048032" title="CWallet::GetKeyFromPool" alt="" coords="629,129,806,155"/>
+<area shape="rect" id="node7" href="$rpcwallet_8cpp.html#a61c7a90d1b36888fe11b751e746e18c0" title="sethdseed" alt="" coords="676,80,759,105"/>
+</map>

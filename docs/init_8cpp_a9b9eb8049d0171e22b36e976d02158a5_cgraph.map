@@ -1,0 +1,7 @@
+<map id="AppInitSanityChecks" name="AppInitSanityChecks">
+<area shape="rect" id="node2" href="$sha256_8cpp.html#abc2dcb8510bce07b21a96bd56aafa712" title="Autodetect the best available SHA256 implementation. " alt="" coords="198,80,335,105"/>
+<area shape="rect" id="node3" href="$namespacesha256__shani.html#a97d2e267c87add9a1172d948e05ba471" title="sha256_shani::Transform" alt="" coords="415,5,587,31"/>
+<area shape="rect" id="node4" href="$namespacesha256d64__shani.html#a89a75e7c1bb74c818a5e24761563b7ba" title="sha256d64_shani::Transform_2way" alt="" coords="385,55,617,80"/>
+<area shape="rect" id="node5" href="$namespacesha256d64__sse41.html#acdc3f643aa1b61d0a185e718ced1ca44" title="sha256d64_sse41::Transform_4way" alt="" coords="383,104,619,129"/>
+<area shape="rect" id="node6" href="$namespacesha256d64__avx2.html#adec1500e9e3a0f51cdea56a7a89b0807" title="sha256d64_avx2::Transform_8way" alt="" coords="386,153,615,179"/>
+</map>

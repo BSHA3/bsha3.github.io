@@ -1,0 +1,8 @@
+<map id="OptionsModel::getProxySettings" name="OptionsModel::getProxySettings">
+<area shape="rect" id="node2" href="$classinterfaces_1_1_node.html#a62123e0abdccfc6dbc7ef77b52bb02f8" title="Get proxy. " alt="" coords="265,5,444,31"/>
+<area shape="rect" id="node3" href="$class_c_net_addr.html#a0c8d9b5ed3824546ff4dccca3b28b073" title="CNetAddr::ToStringIP" alt="" coords="280,55,429,80"/>
+<area shape="rect" id="node7" href="$class_c_service.html#a71caa0d6aa6ab12758bde8b6a6bcfd2a" title="CService::GetPort" alt="" coords="290,104,419,129"/>
+<area shape="rect" id="node4" href="$class_c_net_addr.html#a4db37b4997ff3b8c57959f2aa915a9a3" title="CNetAddr::IsTor" alt="" coords="505,5,621,31"/>
+<area shape="rect" id="node5" href="$utilstrencodings_8cpp.html#aed1944a78afffe9d5f3129e656dc8aa6" title="EncodeBase32" alt="" coords="507,55,619,80"/>
+<area shape="rect" id="node6" href="$class_c_net_addr.html#ab0848a1ba29b6f72fcc3b6ba8d7c8fbb" title="CNetAddr::IsInternal" alt="" coords="492,104,634,129"/>
+</map>

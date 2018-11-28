@@ -1,0 +1,5 @@
+<map id="MainSignalsInstance" name="MainSignalsInstance">
+<area shape="rect" id="node2" href="$class_single_threaded_scheduler_client.html" title="Class used by CScheduler clients which may schedule multiple jobs which are required to be run serial..." alt="" coords="5,180,215,205"/>
+<area shape="rect" id="node3" href="$class_c_scheduler.html" title="CScheduler" alt="" coords="6,87,97,112"/>
+<area shape="rect" id="node4" href="$class_annotated_mixin.html" title="AnnotatedMixin\&lt; std\l::recursive_mutex \&gt;" alt="" coords="122,80,264,119"/>
+</map>

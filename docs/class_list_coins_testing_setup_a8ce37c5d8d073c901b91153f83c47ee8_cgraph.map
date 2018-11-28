@@ -1,0 +1,9 @@
+<map id="ListCoinsTestingSetup::AddTx" name="ListCoinsTestingSetup::AddTx">
+<area shape="rect" id="node2" href="$util_8h.html#a96c5fc7111f69f7dcaba992d95d13e03" title="error" alt="" coords="267,5,316,31"/>
+<area shape="rect" id="node3" href="$standard_8cpp.html#aa376c6e2bc4848cfd4f777f8dd239469" title="Generate a P2PK script for the given pubkey. " alt="" coords="207,55,377,80"/>
+<area shape="rect" id="node8" href="$class_c_chain.html#a578545bde95163bee37b1be28e7b2755" title="Returns the index entry for the tip of this chain, or nullptr if none. " alt="" coords="246,104,337,129"/>
+<area shape="rect" id="node4" href="$class_c_pub_key.html#a859ab9909d68092d6d4fc739237ab358" title="CPubKey::begin" alt="" coords="425,31,543,56"/>
+<area shape="rect" id="node5" href="$class_c_pub_key.html#a1d6fb1ec2b45fb229f549215d6a23dbc" title="CPubKey::end" alt="" coords="430,80,537,105"/>
+<area shape="rect" id="node6" href="$class_c_pub_key.html#a6bb28fcf0a5f799c69f5b7269363b309" title="Simple read&#45;only vector&#45;like interface to the pubkey data. " alt="" coords="591,80,699,105"/>
+<area shape="rect" id="node7" href="$class_c_pub_key.html#a7dc71b3f037c84268dc22de97d7b65fb" title="Compute the length of a pubkey with a given first byte. " alt="" coords="747,80,876,105"/>
+</map>

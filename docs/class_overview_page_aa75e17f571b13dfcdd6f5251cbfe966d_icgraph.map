@@ -1,0 +1,7 @@
+<map id="OverviewPage::transactionClicked" name="OverviewPage::transactionClicked">
+<area shape="rect" id="node2" href="$class_overview_page.html#a8de10507bde89116a691ed61e7e52507" title="OverviewPage::handleTransaction\lClicked" alt="" coords="234,5,459,44"/>
+<area shape="rect" id="node4" href="$class_wallet_view.html#a8c584ab249ed6d5ca68c4f936ad74161" title="WalletView::WalletView" alt="" coords="267,68,426,93"/>
+<area shape="rect" id="node5" href="$class_wallet_view.html#a4405b0cf33d31ea663cb1e5047ae1d97" title="WalletView::setBitcoinGUI" alt="" coords="259,117,434,143"/>
+<area shape="rect" id="node3" href="$class_overview_page.html#ab377237585c9eeabc2eec882cec9a1e2" title="OverviewPage::OverviewPage" alt="" coords="507,12,709,37"/>
+<area shape="rect" id="node6" href="$class_wallet_frame.html#a06cb28194836995e50cc46716b2227ff" title="WalletFrame::addWallet" alt="" coords="526,117,689,143"/>
+</map>

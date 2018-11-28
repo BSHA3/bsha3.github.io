@@ -1,0 +1,6 @@
+<map id="ShutdownRequested" name="ShutdownRequested">
+<area shape="rect" id="node2" href="$group__map_wallet.html#gaabb1db808d082d6df2b1e37cbf3f8f98" title="Scan the block chain (starting in pindexStart) for transactions from or to us. " alt="" coords="198,5,436,31"/>
+<area shape="rect" id="node4" href="$mining_8h.html#a4910d289954727eb7c4c24a6b3c50c55" title="Generate blocks (mine) " alt="" coords="261,55,374,80"/>
+<area shape="rect" id="node3" href="$rpcwallet_8cpp.html#a151535abf7394b299deb8d0a333de70b" title="rescanblockchain" alt="" coords="484,5,609,31"/>
+<area shape="rect" id="node5" href="$rpcwallet_8cpp.html#a236a42206aa464fbb10bae6e6243092b" title="generate" alt="" coords="509,55,583,80"/>
+</map>

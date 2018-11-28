@@ -1,0 +1,6 @@
+<map id="fReindex" name="fReindex">
+<area shape="rect" id="node2" href="$validation_8h.html#a5edcd96316574fd4a7f3ae0922a5cfd6" title="Check whether we are doing an initial block download (synchronizing from disk or network) ..." alt="" coords="127,29,282,55"/>
+<area shape="rect" id="node5" href="$validation_8h.html#a8e26adec84c680afe495f0e31642c6da" title="Load the block tree and coins database from disk, initializing state if we&#39;re running with &#45;reindex..." alt="" coords="147,79,263,104"/>
+<area shape="rect" id="node3" href="$blockchain_8cpp.html#a474625d5c1ef0c47e33c078fb53f6ba4" title="Implementation of IsSuperMajority with better feedback. " alt="" coords="330,5,454,31"/>
+<area shape="rect" id="node4" href="$rpcwallet_8cpp.html#a61c7a90d1b36888fe11b751e746e18c0" title="sethdseed" alt="" coords="351,55,434,80"/>
+</map>

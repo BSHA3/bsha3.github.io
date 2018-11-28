@@ -1,0 +1,25 @@
+<map id="src/qt/trafficgraphwidget.cpp" name="src/qt/trafficgraphwidget.cpp">
+<area shape="rect" id="node2" href="$node_8h.html" title="interfaces/node.h" alt="" coords="1733,79,1856,104"/>
+<area shape="rect" id="node41" href="$trafficgraphwidget_8h.html" title="qt/trafficgraphwidget.h" alt="" coords="2236,79,2388,104"/>
+<area shape="rect" id="node44" href="$clientmodel_8h.html" title="qt/clientmodel.h" alt="" coords="2164,299,2279,324"/>
+<area shape="rect" id="node3" href="$addrdb_8h.html" title="addrdb.h" alt="" coords="394,372,468,397"/>
+<area shape="rect" id="node18" href="$amount_8h.html" title="amount.h" alt="" coords="422,299,498,324"/>
+<area shape="rect" id="node19" href="$net_8h.html" title="net.h" alt="" coords="1364,152,1415,177"/>
+<area shape="rect" id="node21" href="$netaddress_8h.html" title="netaddress.h" alt="" coords="1695,372,1793,397"/>
+<area shape="rect" id="node4" href="$fs_8h.html" title="fs.h" alt="" coords="267,445,309,471"/>
+<area shape="rect" id="node9" href="$serialize_8h.html" title="serialize.h" alt="" coords="1265,445,1346,471"/>
+<area shape="rect" id="node10" href="$endian_8h.html" title="compat/endian.h" alt="" coords="1213,519,1333,544"/>
+<area shape="rect" id="node17" href="$span_8h.html" title="span.h" alt="" coords="1560,519,1621,544"/>
+<area shape="rect" id="node20" href="$addrman_8h.html" title="addrman.h" alt="" coords="1165,225,1251,251"/>
+<area shape="rect" id="node22" href="$compat_8h.html" title="compat.h" alt="" coords="1861,445,1937,471"/>
+<area shape="rect" id="node24" href="$protocol_8h.html" title="protocol.h" alt="" coords="1084,299,1164,324"/>
+<area shape="rect" id="node25" href="$uint256_8h.html" title="uint256.h" alt="" coords="689,445,765,471"/>
+<area shape="rect" id="node27" href="$random_8h.html" title="random.h" alt="" coords="637,299,715,324"/>
+<area shape="rect" id="node28" href="$sync_8h.html" title="sync.h" alt="" coords="1441,299,1501,324"/>
+<area shape="rect" id="node31" href="$bloom_8h.html" title="bloom.h" alt="" coords="1818,372,1886,397"/>
+<area shape="rect" id="node32" href="$_hash_8h.html" title="hash.h" alt="" coords="1609,372,1671,397"/>
+<area shape="rect" id="node33" href="$limitedmap_8h.html" title="limitedmap.h" alt="" coords="941,445,1038,471"/>
+<area shape="rect" id="node34" href="$feerate_8h.html" title="policy/feerate.h" alt="" coords="573,225,685,251"/>
+<area shape="rect" id="node35" href="$streams_8h.html" title="streams.h" alt="" coords="881,372,961,397"/>
+<area shape="rect" id="node36" href="$threadinterrupt_8h.html" title="threadinterrupt.h" alt="" coords="1330,225,1449,251"/>
+</map>

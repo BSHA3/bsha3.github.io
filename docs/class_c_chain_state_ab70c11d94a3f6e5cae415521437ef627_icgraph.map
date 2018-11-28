@@ -1,0 +1,7 @@
+<map id="CChainState::AcceptBlockHeader" name="CChainState::AcceptBlockHeader">
+<area shape="rect" id="node2" href="$validation_8h.html#ad959cc64d22660f1f561798040bb1f6a" title="Process incoming block headers. " alt="" coords="231,5,410,31"/>
+<area shape="rect" id="node3" href="$class_c_chain_state.html#ae73c43d5a0296d8972b1fe69da7e10ff" title="Store block on disk. " alt="" coords="232,55,409,80"/>
+<area shape="rect" id="node4" href="$validation_8h.html#a32c6dfc4ade001f117ac3fac3da9d123" title="Process an incoming block. " alt="" coords="458,55,587,80"/>
+<area shape="rect" id="node5" href="$mining_8h.html#a4910d289954727eb7c4c24a6b3c50c55" title="Generate blocks (mine) " alt="" coords="635,55,748,80"/>
+<area shape="rect" id="node6" href="$rpcwallet_8cpp.html#a236a42206aa464fbb10bae6e6243092b" title="generate" alt="" coords="796,55,870,80"/>
+</map>

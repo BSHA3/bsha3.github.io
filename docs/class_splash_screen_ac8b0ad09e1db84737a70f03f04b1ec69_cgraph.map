@@ -1,0 +1,10 @@
+<map id="SplashScreen::SplashScreen" name="SplashScreen::SplashScreen">
+<area shape="rect" id="node2" href="$clientversion_8cpp.html#ac3e3098552063f228d9deac38a8b9848" title="FormatFullVersion" alt="" coords="283,5,412,31"/>
+<area shape="rect" id="node4" href="$util_8cpp.html#a37261527315b7039a9b6d9916d1a6003" title="CopyrightHolders" alt="" coords="285,55,410,80"/>
+<area shape="rect" id="node6" href="$class_network_style.html#a12eab0110656b06afe8ef5dc4cf1f810" title="NetworkStyle::getTitleAddText" alt="" coords="248,104,447,129"/>
+<area shape="rect" id="node7" href="$class_network_style.html#ad91c8a6d8f33741cdbe0ebbd716a36bb" title="NetworkStyle::getAppIcon" alt="" coords="260,153,435,179"/>
+<area shape="rect" id="node8" href="$class_splash_screen.html#a2bcb6064028190430f5394635e1a4d24" title="Connect core signals to splash screen. " alt="" coords="256,203,439,241"/>
+<area shape="rect" id="node3" href="$clientversion_8cpp.html#aff087070aeaa72e85b2d1a6192af8af5" title="CLIENT_BUILD" alt="" coords="520,5,635,31"/>
+<area shape="rect" id="node5" href="$util_8h.html#aad133bb6103b53cebf03fd01e2f11ba1" title="Translation function. " alt="" coords="558,55,597,80"/>
+<area shape="rect" id="node9" href="$classinterfaces_1_1_node.html#a66bef8c0f6d31af98de5309c5b41932d" title="interfaces::Node::handle\lInitMessage" alt="" coords="495,203,661,241"/>
+</map>

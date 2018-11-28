@@ -1,0 +1,4 @@
+<map id="TorController::protocolinfo_cb" name="TorController::protocolinfo_cb">
+<area shape="rect" id="node2" href="$torcontrol_8cpp.html#a3bcc380129e28cdd0d99f253477873b1" title="SplitTorReplyLine" alt="" coords="266,5,391,31"/>
+<area shape="rect" id="node3" href="$torcontrol_8cpp.html#aef4e3c2281283409db7b0c878a6c2043" title="Parse reply arguments in the form &#39;METHODS=COOKIE,SAFECOOKIE COOKIEFILE=&quot;.../control_auth_cookie&quot;&#39;. " alt="" coords="249,55,409,80"/>
+</map>

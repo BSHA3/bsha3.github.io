@@ -1,0 +1,5 @@
+<map id="WalletModel::message" name="WalletModel::message">
+<area shape="rect" id="node2" href="$class_wallet_model.html#aa56ac200db13d7121cedb40ebd43ba2f" title="WalletModel::prepareTransaction" alt="" coords="209,5,426,31"/>
+<area shape="rect" id="node3" href="$class_wallet_view.html#a0a37ff693a4f9c1e5ddc23f9cd3913be" title="Set the wallet model. " alt="" coords="225,55,410,80"/>
+<area shape="rect" id="node4" href="$class_wallet_frame.html#a06cb28194836995e50cc46716b2227ff" title="WalletFrame::addWallet" alt="" coords="474,55,636,80"/>
+</map>

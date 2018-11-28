@@ -1,0 +1,4 @@
+<map id="CWalletTx::GetDebit" name="CWalletTx::GetDebit">
+<area shape="rect" id="node2" href="$group__map_wallet.html#ga5ab4855aac6f4b335421944403e44d6d" title="Returns amount of debit if the input matches the filter, otherwise returns 0. " alt="" coords="196,5,323,31"/>
+<area shape="rect" id="node3" href="$group__map_wallet.html#ga4eada57edc1c443564b8cc9b853d955c" title="CWallet::IsMine" alt="" coords="371,5,485,31"/>
+</map>

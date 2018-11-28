@@ -1,0 +1,4 @@
+<map id="CuckooCache::bit_packed_atomic_flags::bit_unset" name="CuckooCache::bit_packed_atomic_flags::bit_unset">
+<area shape="rect" id="node2" href="$class_cuckoo_cache_1_1cache.html#ad655128aa36ae6dac7e931e42705b3d9" title="please_keep marks the element at index n as an entry that should be kept. " alt="" coords="230,5,378,44"/>
+<area shape="rect" id="node3" href="$class_cuckoo_cache_1_1cache.html#a7196070c52ba258b62a2c0d0bc7471d2" title="insert loops at most depth_limit times trying to insert a hash at various locations in the table via ..." alt="" coords="426,5,574,44"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="CBasicKeyStore::AddKeyPubKey" name="CBasicKeyStore::AddKeyPubKey">
+<area shape="rect" id="node2" href="$class_c_basic_key_store.html#a07950fc7f9bba7f2460d89a882ac544b" title="CBasicKeyStore::AddKey" alt="" coords="299,25,472,51"/>
+<area shape="rect" id="node3" href="$class_c_crypto_key_store.html#a4a2d6d44d1c5e844cf0166d286f5eb18" title="Add a key to the store. " alt="" coords="273,75,498,100"/>
+<area shape="rect" id="node4" href="$group__map_wallet.html#gaf482ede71b2fde291b8c6ec262b22ef4" title="CWallet::AddKeyPubKeyWithDB" alt="" coords="546,49,760,75"/>
+<area shape="rect" id="node14" href="$class_c_wallet.html#a439bab81d7989f91a4f0909960516eea" title="Adds a key to the store, without saving it to disk (used by LoadWallet) " alt="" coords="589,99,717,124"/>
+<area shape="rect" id="node5" href="$group__map_wallet.html#ga5abb589b31879b8f4bf1890c22f15f64" title="keystore implementation Generate a new key " alt="" coords="808,19,988,44"/>
+<area shape="rect" id="node7" href="$group__map_wallet.html#ga2b0c518df362a1a765a241c1ca5c69a0" title="Adds a key to the store, and saves it to disk. " alt="" coords="814,80,982,105"/>
+<area shape="rect" id="node6" href="$group___actions.html#gac452f46eafeb2b4adfe86f7208048032" title="CWallet::GetKeyFromPool" alt="" coords="1056,5,1234,31"/>
+<area shape="rect" id="node8" href="$group__map_wallet.html#gaf72003c77abf215cc1576ab6c50125f7" title="CWallet::DeriveNewSeed" alt="" coords="1059,55,1231,80"/>
+<area shape="rect" id="node12" href="$rpcwallet_8cpp.html#a2f46e2bb304dda9a197b5a68db6106f7" title="importprivkey" alt="" coords="1095,104,1195,129"/>
+<area shape="rect" id="node13" href="$wallet__tests_8cpp.html#a5dfd138cbfb5e97ec54f8d807f9a4231" title="BOOST_FIXTURE_TEST_CASE" alt="" coords="1036,153,1254,179"/>
+<area shape="rect" id="node9" href="$group__map_wallet.html#ga35c26d9e81464f04a45375647c251d67" title="CWallet::GenerateNewSeed" alt="" coords="1302,29,1490,55"/>
+<area shape="rect" id="node11" href="$rpcwallet_8cpp.html#a61c7a90d1b36888fe11b751e746e18c0" title="sethdseed" alt="" coords="1575,79,1658,104"/>
+<area shape="rect" id="node10" href="$group__map_wallet.html#gab34fe5bf771619dcbe22a65f013e5469" title="CWallet::EncryptWallet" alt="" coords="1538,29,1695,55"/>
+</map>

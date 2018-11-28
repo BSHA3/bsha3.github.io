@@ -1,0 +1,5 @@
+<map id="CExtKey::Derive" name="CExtKey::Derive">
+<area shape="rect" id="node2" href="$group__map_wallet.html#gafb01fcc10d890174b2db560a7f27b58a" title="CWallet::DeriveNewChildKey" alt="" coords="172,5,366,31"/>
+<area shape="rect" id="node3" href="$group__map_wallet.html#ga5abb589b31879b8f4bf1890c22f15f64" title="keystore implementation Generate a new key " alt="" coords="414,5,594,31"/>
+<area shape="rect" id="node4" href="$group___actions.html#gac452f46eafeb2b4adfe86f7208048032" title="CWallet::GetKeyFromPool" alt="" coords="642,5,819,31"/>
+</map>

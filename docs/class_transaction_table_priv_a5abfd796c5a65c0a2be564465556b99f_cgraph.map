@@ -1,0 +1,51 @@
+<map id="TransactionTablePriv::describe" name="TransactionTablePriv::describe">
+<area shape="rect" id="node2" href="$class_transaction_desc.html#a6ae7f995de691f91a24e0b1bcf0a1a95" title="TransactionDesc::toHTML" alt="" coords="199,477,374,503"/>
+<area shape="rect" id="node3" href="$classinterfaces_1_1_wallet.html#af737da084c822d9a94d25936d62b2b98" title="Get transaction details. " alt="" coords="445,5,585,44"/>
+<area shape="rect" id="node4" href="$class_transaction_desc.html#a6e8c5c14ff7c4fc8458cc289f6c8c213" title="TransactionDesc::FormatTx\lStatus" alt="" coords="422,68,608,107"/>
+<area shape="rect" id="node5" href="$namespace_g_u_i_util.html#aae732a04fea25190081120bf0cc773e8" title="GUIUtil::dateTimeStr" alt="" coords="443,131,587,156"/>
+<area shape="rect" id="node6" href="$namespace_g_u_i_util.html#a2d4b7f2c11ebc4b97af10bc20d19b1b2" title="GUIUtil::HtmlEscape" alt="" coords="443,180,587,205"/>
+<area shape="rect" id="node7" href="$key__io_8cpp.html#a8a781e21ad4ecccd9c97c7d890ef7d6f" title="DecodeDestination" alt="" coords="448,477,582,503"/>
+<area shape="rect" id="node9" href="$standard_8cpp.html#adb3a21e4afe9c672720b182ddc7cad7c" title="Check whether a CTxDestination is a CNoDestination. " alt="" coords="452,279,579,304"/>
+<area shape="rect" id="node10" href="$classinterfaces_1_1_wallet.html#af039083dddf77005b05305e9db0fc753" title="Look up address in wallet, return whether exists. " alt="" coords="453,328,577,367"/>
+<area shape="rect" id="node11" href="$classinterfaces_1_1_wallet.html#a1fea1e4764292d015473a85d18d8f7d0" title="Return credit amount if transaction input belongs to wallet. " alt="" coords="453,391,577,429"/>
+<area shape="rect" id="node12" href="$class_bitcoin_units.html#a5f4ef08b81386d393a16001bdfef5d56" title="Format as HTML string (with unit) " alt="" coords="433,527,597,565"/>
+<area shape="rect" id="node20" href="$standard_8cpp.html#a951f7e601746ae076afdf3169ecca2fc" title="Parse a standard scriptPubKey for the destination address. " alt="" coords="450,589,580,615"/>
+<area shape="rect" id="node37" href="$key__io_8cpp.html#a69b845c325e6bf516251cd3a67fe1df7" title="EncodeDestination" alt="" coords="448,229,582,255"/>
+<area shape="rect" id="node38" href="$classinterfaces_1_1_wallet.html#a446550fafb0e2aa339f5170bfac846e8" title="Return debit amount if transaction input belongs to wallet. " alt="" coords="453,639,577,677"/>
+<area shape="rect" id="node39" href="$class_transaction_record.html#a8c3553dbd5fc239c57abf10719e2b6a7" title="Return the unique identifier for this transaction (part) " alt="" coords="445,701,585,740"/>
+<area shape="rect" id="node41" href="$policy_8cpp.html#a657a593ec90452062582ccf893a8488d" title="Compute the virtual transaction size (weight reinterpreted as bytes). " alt="" coords="427,764,603,789"/>
+<area shape="rect" id="node42" href="$class_transaction_record.html#a51d9d52d92a57448ab9b237e968c5ff6" title="Return the output index of the subtransaction. " alt="" coords="445,813,585,852"/>
+<area shape="rect" id="node43" href="$class_payment_request_plus.html#aaa495c136209bac976cc195705a6c509" title="PaymentRequestPlus\l::parse" alt="" coords="440,876,590,915"/>
+<area shape="rect" id="node44" href="$class_payment_request_plus.html#a3d13d13cf6a552695971cc257a33ca81" title="PaymentRequestPlus\l::getMerchant" alt="" coords="440,939,590,977"/>
+<area shape="rect" id="node8" href="$chainparams_8cpp.html#ace5c5b706d71a324a417dd2db394fd4a" title="Return the currently selected parameters. " alt="" coords="716,277,783,303"/>
+<area shape="rect" id="node13" href="$class_bitcoin_units.html#aef9fb7509257bc84ee459d7f0c663020" title="Format as string (with unit) " alt="" coords="656,389,843,415"/>
+<area shape="rect" id="node14" href="$class_bitcoin_units.html#ab07437e5a788c80a82d75e3714bd3925" title="Format as string. " alt="" coords="918,389,1055,415"/>
+<area shape="rect" id="node18" href="$class_bitcoin_units.html#af65eb534385613f176593cc7545136d0" title="Short name. " alt="" coords="904,316,1068,341"/>
+<area shape="rect" id="node15" href="$class_bitcoin_units.html#a81cbc41480adfb600dad79711d336e5f" title="Is unit ID valid? " alt="" coords="1146,340,1273,365"/>
+<area shape="rect" id="node16" href="$class_bitcoin_units.html#ae967b9e6ecbb8f041bfe398d27533b09" title="Number of Satoshis (1e&#45;8) per unit. " alt="" coords="1143,389,1276,415"/>
+<area shape="rect" id="node17" href="$class_bitcoin_units.html#a3f0fc21634520ea06c684ba0d7e25f2f" title="Number of decimals left. " alt="" coords="1133,439,1285,464"/>
+<area shape="rect" id="node19" href="$class_bitcoin_units.html#a97f983970ff33cae20996ba26ab257cd" title="Long name. " alt="" coords="1129,291,1289,316"/>
+<area shape="rect" id="node21" href="$standard_8cpp.html#a5a3369fceeb25173e2faa4a7ebc7a4e4" title="Parse a scriptPubKey and identify script type for standard scripts. " alt="" coords="720,673,779,699"/>
+<area shape="rect" id="node29" href="$class_c_pub_key.html#a4fa94293cf8577fd039b9a133f6c7f30" title="CPubKey::IsValid" alt="" coords="687,624,811,649"/>
+<area shape="rect" id="node32" href="$class_c_pub_key.html#a2675f7e6f72eff68e7a5227289feb021" title="Get the KeyID of this public key (hash of its serialization) " alt="" coords="689,525,809,551"/>
+<area shape="rect" id="node36" href="$classbase__blob.html#aeee68e00ceeacf49086e98b661e017ff" title="base_blob::begin" alt="" coords="688,575,811,600"/>
+<area shape="rect" id="node22" href="$class_c_script.html#a0c3729c606d318923dc06f95d85a0971" title="CScript::IsPayToScriptHash" alt="" coords="894,656,1079,681"/>
+<area shape="rect" id="node24" href="$classprevector.html#aa9210cbe708412a70868d6e0bca844c9" title="prevector::begin" alt="" coords="1151,837,1268,863"/>
+<area shape="rect" id="node26" href="$class_c_script.html#ae6f2ab1af6361c5772f62b28b19f5eae" title="CScript::IsWitnessProgram" alt="" coords="895,739,1077,764"/>
+<area shape="rect" id="node23" href="$classprevector.html#a626f7d206dbc24e5610631809762758b" title="prevector::size" alt="" coords="1349,688,1458,713"/>
+<area shape="rect" id="node25" href="$classprevector.html#a59f1d7bcbc751cfa0faddd7ffa184846" title="prevector::item_ptr" alt="" coords="1337,812,1470,837"/>
+<area shape="rect" id="node27" href="$class_c_script.html#a7f975fca06b3e9a17da8ba23c7647e2e" title="Encode/decode small integers: " alt="" coords="1132,739,1287,764"/>
+<area shape="rect" id="node28" href="$classprevector.html#aab7f6e13a3cac85cc340fc6b90c5365c" title="prevector::end" alt="" coords="1156,788,1263,813"/>
+<area shape="rect" id="node30" href="$class_c_pub_key.html#a6bb28fcf0a5f799c69f5b7269363b309" title="Simple read&#45;only vector&#45;like interface to the pubkey data. " alt="" coords="932,587,1041,612"/>
+<area shape="rect" id="node31" href="$class_c_pub_key.html#a7dc71b3f037c84268dc22de97d7b65fb" title="Compute the length of a pubkey with a given first byte. " alt="" coords="1145,587,1274,612"/>
+<area shape="rect" id="node33" href="$_hash_8h.html#a3f56a9b8501ec9d021aad11389d419c4" title="Compute the 160&#45;bit hash an object. " alt="" coords="949,525,1024,551"/>
+<area shape="rect" id="node34" href="$class_c_hash360.html#a9268162ed4d951b479493d16f0bfb5df" title="CHash360::Write" alt="" coords="1148,537,1271,563"/>
+<area shape="rect" id="node35" href="$class_c_hash360.html#abb6b8a5693cd0b09e52bb624bafc1efd" title="CHash360::Finalize" alt="" coords="1140,488,1278,513"/>
+<area shape="rect" id="node40" href="$classbase__blob.html#a7a0d25782830d8b087c4da839f3ccdeb" title="base_blob::ToString" alt="" coords="680,723,819,748"/>
+<area shape="rect" id="node45" href="$class_payment_request_plus.html#aa3d8c57af7c7bc4ffbc31da32e5a40a6" title="PaymentRequestPlus\l::IsInitialized" alt="" coords="675,939,824,977"/>
+<area shape="rect" id="node46" href="$util_8h.html#a96c5fc7111f69f7dcaba992d95d13e03" title="error" alt="" coords="725,1001,774,1027"/>
+<area shape="rect" id="node47" href="$class_args_manager.html#af81c6e2a9dcd6b12557a2387fd67b2a6" title="Return boolean argument or default value. " alt="" coords="661,889,838,915"/>
+<area shape="rect" id="node48" href="$class_args_manager.html#a113a1b8c5471d2fff0108058be8b86af" title="Return true if the argument was originally passed as a negated option, i.e. " alt="" coords="891,884,1081,909"/>
+<area shape="rect" id="node50" href="$class_args_manager_helper.html#aa4f8f77dc468b29cffe50513c78a87cd" title="ArgsManagerHelper::\lGetArg" alt="" coords="912,933,1060,972"/>
+<area shape="rect" id="node49" href="$class_args_manager_helper.html#a863ddbcfbd113cf88cf622a0a4e32c1d" title="Convert regular argument into the network&#45;specific setting. " alt="" coords="1135,911,1283,949"/>
+</map>

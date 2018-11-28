@@ -1,0 +1,11 @@
+<map id="SendCoinsEntry::SendCoinsEntry" name="SendCoinsEntry::SendCoinsEntry">
+<area shape="rect" id="node2" href="$class_platform_style.html#a3f4ff8b7a2054cbd4283e67208523035" title="Colorize an icon (given filename) with the icon color. " alt="" coords="245,5,447,31"/>
+<area shape="rect" id="node4" href="$class_platform_style.html#a67b6942f6dcf2ca765f8af2d6f377ce8" title="PlatformStyle::getUseExtra\lSpacing" alt="" coords="256,55,437,93"/>
+<area shape="rect" id="node5" href="$namespace_g_u_i_util.html#aeb3b902c0536bdb9c2def3d3e465aeba" title="GUIUtil::setupAddressWidget" alt="" coords="249,169,444,195"/>
+<area shape="rect" id="node6" href="$namespace_g_u_i_util.html#af6b9624383a5313a5d856c59913b599b" title="GUIUtil::fixedPitchFont" alt="" coords="507,119,663,144"/>
+<area shape="rect" id="node9" href="$class_send_coins_entry.html#aa749b51119d0504f204bbf7c90744e2e" title="SendCoinsEntry::deleteClicked" alt="" coords="244,219,449,244"/>
+<area shape="rect" id="node10" href="$class_send_coins_entry.html#a8ef07aa05f905f1a14bff42f89a9e559" title="SendCoinsEntry::useAvailable\lBalanceClicked" alt="" coords="246,268,446,307"/>
+<area shape="rect" id="node3" href="$class_platform_style.html#a76949291f8dfc8b7a34f90cf119ed8e4" title="PlatformStyle::SingleColor" alt="" coords="497,5,674,31"/>
+<area shape="rect" id="node7" href="$chainparams_8cpp.html#ace5c5b706d71a324a417dd2db394fd4a" title="Return the currently selected parameters. " alt="" coords="552,169,619,195"/>
+<area shape="rect" id="node8" href="$class_q_validated_line_edit.html#af365be1760e17fd1ea6b430fa6005bd2" title="QValidatedLineEdit\l::setCheckValidator" alt="" coords="517,219,653,257"/>
+</map>

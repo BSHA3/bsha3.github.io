@@ -1,0 +1,8 @@
+<map id="TransactionView::setModel" name="TransactionView::setModel">
+<area shape="rect" id="node2" href="$class_wallet_model.html#afe9f7d149f1e8335033c69dab1dc277d" title="WalletModel::getTransaction\lTableModel" alt="" coords="242,5,431,44"/>
+<area shape="rect" id="node3" href="$class_wallet_model.html#a96d53e56b3f8f07537ea2523f7a7d300" title="WalletModel::getOptionsModel" alt="" coords="235,68,438,93"/>
+<area shape="rect" id="node4" href="$class_options_model.html#ad1d75a279030057c8bcbdfad5051b870" title="OptionsModel::getThirdParty\lTxUrls" alt="" coords="241,117,432,156"/>
+<area shape="rect" id="node5" href="$class_transaction_view.html#a4f0b28d3a8557d6f490f250bf74b7d5d" title="TransactionView::updateWatch\lOnlyColumn" alt="" coords="234,180,439,219"/>
+<area shape="rect" id="node6" href="$class_wallet_model.html#aa3a3b4a8064de3af096dbf64bfe12655" title="WalletModel::wallet" alt="" coords="268,243,404,268"/>
+<area shape="rect" id="node7" href="$classinterfaces_1_1_wallet.html#ad4870d1187f6f86a27baef8bdef80823" title="Return whether wallet has watch only keys. " alt="" coords="275,292,398,331"/>
+</map>

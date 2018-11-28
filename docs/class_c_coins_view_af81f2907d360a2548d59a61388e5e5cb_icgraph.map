@@ -1,0 +1,6 @@
+<map id="CCoinsView::GetBestBlock" name="CCoinsView::GetBestBlock">
+<area shape="rect" id="node2" href="$class_c_coins_view_backed.html#a4d5c20ed1db1449be6e4b1b01001e3f0" title="Retrieve the block hash whose state this CCoinsView currently represents. " alt="" coords="235,5,429,44"/>
+<area shape="rect" id="node3" href="$class_c_coins_view_cache.html#a943a3d13f2ba6936002d7a87b969edba" title="Retrieve the block hash whose state this CCoinsView currently represents. " alt="" coords="238,68,426,107"/>
+<area shape="rect" id="node4" href="$validation_8h.html#ada1eab9ccd84d9a98f598eba9bd35330" title="Return the spend height, which is one more than the inputs.GetBestBlock(). " alt="" coords="510,49,630,75"/>
+<area shape="rect" id="node5" href="$class_c_chain_state.html#a06a01f2d89b7a40b5341083aa522a1e2" title="Apply the effects of this block (with given index) on the UTXO set represented by coins..." alt="" coords="477,99,664,124"/>
+</map>

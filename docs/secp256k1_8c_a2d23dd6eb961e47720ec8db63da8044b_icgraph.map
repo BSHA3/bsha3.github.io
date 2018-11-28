@@ -1,0 +1,11 @@
+<map id="secp256k1_context_create" name="secp256k1_context_create">
+<area shape="rect" id="node2" href="$class_e_c_c_verify_handle.html#a01404b41eee891c1dea4b58db02e56fb" title="ECCVerifyHandle::ECCVerify\lHandle" alt="" coords="234,5,428,44"/>
+<area shape="rect" id="node3" href="$bench__internal_8c.html#a0267a6fcf26df5e2625c0f93eed876a9" title="bench_context_verify" alt="" coords="257,68,405,93"/>
+<area shape="rect" id="node5" href="$bench__internal_8c.html#a0d6ae07fc12e8c74ebdcb49871cbfc0e" title="bench_context_sign" alt="" coords="261,117,401,143"/>
+<area shape="rect" id="node6" href="$bench__recover_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="306,167,356,192"/>
+<area shape="rect" id="node7" href="$ecdh_2tests__impl_8h.html#aa7159f9419cd1b57e4c1524a99b731de" title="test_ecdh_api" alt="" coords="279,216,383,241"/>
+<area shape="rect" id="node9" href="$recovery_2tests__impl_8h.html#a0966a428c1c43743711ce59cb9da75b3" title="test_ecdsa_recovery_api" alt="" coords="246,265,416,291"/>
+<area shape="rect" id="node10" href="$tests_8c.html#a2f9713526b1e988694c6e2026a6fce69" title="run_context_tests" alt="" coords="268,315,394,340"/>
+<area shape="rect" id="node4" href="$bench__internal_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="507,93,557,119"/>
+<area shape="rect" id="node8" href="$ecdh_2tests__impl_8h.html#aab6cd779f0b87dc8a7afdf4eaf873407" title="run_ecdh_tests" alt="" coords="476,216,589,241"/>
+</map>

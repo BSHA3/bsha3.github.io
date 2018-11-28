@@ -1,0 +1,4 @@
+<map id="GetVirtualTransactionInputSize" name="GetVirtualTransactionInputSize">
+<area shape="rect" id="node2" href="$group__map_wallet.html#ga05b4378caaacc3cff6da90a12f7b41d7" title="CalculateMaximumSignedInputSize" alt="" coords="258,5,490,31"/>
+<area shape="rect" id="node3" href="$class_c_wallet_tx.html#af8339d15e3525e8c21c8790ed175b132" title="CWalletTx::GetSpendSize" alt="" coords="538,5,714,31"/>
+</map>

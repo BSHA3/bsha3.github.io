@@ -1,0 +1,4 @@
+<map id="Notificator::Notificator" name="Notificator::Notificator">
+<area shape="rect" id="node2" href="$class_mac_notification_handler.html#a8ba83adcb63db47e3f7a76a0afc02b9d" title="MacNotificationHandler\l::instance" alt="" coords="238,5,397,44"/>
+<area shape="rect" id="node3" href="$class_mac_notification_handler.html#a59e755d1247c861db5325b0170a41512" title="check if OS can handle UserNotifications " alt="" coords="202,68,433,107"/>
+</map>

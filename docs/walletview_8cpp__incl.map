@@ -1,0 +1,23 @@
+<map id="src/qt/walletview.cpp" name="src/qt/walletview.cpp">
+<area shape="rect" id="node2" href="$walletview_8h.html" title="qt/walletview.h" alt="" coords="111,79,218,104"/>
+<area shape="rect" id="node5" href="$addressbookpage_8h.html" title="qt/addressbookpage.h" alt="" coords="201,152,355,177"/>
+<area shape="rect" id="node7" href="$askpassphrasedialog_8h.html" title="qt/askpassphrasedialog.h" alt="" coords="378,152,551,177"/>
+<area shape="rect" id="node8" href="$bitcoingui_8h.html" title="qt/bitcoingui.h" alt="" coords="1128,79,1231,104"/>
+<area shape="rect" id="node17" href="$clientmodel_8h.html" title="qt/clientmodel.h" alt="" coords="1518,152,1633,177"/>
+<area shape="rect" id="node21" href="$guiutil_8h.html" title="qt/guiutil.h" alt="" coords="2261,152,2343,177"/>
+<area shape="rect" id="node30" href="$optionsmodel_8h.html" title="qt/optionsmodel.h" alt="" coords="2659,79,2785,104"/>
+<area shape="rect" id="node32" href="$overviewpage_8h.html" title="qt/overviewpage.h" alt="" coords="1761,79,1891,104"/>
+<area shape="rect" id="node34" href="$ui__interface_8h.html" title="ui_interface.h" alt="" coords="1839,299,1941,324"/>
+<area shape="rect" id="node36" href="$platformstyle_8h.html" title="qt/platformstyle.h" alt="" coords="2506,152,2629,177"/>
+<area shape="rect" id="node37" href="$receivecoinsdialog_8h.html" title="qt/receivecoinsdialog.h" alt="" coords="1438,79,1595,104"/>
+<area shape="rect" id="node38" href="$sendcoinsdialog_8h.html" title="qt/sendcoinsdialog.h" alt="" coords="2357,79,2500,104"/>
+<area shape="rect" id="node39" href="$walletmodel_8h.html" title="qt/walletmodel.h" alt="" coords="1955,152,2073,177"/>
+<area shape="rect" id="node40" href="$signverifymessagedialog_8h.html" title="qt/signverifymessagedialog.h" alt="" coords="845,79,1039,104"/>
+<area shape="rect" id="node41" href="$transactiontablemodel_8h.html" title="qt/transactiontablemodel.h" alt="" coords="2744,299,2922,324"/>
+<area shape="rect" id="node42" href="$transactionview_8h.html" title="qt/transactionview.h" alt="" coords="2143,79,2282,104"/>
+<area shape="rect" id="node43" href="$node_8h.html" title="interfaces/node.h" alt="" coords="2916,225,3040,251"/>
+<area shape="rect" id="node3" href="$amount_8h.html" title="amount.h" alt="" coords="1738,299,1815,324"/>
+<area shape="rect" id="node9" href="$optionsdialog_8h.html" title="qt/optionsdialog.h" alt="" coords="991,152,1117,177"/>
+<area shape="rect" id="node22" href="$fs_8h.html" title="fs.h" alt="" coords="2383,225,2426,251"/>
+<area shape="rect" id="node33" href="$interfaces_2wallet_8h.html" title="interfaces/wallet.h" alt="" coords="1578,225,1706,251"/>
+</map>

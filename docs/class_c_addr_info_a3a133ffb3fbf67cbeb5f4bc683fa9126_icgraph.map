@@ -1,0 +1,14 @@
+<map id="CAddrInfo::GetBucketPosition" name="CAddrInfo::GetBucketPosition">
+<area shape="rect" id="node2" href="$class_c_addr_man.html#af7a45c248782cf74daced27458da236b" title="Move an entry from the &quot;new&quot; table(s) to the &quot;tried&quot; table. " alt="" coords="283,5,438,31"/>
+<area shape="rect" id="node3" href="$class_c_addr_man.html#abd5503f25498115552e410fad2c31064" title="Mark an entry &quot;good&quot;, possibly moving it from &quot;new&quot; to &quot;tried&quot;. " alt="" coords="294,55,427,80"/>
+<area shape="rect" id="node6" href="$class_c_addr_man.html#a0f280b5874a6507b463cae6075063ec2" title="Add an entry to the &quot;new&quot; table. " alt="" coords="299,104,422,129"/>
+<area shape="rect" id="node9" href="$class_c_addr_man.html#affa9aa35cc02b08ccb908a249ee23472" title="See if any to&#45;be&#45;evicted tried table entries have been tested and if so resolve the collisions..." alt="" coords="258,153,463,179"/>
+<area shape="rect" id="node11" href="$class_c_addr_man.html#a52982135b090086173daaaec83eca791" title="Return a random to&#45;be&#45;evicted tried table address. " alt="" coords="252,203,469,228"/>
+<area shape="rect" id="node13" href="$class_c_addr_man.html#a94c76a39ab311deb9e7b810e01b664ce" title="CAddrMan::Unserialize" alt="" coords="281,252,440,277"/>
+<area shape="rect" id="node4" href="$class_c_addr_man.html#acca82020635b7df1b7c24dfaf6b4de1d" title="Mark an entry as accessible. " alt="" coords="559,55,684,80"/>
+<area shape="rect" id="node5" href="$class_c_connman.html#a85dedb235a648a1b8370228ba62ebacb" title="CConnman::MarkAddressGood" alt="" coords="776,55,983,80"/>
+<area shape="rect" id="node7" href="$class_c_addr_man.html#a03fcc7109b5f014760dc50a81f68c5ec" title="Add a single address. " alt="" coords="564,104,680,129"/>
+<area shape="rect" id="node8" href="$class_c_connman.html#a47d9024273a8c421fa7de641c30e9081" title="CConnman::AddNewAddresses" alt="" coords="775,104,984,129"/>
+<area shape="rect" id="node10" href="$class_c_addr_man.html#a6bf50dc115860eb65b3ec474a50241fb" title="See if any to&#45;be&#45;evicted tried table entries have been tested and if so resolve the collisions..." alt="" coords="523,153,721,179"/>
+<area shape="rect" id="node12" href="$class_c_addr_man.html#a72b044d1ab8c7ec7cd67bd0fbc600e6c" title="Randomly select an address in tried that another address is attempting to evict. " alt="" coords="517,203,727,228"/>
+</map>

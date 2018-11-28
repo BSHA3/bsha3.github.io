@@ -1,0 +1,4 @@
+<map id="BerkeleyDatabase::ReloadDbEnv" name="BerkeleyDatabase::ReloadDbEnv">
+<area shape="rect" id="node2" href="$class_berkeley_database.html#a613ff711faa19bc0a970fb598ab4f886" title="Return whether this database handle is a dummy for testing. " alt="" coords="233,5,427,31"/>
+<area shape="rect" id="node3" href="$class_berkeley_environment.html#a2bb5277700853996eaaeb4d13b9b917b" title="BerkeleyEnvironment\l::ReloadDbEnv" alt="" coords="256,55,404,93"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="CWallet::LoadToWallet" name="CWallet::LoadToWallet">
+<area shape="rect" id="node2" href="$class_c_merkle_tx.html#a20142f81e7ff0242db646e63e0a973b3" title="CMerkleTx::GetHash" alt="" coords="674,5,820,31"/>
+<area shape="rect" id="node3" href="$class_c_wallet_tx.html#ab0ee7347584bff886dc24b9f63ff023c" title="CWalletTx::BindWallet" alt="" coords="214,285,367,311"/>
+<area shape="rect" id="node4" href="$group__map_wallet.html#gad87827a3161e8767ac2ba7a6177579d7" title="CWallet::AddToSpends" alt="" coords="212,389,369,415"/>
+<area shape="rect" id="node7" href="$class_c_merkle_tx.html#aff66148b06d22c7ee555b79058211493" title="CMerkleTx::hashUnset" alt="" coords="668,163,825,188"/>
+<area shape="rect" id="node9" href="$group__map_wallet.html#ga009ea6afd94f2c5d560ae063883628b5" title="CWallet::MarkConflicted" alt="" coords="209,236,372,261"/>
+<area shape="rect" id="node5" href="$group__map_wallet.html#gab32af23e63dcdc0314aaf44f800e25da" title="CWallet::SyncMetaData" alt="" coords="434,472,597,497"/>
+<area shape="rect" id="node6" href="$group__map_wallet.html#ga663593382cf8b0fb993e2515261bb017" title="CWalletTx::IsEquivalentTo" alt="" coords="659,472,835,497"/>
+<area shape="rect" id="node8" href="$classbase__blob.html#aba89c6722866a5850882a509d27d7bbd" title="base_blob::IsNull" alt="" coords="920,163,1043,188"/>
+<area shape="rect" id="node10" href="$validation_8h.html#a9d9b2d3b31edbd48ce62f4e2a73cc04c" title="LookupBlockIndex" alt="" coords="682,421,812,447"/>
+<area shape="rect" id="node11" href="$class_c_chain.html#af1786dc229c215dea7f727c11df2c8dc" title="Efficiently check whether a block is present in this chain. " alt="" coords="684,239,810,264"/>
+<area shape="rect" id="node12" href="$class_c_chain.html#ad4758bc8872ce065a9579f77c3171d40" title="Return the maximal height in the chain. " alt="" coords="691,329,803,355"/>
+<area shape="rect" id="node13" href="$classbase__blob.html#aeee68e00ceeacf49086e98b661e017ff" title="base_blob::begin" alt="" coords="454,156,577,181"/>
+<area shape="rect" id="node14" href="$class_c_merkle_tx.html#a026579f00672e5b907faa77a1baa33c8" title="Return depth of transaction in blockchain: &lt;0 : conflicts with a transaction this deep in the blockch..." alt="" coords="420,257,611,296"/>
+<area shape="rect" id="node15" href="$class_wallet_batch.html#a8c3c129d34433dcc8a60b55e0f7fd64b" title="WalletBatch::WriteTx" alt="" coords="443,55,588,80"/>
+<area shape="rect" id="node19" href="$group__map_wallet.html#ga8aa650003f4df8575ac4f4d98c26cf4f" title="CWallet::MarkInputsDirty" alt="" coords="431,320,600,345"/>
+<area shape="rect" id="node16" href="$class_wallet_batch.html#a552eb421cff45a9ed94b1ec77e5c76c3" title="WalletBatch::WriteIC" alt="" coords="675,55,819,80"/>
+<area shape="rect" id="node17" href="$class_berkeley_batch.html#ac31c83ec96f7bd149f856d28e97dba23" title="BerkeleyBatch::Write" alt="" coords="909,27,1054,52"/>
+<area shape="rect" id="node18" href="$class_berkeley_database.html#a313cd767c211da5738bdb5578cd59af7" title="BerkeleyDatabase::Increment\lUpdateCounter" alt="" coords="883,76,1080,115"/>
+</map>

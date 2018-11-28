@@ -1,0 +1,11 @@
+<map id="CValidationState::DoS" name="CValidationState::DoS">
+<area shape="rect" id="node2" href="$tx__verify_8h.html#aa74aecf12c08298c9b949965841c20c1" title="Transaction validation functions. " alt="" coords="234,5,363,31"/>
+<area shape="rect" id="node3" href="$namespace_consensus.html#a71d434a6ed8cd5fe5cd096c2eea58a07" title="Check whether all inputs of this transaction are valid (no double spends and amounts) This does not m..." alt="" coords="206,55,391,80"/>
+<area shape="rect" id="node4" href="$class_c_validation_state.html#a1646cea7505a779d16ca77237ec1e621" title="CValidationState::Invalid" alt="" coords="216,104,381,129"/>
+<area shape="rect" id="node5" href="$class_c_chain_state.html#ab70c11d94a3f6e5cae415521437ef627" title="If a block header hasn&#39;t already been seen, call CheckBlockHeader on it, ensure that it doesn&#39;t desce..." alt="" coords="439,97,616,136"/>
+<area shape="rect" id="node6" href="$validation_8h.html#ad959cc64d22660f1f561798040bb1f6a" title="Process incoming block headers. " alt="" coords="664,79,844,104"/>
+<area shape="rect" id="node7" href="$class_c_chain_state.html#ae73c43d5a0296d8972b1fe69da7e10ff" title="Store block on disk. " alt="" coords="665,128,843,153"/>
+<area shape="rect" id="node8" href="$validation_8h.html#a32c6dfc4ade001f117ac3fac3da9d123" title="Process an incoming block. " alt="" coords="892,128,1020,153"/>
+<area shape="rect" id="node9" href="$mining_8h.html#a4910d289954727eb7c4c24a6b3c50c55" title="Generate blocks (mine) " alt="" coords="1068,128,1182,153"/>
+<area shape="rect" id="node10" href="$rpcwallet_8cpp.html#a236a42206aa464fbb10bae6e6243092b" title="generate" alt="" coords="1230,128,1304,153"/>
+</map>

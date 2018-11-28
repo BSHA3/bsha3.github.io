@@ -1,0 +1,51 @@
+<map id="walletcreatefundedpsbt" name="walletcreatefundedpsbt">
+<area shape="rect" id="node2" href="$rpcwallet_8cpp.html#a13cf9bdc928d8ca0b67e34791da05ddc" title="Figures out what wallet, if any, to use for a JSONRPCRequest. " alt="" coords="212,104,425,129"/>
+<area shape="rect" id="node8" href="$rpcwallet_8cpp.html#ae44c9e4546fdf6e182276fada0126649" title="EnsureWalletIsAvailable" alt="" coords="236,256,400,281"/>
+<area shape="rect" id="node10" href="$class_uni_value.html#a5a7394aeb8d5584db7a90c2c041726b1" title="UniValue::size" alt="" coords="549,908,655,933"/>
+<area shape="rect" id="node11" href="$server_8cpp.html#a26bafe3d526ee8cbc84b3c0b0dc3a43b" title="HelpExampleCli" alt="" coords="260,1697,376,1723"/>
+<area shape="rect" id="node12" href="$server_8cpp.html#a1d3e3ccc5d3ba3ee1314be41a2039e0f" title="Type&#45;check arguments; throws JSONRPCError if wrong type given. " alt="" coords="260,959,376,984"/>
+<area shape="rect" id="node13" href="$class_uni_value.html#a3661be0f5580daceb23e5338e3a0df22" title="UniValue::isNull" alt="" coords="816,908,931,933"/>
+<area shape="rect" id="node18" href="$rawtransaction_8cpp.html#aee85a5d91a985f7e1bc1b4a124870ab3" title="Create a transaction from univalue parameters. " alt="" coords="244,607,392,632"/>
+<area shape="rect" id="node32" href="$rpcwallet_8cpp.html#aaaebd94e806360dd08e7254b09c7997b" title="FundTransaction" alt="" coords="258,1236,379,1261"/>
+<area shape="rect" id="node37" href="$class_uni_value.html#ae8a27d40aa1b1322ea95ff4fb2dec2b1" title="UniValue::get_bool" alt="" coords="536,1547,669,1572"/>
+<area shape="rect" id="node46" href="$rpcwallet_8cpp.html#aa42cddcbe0807aed19d6aa60b01a9485" title="FillPSBT" alt="" coords="282,1648,355,1673"/>
+<area shape="rect" id="node3" href="$rpcwallet_8cpp.html#af704ea42262521346e3be551cfbc5a7f" title="GetWalletNameFromJSONRPCRequest" alt="" coords="473,5,732,31"/>
+<area shape="rect" id="node4" href="$wallet_2wallet_8cpp.html#a59fb74ca7a0b34f8f86ec58464a72f8a" title="GetWallet" alt="" coords="563,55,642,80"/>
+<area shape="rect" id="node5" href="$rpc_2protocol_8cpp.html#a40b75d3d265c4a2e1d5fe3e129743884" title="JSONRPCError" alt="" coords="1022,732,1137,757"/>
+<area shape="rect" id="node7" href="$dummywallet_8cpp.html#ab8562a8762a7793fdf5b8ae9465e1b85" title="GetWallets" alt="" coords="559,104,645,129"/>
+<area shape="rect" id="node6" href="$util_8h.html#a96c5fc7111f69f7dcaba992d95d13e03" title="error" alt="" coords="1192,732,1242,757"/>
+<area shape="rect" id="node9" href="$wallet_2wallet_8cpp.html#a9bc62b5b6dea0a67f248bc07019a851f" title="HasWallets" alt="" coords="558,256,646,281"/>
+<area shape="rect" id="node14" href="$server_8cpp.html#a34ca526f05cc7f2281e634a5be48c121" title="Type&#45;check one argument; throws JSONRPCError if wrong type given. " alt="" coords="515,1109,689,1135"/>
+<area shape="rect" id="node15" href="$class_uni_value.html#a5b33bfd4be1574e610eee5a7cdae77d1" title="UniValue::type" alt="" coords="820,1211,927,1236"/>
+<area shape="rect" id="node17" href="$univalue_8h.html#aa037153cdbc98dd3683ff1918dc70932" title="uvTypeName" alt="" coords="824,1059,923,1084"/>
+<area shape="rect" id="node16" href="$class_uni_value.html#a2dbc9c5aa9d209338b0bef650f3d1987" title="UniValue::getType" alt="" coords="1015,1211,1144,1236"/>
+<area shape="rect" id="node19" href="$class_uni_value.html#aa9751b5797cb84d15b9fe4ca217f0b63" title="UniValue::get_array" alt="" coords="533,707,671,732"/>
+<area shape="rect" id="node20" href="$class_uni_value.html#af1a6df88c2bee59a863dd6f8d12e9be5" title="UniValue::isObject" alt="" coords="537,756,667,781"/>
+<area shape="rect" id="node21" href="$class_uni_value.html#a49a6ac464f3c2d918e7379d3203c7337" title="UniValue::get_obj" alt="" coords="539,357,665,383"/>
+<area shape="rect" id="node22" href="$class_uni_value.html#a34bd3bc2de335486d2060ff907b317d0" title="UniValue::get_int64" alt="" coords="534,407,671,432"/>
+<area shape="rect" id="node25" href="$class_uni_value.html#a1491167609f899d0c7773749b5047969" title="UniValue::isTrue" alt="" coords="1021,1453,1139,1479"/>
+<area shape="rect" id="node26" href="$server_8cpp.html#ad4549aceb751d2ed900b3235d5342815" title="ParseHashO" alt="" coords="553,505,651,531"/>
+<area shape="rect" id="node28" href="$univalue_8h.html#a33625d562f1ef5f44ceb171d5c8f2a85" title="find_value" alt="" coords="832,556,915,581"/>
+<area shape="rect" id="node29" href="$class_uni_value.html#ac5271a9bb4ece86f00052bb5603eaa78" title="UniValue::isNum" alt="" coords="542,657,662,683"/>
+<area shape="rect" id="node30" href="$class_uni_value.html#af45edc6e67eaa6d1f271ce18e435a376" title="UniValue::get_int" alt="" coords="541,456,663,481"/>
+<area shape="rect" id="node23" href="$utilstrencodings_8cpp.html#acb4637787cab6998d4a403d0dcdf51e6" title="Convert string to signed 64&#45;bit integer with strict parse error feedback. " alt="" coords="831,357,916,383"/>
+<area shape="rect" id="node24" href="$class_uni_value.html#a4c9a5fa9114affbf31f6e346c032be12" title="UniValue::getValStr" alt="" coords="806,407,941,432"/>
+<area shape="rect" id="node27" href="$server_8cpp.html#adb231eaeb57d26011655ee8aaa5315e2" title="Utilities: convert hex&#45;encoded Values (throws error if not hex). " alt="" coords="825,505,922,531"/>
+<area shape="rect" id="node31" href="$utilstrencodings_8cpp.html#a880a215d9e931432b095084c756a49bb" title="Convert string to signed 32&#45;bit integer with strict parse error feedback. " alt="" coords="831,456,916,481"/>
+<area shape="rect" id="node33" href="$group__map_wallet.html#gaf766f26b1180b375f02a622dda88a246" title="Blocks until the wallet state is up&#45;to&#45;date to /at least/ the current chain at the time this function..." alt="" coords="513,1484,692,1523"/>
+<area shape="rect" id="node39" href="$server_8cpp.html#aec45a2addcbf2231658dce8bbfbb792c" title="RPCTypeCheckObj" alt="" coords="534,1060,671,1085"/>
+<area shape="rect" id="node41" href="$class_uni_value.html#aad13d343dbda293251205e37d8b83c27" title="UniValue::exists" alt="" coords="544,1260,660,1285"/>
+<area shape="rect" id="node43" href="$key__io_8cpp.html#a8a781e21ad4ecccd9c97c7d890ef7d6f" title="DecodeDestination" alt="" coords="535,1333,669,1359"/>
+<area shape="rect" id="node44" href="$standard_8cpp.html#adb3a21e4afe9c672720b182ddc7cad7c" title="Check whether a CTxDestination is a CNoDestination. " alt="" coords="539,1383,666,1408"/>
+<area shape="rect" id="node45" href="$outputtype_8cpp.html#a1a86492b1c26f09a7f9e7568b9f7d2a2" title="ParseOutputType" alt="" coords="540,1211,665,1236"/>
+<area shape="rect" id="node34" href="$class_c_chain.html#a578545bde95163bee37b1be28e7b2755" title="Returns the index entry for the tip of this chain, or nullptr if none. " alt="" coords="828,1435,919,1460"/>
+<area shape="rect" id="node35" href="$class_c_block_index.html#ae1f702384690c6b8302e026a84172ef3" title="Efficiently find an ancestor of this block. " alt="" coords="785,1484,962,1509"/>
+<area shape="rect" id="node36" href="$validationinterface_8cpp.html#aef788fda8c339bb297d6f97f431dfa88" title="This is a synonym for the following, which asserts certain locks are not held: std::promise&lt;void&gt; pro..." alt="" coords="780,1533,967,1572"/>
+<area shape="rect" id="node38" href="$class_uni_value.html#acb5c848d20cb741dbe65e28bc513baa8" title="UniValue::getBool" alt="" coords="810,1648,937,1673"/>
+<area shape="rect" id="node40" href="$class_uni_value.html#a67e4178f582aa9f7bc39e71066ad786e" title="UniValue::getKeys" alt="" coords="809,1009,939,1035"/>
+<area shape="rect" id="node42" href="$class_uni_value.html#a85f3a2f520375b464fb506b2ede5c3df" title="UniValue::findKey" alt="" coords="810,1260,937,1285"/>
+<area shape="rect" id="node47" href="$sign_8cpp.html#a33bc722e714f999819a59ba925ce7bce" title="Signs a PSBTInput, verifying that all provided data matches what is being signed. ..." alt="" coords="546,1648,659,1673"/>
+<area shape="rect" id="node48" href="$sign_8cpp.html#a0c453416d09212d876bee81dc9353c16" title="Produce a script signature using a generic signature creator. " alt="" coords="809,1747,938,1772"/>
+<area shape="rect" id="node49" href="$struct_p_s_b_t_output.html#aed37e5f0eeb0998c9ce8ba54207d9b11" title="PSBTOutput::FillSignatureData" alt="" coords="499,1697,705,1723"/>
+<area shape="rect" id="node50" href="$struct_p_s_b_t_output.html#af18dc37906919ec9fa9aa7b559f8ea74" title="PSBTOutput::FromSignatureData" alt="" coords="492,1747,712,1772"/>
+</map>

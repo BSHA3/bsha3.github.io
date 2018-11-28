@@ -1,0 +1,8 @@
+<map id="PSBTInput::Merge" name="PSBTInput::Merge">
+<area shape="rect" id="node2" href="$class_c_tx_out.html#ab92a3c4c95c643f7b3ffd3ffa7cd7055" title="CTxOut::IsNull" alt="" coords="207,5,315,31"/>
+<area shape="rect" id="node3" href="$classprevector.html#a0057a2d5ac2bbff636af5fbd87ae5235" title="prevector::empty" alt="" coords="201,55,321,80"/>
+<area shape="rect" id="node6" href="$rpcwallet_8cpp.html#ad5538a622c6163546950927f78e7aaef" title="if" alt="" coords="242,104,280,129"/>
+<area shape="rect" id="node7" href="$struct_c_script_witness.html#adc63cbb14bf507c490b3a99801e476ff" title="CScriptWitness::IsNull" alt="" coords="184,153,338,179"/>
+<area shape="rect" id="node4" href="$classprevector.html#a626f7d206dbc24e5610631809762758b" title="prevector::size" alt="" coords="386,55,494,80"/>
+<area shape="rect" id="node5" href="$classprevector.html#a933e204a7e29c6bbc85479d023c00ff8" title="prevector::is_direct" alt="" coords="542,55,676,80"/>
+</map>

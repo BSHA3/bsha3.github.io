@@ -1,0 +1,9 @@
+<map id="CTxMemPool::UpdateChildrenForRemoval" name="CTxMemPool::UpdateChildrenForRemoval">
+<area shape="rect" id="node2" href="$class_c_tx_mem_pool.html#ae6df7d624e9ef0fb35004e09077e39c6" title="For each transaction being removed, update ancestors and any direct children. " alt="" coords="255,75,478,113"/>
+<area shape="rect" id="node3" href="$class_c_tx_mem_pool.html#a89e7372fff3b27b9969f4f94d1f5cff0" title="Remove a set of transactions from the mempool. " alt="" coords="526,81,727,107"/>
+<area shape="rect" id="node4" href="$class_c_tx_mem_pool.html#a1bdc49203ca7654d8508c356bcbca47e" title="CTxMemPool::removeRecursive" alt="" coords="775,5,988,31"/>
+<area shape="rect" id="node6" href="$class_c_tx_mem_pool.html#af0d277f190f134638cb0aa18e2099094" title="Called when a block is connected. " alt="" coords="1289,31,1496,56"/>
+<area shape="rect" id="node7" href="$class_c_tx_mem_pool.html#a283d0422469c908a881a6484308ee2b6" title="Expire all transaction (and their dependencies) in the mempool older than time. " alt="" coords="808,107,955,132"/>
+<area shape="rect" id="node8" href="$class_c_tx_mem_pool.html#adb0214b2760eaedf15eb351348bc4f43" title="Remove transactions from the mempool until its dynamic size is &lt;= sizelimit. " alt="" coords="794,156,969,181"/>
+<area shape="rect" id="node5" href="$class_c_tx_mem_pool.html#a01aa5f8ce16839bfbaacf67f40fe461d" title="CTxMemPool::removeConflicts" alt="" coords="1036,5,1241,31"/>
+</map>

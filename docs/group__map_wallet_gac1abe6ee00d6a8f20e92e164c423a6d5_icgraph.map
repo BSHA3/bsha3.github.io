@@ -1,0 +1,4 @@
+<map id="CWallet::GetChange" name="CWallet::GetChange">
+<area shape="rect" id="node2" href="$group__map_wallet.html#ga3e9a088a7b6b77edd7a0f80ed246eb58" title="CWallet::GetChange" alt="" coords="204,5,347,31"/>
+<area shape="rect" id="node3" href="$group__map_wallet.html#ga714fe72284e4cc436d84f751a9a7aa60" title="CWalletTx::GetChange" alt="" coords="196,55,354,80"/>
+</map>

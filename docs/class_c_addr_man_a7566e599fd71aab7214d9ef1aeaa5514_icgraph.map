@@ -1,0 +1,16 @@
+<map id="CAddrMan::Find" name="CAddrMan::Find">
+<area shape="rect" id="node2" href="$class_c_addr_man.html#abd5503f25498115552e410fad2c31064" title="Mark an entry &quot;good&quot;, possibly moving it from &quot;new&quot; to &quot;tried&quot;. " alt="" coords="191,5,324,31"/>
+<area shape="rect" id="node5" href="$class_c_addr_man.html#a0f280b5874a6507b463cae6075063ec2" title="Add an entry to the &quot;new&quot; table. " alt="" coords="195,55,319,80"/>
+<area shape="rect" id="node8" href="$class_c_addr_man.html#a92c926223093355f8a82df9d2811cfe9" title="Mark an entry as attempted to connect. " alt="" coords="184,104,330,129"/>
+<area shape="rect" id="node10" href="$class_c_addr_man.html#ae114a717a8b6edf7e12141c8aa4ee66c" title="Mark an entry as currently&#45;connected&#45;to. " alt="" coords="175,153,339,179"/>
+<area shape="rect" id="node13" href="$class_c_addr_man.html#ad58bc489d8eb0c5233dec4693a05b432" title="Update an entry&#39;s service bits. " alt="" coords="172,203,343,228"/>
+<area shape="rect" id="node3" href="$class_c_addr_man.html#acca82020635b7df1b7c24dfaf6b4de1d" title="Mark an entry as accessible. " alt="" coords="410,5,535,31"/>
+<area shape="rect" id="node4" href="$class_c_connman.html#a85dedb235a648a1b8370228ba62ebacb" title="CConnman::MarkAddressGood" alt="" coords="603,5,811,31"/>
+<area shape="rect" id="node6" href="$class_c_addr_man.html#a03fcc7109b5f014760dc50a81f68c5ec" title="Add a single address. " alt="" coords="414,55,531,80"/>
+<area shape="rect" id="node7" href="$class_c_connman.html#a47d9024273a8c421fa7de641c30e9081" title="CConnman::AddNewAddresses" alt="" coords="602,55,812,80"/>
+<area shape="rect" id="node9" href="$class_c_addr_man.html#a41702a50e4a2c2949852a0b9b6c06101" title="Mark an entry as connection attempted to. " alt="" coords="403,104,542,129"/>
+<area shape="rect" id="node11" href="$class_c_addr_man.html#a7aba66d9e9527522fed974567d34c322" title="Mark an entry as currently&#45;connected&#45;to. " alt="" coords="394,153,551,179"/>
+<area shape="rect" id="node12" href="$class_c_connman.html#a1c476458d499d52f2c87c88d93082a9d" title="CConnman::DeleteNode" alt="" coords="624,153,790,179"/>
+<area shape="rect" id="node14" href="$class_c_addr_man.html#ab3234587a7d74e0329906005342a7824" title="CAddrMan::SetServices" alt="" coords="391,203,554,228"/>
+<area shape="rect" id="node15" href="$class_c_connman.html#a46915b82dd2183baf2944d74d88a4228" title="CConnman::SetServices" alt="" coords="624,203,791,228"/>
+</map>

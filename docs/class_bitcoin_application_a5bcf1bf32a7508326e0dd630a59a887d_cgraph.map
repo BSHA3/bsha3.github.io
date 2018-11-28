@@ -1,0 +1,51 @@
+<map id="BitcoinApplication::initializeResult" name="BitcoinApplication::initializeResult">
+<area shape="rect" id="node2" href="$class_platform_style.html#a0f1f0292263509c1585d35e9268694d3" title="PlatformStyle::getName" alt="" coords="209,523,371,548"/>
+<area shape="rect" id="node3" href="$class_bitcoin_g_u_i.html#a99d71e1f8478ab937ce2522c8d3815e3" title="Set the client model. " alt="" coords="200,572,380,597"/>
+<area shape="rect" id="node20" href="$class_bitcoin_g_u_i.html#ad3d278358e571a9b70ee99dacaeaa0f5" title="Notify the user of an event from the core network or transaction handling code. " alt="" coords="482,1008,628,1033"/>
+<area shape="rect" id="node41" href="$classinterfaces_1_1_node.html#acc99a5ba1173402cb0b3535cdb65bf87" title="interfaces::Node::handle\lLoadWallet" alt="" coords="207,995,373,1033"/>
+<area shape="rect" id="node42" href="$classinterfaces_1_1_node.html#a3428e79c308e1a669872b4789e004bfa" title="Return interfaces for accessing wallets (if any). " alt="" coords="196,1057,384,1083"/>
+<area shape="rect" id="node43" href="$class_bitcoin_application.html#a988801064ef82983ed3f5a8eb75411f5" title="BitcoinApplication\l::addWallet" alt="" coords="227,1107,353,1145"/>
+<area shape="rect" id="node46" href="$class_args_manager.html#af81c6e2a9dcd6b12557a2387fd67b2a6" title="Return boolean argument or default value. " alt="" coords="201,1169,379,1195"/>
+<area shape="rect" id="node49" href="$class_payment_server.html#adf4f844b3ce7f053690fd9260210640d" title="PaymentServer::handleURIOrFile" alt="" coords="180,1219,400,1244"/>
+<area shape="rect" id="node50" href="$class_payment_server.html#abb6c65fabbf97ba95381997ca9cd6993" title="PaymentServer::uiReady" alt="" coords="205,1268,375,1293"/>
+<area shape="rect" id="node4" href="$class_bitcoin_g_u_i.html#a6373ff0bd56c1c633f3a3dc2f34af884" title="Create system tray menu (or setup the dock menu) " alt="" coords="448,172,662,197"/>
+<area shape="rect" id="node9" href="$class_bitcoin_g_u_i.html#a6f96b70c5cf881831ff04df0f97c0af1" title="Update UI with latest network info from model. " alt="" coords="732,5,914,44"/>
+<area shape="rect" id="node10" href="$class_bitcoin_g_u_i.html#ae5b9dc62c6a52764a92cfacbe128626f" title="Set number of connections shown in the UI. " alt="" coords="449,221,661,247"/>
+<area shape="rect" id="node11" href="$class_bitcoin_g_u_i.html#afe40030466c11a4a3aace3c2576d2c60" title="Set network state shown in the UI. " alt="" coords="457,123,653,148"/>
+<area shape="rect" id="node12" href="$class_modal_overlay.html#a21b223aa0e1bb5a161b39b165ee213dd" title="ModalOverlay::setKnownBest\lHeight" alt="" coords="457,271,653,309"/>
+<area shape="rect" id="node13" href="$class_client_model.html#a2d3579ef717497df235062ee3f874dc6" title="ClientModel::getHeaderTip\lHeight" alt="" coords="465,383,645,421"/>
+<area shape="rect" id="node15" href="$class_client_model.html#a9dbed4eb3ca6afcdeef233f35cd7dc41" title="ClientModel::getHeaderTipTime" alt="" coords="451,333,659,359"/>
+<area shape="rect" id="node16" href="$class_bitcoin_g_u_i.html#a6cd4a94b6742919131e9ce2154580711" title="Set number of blocks and last block date shown in the UI. " alt="" coords="466,445,644,471"/>
+<area shape="rect" id="node17" href="$classinterfaces_1_1_node.html#ad84d08f89120b9a365713a4429e30e01" title="Get num blocks. " alt="" coords="737,1033,909,1072"/>
+<area shape="rect" id="node18" href="$classinterfaces_1_1_node.html#a67c8c69943cdb0fce3685a37ed4150d4" title="Get last block time. " alt="" coords="738,355,908,393"/>
+<area shape="rect" id="node19" href="$classinterfaces_1_1_node.html#aa3cb283d1b1f617dc750e32c27384176" title="Get verification progress. " alt="" coords="718,417,928,456"/>
+<area shape="rect" id="node23" href="$class_bitcoin_g_u_i.html#a89029e61a405a976ba8117d4b38568f0" title="Show progress dialog e.g. " alt="" coords="466,699,643,724"/>
+<area shape="rect" id="node24" href="$class_r_p_c_console.html#a355349a33664a07628e9ca22a60f5fa7" title="RPCConsole::setClientModel" alt="" coords="458,597,652,623"/>
+<area shape="rect" id="node35" href="$class_bitcoin_g_u_i.html#a4795699a03140316ff014740fdbea8ca" title="Set the proxy&#45;enabled icon as shown in the UI. " alt="" coords="459,748,651,773"/>
+<area shape="rect" id="node36" href="$class_wallet_frame.html#a72f3a61b1d882a894c65fbf1adc1a954" title="WalletFrame::setClientModel" alt="" coords="459,797,651,823"/>
+<area shape="rect" id="node37" href="$class_unit_display_status_bar_control.html#ac8d2a43f66f3f71c7d6926dbd5927066" title="Lets the control know about the Options Model (and its signals) " alt="" coords="460,847,650,885"/>
+<area shape="rect" id="node38" href="$class_client_model.html#ae8da1e2eabfbbcc49a7eed821908bdb6" title="ClientModel::getOptionsModel" alt="" coords="455,909,655,935"/>
+<area shape="rect" id="node39" href="$class_bitcoin_g_u_i.html#ad20ff9ce84d5b030976dc298320fbad2" title="When hideTrayIcon setting is changed in OptionsModel hide or show the icon accordingly. " alt="" coords="455,959,655,984"/>
+<area shape="rect" id="node40" href="$class_options_model.html#ad802657807bc648ff8b622e0ed07c03b" title="OptionsModel::getHideTrayIcon" alt="" coords="451,21,659,47"/>
+<area shape="rect" id="node5" href="$class_bitcoin_g_u_i.html#ae753f1d521f7c17804419f6a9054738b" title="Handle tray icon clicked. " alt="" coords="726,68,920,93"/>
+<area shape="rect" id="node6" href="$class_mac_dock_icon_handler.html#afd3ef7126d0b6ef02eaf85e5455fe6f4" title="MacDockIconHandler\l::instance" alt="" coords="749,117,897,156"/>
+<area shape="rect" id="node7" href="$class_mac_dock_icon_handler.html#a4d2d18c7d56286ea745e349497941293" title="MacDockIconHandler\l::setMainWindow" alt="" coords="749,180,897,219"/>
+<area shape="rect" id="node8" href="$class_mac_dock_icon_handler.html#a8aff3dc6410687e432f8d9314eba0ab9" title="MacDockIconHandler\l::dockMenu" alt="" coords="749,243,897,281"/>
+<area shape="rect" id="node14" href="$classinterfaces_1_1_node.html#aa7305fdaaf98f0002a2569a2b8e32b60" title="Get header tip height and time. " alt="" coords="720,305,926,331"/>
+<area shape="rect" id="node21" href="$class_bitcoin_g_u_i.html#aca9a193e0484c1caf924e76d96800a9f" title="Show window if hidden, unminimize when minimized, rise when obscured or show if hidden and fToggleHid..." alt="" coords="736,1120,910,1159"/>
+<area shape="rect" id="node22" href="$class_notificator.html#ae08e1e7e85ddc4690f307649021f7fdc" title="Show notification message. " alt="" coords="763,1183,883,1208"/>
+<area shape="rect" id="node25" href="$class_client_model.html#a643fc112ce94f50ac7187ecdf3c75360" title="ClientModel::getPeerTable\lModel" alt="" coords="734,908,912,947"/>
+<area shape="rect" id="node26" href="$class_client_model.html#ad02b8bf216a08845e393f9bac8c4ed42" title="ClientModel::getBanTable\lModel" alt="" coords="736,971,910,1009"/>
+<area shape="rect" id="node27" href="$class_r_p_c_console.html#aa4546cb7812dd35704de8bf09a6ceb60" title="Set number of connections shown in the UI. " alt="" coords="710,480,936,505"/>
+<area shape="rect" id="node28" href="$class_client_model.html#ab1a71928e2ff3902e854d301f4cfe6ef" title="Return number of connections, default is in&#45; and outbound (total) " alt="" coords="1227,580,1447,605"/>
+<area shape="rect" id="node29" href="$class_client_model.html#a5ddf55fdfcc4f8e8382b96e278e90032" title="ClientModel::node" alt="" coords="1273,633,1402,659"/>
+<area shape="rect" id="node30" href="$class_r_p_c_console.html#a8a3dc7ad11aed5071c3c00329f75f736" title="Set number of blocks and last block date shown in the UI. " alt="" coords="728,733,919,759"/>
+<area shape="rect" id="node31" href="$class_r_p_c_console.html#a62c423db4ed102ce48dc650e15e49a96" title="Update UI with latest network info from model. " alt="" coords="984,600,1179,639"/>
+<area shape="rect" id="node32" href="$class_r_p_c_console.html#acb43211055d842769637a2de7e0a6c4d" title="Set network state shown in the UI. " alt="" coords="719,632,927,657"/>
+<area shape="rect" id="node33" href="$class_r_p_c_console.html#a41bc6977fc2aab06f408da81dfd2034f" title="update traffic statistics " alt="" coords="731,783,915,821"/>
+<area shape="rect" id="node34" href="$classinterfaces_1_1_node.html#aad3ff5433693832c54d5874dd0b8bd45" title="Get total bytes recv. " alt="" coords="737,845,909,884"/>
+<area shape="rect" id="node44" href="$class_wallet_model.html#af8fa28b1d779b9192436986ae414d28d" title="WalletModel::getWalletName" alt="" coords="459,1057,651,1083"/>
+<area shape="rect" id="node45" href="$class_bitcoin_application.html#aac1df39b33a7a9e598dcfb35b6089777" title="BitcoinApplication\l::removeWallet" alt="" coords="492,1107,618,1145"/>
+<area shape="rect" id="node47" href="$class_args_manager.html#a113a1b8c5471d2fff0108058be8b86af" title="Return true if the argument was originally passed as a negated option, i.e. " alt="" coords="460,1169,650,1195"/>
+<area shape="rect" id="node48" href="$class_args_manager_helper.html#aa4f8f77dc468b29cffe50513c78a87cd" title="ArgsManagerHelper::\lGetArg" alt="" coords="481,1219,629,1257"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="PaymentRequestPlus::parse" name="PaymentRequestPlus::parse">
+<area shape="rect" id="node2" href="$class_transaction_desc.html#a6ae7f995de691f91a24e0b1bcf0a1a95" title="TransactionDesc::toHTML" alt="" coords="203,12,379,37"/>
+<area shape="rect" id="node4" href="$class_send_coins_recipient.html#a66b92f367cf64813ca90423d4f3f871d" title="SendCoinsRecipient\l::SerializationOp" alt="" coords="220,61,362,100"/>
+<area shape="rect" id="node3" href="$class_transaction_table_priv.html#a5abfd796c5a65c0a2be564465556b99f" title="TransactionTablePriv\l::describe" alt="" coords="427,5,572,44"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$util_8cpp.html#a9ed616020f4ef9b1a261b222bbec78e2" title="SetupEnvironment" alt="" coords="104,5,235,31"/>
+<area shape="rect" id="node3" href="$noui_8cpp.html#ad4eab1820a36fab7debaa999ca082f9d" title="Connect all bsha3d signal handlers. " alt="" coords="119,55,219,80"/>
+<area shape="rect" id="node4" href="$noui_8cpp.html#aabdfddd694af6a82a3bb3a3371edcaa4" title="Non&#45;GUI handler, which logs and prints messages. " alt="" coords="508,29,708,55"/>
+<area shape="rect" id="node6" href="$noui_8cpp.html#a392762a24f6a062492065960ced65a30" title="Non&#45;GUI handler, which logs and prints questions. " alt="" coords="283,55,460,80"/>
+<area shape="rect" id="node7" href="$noui_8cpp.html#a796eae0de41d0d373e3e066fab04554a" title="Non&#45;GUI handler, which only logs a message. " alt="" coords="308,104,434,129"/>
+<area shape="rect" id="node5" href="$util_8h.html#aad133bb6103b53cebf03fd01e2f11ba1" title="Translation function. " alt="" coords="756,29,795,55"/>
+</map>

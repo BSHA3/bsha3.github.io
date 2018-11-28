@@ -1,0 +1,45 @@
+<map id="CCryptoKeyStore::IsCrypted" name="CCryptoKeyStore::IsCrypted">
+<area shape="rect" id="node2" href="$group__map_wallet.html#gaf482ede71b2fde291b8c6ec262b22ef4" title="CWallet::AddKeyPubKeyWithDB" alt="" coords="776,358,989,384"/>
+<area shape="rect" id="node8" href="$group__map_wallet.html#gab34fe5bf771619dcbe22a65f013e5469" title="CWallet::EncryptWallet" alt="" coords="1846,72,2003,97"/>
+<area shape="rect" id="node12" href="$class_c_crypto_key_store.html#a52919fa284a3aa10f1b4bd6018b6dbee" title="CCryptoKeyStore::IsLocked" alt="" coords="250,258,436,284"/>
+<area shape="rect" id="node25" href="$class_c_crypto_key_store.html#a4a2d6d44d1c5e844cf0166d286f5eb18" title="Add a key to the store. " alt="" coords="493,309,719,334"/>
+<area shape="rect" id="node33" href="$class_c_crypto_key_store.html#a59d19911aeddf00c974378b508e9d114" title="Check whether a key corresponding to a given address is present in the store. " alt="" coords="513,410,699,436"/>
+<area shape="rect" id="node35" href="$class_c_crypto_key_store.html#a01b3cbe18b296f2c51e6fe4137f24c4b" title="CCryptoKeyStore::GetKey" alt="" coords="517,697,694,722"/>
+<area shape="rect" id="node38" href="$class_c_crypto_key_store.html#af57d6ee7c31e1d9673e811a32aaa5ebc" title="CCryptoKeyStore::GetPubKey" alt="" coords="243,802,444,828"/>
+<area shape="rect" id="node40" href="$class_c_crypto_key_store.html#ae841dfd0bc11abf12e6bcacbe9f1f7b1" title="CCryptoKeyStore::GetKeys" alt="" coords="251,688,435,713"/>
+<area shape="rect" id="node42" href="$class_c_crypto_key_store.html#a8c0f6b63fb04193df16243c4459b7c61" title="will encrypt previously unencrypted keys " alt="" coords="1591,46,1798,72"/>
+<area shape="rect" id="node43" href="$rpcwallet_8h.html#ad35d45071ce42aaef4b74910e36eda5a" title="HelpRequiringPassphrase" alt="" coords="518,936,694,961"/>
+<area shape="rect" id="node3" href="$group__map_wallet.html#ga5abb589b31879b8f4bf1890c22f15f64" title="keystore implementation Generate a new key " alt="" coords="1061,358,1241,384"/>
+<area shape="rect" id="node5" href="$group__map_wallet.html#ga2b0c518df362a1a765a241c1ca5c69a0" title="Adds a key to the store, and saves it to disk. " alt="" coords="1067,609,1235,634"/>
+<area shape="rect" id="node4" href="$group___actions.html#gac452f46eafeb2b4adfe86f7208048032" title="CWallet::GetKeyFromPool" alt="" coords="1335,358,1512,384"/>
+<area shape="rect" id="node6" href="$group__map_wallet.html#gaf72003c77abf215cc1576ab6c50125f7" title="CWallet::DeriveNewSeed" alt="" coords="1338,609,1509,634"/>
+<area shape="rect" id="node10" href="$rpcwallet_8cpp.html#a2f46e2bb304dda9a197b5a68db6106f7" title="importprivkey" alt="" coords="1374,510,1474,536"/>
+<area shape="rect" id="node11" href="$wallet__tests_8cpp.html#a5dfd138cbfb5e97ec54f8d807f9a4231" title="BOOST_FIXTURE_TEST_CASE" alt="" coords="1315,560,1533,585"/>
+<area shape="rect" id="node7" href="$group__map_wallet.html#ga35c26d9e81464f04a45375647c251d67" title="CWallet::GenerateNewSeed" alt="" coords="1600,558,1789,584"/>
+<area shape="rect" id="node9" href="$rpcwallet_8cpp.html#a61c7a90d1b36888fe11b751e746e18c0" title="sethdseed" alt="" coords="1883,609,1966,634"/>
+<area shape="rect" id="node13" href="$group__map_wallet.html#ga4abcec3066e7c462f4564c159fc15031" title="CWallet::ChangeWalletPassphrase" alt="" coords="492,157,720,182"/>
+<area shape="rect" id="node14" href="$group___actions.html#ga9730278506e0a4f1c65239b951525b55" title="CWallet::TopUpKeyPool" alt="" coords="524,108,687,133"/>
+<area shape="rect" id="node23" href="$group___actions.html#gaa869ffae7560168064463f3157633a8b" title="Reserves a key from the keypool and sets nIndex to its index. " alt="" coords="768,208,996,233"/>
+<area shape="rect" id="node27" href="$rpcwallet_8h.html#aae9bc665151c5bab626a7ffcaeed9c0d" title="EnsureWalletIsUnlocked" alt="" coords="523,629,689,654"/>
+<area shape="rect" id="node15" href="$group__map_wallet.html#gaee8f634287d083737471595f658da519" title="Add a transaction to the wallet, or update it. " alt="" coords="768,152,996,177"/>
+<area shape="rect" id="node22" href="$group___actions.html#ga7353ba1e79fc4167fbfbe79b41698fa7" title="Mark old keypool keys as used, and generate all new keys. " alt="" coords="1619,97,1770,122"/>
+<area shape="rect" id="node16" href="$group__map_wallet.html#ga09e75fcbc98be305e68e99495570687c" title="CWallet::SyncTransaction" alt="" coords="1064,154,1238,180"/>
+<area shape="rect" id="node17" href="$group__map_wallet.html#gae44ec090ec7c87725fb22d33887ad1a7" title="Notifies listeners of a transaction having been added to mempool. " alt="" coords="1333,148,1515,186"/>
+<area shape="rect" id="node18" href="$group__map_wallet.html#ga8871fb58a2872900558d69d71baddfca" title="Notifies listeners of a block being connected. " alt="" coords="1338,210,1510,236"/>
+<area shape="rect" id="node19" href="$group__map_wallet.html#ga3aa53a08f7071c42c0ef82ea468d19ae" title="Notifies listeners of a block being disconnected. " alt="" coords="1330,260,1518,285"/>
+<area shape="rect" id="node20" href="$group__map_wallet.html#gaabb1db808d082d6df2b1e37cbf3f8f98" title="Scan the block chain (starting in pindexStart) for transactions from or to us. " alt="" coords="1305,309,1543,334"/>
+<area shape="rect" id="node21" href="$rpcwallet_8cpp.html#a151535abf7394b299deb8d0a333de70b" title="rescanblockchain" alt="" coords="1632,309,1757,334"/>
+<area shape="rect" id="node24" href="$group___actions.html#gad2347fdc30dfbba5298f2386a219c13d" title="CReserveKey::GetReservedKey" alt="" coords="1044,256,1257,281"/>
+<area shape="rect" id="node26" href="$class_c_wallet.html#a439bab81d7989f91a4f0909960516eea" title="Adds a key to the store, without saving it to disk (used by LoadWallet) " alt="" coords="819,309,946,334"/>
+<area shape="rect" id="node28" href="$wallet__tests_8cpp.html#a8c64ef6e0ced69002923098229448758" title="importwallet" alt="" coords="836,460,929,485"/>
+<area shape="rect" id="node29" href="$rpcwallet_8cpp.html#ab3f51d8e8fe414dbf91c37485e481ae3" title="dumpprivkey" alt="" coords="834,710,931,736"/>
+<area shape="rect" id="node30" href="$wallet__tests_8cpp.html#a73ce3a42e0b56b2e4516e55871d8590e" title="dumpwallet" alt="" coords="838,760,927,785"/>
+<area shape="rect" id="node31" href="$wallet__tests_8cpp.html#af0e3c9469f1d8f368d3d5f38e5580367" title="importmulti" alt="" coords="839,558,926,584"/>
+<area shape="rect" id="node32" href="$rpcwallet_8h.html#a7c13054932c9e3b351bd6277fa9361d7" title="signrawtransactionwithwallet" alt="" coords="787,910,977,936"/>
+<area shape="rect" id="node34" href="$group__map_wallet.html#gafb01fcc10d890174b2db560a7f27b58a" title="CWallet::DeriveNewChildKey" alt="" coords="786,509,979,534"/>
+<area shape="rect" id="node36" href="$class_c_wallet.html#a4fded992ac1b212e1b59ab777646b1e4" title="Implement lookup of key origin information through wallet key metadata. " alt="" coords="805,809,960,834"/>
+<area shape="rect" id="node37" href="$rpcwallet_8cpp.html#a614a0b6d4fe51abf85bdb57475cb9d48" title="AddKeypathToMap" alt="" coords="1084,834,1218,860"/>
+<area shape="rect" id="node39" href="$class_describe_wallet_address_visitor.html#ad7be84744abb624a73166d4a047d2905" title="DescribeWalletAddressVisitor\l::operator()" alt="" coords="508,796,704,834"/>
+<area shape="rect" id="node41" href="$class_c_wallet.html#a880d5c8c69fa55759c1e3782ccb7ae41" title="CWallet::GetKeyBirthTimes" alt="" coords="515,746,697,772"/>
+<area shape="rect" id="node44" href="$rpcwallet_8cpp.html#a9c99ceacf389a1ce91977c6f7ffa5022" title="walletprocesspsbt" alt="" coords="819,1012,946,1037"/>
+</map>

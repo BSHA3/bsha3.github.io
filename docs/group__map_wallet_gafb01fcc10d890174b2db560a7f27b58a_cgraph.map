@@ -1,0 +1,51 @@
+<map id="CWallet::DeriveNewChildKey" name="CWallet::DeriveNewChildKey">
+<area shape="rect" id="node2" href="$class_c_crypto_key_store.html#a01b3cbe18b296f2c51e6fe4137f24c4b" title="CCryptoKeyStore::GetKey" alt="" coords="254,168,431,193"/>
+<area shape="rect" id="node5" href="$struct_c_ext_key.html#a8593d6ce0dadfca0f8c2f71ebb4e1fe0" title="CExtKey::SetSeed" alt="" coords="757,819,889,844"/>
+<area shape="rect" id="node21" href="$class_c_key.html#ab8dee0ad9d933304a22284ee40040847" title="CKey::begin" alt="" coords="776,720,870,745"/>
+<area shape="rect" id="node22" href="$class_c_key.html#a468a9a8cd148ab4a43e7d76bbdc78abe" title="Simple read&#45;only vector&#45;like interface. " alt="" coords="780,769,865,795"/>
+<area shape="rect" id="node23" href="$struct_c_ext_key.html#a589df63664c6d12bfe071b747a245b1d" title="CExtKey::Derive" alt="" coords="283,319,402,344"/>
+<area shape="rect" id="node24" href="$class_c_key.html#aa1085c59603a62db6ec776300f250337" title="Compute the public key from a private key. " alt="" coords="758,307,888,332"/>
+<area shape="rect" id="node26" href="$class_c_pub_key.html#a2675f7e6f72eff68e7a5227289feb021" title="Get the KeyID of this public key (hash of its serialization) " alt="" coords="522,217,642,243"/>
+<area shape="rect" id="node44" href="$class_c_wallet.html#a22312062d026a1c0a992773386101b50" title="check whether we are allowed to upgrade (or already support) to the named feature ..." alt="" coords="247,659,439,684"/>
+<area shape="rect" id="node45" href="$class_c_crypto_key_store.html#a59d19911aeddf00c974378b508e9d114" title="Check whether a key corresponding to a given address is present in the store. " alt="" coords="250,119,436,144"/>
+<area shape="rect" id="node47" href="$class_wallet_batch.html#a730373abe82d3c9dc4fe328caeafaeec" title="write the hdchain model (external chain child index counter) " alt="" coords="251,788,435,813"/>
+<area shape="rect" id="node3" href="$class_c_crypto_key_store.html#acc8fed44366c98fb481333ca6e867088" title="CCryptoKeyStore::IsCrypted" alt="" coords="487,119,676,144"/>
+<area shape="rect" id="node4" href="$class_c_basic_key_store.html#a6374547f3c9f1afcaac52812e58375ef" title="CBasicKeyStore::GetKey" alt="" coords="496,168,667,193"/>
+<area shape="rect" id="node6" href="$class_c_h_m_a_c___s_h_a3512.html#ae162a47bdbb23782dedd8da0ef81dccd" title="CHMAC_SHA3512::Write" alt="" coords="977,512,1150,537"/>
+<area shape="rect" id="node10" href="$class_c_h_m_a_c___s_h_a3512.html#a7fcc43a245c713be2d70271efd44ebbc" title="CHMAC_SHA3512::Finalize" alt="" coords="969,563,1157,588"/>
+<area shape="rect" id="node15" href="$glibc__compat_8cpp.html#a0f46826ab0466591e136db24394923cf" title="memcpy" alt="" coords="1807,643,1879,668"/>
+<area shape="rect" id="node17" href="$class_c_key.html#aaa13d5f08456bba094210c5eeabf64c8" title="Initialize using begin and end iterators to byte data. " alt="" coords="1023,777,1104,803"/>
+<area shape="rect" id="node20" href="$classbase__blob.html#aeee68e00ceeacf49086e98b661e017ff" title="base_blob::begin" alt="" coords="1002,456,1125,481"/>
+<area shape="rect" id="node7" href="$class_c_s_h_a3512.html#aaec5c483a9491926f2a34977d9046c55" title="CSHA3512::Write" alt="" coords="1221,512,1348,537"/>
+<area shape="rect" id="node8" href="$class_s_h_a3__512.html#a0563e4c87150e6019671b4fe92fd63a4" title="Updates the hash with more data. " alt="" coords="1423,448,1557,473"/>
+<area shape="rect" id="node9" href="$class_keccak_core.html#aaaa0355ccec0f469ac8eb577bdf853ed" title="Updates the Keccak sponge function with more input data. " alt="" coords="1617,384,1759,409"/>
+<area shape="rect" id="node11" href="$class_c_s_h_a3512.html#aeae8ae9141d042e3f4cd0d0fd4588bce" title="CSHA3512::Finalize" alt="" coords="1214,563,1355,588"/>
+<area shape="rect" id="node12" href="$class_s_h_a3__512.html#ac0227aafb5f047bb50f0bd84df0b4b5b" title="Finalizes the hashing process and returns the hash. " alt="" coords="1423,564,1557,589"/>
+<area shape="rect" id="node13" href="$class_keccak_core.html#a97852ee4381ced17ee6d21704cf0b4d7" title="Pads the last block of input data to blockSize(). " alt="" coords="1626,564,1750,589"/>
+<area shape="rect" id="node14" href="$class_keccak_core.html#aad83ece853c0cc15fcab947fdcba924f" title="Extracts data from the Keccak sponge function. " alt="" coords="1617,615,1758,640"/>
+<area shape="rect" id="node16" href="$glibc__compat_8cpp.html#a9778d49e9029dd75bc53ecbbf9f5e9a1" title="memmove" alt="" coords="1927,643,2011,668"/>
+<area shape="rect" id="node18" href="$class_c_key.html#acec869bc75fa8f4d619ab025d367a97c" title="Check whether the 32&#45;byte array pointed to by vch is valid keydata. " alt="" coords="1235,777,1334,803"/>
+<area shape="rect" id="node19" href="$secp256k1_8h.html#a366f922fc0c787351e82ff8e3a95f652" title="Verify an ECDSA secret key. " alt="" coords="1412,771,1568,809"/>
+<area shape="rect" id="node37" href="$class_c_key.html#ae79008cec2eb799a2efd37e010996acf" title="Derive BIP32 child key. " alt="" coords="532,456,632,481"/>
+<area shape="rect" id="node25" href="$secp256k1_8h.html#a7438071aa8a6dc4697abe4f4659f2161" title="Compute the public key for a secret key. " alt="" coords="985,307,1142,345"/>
+<area shape="rect" id="node27" href="$_hash_8h.html#a3f56a9b8501ec9d021aad11389d419c4" title="Compute the 160&#45;bit hash an object. " alt="" coords="786,156,860,181"/>
+<area shape="rect" id="node35" href="$class_c_pub_key.html#a6bb28fcf0a5f799c69f5b7269363b309" title="Simple read&#45;only vector&#45;like interface to the pubkey data. " alt="" coords="768,257,877,283"/>
+<area shape="rect" id="node28" href="$class_c_hash360.html#a9268162ed4d951b479493d16f0bfb5df" title="CHash360::Write" alt="" coords="1002,156,1125,181"/>
+<area shape="rect" id="node31" href="$class_c_hash360.html#abb6b8a5693cd0b09e52bb624bafc1efd" title="CHash360::Finalize" alt="" coords="995,80,1132,105"/>
+<area shape="rect" id="node29" href="$class_c_s_h_a3.html#a439a0fade3fa1b7989c6cf053d39161b" title="CSHA3::Write" alt="" coords="1233,156,1337,181"/>
+<area shape="rect" id="node30" href="$class_s_h_a3__256.html#a8356957ea403c5da326fc6899b91ea71" title="Updates the hash with more data. " alt="" coords="1423,156,1557,181"/>
+<area shape="rect" id="node32" href="$class_c_s_h_a3.html#a7aa515a9a0fa6d72667d74897f699ae9" title="CSHA3::Finalize" alt="" coords="1225,55,1344,80"/>
+<area shape="rect" id="node33" href="$class_c_r_i_p_e_m_d160.html#a221143b9d94af623d07c4f4ba1bf6007" title="CRIPEMD160::Write" alt="" coords="1616,131,1759,156"/>
+<area shape="rect" id="node34" href="$class_c_r_i_p_e_m_d160.html#a2a11566fbf9d1339b819833313fc4e51" title="CRIPEMD160::Finalize" alt="" coords="1205,5,1364,31"/>
+<area shape="rect" id="node36" href="$class_c_pub_key.html#a7dc71b3f037c84268dc22de97d7b65fb" title="Compute the length of a pubkey with a given first byte. " alt="" coords="999,257,1128,283"/>
+<area shape="rect" id="node38" href="$class_c_key.html#a56e06c48d504a1a65e244e5fc35cdecc" title="Check whether this private key is valid. " alt="" coords="773,569,873,595"/>
+<area shape="rect" id="node39" href="$class_c_key.html#a96b017433a65335775cf3807d73f85ce" title="Check whether the public key corresponding to this private key is (to be) compressed. " alt="" coords="749,619,897,644"/>
+<area shape="rect" id="node40" href="$_hash_8cpp.html#a391c1a6a1f947abbc53cc51fc709110e" title="BIP32Hash" alt="" coords="778,356,867,381"/>
+<area shape="rect" id="node42" href="$class_c_pub_key.html#a859ab9909d68092d6d4fc739237ab358" title="CPubKey::begin" alt="" coords="764,405,882,431"/>
+<area shape="rect" id="node43" href="$secp256k1_8h.html#a0f9125cd8c970342ec5118f7bfacc0c5" title="Tweak a private key by adding tweak to it. " alt="" coords="744,507,901,545"/>
+<area shape="rect" id="node41" href="$classbase__blob.html#a00e7426a5d1ada51c635debf85f5a810" title="base_blob::size" alt="" coords="1006,369,1120,395"/>
+<area shape="rect" id="node46" href="$class_c_basic_key_store.html#aac2aa969bf475ebc2675317afa71975c" title="Check whether a key corresponding to a given address is present in the store. " alt="" coords="492,69,672,95"/>
+<area shape="rect" id="node48" href="$class_wallet_batch.html#a552eb421cff45a9ed94b1ec77e5c76c3" title="WalletBatch::WriteIC" alt="" coords="510,868,653,893"/>
+<area shape="rect" id="node49" href="$class_berkeley_batch.html#ac31c83ec96f7bd149f856d28e97dba23" title="BerkeleyBatch::Write" alt="" coords="750,868,896,893"/>
+<area shape="rect" id="node50" href="$class_berkeley_database.html#a313cd767c211da5738bdb5578cd59af7" title="BerkeleyDatabase::Increment\lUpdateCounter" alt="" coords="724,917,921,956"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="CDataStream::size" name="CDataStream::size">
+<area shape="rect" id="node2" href="$class_c_net_message.html#adbc1669a56462daea5f37e5e99117f8c" title="CNetMessage::readData" alt="" coords="202,5,370,31"/>
+<area shape="rect" id="node3" href="$class_c_data_stream.html#ac6b34149b7eea928c925100dfe10c087" title="CDataStream::eof" alt="" coords="222,55,350,80"/>
+<area shape="rect" id="node4" href="$class_c_data_stream.html#a4f463dc716dfa40a028d6c08b803aa53" title="CDataStream::in_avail" alt="" coords="209,104,364,129"/>
+<area shape="rect" id="node5" href="$class_c_data_stream.html#a5b631dc9cc9d5ba6a5b6ee910bd7d8a8" title="XOR the contents of this stream with a certain key. " alt="" coords="221,153,351,179"/>
+<area shape="rect" id="node6" href="$class_berkeley_batch.html#a9c4377c1e44354d2e4c5824952549b94" title="BerkeleyBatch::ReadAtCursor" alt="" coords="187,203,386,228"/>
+</map>

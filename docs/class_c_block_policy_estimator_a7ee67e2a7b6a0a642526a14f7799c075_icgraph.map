@@ -1,0 +1,12 @@
+<map id="CBlockPolicyEstimator::removeTx" name="CBlockPolicyEstimator::removeTx">
+<area shape="rect" id="node2" href="$class_c_block_policy_estimator.html#adac45c8dba3d152590fc65b0ac831bda" title="Process a transaction confirmed in a block. " alt="" coords="241,5,397,44"/>
+<area shape="rect" id="node5" href="$class_c_block_policy_estimator.html#a83020351ee4b78252db708f3309ed952" title="Empty mempool transactions on shutdown to record failure to confirm for txs still in mempool..." alt="" coords="241,68,397,107"/>
+<area shape="rect" id="node6" href="$class_c_tx_mem_pool.html#a86b26c0f2d25211c7608398e8759594b" title="Before calling removeUnchecked for a given transaction, UpdateForRemoveFromMempool must be called on ..." alt="" coords="209,131,429,156"/>
+<area shape="rect" id="node3" href="$class_c_block_policy_estimator.html#a65e487a203acb59995c667ab91b87444" title="Process all the transactions that have been included in a block. " alt="" coords="1013,5,1168,44"/>
+<area shape="rect" id="node4" href="$class_c_tx_mem_pool.html#af0d277f190f134638cb0aa18e2099094" title="Called when a block is connected. " alt="" coords="1241,69,1448,95"/>
+<area shape="rect" id="node7" href="$class_c_tx_mem_pool.html#a89e7372fff3b27b9969f4f94d1f5cff0" title="Remove a set of transactions from the mempool. " alt="" coords="477,131,679,156"/>
+<area shape="rect" id="node8" href="$class_c_tx_mem_pool.html#a1bdc49203ca7654d8508c356bcbca47e" title="CTxMemPool::removeRecursive" alt="" coords="727,120,940,145"/>
+<area shape="rect" id="node10" href="$class_c_tx_mem_pool.html#a283d0422469c908a881a6484308ee2b6" title="Expire all transaction (and their dependencies) in the mempool older than time. " alt="" coords="760,169,907,195"/>
+<area shape="rect" id="node11" href="$class_c_tx_mem_pool.html#adb0214b2760eaedf15eb351348bc4f43" title="Remove transactions from the mempool until its dynamic size is &lt;= sizelimit. " alt="" coords="746,219,921,244"/>
+<area shape="rect" id="node9" href="$class_c_tx_mem_pool.html#a01aa5f8ce16839bfbaacf67f40fe461d" title="CTxMemPool::removeConflicts" alt="" coords="988,120,1193,145"/>
+</map>

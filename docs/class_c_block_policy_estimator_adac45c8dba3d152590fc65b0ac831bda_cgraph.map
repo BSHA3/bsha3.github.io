@@ -1,0 +1,6 @@
+<map id="CBlockPolicyEstimator::processBlockTx" name="CBlockPolicyEstimator::processBlockTx">
+<area shape="rect" id="node2" href="$class_c_block_policy_estimator.html#a7ee67e2a7b6a0a642526a14f7799c075" title="Remove a transaction from the mempool tracking stats. " alt="" coords="231,5,387,44"/>
+<area shape="rect" id="node3" href="$class_c_tx_mem_pool_entry.html#a2deed4202061edf8b040a3f554417c20" title="CTxMemPoolEntry::GetTx" alt="" coords="221,68,398,93"/>
+<area shape="rect" id="node4" href="$class_c_transaction.html#a7efd1379de830341417c0bfa23a149aa" title="CTransaction::GetHash" alt="" coords="229,117,389,143"/>
+<area shape="rect" id="node5" href="$class_c_tx_mem_pool_entry.html#a319f8093929fc5b6c3c66ba53ac172b5" title="CTxMemPoolEntry::GetHeight" alt="" coords="209,167,409,192"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="CWallet::LoadWallet" name="CWallet::LoadWallet">
+<area shape="rect" id="node2" href="$class_wallet_batch.html#af17758ea2f62ca2d80def7ae780e81f8" title="WalletBatch::LoadWallet" alt="" coords="196,80,361,105"/>
+<area shape="rect" id="node7" href="$group__map_wallet.html#ga647681fa084c9d03742f9522f8779ca7" title="check if a certain wallet flag is set " alt="" coords="194,129,362,155"/>
+<area shape="rect" id="node3" href="$class_berkeley_batch.html#afbf2d778e5791c88149b8c6c1cab0ab8" title="BerkeleyBatch::Read" alt="" coords="425,5,572,31"/>
+<area shape="rect" id="node4" href="$class_c_wallet.html#ab23f2585ab9f1cc8284518b573048d2c" title="CWallet::LoadMinVersion" alt="" coords="413,55,584,80"/>
+<area shape="rect" id="node5" href="$class_berkeley_batch.html#a1e32d0aeea205d2a9a57c62a9c2d9d7d" title="BerkeleyBatch::GetCursor" alt="" coords="410,104,586,129"/>
+<area shape="rect" id="node6" href="$class_c_wallet.html#a4083c9a8583aa7b355da55280a519cc8" title="Prepends the wallet name in logging output to ease debugging in multi&#45;wallet use cases. " alt="" coords="416,153,581,179"/>
+</map>

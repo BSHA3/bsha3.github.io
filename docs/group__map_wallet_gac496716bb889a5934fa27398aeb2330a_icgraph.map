@@ -1,0 +1,9 @@
+<map id="CWallet::GetWalletTx" name="CWallet::GetWalletTx">
+<area shape="rect" id="node2" href="$group__map_wallet.html#gac4430bbdacf1a1b11f2f7010eef016c9" title="Return whether transaction can be abandoned. " alt="" coords="202,20,387,59"/>
+<area shape="rect" id="node3" href="$group__map_wallet.html#ga5ff72a566f514e703a1a238aec6d8fbf" title="CWalletTx::IsTrusted" alt="" coords="222,83,367,108"/>
+<area shape="rect" id="node8" href="$namespacefeebumper.html#aeb269998edfd4d2677553fa3cf34d4f0" title="Return whether transaction can be bumped. " alt="" coords="201,132,387,171"/>
+<area shape="rect" id="node4" href="$group___actions.html#ga595a76e26660b8066450c21bb883ef7f" title="CWallet::GetBalance" alt="" coords="473,5,618,31"/>
+<area shape="rect" id="node5" href="$group___actions.html#ga6e6e1497535d499242c2f2a76d1cbe63" title="CWallet::GetUnconfirmedBalance" alt="" coords="435,55,655,80"/>
+<area shape="rect" id="node6" href="$group___actions.html#gab0c110f14f0429f9de594b2293837621" title="CWallet::GetUnconfirmedWatch\lOnlyBalance" alt="" coords="441,104,650,143"/>
+<area shape="rect" id="node7" href="$group___actions.html#ga0bbcbd8b9632b13e646f046d4dcc17d6" title="CWallet::GetAddressBalances" alt="" coords="445,167,645,192"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="CSizeComputer::size" name="CSizeComputer::size">
+<area shape="rect" id="node2" href="$serialize_8h.html#adf4d4ad07d8f72e06ea2c39e76ae4d4a" title="GetSerializeSizeMany" alt="" coords="200,55,352,80"/>
+<area shape="rect" id="node3" href="$sign_8h.html#a0ca0e322433b3a17166f3ff112196169" title="SerializeToVector" alt="" coords="400,55,525,80"/>
+<area shape="rect" id="node4" href="$sign_8h.html#ac41104c16086f2946ec4c3926643e4c3" title="SerializeHDKeypaths" alt="" coords="576,5,724,31"/>
+<area shape="rect" id="node5" href="$struct_p_s_b_t_input.html#a893b339425d4c607cd4dbe50e2f28159" title="PSBTInput::Serialize" alt="" coords="578,55,722,80"/>
+<area shape="rect" id="node6" href="$struct_p_s_b_t_output.html#a9161b9130bab56916fb8fdc88ecb865a" title="PSBTOutput::Serialize" alt="" coords="573,104,727,129"/>
+</map>

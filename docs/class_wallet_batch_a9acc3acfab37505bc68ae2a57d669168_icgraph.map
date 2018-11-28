@@ -1,0 +1,4 @@
+<map id="WalletBatch::WriteWatchOnly" name="WalletBatch::WriteWatchOnly">
+<area shape="rect" id="node2" href="$group__map_wallet.html#ga84e18fec1f19c9963fd810d076b71e82" title="Private version of AddWatchOnly method which does not accept a timestamp, and which will reset the wa..." alt="" coords="248,5,412,31"/>
+<area shape="rect" id="node3" href="$group__map_wallet.html#gaf96e275eac457df2013e8ceb1810b703" title="Adds a watch&#45;only address to the store, and saves it to disk. " alt="" coords="460,5,623,31"/>
+</map>

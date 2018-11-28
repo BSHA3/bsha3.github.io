@@ -1,0 +1,8 @@
+<map id="CDBWrapper::WriteBatch" name="CDBWrapper::WriteBatch">
+<area shape="rect" id="node2" href="$class_c_d_b_wrapper.html#a6600aa8c2b30880dd7e032ea21f74aed" title="CDBWrapper::Write" alt="" coords="228,25,367,50"/>
+<area shape="rect" id="node6" href="$class_c_d_b_wrapper.html#a583311ba1b0eb24d07511aad3325d61f" title="CDBWrapper::Erase" alt="" coords="226,74,369,100"/>
+<area shape="rect" id="node7" href="$class_c_d_b_wrapper.html#ae63843f0967f5c37ae2918b764b642d4" title="CDBWrapper::Sync" alt="" coords="229,124,366,149"/>
+<area shape="rect" id="node3" href="$class_tx_index_1_1_d_b.html#a7eeb3325ee83f6fe2736278a7952ba5c" title="Migrate txindex data from the block tree DB, where it may be for older nodes that have not been upgra..." alt="" coords="679,25,853,50"/>
+<area shape="rect" id="node4" href="$class_c_block_tree_d_b.html#a55914903b15bc119d0c4952af8fdf721" title="CBlockTreeDB::WriteReindexing" alt="" coords="417,25,631,50"/>
+<area shape="rect" id="node5" href="$class_c_block_tree_d_b.html#af2f65b70ac5d8a198d4f29a7e909c08a" title="CBlockTreeDB::WriteFlag" alt="" coords="437,74,610,100"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="CWallet::GetUnconfirmedBalance" name="CWallet::GetUnconfirmedBalance">
+<area shape="rect" id="node2" href="$group__map_wallet.html#ga5ff72a566f514e703a1a238aec6d8fbf" title="CWalletTx::IsTrusted" alt="" coords="559,109,703,135"/>
+<area shape="rect" id="node5" href="$class_c_merkle_tx.html#a026579f00672e5b907faa77a1baa33c8" title="Return depth of transaction in blockchain: &lt;0 : conflicts with a transaction this deep in the blockch..." alt="" coords="1051,147,1242,185"/>
+<area shape="rect" id="node11" href="$group__map_wallet.html#gae4af382e1eeba62ee7e84100c7234f23" title="CWalletTx::InMempool" alt="" coords="818,211,973,236"/>
+<area shape="rect" id="node14" href="$group__map_wallet.html#ga6a008c5f06fa405ed345c2ad389faac1" title="CWalletTx::GetAvailableCredit" alt="" coords="274,285,474,311"/>
+<area shape="rect" id="node3" href="$validation_8cpp.html#a7e254ea66e047c3d3ed0bedc5997fc4f" title="Transaction validation functions. " alt="" coords="1095,16,1198,41"/>
+<area shape="rect" id="node10" href="$class_c_wallet_tx.html#a4b4fdec025af8171852c3eece1c2508f" title="CWalletTx::IsFromMe" alt="" coords="821,60,970,85"/>
+<area shape="rect" id="node12" href="$group__map_wallet.html#gac496716bb889a5934fa27398aeb2330a" title="CWallet::GetWalletTx" alt="" coords="822,109,969,135"/>
+<area shape="rect" id="node13" href="$group__map_wallet.html#ga4eada57edc1c443564b8cc9b853d955c" title="CWallet::IsMine" alt="" coords="838,260,953,285"/>
+<area shape="rect" id="node4" href="$class_c_chain.html#ad4758bc8872ce065a9579f77c3171d40" title="Return the maximal height in the chain. " alt="" coords="1312,29,1424,55"/>
+<area shape="rect" id="node6" href="$class_c_merkle_tx.html#aff66148b06d22c7ee555b79058211493" title="CMerkleTx::hashUnset" alt="" coords="1290,203,1447,228"/>
+<area shape="rect" id="node8" href="$validation_8h.html#a9d9b2d3b31edbd48ce62f4e2a73cc04c" title="LookupBlockIndex" alt="" coords="1303,104,1433,129"/>
+<area shape="rect" id="node9" href="$class_c_chain.html#af1786dc229c215dea7f727c11df2c8dc" title="Efficiently check whether a block is present in this chain. " alt="" coords="1305,153,1431,179"/>
+<area shape="rect" id="node7" href="$classbase__blob.html#aba89c6722866a5850882a509d27d7bbd" title="base_blob::IsNull" alt="" coords="1495,203,1618,228"/>
+<area shape="rect" id="node15" href="$class_c_merkle_tx.html#acb62dfe9de72cdf75520b0f367097eda" title="CMerkleTx::IsImmatureCoinBase" alt="" coords="522,411,740,436"/>
+<area shape="rect" id="node18" href="$class_c_merkle_tx.html#a20142f81e7ff0242db646e63e0a973b3" title="CMerkleTx::GetHash" alt="" coords="558,211,704,236"/>
+<area shape="rect" id="node19" href="$group__map_wallet.html#ga3e1b1bc7d456c014a60048e98c7d8d37" title="Outpoint is spent if any non&#45;conflicted transaction spends it: " alt="" coords="571,361,691,387"/>
+<area shape="rect" id="node20" href="$group__map_wallet.html#gaa60b69c7d4ea6063ed83b13d7c6fe695" title="CWallet::GetCredit" alt="" coords="565,260,697,285"/>
+<area shape="rect" id="node21" href="$amount_8h.html#a12db56a9a1c931941f0943ecbb278aae" title="MoneyRange" alt="" coords="845,311,946,336"/>
+<area shape="rect" id="node16" href="$class_c_merkle_tx.html#adf7a2cf7e7e0fd77290f3bbdb41f5188" title="CMerkleTx::GetBlocksToMaturity" alt="" coords="788,385,1003,411"/>
+<area shape="rect" id="node17" href="$class_c_merkle_tx.html#a5e7ef444cc0c2b875fba9c729ce83b10" title="CMerkleTx::IsCoinBase" alt="" coords="1066,385,1227,411"/>
+</map>

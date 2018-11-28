@@ -1,0 +1,11 @@
+<map id="getgenerate" name="getgenerate">
+<area shape="rect" id="node2" href="$class_uni_value.html#a5a7394aeb8d5584db7a90c2c041726b1" title="UniValue::size" alt="" coords="182,5,287,31"/>
+<area shape="rect" id="node3" href="$server_8cpp.html#a26bafe3d526ee8cbc84b3c0b0dc3a43b" title="HelpExampleCli" alt="" coords="177,55,293,80"/>
+<area shape="rect" id="node4" href="$server_8cpp.html#a9ef4f8fb114508ceb861a0e8c3e0d26e" title="HelpExampleRpc" alt="" coords="173,104,297,129"/>
+<area shape="rect" id="node5" href="$class_args_manager.html#af81c6e2a9dcd6b12557a2387fd67b2a6" title="Return boolean argument or default value. " alt="" coords="146,153,324,179"/>
+<area shape="rect" id="node6" href="$class_args_manager.html#a113a1b8c5471d2fff0108058be8b86af" title="Return true if the argument was originally passed as a negated option, i.e. " alt="" coords="372,124,562,149"/>
+<area shape="rect" id="node8" href="$class_args_manager_helper.html#aa4f8f77dc468b29cffe50513c78a87cd" title="ArgsManagerHelper::\lGetArg" alt="" coords="393,175,541,213"/>
+<area shape="rect" id="node7" href="$class_args_manager_helper.html#a863ddbcfbd113cf88cf622a0a4e32c1d" title="Convert regular argument into the network&#45;specific setting. " alt="" coords="610,115,758,153"/>
+<area shape="rect" id="node9" href="$class_args_manager_helper.html#a1804a95992b4e10d04f0b92c53032b29" title="Return true/false if an argument is set in a map, and also return the first (or last) of the possibly..." alt="" coords="610,177,758,216"/>
+<area shape="rect" id="node10" href="$class_args_manager_helper.html#a43f3488403e4f0433ade323e48008359" title="Determine whether to use config settings in the default section, See also comments around ArgsManager..." alt="" coords="610,240,758,279"/>
+</map>

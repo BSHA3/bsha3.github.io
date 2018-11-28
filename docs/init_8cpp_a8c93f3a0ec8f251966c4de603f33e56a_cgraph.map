@@ -1,0 +1,13 @@
+<map id="AppInitParameterInteraction" name="AppInitParameterInteraction">
+<area shape="rect" id="node2" href="$chainparams_8cpp.html#ace5c5b706d71a324a417dd2db394fd4a" title="Return the currently selected parameters. " alt="" coords="296,5,363,31"/>
+<area shape="rect" id="node3" href="$util_8cpp.html#aa0b7b38b2c52ff7a8ba0b40df9584352" title="GetBlocksDir" alt="" coords="280,55,379,80"/>
+<area shape="rect" id="node4" href="$ui__interface_8cpp.html#a36f8e669221ac80facf023671576ee82" title="Show error message. " alt="" coords="295,104,364,129"/>
+<area shape="rect" id="node5" href="$util_8h.html#aad133bb6103b53cebf03fd01e2f11ba1" title="Translation function. " alt="" coords="310,153,349,179"/>
+<area shape="rect" id="node6" href="$class_args_manager.html#adb5d644d273b3a259f792affcdca8283" title="Return string argument or default value. " alt="" coords="254,203,405,228"/>
+<area shape="rect" id="node12" href="$class_args_manager.html#af81c6e2a9dcd6b12557a2387fd67b2a6" title="Return boolean argument or default value. " alt="" coords="241,252,418,277"/>
+<area shape="rect" id="node7" href="$class_args_manager.html#a113a1b8c5471d2fff0108058be8b86af" title="Return true if the argument was originally passed as a negated option, i.e. " alt="" coords="466,199,657,224"/>
+<area shape="rect" id="node9" href="$class_args_manager_helper.html#aa4f8f77dc468b29cffe50513c78a87cd" title="ArgsManagerHelper::\lGetArg" alt="" coords="488,248,636,287"/>
+<area shape="rect" id="node8" href="$class_args_manager_helper.html#a863ddbcfbd113cf88cf622a0a4e32c1d" title="Convert regular argument into the network&#45;specific setting. " alt="" coords="705,188,853,227"/>
+<area shape="rect" id="node10" href="$class_args_manager_helper.html#a1804a95992b4e10d04f0b92c53032b29" title="Return true/false if an argument is set in a map, and also return the first (or last) of the possibly..." alt="" coords="705,313,853,352"/>
+<area shape="rect" id="node11" href="$class_args_manager_helper.html#a43f3488403e4f0433ade323e48008359" title="Determine whether to use config settings in the default section, See also comments around ArgsManager..." alt="" coords="705,251,853,289"/>
+</map>

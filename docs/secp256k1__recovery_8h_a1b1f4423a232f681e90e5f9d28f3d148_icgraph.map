@@ -1,0 +1,3 @@
+<map id="secp256k1_ecdsa_sign_recoverable" name="secp256k1_ecdsa_sign_recoverable">
+<area shape="rect" id="node2" href="$class_c_key.html#afe77d80889aa68e92e6882e75424cfb8" title="Create a compact signature (65 bytes), which allows reconstructing the used public key..." alt="" coords="214,12,355,37"/>
+</map>

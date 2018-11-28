@@ -1,0 +1,7 @@
+<map id="secp256k1_ec_privkey_tweak_add" name="secp256k1_ec_privkey_tweak_add">
+<area shape="rect" id="node2" href="$class_c_key.html#ae79008cec2eb799a2efd37e010996acf" title="Derive BIP32 child key. " alt="" coords="210,12,310,37"/>
+<area shape="rect" id="node3" href="$struct_c_ext_key.html#a589df63664c6d12bfe071b747a245b1d" title="CExtKey::Derive" alt="" coords="358,12,477,37"/>
+<area shape="rect" id="node4" href="$group__map_wallet.html#gafb01fcc10d890174b2db560a7f27b58a" title="CWallet::DeriveNewChildKey" alt="" coords="525,12,719,37"/>
+<area shape="rect" id="node5" href="$group__map_wallet.html#ga5abb589b31879b8f4bf1890c22f15f64" title="keystore implementation Generate a new key " alt="" coords="767,12,947,37"/>
+<area shape="rect" id="node6" href="$group___actions.html#gac452f46eafeb2b4adfe86f7208048032" title="CWallet::GetKeyFromPool" alt="" coords="995,12,1172,37"/>
+</map>

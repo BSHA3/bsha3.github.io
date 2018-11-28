@@ -1,0 +1,5 @@
+<map id="CBlockPolicyEstimator::estimateFee" name="CBlockPolicyEstimator::estimateFee">
+<area shape="rect" id="node2" href="$class_c_block_policy_estimator.html#a400d3f4527bfe31a2609ba59470a6140" title="Return a specific fee estimate calculation with a given success threshold and time horizon..." alt="" coords="209,5,364,44"/>
+<area shape="rect" id="node3" href="$class_tx_confirm_stats.html#a34b67526e2ceea1b81d8669e3faf6a42" title="Return the max number of confirms we&#39;re tracking. " alt="" coords="633,12,853,37"/>
+<area shape="rect" id="node4" href="$class_tx_confirm_stats.html#aace5d830fdfac5626e7769dee5fe6f11" title="Calculate a feerate estimate. " alt="" coords="412,33,585,72"/>
+</map>

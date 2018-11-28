@@ -1,0 +1,6 @@
+<map id="PSBTInput::IsNull" name="PSBTInput::IsNull">
+<area shape="rect" id="node2" href="$class_c_tx_out.html#ab92a3c4c95c643f7b3ffd3ffa7cd7055" title="CTxOut::IsNull" alt="" coords="186,5,294,31"/>
+<area shape="rect" id="node3" href="$classprevector.html#a0057a2d5ac2bbff636af5fbd87ae5235" title="prevector::empty" alt="" coords="180,55,301,80"/>
+<area shape="rect" id="node4" href="$classprevector.html#a626f7d206dbc24e5610631809762758b" title="prevector::size" alt="" coords="349,55,457,80"/>
+<area shape="rect" id="node5" href="$classprevector.html#a933e204a7e29c6bbc85479d023c00ff8" title="prevector::is_direct" alt="" coords="505,55,639,80"/>
+</map>

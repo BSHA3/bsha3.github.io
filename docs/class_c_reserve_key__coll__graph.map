@@ -1,0 +1,24 @@
+<map id="CReserveKey" name="CReserveKey">
+<area shape="rect" id="node2" href="$class_c_reserve_script.html" title="CReserveScript" alt="" coords="1095,69,1209,95"/>
+<area shape="rect" id="node3" href="$class_c_script.html" title="Serialized script, used inside transaction inputs and outputs. " alt="" coords="793,28,859,53"/>
+<area shape="rect" id="node4" href="$classprevector.html" title="Implements a drop&#45;in replacement for std::vector&lt;T&gt; which stores up to N elements directly (without h..." alt="" coords="504,16,599,41"/>
+<area shape="rect" id="node5" href="$unionprevector_1_1direct__or__indirect.html" title="prevector\&lt; N, T, Size,\l Diff \&gt;::direct_or_indirect" alt="" coords="199,5,365,44"/>
+<area shape="rect" id="node6" href="$class_c_pub_key.html" title="An encapsulated public key. " alt="" coords="1113,125,1191,151"/>
+<area shape="rect" id="node7" href="$class_c_wallet.html" title="A CWallet is an extension of a keystore, which also maintains a set of transactions and balances..." alt="" coords="1118,189,1186,215"/>
+<area shape="rect" id="node8" href="$class_c_crypto_key_store.html" title="Keystore which keeps the private keys encrypted. " alt="" coords="763,88,889,113"/>
+<area shape="rect" id="node9" href="$class_c_basic_key_store.html" title="Basic key store, that keeps keys in an address&#45;&gt;secret map. " alt="" coords="492,88,611,113"/>
+<area shape="rect" id="node10" href="$class_c_key_store.html" title="A virtual base class for key stores. " alt="" coords="239,68,325,93"/>
+<area shape="rect" id="node11" href="$class_signing_provider.html" title="An interface to be implemented by keystores that support signing. " alt="" coords="20,68,135,93"/>
+<area shape="rect" id="node12" href="$class_annotated_mixin.html" title="AnnotatedMixin\&lt; std\l::recursive_mutex \&gt;" alt="" coords="211,125,353,164"/>
+<area shape="rect" id="node14" href="$class_c_validation_interface.html" title="Implement this to subscribe to events generated in validation. " alt="" coords="756,189,896,215"/>
+<area shape="rect" id="node15" href="$class_c_block_index.html" title="The block chain is a tree shaped structure starting with the genesis block at the root..." alt="" coords="778,289,874,315"/>
+<area shape="rect" id="node16" href="$classuint256.html" title="256&#45;bit opaque blob. " alt="" coords="519,264,584,289"/>
+<area shape="rect" id="node17" href="$classbase__blob.html" title="base_blob\&lt; 256 \&gt;" alt="" coords="218,264,346,289"/>
+<area shape="rect" id="node18" href="$classarith__uint256.html" title="256&#45;bit unsigned big integer. " alt="" coords="502,313,601,339"/>
+<area shape="rect" id="node19" href="$classbase__uint.html" title="base_uint\&lt; 256 \&gt;" alt="" coords="220,313,344,339"/>
+<area shape="rect" id="node20" href="$class_c_fee_rate.html" title="Fee rate in satoshis per kilobyte: CAmount / kB. " alt="" coords="785,339,867,364"/>
+<area shape="rect" id="node21" href="$class_c_h_d_chain.html" title="CHDChain" alt="" coords="783,388,869,413"/>
+<area shape="rect" id="node22" href="$class_c_key_i_d.html" title="A reference to a CKey: the Hash360 of its serialized public key. " alt="" coords="518,388,585,413"/>
+<area shape="rect" id="node23" href="$classuint160.html" title="160&#45;bit opaque blob. " alt="" coords="249,388,315,413"/>
+<area shape="rect" id="node24" href="$classbase__blob.html" title="base_blob\&lt; 160 \&gt;" alt="" coords="13,388,142,413"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="CAddrInfo::GetNewBucket" name="CAddrInfo::GetNewBucket">
+<area shape="rect" id="node2" href="$class_c_addr_man.html#a0f280b5874a6507b463cae6075063ec2" title="Add an entry to the &quot;new&quot; table. " alt="" coords="258,5,382,31"/>
+<area shape="rect" id="node5" href="$class_c_addr_info.html#a04ac79764971242edce1e82aefb2aea0" title="Calculate in which &quot;new&quot; bucket this entry belongs, using its default source. " alt="" coords="231,55,409,80"/>
+<area shape="rect" id="node3" href="$class_c_addr_man.html#a03fcc7109b5f014760dc50a81f68c5ec" title="Add a single address. " alt="" coords="457,5,573,31"/>
+<area shape="rect" id="node4" href="$class_c_connman.html#a47d9024273a8c421fa7de641c30e9081" title="CConnman::AddNewAddresses" alt="" coords="621,5,831,31"/>
+</map>

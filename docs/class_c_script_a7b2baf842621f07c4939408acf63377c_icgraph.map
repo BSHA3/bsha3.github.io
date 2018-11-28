@@ -1,0 +1,12 @@
+<map id="CScript::clear" name="CScript::clear">
+<area shape="rect" id="node2" href="$class_c_tx_out.html#a9fe5e6a1be651f130d3dc84a64e78a24" title="CTxOut::SetNull" alt="" coords="201,29,318,55"/>
+<area shape="rect" id="node10" href="$rawtransaction_8cpp.html#a6b6a0c0d5bd5b55553ea48b3da2e796c" title="converttopsbt" alt="" coords="209,79,310,104"/>
+<area shape="rect" id="node11" href="$struct_p_s_b_t_input.html#ad4eae111b69112fac6fd802b9e647d8e" title="PSBTInput::FromSignatureData" alt="" coords="155,128,364,153"/>
+<area shape="rect" id="node3" href="$class_coin.html#a43f443512a1a3444555149d14a9a3d48" title="Coin::Clear" alt="" coords="429,5,517,31"/>
+<area shape="rect" id="node4" href="$class_c_tx_out.html#a46110a759b21c75968297768f759be59" title="CTxOut::CTxOut" alt="" coords="412,55,533,80"/>
+<area shape="rect" id="node5" href="$sign_8h.html#a0672ff731255ff8be6d4f8c5abd68d6c" title="Signs a PSBTInput, verifying that all provided data matches what is being signed. ..." alt="" coords="416,116,529,141"/>
+<area shape="rect" id="node6" href="$rawtransaction_8cpp.html#a5edaef38949646889470912893a56b88" title="finalizepsbt" alt="" coords="581,91,669,116"/>
+<area shape="rect" id="node7" href="$rpcwallet_8h.html#ab2cdd07070dae2e6b1a2ea36a619b233" title="FillPSBT" alt="" coords="588,140,661,165"/>
+<area shape="rect" id="node8" href="$rpcwallet_8cpp.html#a9c99ceacf389a1ce91977c6f7ffa5022" title="walletprocesspsbt" alt="" coords="732,115,860,140"/>
+<area shape="rect" id="node9" href="$rpcwallet_8cpp.html#afca55ac7a3c6c274b8b7b3e6eab9cd86" title="walletcreatefundedpsbt" alt="" coords="717,164,875,189"/>
+</map>

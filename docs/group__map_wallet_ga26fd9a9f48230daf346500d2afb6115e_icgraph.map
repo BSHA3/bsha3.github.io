@@ -1,0 +1,5 @@
+<map id="CWallet::MarkDirty" name="CWallet::MarkDirty">
+<area shape="rect" id="node2" href="$group___actions.html#ga01a1096ab883f9278d00c7b0d555bb2a" title="CWallet::ZapSelectTx" alt="" coords="185,5,335,31"/>
+<area shape="rect" id="node4" href="$rpcwallet_8cpp.html#a2f46e2bb304dda9a197b5a68db6106f7" title="importprivkey" alt="" coords="210,55,310,80"/>
+<area shape="rect" id="node3" href="$rpcwallet_8cpp.html#a85478b0b9837a3e5467dce66fcb5ffb0" title="removeprunedfunds" alt="" coords="383,5,523,31"/>
+</map>

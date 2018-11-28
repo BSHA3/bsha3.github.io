@@ -1,0 +1,13 @@
+<map id="CWallet::AddCScript" name="CWallet::AddCScript">
+<area shape="rect" id="node2" href="$class_c_wallet.html#a209237e7f3f95ca6f5faab3357c2340b" title="Explicitly make the wallet learn the related scripts for outputs to the given key. " alt="" coords="196,121,391,147"/>
+<area shape="rect" id="node3" href="$class_c_wallet.html#a3289f497f44df1ad3d758ee2291bece4" title="Same as LearnRelatedScripts, but when the OutputType is not known (and could be anything). " alt="" coords="439,115,609,153"/>
+<area shape="rect" id="node4" href="$group___actions.html#ga23a900513e363e8e79d604cab9a7c7fc" title="Marks all keys in the keypool up to and including reserve_key as used. " alt="" coords="657,87,841,125"/>
+<area shape="rect" id="node12" href="$rpcwallet_8cpp.html#a2f46e2bb304dda9a197b5a68db6106f7" title="importprivkey" alt="" coords="699,149,799,175"/>
+<area shape="rect" id="node5" href="$group__map_wallet.html#gaee8f634287d083737471595f658da519" title="Add a transaction to the wallet, or update it. " alt="" coords="889,93,1117,119"/>
+<area shape="rect" id="node6" href="$group__map_wallet.html#ga09e75fcbc98be305e68e99495570687c" title="CWallet::SyncTransaction" alt="" coords="1165,93,1339,119"/>
+<area shape="rect" id="node7" href="$group__map_wallet.html#gae44ec090ec7c87725fb22d33887ad1a7" title="Notifies listeners of a transaction having been added to mempool. " alt="" coords="1414,5,1597,44"/>
+<area shape="rect" id="node8" href="$group__map_wallet.html#ga8871fb58a2872900558d69d71baddfca" title="Notifies listeners of a block being connected. " alt="" coords="1420,68,1592,93"/>
+<area shape="rect" id="node9" href="$group__map_wallet.html#ga3aa53a08f7071c42c0ef82ea468d19ae" title="Notifies listeners of a block being disconnected. " alt="" coords="1411,117,1600,143"/>
+<area shape="rect" id="node10" href="$group__map_wallet.html#gaabb1db808d082d6df2b1e37cbf3f8f98" title="Scan the block chain (starting in pindexStart) for transactions from or to us. " alt="" coords="1387,167,1624,192"/>
+<area shape="rect" id="node11" href="$rpcwallet_8cpp.html#a151535abf7394b299deb8d0a333de70b" title="rescanblockchain" alt="" coords="1672,167,1797,192"/>
+</map>

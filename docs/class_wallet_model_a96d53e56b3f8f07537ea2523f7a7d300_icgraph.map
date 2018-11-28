@@ -1,0 +1,51 @@
+<map id="WalletModel::getOptionsModel" name="WalletModel::getOptionsModel">
+<area shape="rect" id="node2" href="$class_coin_control_dialog.html#a4c34a48574814089c54f763a22f5317a" title="CoinControlDialog::\lsetModel" alt="" coords="580,477,717,516"/>
+<area shape="rect" id="node4" href="$class_coin_control_dialog.html#aadea33050e5c1efd5eae8d2fcfa721f9" title="CoinControlDialog::\lupdateView" alt="" coords="304,210,441,249"/>
+<area shape="rect" id="node7" href="$class_overview_page.html#afb4ed503f1fc4de219e95bc39a0734c3" title="OverviewPage::setBalance" alt="" coords="282,325,463,350"/>
+<area shape="rect" id="node8" href="$class_overview_page.html#a2ed52a3a87e9c74fee38fa873c9bc71f" title="OverviewPage::setWalletModel" alt="" coords="826,325,1032,350"/>
+<area shape="rect" id="node10" href="$class_overview_page.html#a03f19b9afd9af4b72d9bba7b0c7cf900" title="OverviewPage::updateDisplayUnit" alt="" coords="537,274,761,300"/>
+<area shape="rect" id="node11" href="$class_receive_coins_dialog.html#a856e5bbe280d792004e97e703f42c7f8" title="ReceiveCoinsDialog\l::setModel" alt="" coords="578,602,720,641"/>
+<area shape="rect" id="node12" href="$class_receive_coins_dialog.html#a19eca7743c5326eee821bb8c0af234bb" title="ReceiveCoinsDialog\l::updateDisplayUnit" alt="" coords="302,602,443,641"/>
+<area shape="rect" id="node14" href="$class_receive_coins_dialog.html#a9db8de31f6889288cb22c061aa51e0cd" title="ReceiveCoinsDialog\l::on_receiveButton_clicked" alt="" coords="838,480,1019,518"/>
+<area shape="rect" id="node16" href="$class_receive_request_dialog.html#a2392a9b3bf94d7267dee0695049711a6" title="ReceiveRequestDialog\l::setModel" alt="" coords="570,1376,727,1414"/>
+<area shape="rect" id="node18" href="$class_receive_request_dialog.html#a8e1c0ee2fbacf42b4dc7ea05986c86c9" title="ReceiveRequestDialog\l::update" alt="" coords="294,1336,451,1374"/>
+<area shape="rect" id="node20" href="$class_recent_requests_table_model.html#aea45f8031e5181beb8c6adeaee2a3ace" title="RecentRequestsTableModel\l::RecentRequestsTableModel" alt="" coords="551,1501,747,1540"/>
+<area shape="rect" id="node21" href="$class_recent_requests_table_model.html#ad42929c480fc50cad83114ca5f2cc382" title="RecentRequestsTableModel\l::data" alt="" coords="278,1513,466,1552"/>
+<area shape="rect" id="node24" href="$class_recent_requests_table_model.html#ab0116f41ff8773ec18e68205b2917301" title="Gets title for amount column including current display unit if optionsModel reference available..." alt="" coords="278,1450,466,1489"/>
+<area shape="rect" id="node26" href="$class_send_coins_dialog.html#a73a6c1b1850a334ee652ac167713a2aa" title="SendCoinsDialog::setModel" alt="" coords="1122,982,1308,1008"/>
+<area shape="rect" id="node27" href="$class_send_coins_dialog.html#a2cab7cf9ea5040b9e2189297f7d3c764" title="SendCoinsDialog::on\l_sendButton_clicked" alt="" coords="299,1576,446,1614"/>
+<area shape="rect" id="node28" href="$class_send_coins_dialog.html#a8ae61f31300453ef6acc673937a44d63" title="SendCoinsDialog::setBalance" alt="" coords="550,957,748,982"/>
+<area shape="rect" id="node29" href="$class_send_coins_dialog.html#a74815ad8502b126200b6fd2e59e9f042" title="SendCoinsDialog::updateDisplayUnit" alt="" coords="809,906,1049,932"/>
+<area shape="rect" id="node30" href="$class_send_coins_dialog.html#a349fff162bb43ec63e56e8f7db203a66" title="SendCoinsDialog::process\lSendCoinsReturn" alt="" coords="283,1638,462,1677"/>
+<area shape="rect" id="node31" href="$class_send_coins_dialog.html#a014c6a4f6319e0620c6972e729792a0a" title="SendCoinsDialog::useAvailable\lBalance" alt="" coords="269,1221,476,1260"/>
+<area shape="rect" id="node34" href="$class_send_coins_dialog.html#a454df839e09d247a1df5d7994ba3208e" title="SendCoinsDialog::updateFee\lMinimizedLabel" alt="" coords="275,728,470,766"/>
+<area shape="rect" id="node36" href="$class_send_coins_dialog.html#ac42a9db733fbb2e06882660400c49517" title="SendCoinsDialog::updateSmart\lFeeLabel" alt="" coords="545,728,753,766"/>
+<area shape="rect" id="node38" href="$class_send_coins_dialog.html#a2fb31c54501a1599d0d192bfcf78d70b" title="SendCoinsDialog::updateMin\lFeeLabel" alt="" coords="552,842,746,881"/>
+<area shape="rect" id="node39" href="$class_send_coins_dialog.html#ae4f429aabcaf309aa314b90049be2a74" title="SendCoinsDialog::coinControl\lUpdateLabels" alt="" coords="273,1158,472,1197"/>
+<area shape="rect" id="node41" href="$class_send_coins_entry.html#a831f8f9a63acd77b7d66d5393e12310b" title="SendCoinsEntry::setModel" alt="" coords="559,1058,738,1084"/>
+<area shape="rect" id="node42" href="$class_send_coins_entry.html#a6ff4bd5b370545bcfd6214e866ee33f3" title="SendCoinsEntry::updateDisplayUnit" alt="" coords="256,1109,489,1134"/>
+<area shape="rect" id="node43" href="$class_transaction_table_model.html#addebfd4c35896f17a6a9fec9f40eeeb7" title="TransactionTableModel\l::TransactionTableModel" alt="" coords="289,1701,455,1740"/>
+<area shape="rect" id="node44" href="$class_transaction_table_model.html#acbb6e7531f507369ad18b656ad7b3f10" title="Updates the column title to &quot;Amount (DisplayUnit)&quot; and emits headerDataChanged() signal for table hea..." alt="" coords="279,1764,465,1802"/>
+<area shape="rect" id="node45" href="$class_transaction_table_model.html#a50d5ce8b658d01d82dbd439e33d362ee" title="TransactionTableModel\l::formatTxAmount" alt="" coords="293,1826,452,1865"/>
+<area shape="rect" id="node46" href="$class_transaction_view.html#a4920c2cd57d72eb50248948fa160c83c" title="TransactionView::setModel" alt="" coords="1125,93,1305,118"/>
+<area shape="rect" id="node47" href="$class_transaction_view.html#ab4b25a73703d7ce5da47af1e60e7e3cf" title="TransactionView::changed\lAmount" alt="" coords="284,1889,461,1928"/>
+<area shape="rect" id="node48" href="$class_transaction_view.html#a5983022ff1e5395f87de3c5728eff8da" title="TransactionView::exportClicked" alt="" coords="269,1952,476,1977"/>
+<area shape="rect" id="node49" href="$class_wallet_model.html#abf07879b93f66ffc129184bf7a37f069" title="WalletModel::bumpFee" alt="" coords="293,2001,451,2026"/>
+<area shape="rect" id="node50" href="$class_wallet_view.html#addde7d2260658ee06f47f9c095a8cb2a" title="Show incoming transaction notification for new transactions. " alt="" coords="1097,186,1333,212"/>
+<area shape="rect" id="node3" href="$class_send_coins_dialog.html#a59d757d9e4bea5b380eb480fd79cfb49" title="SendCoinsDialog::coinControl\lButtonClicked" alt="" coords="829,602,1028,641"/>
+<area shape="rect" id="node5" href="$class_coin_control_dialog.html#a1990d478f3ffba666c358a4f1bd395ec" title="CoinControlDialog::\lradioTreeMode" alt="" coords="580,149,717,188"/>
+<area shape="rect" id="node6" href="$class_coin_control_dialog.html#a775c6d290cb63667a434b09072094533" title="CoinControlDialog::\lradioListMode" alt="" coords="580,212,717,250"/>
+<area shape="rect" id="node9" href="$class_wallet_view.html#a0a37ff693a4f9c1e5ddc23f9cd3913be" title="Set the wallet model. " alt="" coords="1381,325,1566,350"/>
+<area shape="rect" id="node13" href="$class_receive_coins_dialog.html#aaea0511f0ab43f1d2b23f8684d1edfc3" title="ReceiveCoinsDialog\l::clear" alt="" coords="578,540,720,578"/>
+<area shape="rect" id="node15" href="$class_receive_coins_dialog.html#abcf17b510c473bf3e94ef12f7f5cfc10" title="ReceiveCoinsDialog\l::keyPressEvent" alt="" coords="1144,480,1286,518"/>
+<area shape="rect" id="node17" href="$class_receive_coins_dialog.html#a5eabd6106c8e3b275305b84c0303f314" title="ReceiveCoinsDialog\l::on_recentRequestsView\l_doubleClicked" alt="" coords="842,1400,1015,1452"/>
+<area shape="rect" id="node19" href="$class_receive_request_dialog.html#a43344270ef71e68ad9c7a931cc0ca9ed" title="ReceiveRequestDialog\l::setInfo" alt="" coords="570,1438,727,1477"/>
+<area shape="rect" id="node22" href="$class_receive_coins_dialog.html#adcf53aced7dfa041a55278b4807a20a2" title="ReceiveCoinsDialog\l::copyColumnToClipboard" alt="" coords="562,1626,736,1665"/>
+<area shape="rect" id="node23" href="$class_recent_requests_table_model.html#aad0b9435284ed1f4b67852b34d7694a9" title="RecentRequestsTableModel\l::addNewRequest" alt="" coords="555,1689,743,1728"/>
+<area shape="rect" id="node25" href="$class_recent_requests_table_model.html#a8bc224f31142bd2da1c2729010ee84a3" title="Updates the column title to &quot;Amount (DisplayUnit)&quot; and emits headerDataChanged() signal for table hea..." alt="" coords="555,1564,743,1602"/>
+<area shape="rect" id="node32" href="$class_send_coins_dialog.html#a3d680a76b967641115c6ff2fa83fb62a" title="SendCoinsDialog::addEntry" alt="" coords="836,1264,1021,1289"/>
+<area shape="rect" id="node33" href="$class_send_coins_dialog.html#a127bddff45f49ff5e6e263efe218ae26" title="SendCoinsDialog::clear" alt="" coords="1135,1213,1295,1238"/>
+<area shape="rect" id="node35" href="$class_send_coins_dialog.html#ae2cdacd5d72154fda0c88b818d5c7c59" title="SendCoinsDialog::on\l_buttonMinimizeFee_clicked" alt="" coords="554,665,744,704"/>
+<area shape="rect" id="node37" href="$class_send_coins_dialog.html#a360a23c02bd0e581b78603ccb863eb79" title="SendCoinsDialog::setClient\lModel" alt="" coords="837,728,1021,766"/>
+<area shape="rect" id="node40" href="$class_send_coins_dialog.html#a3b834c739f7d02d8086a2bf58525c5f0" title="SendCoinsDialog::updateTabs\lAndLabels" alt="" coords="549,1210,749,1249"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="CWallet::RemoveWatchOnly" name="CWallet::RemoveWatchOnly">
+<area shape="rect" id="node2" href="$class_c_basic_key_store.html#a5032a8e882e119c454674d0dac5da19b" title="CBasicKeyStore::RemoveWatchOnly" alt="" coords="243,5,483,31"/>
+<area shape="rect" id="node3" href="$class_c_basic_key_store.html#a0c3cb520c8b5e616c8717a5d53e8b38a" title="CBasicKeyStore::HaveWatchOnly" alt="" coords="252,55,474,80"/>
+<area shape="rect" id="node4" href="$class_wallet_batch.html#a440e6261a45315893be17b92d2d86e27" title="WalletBatch::EraseWatchOnly" alt="" coords="263,104,462,129"/>
+<area shape="rect" id="node5" href="$class_wallet_batch.html#a9142686ef26de3c4ab3062237a81f345" title="WalletBatch::EraseIC" alt="" coords="531,104,678,129"/>
+<area shape="rect" id="node6" href="$class_berkeley_batch.html#af17c19ee65042d1c497f61d4560e9639" title="BerkeleyBatch::Erase" alt="" coords="750,76,900,101"/>
+<area shape="rect" id="node7" href="$class_berkeley_database.html#a313cd767c211da5738bdb5578cd59af7" title="BerkeleyDatabase::Increment\lUpdateCounter" alt="" coords="726,125,923,164"/>
+</map>

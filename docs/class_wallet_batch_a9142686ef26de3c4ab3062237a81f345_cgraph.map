@@ -1,0 +1,4 @@
+<map id="WalletBatch::EraseIC" name="WalletBatch::EraseIC">
+<area shape="rect" id="node2" href="$class_berkeley_batch.html#af17c19ee65042d1c497f61d4560e9639" title="BerkeleyBatch::Erase" alt="" coords="225,5,374,31"/>
+<area shape="rect" id="node3" href="$class_berkeley_database.html#a313cd767c211da5738bdb5578cd59af7" title="BerkeleyDatabase::Increment\lUpdateCounter" alt="" coords="201,55,398,93"/>
+</map>

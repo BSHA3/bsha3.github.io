@@ -1,0 +1,5 @@
+<map id="WalletView::hdEnabledStatusChanged" name="WalletView::hdEnabledStatusChanged">
+<area shape="rect" id="node2" href="$class_wallet_view.html#a4405b0cf33d31ea663cb1e5047ae1d97" title="WalletView::setBitcoinGUI" alt="" coords="253,5,429,31"/>
+<area shape="rect" id="node4" href="$class_wallet_view.html#a0a37ff693a4f9c1e5ddc23f9cd3913be" title="Set the wallet model. " alt="" coords="249,55,433,80"/>
+<area shape="rect" id="node3" href="$class_wallet_frame.html#a06cb28194836995e50cc46716b2227ff" title="WalletFrame::addWallet" alt="" coords="481,31,644,56"/>
+</map>

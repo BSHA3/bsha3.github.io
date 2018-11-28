@@ -1,0 +1,13 @@
+<map id="CWalletTx::IsTrusted" name="CWalletTx::IsTrusted">
+<area shape="rect" id="node2" href="$validation_8cpp.html#a7e254ea66e047c3d3ed0bedc5997fc4f" title="Transaction validation functions. " alt="" coords="242,5,345,31"/>
+<area shape="rect" id="node4" href="$class_c_merkle_tx.html#a026579f00672e5b907faa77a1baa33c8" title="Return depth of transaction in blockchain: &lt;0 : conflicts with a transaction this deep in the blockch..." alt="" coords="198,55,388,93"/>
+<area shape="rect" id="node9" href="$class_c_wallet_tx.html#a4b4fdec025af8171852c3eece1c2508f" title="CWalletTx::IsFromMe" alt="" coords="218,117,368,143"/>
+<area shape="rect" id="node10" href="$group__map_wallet.html#gae4af382e1eeba62ee7e84100c7234f23" title="CWalletTx::InMempool" alt="" coords="215,167,371,192"/>
+<area shape="rect" id="node11" href="$group__map_wallet.html#gac496716bb889a5934fa27398aeb2330a" title="CWallet::GetWalletTx" alt="" coords="219,216,367,241"/>
+<area shape="rect" id="node12" href="$group__map_wallet.html#ga4eada57edc1c443564b8cc9b853d955c" title="CWallet::IsMine" alt="" coords="236,265,350,291"/>
+<area shape="rect" id="node3" href="$class_c_chain.html#ad4758bc8872ce065a9579f77c3171d40" title="Return the maximal height in the chain. " alt="" coords="459,5,571,31"/>
+<area shape="rect" id="node5" href="$class_c_merkle_tx.html#aff66148b06d22c7ee555b79058211493" title="CMerkleTx::hashUnset" alt="" coords="436,55,593,80"/>
+<area shape="rect" id="node7" href="$validation_8h.html#a9d9b2d3b31edbd48ce62f4e2a73cc04c" title="LookupBlockIndex" alt="" coords="450,104,580,129"/>
+<area shape="rect" id="node8" href="$class_c_chain.html#af1786dc229c215dea7f727c11df2c8dc" title="Efficiently check whether a block is present in this chain. " alt="" coords="452,153,578,179"/>
+<area shape="rect" id="node6" href="$classbase__blob.html#aba89c6722866a5850882a509d27d7bbd" title="base_blob::IsNull" alt="" coords="641,55,765,80"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="CNetAddr::GetIn6Addr" name="CNetAddr::GetIn6Addr">
+<area shape="rect" id="node2" href="$class_c_net_addr.html#aad5f7a372c56ccf4d773f728b6b46e18" title="CNetAddr::IsIPv6" alt="" coords="209,68,333,93"/>
+<area shape="rect" id="node6" href="$glibc__compat_8cpp.html#a0f46826ab0466591e136db24394923cf" title="memcpy" alt="" coords="235,129,307,155"/>
+<area shape="rect" id="node3" href="$class_c_net_addr.html#a7021b79e9a33c342b68db09dbb6c2293" title="CNetAddr::IsIPv4" alt="" coords="390,5,514,31"/>
+<area shape="rect" id="node4" href="$class_c_net_addr.html#a4db37b4997ff3b8c57959f2aa915a9a3" title="CNetAddr::IsTor" alt="" coords="394,55,510,80"/>
+<area shape="rect" id="node5" href="$class_c_net_addr.html#ab0848a1ba29b6f72fcc3b6ba8d7c8fbb" title="CNetAddr::IsInternal" alt="" coords="381,104,523,129"/>
+<area shape="rect" id="node7" href="$glibc__compat_8cpp.html#a9778d49e9029dd75bc53ecbbf9f5e9a1" title="memmove" alt="" coords="410,153,494,179"/>
+</map>

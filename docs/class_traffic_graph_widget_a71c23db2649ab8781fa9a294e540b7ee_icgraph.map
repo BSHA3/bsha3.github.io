@@ -1,0 +1,4 @@
+<map id="TrafficGraphWidget::clear" name="TrafficGraphWidget::clear">
+<area shape="rect" id="node2" href="$class_r_p_c_console.html#a0f58ae3018a64fb4fd15be25345df9e9" title="RPCConsole::RPCConsole" alt="" coords="190,5,373,31"/>
+<area shape="rect" id="node3" href="$class_traffic_graph_widget.html#aa08cb5ae735e58a79bdff42b933ec4c4" title="TrafficGraphWidget\l::setGraphRangeMins" alt="" coords="206,55,357,93"/>
+</map>

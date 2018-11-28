@@ -1,0 +1,12 @@
+<map id="CTxMemPool::UpdateParent" name="CTxMemPool::UpdateParent">
+<area shape="rect" id="node2" href="$class_c_tx_mem_pool.html#a0cdc801826e5b27d3d41ac9084711682" title="When adding transactions from a disconnected block back to the mempool, new mempool entries may have ..." alt="" coords="245,12,473,51"/>
+<area shape="rect" id="node3" href="$class_c_tx_mem_pool.html#a340c9d911b13a074bbfb647ff531dd73" title="Sever link between specified transaction and direct children. " alt="" coords="258,75,460,113"/>
+<area shape="rect" id="node11" href="$class_c_tx_mem_pool.html#a18ad91b355c68ce224a4889145a088ed" title="CTxMemPool::addUnchecked" alt="" coords="260,137,459,163"/>
+<area shape="rect" id="node4" href="$class_c_tx_mem_pool.html#ae6df7d624e9ef0fb35004e09077e39c6" title="For each transaction being removed, update ancestors and any direct children. " alt="" coords="521,75,744,113"/>
+<area shape="rect" id="node5" href="$class_c_tx_mem_pool.html#a89e7372fff3b27b9969f4f94d1f5cff0" title="Remove a set of transactions from the mempool. " alt="" coords="792,81,993,107"/>
+<area shape="rect" id="node6" href="$class_c_tx_mem_pool.html#a1bdc49203ca7654d8508c356bcbca47e" title="CTxMemPool::removeRecursive" alt="" coords="1041,5,1254,31"/>
+<area shape="rect" id="node8" href="$class_c_tx_mem_pool.html#af0d277f190f134638cb0aa18e2099094" title="Called when a block is connected. " alt="" coords="1555,31,1762,56"/>
+<area shape="rect" id="node9" href="$class_c_tx_mem_pool.html#a283d0422469c908a881a6484308ee2b6" title="Expire all transaction (and their dependencies) in the mempool older than time. " alt="" coords="1074,107,1221,132"/>
+<area shape="rect" id="node10" href="$class_c_tx_mem_pool.html#adb0214b2760eaedf15eb351348bc4f43" title="Remove transactions from the mempool until its dynamic size is &lt;= sizelimit. " alt="" coords="1060,156,1235,181"/>
+<area shape="rect" id="node7" href="$class_c_tx_mem_pool.html#a01aa5f8ce16839bfbaacf67f40fe461d" title="CTxMemPool::removeConflicts" alt="" coords="1302,5,1507,31"/>
+</map>

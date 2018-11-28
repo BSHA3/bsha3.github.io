@@ -1,0 +1,5 @@
+<map id="GuessVerificationProgress" name="GuessVerificationProgress">
+<area shape="rect" id="node2" href="$group__map_wallet.html#gaabb1db808d082d6df2b1e37cbf3f8f98" title="Scan the block chain (starting in pindexStart) for transactions from or to us. " alt="" coords="232,5,469,31"/>
+<area shape="rect" id="node4" href="$blockchain_8cpp.html#a474625d5c1ef0c47e33c078fb53f6ba4" title="Implementation of IsSuperMajority with better feedback. " alt="" coords="288,55,413,80"/>
+<area shape="rect" id="node3" href="$rpcwallet_8cpp.html#a151535abf7394b299deb8d0a333de70b" title="rescanblockchain" alt="" coords="517,5,642,31"/>
+</map>

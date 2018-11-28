@@ -1,0 +1,15 @@
+<map id="CWalletTx::GetImmatureWatchOnlyCredit" name="CWalletTx::GetImmatureWatchOnlyCredit">
+<area shape="rect" id="node2" href="$class_c_merkle_tx.html#acb62dfe9de72cdf75520b0f367097eda" title="CMerkleTx::IsImmatureCoinBase" alt="" coords="258,31,476,56"/>
+<area shape="rect" id="node11" href="$class_c_merkle_tx.html#a68b39aa6c6a6a87d4c4db8d852389b76" title="CMerkleTx::IsInMainChain" alt="" coords="278,80,456,105"/>
+<area shape="rect" id="node12" href="$group__map_wallet.html#gaa60b69c7d4ea6063ed83b13d7c6fe695" title="CWallet::GetCredit" alt="" coords="301,131,433,156"/>
+<area shape="rect" id="node3" href="$class_c_merkle_tx.html#adf7a2cf7e7e0fd77290f3bbdb41f5188" title="CMerkleTx::GetBlocksToMaturity" alt="" coords="524,29,739,55"/>
+<area shape="rect" id="node4" href="$class_c_merkle_tx.html#a5e7ef444cc0c2b875fba9c729ce83b10" title="CMerkleTx::IsCoinBase" alt="" coords="802,24,963,49"/>
+<area shape="rect" id="node5" href="$class_c_merkle_tx.html#a026579f00672e5b907faa77a1baa33c8" title="Return depth of transaction in blockchain: &lt;0 : conflicts with a transaction this deep in the blockch..." alt="" coords="787,73,978,112"/>
+<area shape="rect" id="node6" href="$class_c_merkle_tx.html#aff66148b06d22c7ee555b79058211493" title="CMerkleTx::hashUnset" alt="" coords="1026,5,1183,31"/>
+<area shape="rect" id="node8" href="$validation_8h.html#a9d9b2d3b31edbd48ce62f4e2a73cc04c" title="LookupBlockIndex" alt="" coords="1039,55,1169,80"/>
+<area shape="rect" id="node9" href="$class_c_chain.html#af1786dc229c215dea7f727c11df2c8dc" title="Efficiently check whether a block is present in this chain. " alt="" coords="1041,104,1167,129"/>
+<area shape="rect" id="node10" href="$class_c_chain.html#ad4758bc8872ce065a9579f77c3171d40" title="Return the maximal height in the chain. " alt="" coords="1048,153,1160,179"/>
+<area shape="rect" id="node7" href="$classbase__blob.html#aba89c6722866a5850882a509d27d7bbd" title="base_blob::IsNull" alt="" coords="1231,5,1354,31"/>
+<area shape="rect" id="node13" href="$amount_8h.html#a12db56a9a1c931941f0943ecbb278aae" title="MoneyRange" alt="" coords="581,131,682,156"/>
+<area shape="rect" id="node14" href="$group__map_wallet.html#ga4eada57edc1c443564b8cc9b853d955c" title="CWallet::IsMine" alt="" coords="574,180,689,205"/>
+</map>

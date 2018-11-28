@@ -1,0 +1,5 @@
+<map id="WalletView::getWalletModel" name="WalletView::getWalletModel">
+<area shape="rect" id="node2" href="$class_wallet_view.html#a8a1f4b689abc0f1073c547ec1f871a26" title="Show progress dialog e.g. " alt="" coords="239,5,417,31"/>
+<area shape="rect" id="node3" href="$class_wallet_view.html#a0a37ff693a4f9c1e5ddc23f9cd3913be" title="Set the wallet model. " alt="" coords="465,5,650,31"/>
+<area shape="rect" id="node4" href="$class_wallet_frame.html#a06cb28194836995e50cc46716b2227ff" title="WalletFrame::addWallet" alt="" coords="698,5,860,31"/>
+</map>

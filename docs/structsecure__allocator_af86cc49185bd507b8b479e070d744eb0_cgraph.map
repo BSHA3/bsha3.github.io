@@ -1,0 +1,6 @@
+<map id="secure_allocator::deallocate" name="secure_allocator::deallocate">
+<area shape="rect" id="node2" href="$cleanse_8cpp.html#a5a4afb85dd16ecc1f6019c782db78663" title="memory_cleanse" alt="" coords="255,5,378,31"/>
+<area shape="rect" id="node3" href="$class_locked_pool_manager.html#a101a777ed57a531a59f1170b7c10d9bf" title="Return the current instance, or create it once. " alt="" coords="241,55,392,93"/>
+<area shape="rect" id="node5" href="$class_locked_pool.html#a10bb0bd057a7d5184f9a68c37426107e" title="Free a previously allocated chunk of memory. " alt="" coords="256,117,377,143"/>
+<area shape="rect" id="node4" href="$class_locked_pool_manager.html#ae105267fe7049f4aaad2b92b81ea55e3" title="Create a new LockedPoolManager specialized to the OS. " alt="" coords="440,55,591,93"/>
+</map>

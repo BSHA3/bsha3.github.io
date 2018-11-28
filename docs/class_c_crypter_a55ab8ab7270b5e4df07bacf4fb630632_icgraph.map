@@ -1,0 +1,8 @@
+<map id="CCrypter::BytesToKeySHA512AES" name="CCrypter::BytesToKeySHA512AES">
+<area shape="rect" id="node2" href="$class_c_crypter.html#a5368279e4a1549d3c1d15d8aa2179708" title="CCrypter::SetKeyFromPassphrase" alt="" coords="282,107,509,132"/>
+<area shape="rect" id="node3" href="$group__map_wallet.html#ga002c61a2b74f2c46063340c568e6cc1b" title="CWallet::Unlock" alt="" coords="613,5,729,31"/>
+<area shape="rect" id="node4" href="$group__map_wallet.html#gab34fe5bf771619dcbe22a65f013e5469" title="CWallet::EncryptWallet" alt="" coords="833,31,990,56"/>
+<area shape="rect" id="node5" href="$group__map_wallet.html#ga4abcec3066e7c462f4564c159fc15031" title="CWallet::ChangeWalletPassphrase" alt="" coords="557,107,785,132"/>
+<area shape="rect" id="node6" href="$class_test_crypter.html#a98e2c77ec91e9861e10663cc1bf7a396" title="TestCrypter::TestPassphrase\lSingle" alt="" coords="575,156,767,195"/>
+<area shape="rect" id="node7" href="$wallet__crypto__tests_8cpp.html#adf8fd6ed811b11c551c20f678e7f0c9b" title="BOOST_AUTO_TEST_CASE" alt="" coords="572,219,770,244"/>
+</map>

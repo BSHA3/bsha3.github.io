@@ -1,0 +1,9 @@
+<map id="CCryptoKeyStore::HaveKey" name="CCryptoKeyStore::HaveKey">
+<area shape="rect" id="node2" href="$group__map_wallet.html#gafb01fcc10d890174b2db560a7f27b58a" title="CWallet::DeriveNewChildKey" alt="" coords="257,7,451,32"/>
+<area shape="rect" id="node5" href="$group___actions.html#gaa869ffae7560168064463f3157633a8b" title="Reserves a key from the keypool and sets nIndex to its index. " alt="" coords="240,56,468,81"/>
+<area shape="rect" id="node7" href="$rpcwallet_8cpp.html#a2f46e2bb304dda9a197b5a68db6106f7" title="importprivkey" alt="" coords="304,105,404,131"/>
+<area shape="rect" id="node8" href="$wallet__tests_8cpp.html#a8c64ef6e0ced69002923098229448758" title="importwallet" alt="" coords="308,155,400,180"/>
+<area shape="rect" id="node3" href="$group__map_wallet.html#ga5abb589b31879b8f4bf1890c22f15f64" title="keystore implementation Generate a new key " alt="" coords="532,5,713,31"/>
+<area shape="rect" id="node4" href="$group___actions.html#gac452f46eafeb2b4adfe86f7208048032" title="CWallet::GetKeyFromPool" alt="" coords="777,31,954,56"/>
+<area shape="rect" id="node6" href="$group___actions.html#gad2347fdc30dfbba5298f2386a219c13d" title="CReserveKey::GetReservedKey" alt="" coords="516,107,729,132"/>
+</map>

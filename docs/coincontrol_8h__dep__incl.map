@@ -1,0 +1,12 @@
+<map id="src/wallet/coincontrol.h" name="src/wallet/coincontrol.h">
+<area shape="rect" id="node2" href="$coincontroldialog_8cpp.html" title="src/qt/coincontroldialog.cpp" alt="" coords="5,85,188,111"/>
+<area shape="rect" id="node3" href="$sendcoinsdialog_8cpp.html" title="src/qt/sendcoinsdialog.cpp" alt="" coords="213,85,391,111"/>
+<area shape="rect" id="node4" href="$walletmodel_8cpp.html" title="src/qt/walletmodel.cpp" alt="" coords="415,85,568,111"/>
+<area shape="rect" id="node5" href="$coincontrol_8cpp.html" title="src/wallet/coincontrol.cpp" alt="" coords="592,85,762,111"/>
+<area shape="rect" id="node6" href="$feebumper_8cpp.html" title="src/wallet/feebumper.cpp" alt="" coords="786,85,955,111"/>
+<area shape="rect" id="node7" href="$wallet_2fees_8cpp.html" title="src/wallet/fees.cpp" alt="" coords="978,85,1109,111"/>
+<area shape="rect" id="node8" href="$rpcwallet_8cpp.html" title="src/wallet/rpcwallet.cpp" alt="" coords="1134,85,1292,111"/>
+<area shape="rect" id="node9" href="$coinselector__tests_8cpp.html" title="src/wallet/test/coinselector\l_tests.cpp" alt="" coords="1316,79,1493,117"/>
+<area shape="rect" id="node10" href="$wallet__tests_8cpp.html" title="src/wallet/test/wallet\l_tests.cpp" alt="" coords="1518,79,1657,117"/>
+<area shape="rect" id="node11" href="$wallet_2wallet_8cpp.html" title="src/wallet/wallet.cpp" alt="" coords="1682,85,1821,111"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="secp256k1_ec_pubkey_parse" name="secp256k1_ec_pubkey_parse">
+<area shape="rect" id="node2" href="$class_c_pub_key.html#a5b3fef213b227394ca9d0a1e3baa957e" title="Verify a DER signature (~72 bytes). " alt="" coords="232,233,350,259"/>
+<area shape="rect" id="node15" href="$class_c_pub_key.html#a69d8d49962240a5696410229dd83c93e" title="fully validate whether this is a valid public key (more expensive than IsValid()) ..." alt="" coords="215,289,367,315"/>
+<area shape="rect" id="node18" href="$class_c_pub_key.html#a572689418fecf47b300a11519bc3da36" title="Turn this public key into an uncompressed public key. " alt="" coords="211,339,371,364"/>
+<area shape="rect" id="node19" href="$class_c_pub_key.html#ac28722f47ab8a613bf9982608d13aa1f" title="Derive BIP32 child pubkey. " alt="" coords="229,388,353,413"/>
+<area shape="rect" id="node3" href="$class_c_key.html#ac53425b8d0f89067bce781c485101b20" title="Verify thoroughly whether a private key and a public key match. " alt="" coords="445,128,587,153"/>
+<area shape="rect" id="node13" href="$class_generic_transaction_signature_checker.html#adcdb4b9bf20fcc77cb23d7f6e03daee6" title="GenericTransactionSignature\lChecker::VerifySignature" alt="" coords="419,227,613,265"/>
+<area shape="rect" id="node4" href="$group__map_wallet.html#ga5abb589b31879b8f4bf1890c22f15f64" title="keystore implementation Generate a new key " alt="" coords="669,5,850,31"/>
+<area shape="rect" id="node6" href="$group__map_wallet.html#gaf72003c77abf215cc1576ab6c50125f7" title="CWallet::DeriveNewSeed" alt="" coords="674,55,845,80"/>
+<area shape="rect" id="node10" href="$key_8h.html#adc8d142f5bcd2ca6646462fb45a7945d" title="Check that required EC support is available at runtime. " alt="" coords="685,104,834,129"/>
+<area shape="rect" id="node11" href="$rpcwallet_8cpp.html#a2f46e2bb304dda9a197b5a68db6106f7" title="importprivkey" alt="" coords="709,153,810,179"/>
+<area shape="rect" id="node12" href="$wallet__tests_8cpp.html#a8c64ef6e0ced69002923098229448758" title="importwallet" alt="" coords="713,203,806,228"/>
+<area shape="rect" id="node5" href="$group___actions.html#gac452f46eafeb2b4adfe86f7208048032" title="CWallet::GetKeyFromPool" alt="" coords="911,5,1089,31"/>
+<area shape="rect" id="node7" href="$group__map_wallet.html#ga35c26d9e81464f04a45375647c251d67" title="CWallet::GenerateNewSeed" alt="" coords="906,55,1094,80"/>
+<area shape="rect" id="node9" href="$rpcwallet_8cpp.html#a61c7a90d1b36888fe11b751e746e18c0" title="sethdseed" alt="" coords="1179,104,1262,129"/>
+<area shape="rect" id="node8" href="$group__map_wallet.html#gab34fe5bf771619dcbe22a65f013e5469" title="CWallet::EncryptWallet" alt="" coords="1142,55,1299,80"/>
+<area shape="rect" id="node14" href="$class_caching_transaction_signature_checker.html#ab1f795f1b2c308748ddcb1736c60d606" title="CachingTransactionSignature\lChecker::VerifySignature" alt="" coords="661,252,858,291"/>
+<area shape="rect" id="node16" href="$rpc_2util_8h.html#ac18ea86a874bf7841b716eca2b467746" title="HexToPubKey" alt="" coords="463,289,569,315"/>
+<area shape="rect" id="node17" href="$rpc_2util_8h.html#ad97eb14e556166df34392ec8eb8d3167" title="AddrToPubKey" alt="" coords="461,339,571,364"/>
+<area shape="rect" id="node20" href="$struct_c_ext_pub_key.html#a2dae8fcc00b9617589dd0b1444f95ec8" title="CExtPubKey::Derive" alt="" coords="445,388,588,413"/>
+</map>

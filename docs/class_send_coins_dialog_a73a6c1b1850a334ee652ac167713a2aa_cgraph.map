@@ -1,0 +1,51 @@
+<map id="SendCoinsDialog::setModel" name="SendCoinsDialog::setModel">
+<area shape="rect" id="node2" href="$class_wallet_model.html#a96d53e56b3f8f07537ea2523f7a7d300" title="WalletModel::getOptionsModel" alt="" coords="1065,269,1267,295"/>
+<area shape="rect" id="node3" href="$class_send_coins_entry.html#a831f8f9a63acd77b7d66d5393e12310b" title="SendCoinsEntry::setModel" alt="" coords="270,193,449,219"/>
+<area shape="rect" id="node7" href="$class_wallet_model.html#aa3a3b4a8064de3af096dbf64bfe12655" title="WalletModel::wallet" alt="" coords="1098,813,1234,839"/>
+<area shape="rect" id="node8" href="$classinterfaces_1_1_wallet.html#a98634c898cf485b714d78e43678fd35a" title="Get balances. " alt="" coords="570,852,693,891"/>
+<area shape="rect" id="node9" href="$class_send_coins_dialog.html#a8ae61f31300453ef6acc673937a44d63" title="SendCoinsDialog::setBalance" alt="" coords="801,320,999,345"/>
+<area shape="rect" id="node17" href="$class_send_coins_dialog.html#a74815ad8502b126200b6fd2e59e9f042" title="SendCoinsDialog::updateDisplayUnit" alt="" coords="239,684,479,709"/>
+<area shape="rect" id="node27" href="$class_send_coins_dialog.html#ae4f429aabcaf309aa314b90049be2a74" title="SendCoinsDialog::coinControl\lUpdateLabels" alt="" coords="532,1025,731,1064"/>
+<area shape="rect" id="node42" href="$class_send_coins_dialog.html#af13ddd00abec4f060632d887b5e838a3" title="SendCoinsDialog::coinControl\lFeatureChanged" alt="" coords="260,1025,459,1064"/>
+<area shape="rect" id="node50" href="$class_options_model.html#a2b094b0e95f630938054c90b35956263" title="OptionsModel::getCoinControl\lFeatures" alt="" coords="259,1088,459,1127"/>
+<area shape="rect" id="node4" href="$class_send_coins_entry.html#a6ff4bd5b370545bcfd6214e866ee33f3" title="SendCoinsEntry::updateDisplayUnit" alt="" coords="783,168,1017,193"/>
+<area shape="rect" id="node6" href="$class_send_coins_entry.html#abff66fcd456c82144e7a2c410f5082ac" title="SendCoinsEntry::clear" alt="" coords="554,219,708,244"/>
+<area shape="rect" id="node5" href="$class_options_model.html#a00a1f0842f764f64086e7d5d42bbce63" title="OptionsModel::getDisplayUnit" alt="" coords="1067,477,1264,503"/>
+<area shape="rect" id="node10" href="$class_bitcoin_units.html#aef9fb7509257bc84ee459d7f0c663020" title="Format as string (with unit) " alt="" coords="1072,672,1259,697"/>
+<area shape="rect" id="node11" href="$class_bitcoin_units.html#ab07437e5a788c80a82d75e3714bd3925" title="Format as string. " alt="" coords="1329,636,1466,661"/>
+<area shape="rect" id="node15" href="$class_bitcoin_units.html#af65eb534385613f176593cc7545136d0" title="Short name. " alt="" coords="1315,709,1479,735"/>
+<area shape="rect" id="node12" href="$class_bitcoin_units.html#a81cbc41480adfb600dad79711d336e5f" title="Is unit ID valid? " alt="" coords="1555,673,1681,699"/>
+<area shape="rect" id="node13" href="$class_bitcoin_units.html#ae967b9e6ecbb8f041bfe398d27533b09" title="Number of Satoshis (1e&#45;8) per unit. " alt="" coords="1552,575,1684,600"/>
+<area shape="rect" id="node14" href="$class_bitcoin_units.html#a3f0fc21634520ea06c684ba0d7e25f2f" title="Number of decimals left. " alt="" coords="1542,624,1694,649"/>
+<area shape="rect" id="node16" href="$class_bitcoin_units.html#a97f983970ff33cae20996ba26ab257cd" title="Long name. " alt="" coords="1538,723,1698,748"/>
+<area shape="rect" id="node18" href="$class_send_coins_dialog.html#a2fb31c54501a1599d0d192bfcf78d70b" title="SendCoinsDialog::updateMin\lFeeLabel" alt="" coords="803,751,997,789"/>
+<area shape="rect" id="node20" href="$class_send_coins_dialog.html#ac42a9db733fbb2e06882660400c49517" title="SendCoinsDialog::updateSmart\lFeeLabel" alt="" coords="527,636,735,675"/>
+<area shape="rect" id="node19" href="$classinterfaces_1_1_wallet.html#a61e9a032d6db1f1271bd04ed61098984" title="Get required fee. " alt="" coords="1104,751,1228,789"/>
+<area shape="rect" id="node21" href="$class_send_coins_dialog.html#a91c32dd9656813960ca6d076adedd1e0" title="SendCoinsDialog::updateCoin\lControlState" alt="" coords="800,967,1000,1005"/>
+<area shape="rect" id="node23" href="$classinterfaces_1_1_wallet.html#ab36fb9f57fd5eae3f0125d4a8ac051b7" title="Get minimum fee. " alt="" coords="838,471,962,509"/>
+<area shape="rect" id="node24" href="$class_c_fee_rate.html#ac772be79983433d442d6b871d2fb6e11" title="Return the fee in satoshis for a size of 1000 bytes. " alt="" coords="818,369,982,395"/>
+<area shape="rect" id="node26" href="$class_send_coins_dialog.html#a454df839e09d247a1df5d7994ba3208e" title="SendCoinsDialog::updateFee\lMinimizedLabel" alt="" coords="802,636,998,675"/>
+<area shape="rect" id="node22" href="$sendcoinsdialog_8cpp.html#a71cff9731ecdee1cef8bfc2c12dc3842" title="getConfTargetForIndex" alt="" coords="1087,863,1245,888"/>
+<area shape="rect" id="node25" href="$class_c_fee_rate.html#a1173705aceba99303d6485d1c2f3f9a8" title="Return the fee in satoshis for the given size in bytes. " alt="" coords="1099,369,1233,395"/>
+<area shape="rect" id="node28" href="$class_coin_control_dialog.html#ad6c08e81a0cfc70cbf6e40f65857ab98" title="CoinControlDialog::\lcoinControl" alt="" coords="1097,1235,1234,1273"/>
+<area shape="rect" id="node29" href="$class_send_coins_entry.html#af36fb0ed9e2e07079c1a982b31e793c8" title="SendCoinsEntry::getValue" alt="" coords="812,1092,988,1117"/>
+<area shape="rect" id="node30" href="$class_coin_control_dialog.html#a4fc60e89b097952ff22dc0f9c58c87d9" title="CoinControlDialog::\lupdateLabels" alt="" coords="831,1029,968,1068"/>
+<area shape="rect" id="node31" href="$policy_8cpp.html#ab18c1023518f2920e34e05ca324d0ebb" title="IsDust" alt="" coords="1136,1185,1195,1211"/>
+<area shape="rect" id="node37" href="$class_wallet_model.html#ae61543ccde5a5911137f8e7ecf52126e" title="WalletModel::node" alt="" coords="1100,912,1231,937"/>
+<area shape="rect" id="node38" href="$classinterfaces_1_1_node.html#af4f0bfc100d1bff9862b55adef983f9d" title="Get dust relay fee. " alt="" coords="1080,961,1252,1000"/>
+<area shape="rect" id="node39" href="$class_c_coin_control.html#ad2022117a10ff787973af3d7aa62df6f" title="CCoinControl::ListSelected" alt="" coords="1075,1024,1257,1049"/>
+<area shape="rect" id="node40" href="$classinterfaces_1_1_wallet.html#a63b25a1dca191dfb5ec9b19c3b542dbf" title="Return wallet transaction output information. " alt="" coords="1104,1073,1227,1112"/>
+<area shape="rect" id="node41" href="$class_c_coin_control.html#a7f9b8135840df5907bc49a4c5cb19ba4" title="CCoinControl::UnSelect" alt="" coords="1084,1136,1247,1161"/>
+<area shape="rect" id="node32" href="$policy_8cpp.html#a7b1001b4a41a02d9469e3b6985587300" title="GetDustThreshold" alt="" coords="1332,1185,1462,1211"/>
+<area shape="rect" id="node33" href="$class_c_script.html#a11c26ad1d03fa2d60a733337c21b6719" title="Returns whether the script is guaranteed to fail at execution, regardless of the initial stack..." alt="" coords="1537,1235,1699,1260"/>
+<area shape="rect" id="node35" href="$serialize_8h.html#adb5a4516b4946127a59c79d21efd61ca" title="GetSerializeSize" alt="" coords="1558,1185,1678,1211"/>
+<area shape="rect" id="node36" href="$class_c_script.html#ae6f2ab1af6361c5772f62b28b19f5eae" title="CScript::IsWitnessProgram" alt="" coords="1527,1136,1709,1161"/>
+<area shape="rect" id="node34" href="$classprevector.html#a626f7d206dbc24e5610631809762758b" title="prevector::size" alt="" coords="1757,1185,1865,1211"/>
+<area shape="rect" id="node43" href="$class_c_coin_control.html#aadca0a9e82e1e6d84dff4649e1d29d31" title="CCoinControl::SetNull" alt="" coords="555,1296,707,1321"/>
+<area shape="rect" id="node44" href="$class_args_manager.html#af81c6e2a9dcd6b12557a2387fd67b2a6" title="Return boolean argument or default value. " alt="" coords="811,1304,989,1329"/>
+<area shape="rect" id="node45" href="$class_args_manager.html#a113a1b8c5471d2fff0108058be8b86af" title="Return true if the argument was originally passed as a negated option, i.e. " alt="" coords="1071,1363,1261,1388"/>
+<area shape="rect" id="node47" href="$class_args_manager_helper.html#aa4f8f77dc468b29cffe50513c78a87cd" title="ArgsManagerHelper::\lGetArg" alt="" coords="1092,1297,1240,1336"/>
+<area shape="rect" id="node46" href="$class_args_manager_helper.html#a863ddbcfbd113cf88cf622a0a4e32c1d" title="Convert regular argument into the network&#45;specific setting. " alt="" coords="1323,1360,1471,1399"/>
+<area shape="rect" id="node48" href="$class_args_manager_helper.html#a1804a95992b4e10d04f0b92c53032b29" title="Return true/false if an argument is set in a map, and also return the first (or last) of the possibly..." alt="" coords="1323,1235,1471,1273"/>
+<area shape="rect" id="node49" href="$class_args_manager_helper.html#a43f3488403e4f0433ade323e48008359" title="Determine whether to use config settings in the default section, See also comments around ArgsManager..." alt="" coords="1323,1297,1471,1336"/>
+</map>

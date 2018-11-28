@@ -1,0 +1,12 @@
+<map id="CRegTestParams::UpdateVersionBitsParametersFromArgs" name="CRegTestParams::UpdateVersionBitsParametersFromArgs">
+<area shape="rect" id="node2" href="$class_args_manager.html#a797473ebdea9030ae99f9aa8c0744a6f" title="Return true if the given argument has been manually set. " alt="" coords="304,71,464,96"/>
+<area shape="rect" id="node8" href="$class_args_manager.html#a3e1f493f816858124c942e8ee29e615d" title="Return a vector of strings of the given argument. " alt="" coords="306,121,463,147"/>
+<area shape="rect" id="node10" href="$utilstrencodings_8cpp.html#acb4637787cab6998d4a403d0dcdf51e6" title="Convert string to signed 64&#45;bit integer with strict parse error feedback. " alt="" coords="341,171,427,196"/>
+<area shape="rect" id="node11" href="$class_c_reg_test_params.html#aa4f5db9761eb56f587ae965c5284c521" title="Allows modifying the Version Bits regtest parameters. " alt="" coords="274,220,495,259"/>
+<area shape="rect" id="node3" href="$class_args_manager.html#a113a1b8c5471d2fff0108058be8b86af" title="Return true if the argument was originally passed as a negated option, i.e. " alt="" coords="543,71,733,96"/>
+<area shape="rect" id="node5" href="$class_args_manager_helper.html#aa4f8f77dc468b29cffe50513c78a87cd" title="ArgsManagerHelper::\lGetArg" alt="" coords="564,8,712,47"/>
+<area shape="rect" id="node4" href="$class_args_manager_helper.html#a863ddbcfbd113cf88cf622a0a4e32c1d" title="Convert regular argument into the network&#45;specific setting. " alt="" coords="781,68,929,107"/>
+<area shape="rect" id="node6" href="$class_args_manager_helper.html#a1804a95992b4e10d04f0b92c53032b29" title="Return true/false if an argument is set in a map, and also return the first (or last) of the possibly..." alt="" coords="781,5,929,44"/>
+<area shape="rect" id="node7" href="$class_args_manager_helper.html#a43f3488403e4f0433ade323e48008359" title="Determine whether to use config settings in the default section, See also comments around ArgsManager..." alt="" coords="781,179,929,217"/>
+<area shape="rect" id="node9" href="$class_args_manager_helper.html#a49a4fb1c9bcd3d4d010223effa45fb6a" title="Find arguments in a map and add them to a vector. " alt="" coords="564,172,712,211"/>
+</map>

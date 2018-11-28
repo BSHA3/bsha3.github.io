@@ -1,0 +1,11 @@
+<map id="Unserialize" name="Unserialize">
+<area shape="rect" id="node2" href="$class_c_hash_verifier.html#a59b2bd2cb533e73f3d42edfab8872d70" title="CHashVerifier::operator\&gt;\&gt;" alt="" coords="147,5,323,31"/>
+<area shape="rect" id="node3" href="$serialize_8h.html#a9dda3397ae27b0586200c5fa9293fa03" title="Unserialize_impl" alt="" coords="175,55,294,80"/>
+<area shape="rect" id="node4" href="$serialize_8h.html#a9899687a6e78dfad6ea1c099053afbd6" title="Unserialize" alt="" coords="191,104,278,129"/>
+<area shape="rect" id="node5" href="$serialize_8h.html#af3a720670b8759198b44bc78d5d03a54" title="UnserializeMany" alt="" coords="175,153,295,179"/>
+<area shape="rect" id="node6" href="$class_override_stream.html#a95d10a3c26ddc3bf6505e79d6e929507" title="OverrideStream::operator\&gt;\&gt;" alt="" coords="141,203,329,228"/>
+<area shape="rect" id="node7" href="$class_vector_reader.html#af70b898aa39afb50a28c5d1b9681dab2" title="VectorReader::operator\&gt;\&gt;" alt="" coords="147,252,322,277"/>
+<area shape="rect" id="node8" href="$class_c_data_stream.html#a04fa2206b068dfeb04acd4e2db1b1291" title="CDataStream::operator\&gt;\&gt;" alt="" coords="147,301,322,327"/>
+<area shape="rect" id="node9" href="$class_c_auto_file.html#aebe806243db599419a920c9923dfbeb3" title="CAutoFile::operator\&gt;\&gt;" alt="" coords="158,351,311,376"/>
+<area shape="rect" id="node10" href="$class_c_buffered_file.html#a068472eb93840f707816da17653ea3e7" title="CBufferedFile::operator\&gt;\&gt;" alt="" coords="147,400,322,425"/>
+</map>

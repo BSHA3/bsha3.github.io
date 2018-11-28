@@ -1,0 +1,8 @@
+<map id="CScheduler::schedule" name="CScheduler::schedule">
+<area shape="rect" id="node2" href="$class_c_scheduler.html#a9e6aac0524218996342cdf494e10d61b" title="CScheduler::scheduleFromNow" alt="" coords="207,5,416,31"/>
+<area shape="rect" id="node4" href="$class_single_threaded_scheduler_client.html#a4ba96c33ff19150bb0f055b1f3435f70" title="SingleThreadedSchedulerClient\l::MaybeScheduleProcessQueue" alt="" coords="205,55,418,93"/>
+<area shape="rect" id="node3" href="$class_c_scheduler.html#aab114cb7085474e0f1a47aa2b54e9cae" title="CScheduler::scheduleEvery" alt="" coords="478,5,663,31"/>
+<area shape="rect" id="node5" href="$class_single_threaded_scheduler_client.html#a0a1198fe58f64c7337944173db7ed579" title="SingleThreadedSchedulerClient\l::ProcessQueue" alt="" coords="466,55,675,93"/>
+<area shape="rect" id="node7" href="$class_single_threaded_scheduler_client.html#a627fd930cb0b0a84660a9698ee4d3fdc" title="Add a callback to be executed. " alt="" coords="466,117,675,156"/>
+<area shape="rect" id="node6" href="$class_single_threaded_scheduler_client.html#a00007a60e2f73bc9932aeb3f7a446b77" title="SingleThreadedSchedulerClient\l::EmptyQueue" alt="" coords="723,55,933,93"/>
+</map>

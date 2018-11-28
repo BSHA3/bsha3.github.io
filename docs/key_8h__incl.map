@@ -1,0 +1,20 @@
+<map id="src/key.h" name="src/key.h">
+<area shape="rect" id="node2" href="$pubkey_8h.html" title="pubkey.h" alt="" coords="1894,79,1968,104"/>
+<area shape="rect" id="node28" href="$serialize_8h.html" title="serialize.h" alt="" coords="1498,239,1580,264"/>
+<area shape="rect" id="node40" href="$uint256_8h.html" title="uint256.h" alt="" coords="1982,239,2059,264"/>
+<area shape="rect" id="node45" href="$secure_8h.html" title="support/allocators\l/secure.h" alt="" coords="793,152,920,191"/>
+<area shape="rect" id="node3" href="$_hash_8h.html" title="hash.h" alt="" coords="1358,159,1419,184"/>
+<area shape="rect" id="node4" href="$ripemd160_8h.html" title="crypto/ripemd160.h" alt="" coords="786,312,921,337"/>
+<area shape="rect" id="node7" href="$sha256_8h.html" title="crypto/sha256.h" alt="" coords="844,239,960,264"/>
+<area shape="rect" id="node9" href="$_s_h_a3_8h.html" title="crypto/sha3.h" alt="" coords="343,312,444,337"/>
+<area shape="rect" id="node11" href="$prevector_8h.html" title="prevector.h" alt="" coords="1193,312,1280,337"/>
+<area shape="rect" id="node44" href="$version_8h.html" title="version.h" alt="" coords="1351,239,1426,264"/>
+<area shape="rect" id="node10" href="$keccak_2_s_h_a3_8h.html" title="crypto/keccak/SHA3.h" alt="" coords="391,385,543,411"/>
+<area shape="rect" id="node17" href="$compat_8h.html" title="compat.h" alt="" coords="1153,385,1229,411"/>
+<area shape="rect" id="node29" href="$endian_8h.html" title="compat/endian.h" alt="" coords="1946,385,2066,411"/>
+<area shape="rect" id="node39" href="$span_8h.html" title="span.h" alt="" coords="1304,312,1366,337"/>
+<area shape="rect" id="node30" href="$byteswap_8h.html" title="compat/byteswap.h" alt="" coords="1990,459,2126,484"/>
+<area shape="rect" id="node43" href="$common_8h.html" title="crypto/common.h" alt="" coords="2053,312,2177,337"/>
+<area shape="rect" id="node46" href="$lockedpool_8h.html" title="support/lockedpool.h" alt="" coords="231,239,375,264"/>
+<area shape="rect" id="node50" href="$cleanse_8h.html" title="support/cleanse.h" alt="" coords="585,239,712,264"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="BaseIndex::BlockUntilSyncedToCurrentChain" name="BaseIndex::BlockUntilSyncedToCurrentChain">
+<area shape="rect" id="node2" href="$class_c_chain.html#a578545bde95163bee37b1be28e7b2755" title="Returns the index entry for the tip of this chain, or nullptr if none. " alt="" coords="292,5,383,31"/>
+<area shape="rect" id="node3" href="$class_c_block_index.html#ae1f702384690c6b8302e026a84172ef3" title="Efficiently find an ancestor of this block. " alt="" coords="249,55,427,80"/>
+</map>

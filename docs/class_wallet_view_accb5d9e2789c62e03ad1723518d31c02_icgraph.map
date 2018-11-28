@@ -1,0 +1,5 @@
+<map id="WalletView::usedReceivingAddresses" name="WalletView::usedReceivingAddresses">
+<area shape="rect" id="node2" href="$class_wallet_frame.html#a9273a0b98cf7ec9fc344658c38a4a0a3" title="Show used receiving addresses. " alt="" coords="235,5,426,44"/>
+<area shape="rect" id="node3" href="$class_bitcoin_g_u_i.html#a7340679e1356b1bb3cfaeb64a3e93218" title="Create the main UI actions. " alt="" coords="474,12,647,37"/>
+<area shape="rect" id="node4" href="$class_bitcoin_g_u_i.html#a58564e8398e33db7beca224c0f71c2b6" title="BitcoinGUI::BitcoinGUI" alt="" coords="695,12,851,37"/>
+</map>

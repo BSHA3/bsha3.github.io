@@ -1,0 +1,11 @@
+<map id="CDataStream::reserve" name="CDataStream::reserve">
+<area shape="rect" id="node2" href="$class_c_d_b_batch.html#a91b5d889a8d7e56c4f0bbf446e246111" title="CDBBatch::Write" alt="" coords="209,99,331,124"/>
+<area shape="rect" id="node9" href="$class_c_d_b_batch.html#a0b9ed3a5fa7fb461cd668c5a5c7ccd42" title="CDBBatch::Erase" alt="" coords="207,148,333,174"/>
+<area shape="rect" id="node3" href="$class_c_d_b_wrapper.html#a6600aa8c2b30880dd7e032ea21f74aed" title="CDBWrapper::Write" alt="" coords="417,24,556,50"/>
+<area shape="rect" id="node7" href="$class_tx_index_1_1_d_b.html#a1a74538fe62aa9bea4c4ad27a090b902" title="Write a batch of transaction positions to the DB. " alt="" coords="409,74,564,99"/>
+<area shape="rect" id="node8" href="$class_c_block_tree_d_b.html#af5509ed62ce84023882fe243e4cd21ba" title="CBlockTreeDB::WriteBatchSync" alt="" coords="381,123,592,148"/>
+<area shape="rect" id="node4" href="$class_tx_index_1_1_d_b.html#a7eeb3325ee83f6fe2736278a7952ba5c" title="Migrate txindex data from the block tree DB, where it may be for older nodes that have not been upgra..." alt="" coords="902,24,1077,50"/>
+<area shape="rect" id="node5" href="$class_c_block_tree_d_b.html#a55914903b15bc119d0c4952af8fdf721" title="CBlockTreeDB::WriteReindexing" alt="" coords="640,24,854,50"/>
+<area shape="rect" id="node6" href="$class_c_block_tree_d_b.html#af2f65b70ac5d8a198d4f29a7e909c08a" title="CBlockTreeDB::WriteFlag" alt="" coords="661,74,834,99"/>
+<area shape="rect" id="node10" href="$class_c_d_b_wrapper.html#a583311ba1b0eb24d07511aad3325d61f" title="CDBWrapper::Erase" alt="" coords="415,172,558,198"/>
+</map>

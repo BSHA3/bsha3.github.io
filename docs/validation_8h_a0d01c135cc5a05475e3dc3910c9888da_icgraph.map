@@ -1,0 +1,6 @@
+<map id="FlushStateToDisk" name="FlushStateToDisk">
+<area shape="rect" id="node2" href="$validation_8h.html#afccc404d3f648d7834ee7522ca348b41" title="Prune block files and flush state to disk. " alt="" coords="212,5,326,31"/>
+<area shape="rect" id="node3" href="$validation_8h.html#a173f79e71650a53a095bc1d88d77d6f9" title="Prune block files up to a given height. " alt="" coords="188,55,350,80"/>
+<area shape="rect" id="node4" href="$class_c_chain_state.html#afc0586502e4dd4092c4a0707d329f6eb" title="CChainState::RewindBlock\lIndex" alt="" coords="178,104,360,143"/>
+<area shape="rect" id="node5" href="$validation_8h.html#a2e51de180124822c526ac8f82777fa32" title="When there are blocks in the active chain with missing data, rewind the chainstate and remove them fr..." alt="" coords="408,140,539,165"/>
+</map>

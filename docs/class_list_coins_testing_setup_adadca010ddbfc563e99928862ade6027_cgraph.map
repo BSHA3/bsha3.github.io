@@ -1,0 +1,8 @@
+<map id="ListCoinsTestingSetup::ListCoinsTestingSetup" name="ListCoinsTestingSetup::ListCoinsTestingSetup">
+<area shape="rect" id="node2" href="$standard_8cpp.html#aa376c6e2bc4848cfd4f777f8dd239469" title="Generate a P2PK script for the given pubkey. " alt="" coords="234,29,404,55"/>
+<area shape="rect" id="node7" href="$class_berkeley_database.html#acd50f7e44ad659b6c3a3dc94c8155859" title="Return object for accessing temporary in&#45;memory database. " alt="" coords="214,79,424,104"/>
+<area shape="rect" id="node3" href="$class_c_pub_key.html#a859ab9909d68092d6d4fc739237ab358" title="CPubKey::begin" alt="" coords="472,5,589,31"/>
+<area shape="rect" id="node4" href="$class_c_pub_key.html#a1d6fb1ec2b45fb229f549215d6a23dbc" title="CPubKey::end" alt="" coords="477,55,584,80"/>
+<area shape="rect" id="node5" href="$class_c_pub_key.html#a6bb28fcf0a5f799c69f5b7269363b309" title="Simple read&#45;only vector&#45;like interface to the pubkey data. " alt="" coords="637,55,746,80"/>
+<area shape="rect" id="node6" href="$class_c_pub_key.html#a7dc71b3f037c84268dc22de97d7b65fb" title="Compute the length of a pubkey with a given first byte. " alt="" coords="794,55,923,80"/>
+</map>

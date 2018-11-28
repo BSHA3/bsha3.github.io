@@ -1,0 +1,51 @@
+<map id="WalletBatch::WriteIC" name="WalletBatch::WriteIC">
+<area shape="rect" id="node2" href="$class_wallet_batch.html#a198339aaedb3ba9cc58c887a7f1194f4" title="WalletBatch::WriteName" alt="" coords="221,5,387,31"/>
+<area shape="rect" id="node5" href="$class_wallet_batch.html#ae5fabbc97596e58d27099e8a4906bfc7" title="WalletBatch::WritePurpose" alt="" coords="214,55,394,80"/>
+<area shape="rect" id="node6" href="$class_wallet_batch.html#a8c3c129d34433dcc8a60b55e0f7fd64b" title="WalletBatch::WriteTx" alt="" coords="232,428,377,453"/>
+<area shape="rect" id="node16" href="$class_wallet_batch.html#a59805739add3be261c2693ed1f43258e" title="WalletBatch::WriteKey" alt="" coords="228,104,381,129"/>
+<area shape="rect" id="node22" href="$class_wallet_batch.html#a45b7a4bd5e378d007d18495d4be640fa" title="WalletBatch::WriteCryptedKey" alt="" coords="204,547,404,572"/>
+<area shape="rect" id="node24" href="$class_wallet_batch.html#a0f9c25005623824cc63d365bef942fd4" title="WalletBatch::WriteMasterKey" alt="" coords="207,596,401,621"/>
+<area shape="rect" id="node26" href="$class_wallet_batch.html#a38766ecc7e69fba0f88cdbcb2a0f3590" title="WalletBatch::WriteCScript" alt="" coords="217,645,391,671"/>
+<area shape="rect" id="node29" href="$class_wallet_batch.html#a9acc3acfab37505bc68ae2a57d669168" title="WalletBatch::WriteWatchOnly" alt="" coords="207,695,402,720"/>
+<area shape="rect" id="node32" href="$class_wallet_batch.html#ab734d1b558cbdcc8466ebb19d7e8d175" title="WalletBatch::WriteBestBlock" alt="" coords="210,744,399,769"/>
+<area shape="rect" id="node34" href="$class_wallet_batch.html#a8a364359ac4e425166a814cde1a5672c" title="WalletBatch::WriteOrderPosNext" alt="" coords="197,301,412,327"/>
+<area shape="rect" id="node36" href="$class_wallet_batch.html#aa7e7609e50953e8ba0daf597a73eb209" title="WalletBatch::WritePool" alt="" coords="226,793,383,819"/>
+<area shape="rect" id="node38" href="$class_wallet_batch.html#a233ed69f35b247e75e7c992877dc805f" title="WalletBatch::WriteMinVersion" alt="" coords="206,153,402,179"/>
+<area shape="rect" id="node41" href="$class_wallet_batch.html#ae7359244f4d13c0e64c874e4c0cd356d" title="Write destination data key,value tuple to database. " alt="" coords="211,843,397,868"/>
+<area shape="rect" id="node44" href="$class_wallet_batch.html#a730373abe82d3c9dc4fe328caeafaeec" title="write the hdchain model (external chain child index counter) " alt="" coords="212,203,396,228"/>
+<area shape="rect" id="node48" href="$class_wallet_batch.html#a4df5a852a679f75a25224045a9db5d01" title="WalletBatch::WriteWallet\lFlags" alt="" coords="221,892,388,931"/>
+<area shape="rect" id="node3" href="$group___actions.html#ga53e5528d7005608594e73f500bc5bb8f" title="CWallet::SetAddressBook" alt="" coords="487,5,661,31"/>
+<area shape="rect" id="node4" href="$rpcwallet_8cpp.html#a2f46e2bb304dda9a197b5a68db6106f7" title="importprivkey" alt="" coords="1066,5,1166,31"/>
+<area shape="rect" id="node7" href="$group__map_wallet.html#gada917e14d6336f1336b9cf0e98c9a6f2" title="CWallet::ReorderTransactions" alt="" coords="475,301,673,327"/>
+<area shape="rect" id="node8" href="$group__map_wallet.html#ga1dcacd3a98d22486288b83a4febe824f" title="Mark a transaction as replaced by another transaction (e.g., BIP 125). " alt="" coords="494,452,654,477"/>
+<area shape="rect" id="node9" href="$group__map_wallet.html#ga71c829a50abbcd74c1884b1f86527755" title="CWallet::AddToWallet" alt="" coords="770,327,920,352"/>
+<area shape="rect" id="node13" href="$group__map_wallet.html#ga9a4633bfb89da7a4afa04356a74b7970" title="CWallet::AbandonTransaction" alt="" coords="475,501,673,527"/>
+<area shape="rect" id="node14" href="$group__map_wallet.html#ga009ea6afd94f2c5d560ae063883628b5" title="CWallet::MarkConflicted" alt="" coords="492,403,656,428"/>
+<area shape="rect" id="node10" href="$group__map_wallet.html#gaee8f634287d083737471595f658da519" title="Add a transaction to the wallet, or update it. " alt="" coords="1002,376,1230,401"/>
+<area shape="rect" id="node12" href="$group___actions.html#ga2faeb244cf83bbae1304ae2f4acc7d93" title="Call after CreateTransaction unless you want to abort. " alt="" coords="1021,327,1211,352"/>
+<area shape="rect" id="node11" href="$group__map_wallet.html#ga09e75fcbc98be305e68e99495570687c" title="CWallet::SyncTransaction" alt="" coords="1278,376,1452,401"/>
+<area shape="rect" id="node15" href="$group__map_wallet.html#gab48b61409e849cb854c76d607624da5a" title="CWallet::LoadToWallet" alt="" coords="767,428,923,453"/>
+<area shape="rect" id="node17" href="$group__map_wallet.html#gaf482ede71b2fde291b8c6ec262b22ef4" title="CWallet::AddKeyPubKeyWithDB" alt="" coords="467,55,681,80"/>
+<area shape="rect" id="node18" href="$group__map_wallet.html#ga5abb589b31879b8f4bf1890c22f15f64" title="keystore implementation Generate a new key " alt="" coords="755,104,935,129"/>
+<area shape="rect" id="node20" href="$group__map_wallet.html#ga2b0c518df362a1a765a241c1ca5c69a0" title="Adds a key to the store, and saves it to disk. " alt="" coords="761,55,929,80"/>
+<area shape="rect" id="node19" href="$group___actions.html#gac452f46eafeb2b4adfe86f7208048032" title="CWallet::GetKeyFromPool" alt="" coords="1027,104,1204,129"/>
+<area shape="rect" id="node21" href="$group__map_wallet.html#gaf72003c77abf215cc1576ab6c50125f7" title="CWallet::DeriveNewSeed" alt="" coords="1030,55,1202,80"/>
+<area shape="rect" id="node23" href="$group__map_wallet.html#ga9bd8ca47110186b31c258308d3bbd7c2" title="Adds an encrypted key to the store, and saves it to disk. " alt="" coords="490,551,658,576"/>
+<area shape="rect" id="node25" href="$group__map_wallet.html#ga4abcec3066e7c462f4564c159fc15031" title="CWallet::ChangeWalletPassphrase" alt="" coords="460,600,688,625"/>
+<area shape="rect" id="node27" href="$group__map_wallet.html#ga15df27607f4dde9f262e0f030c9414b5" title="Support for BIP 0013 : see https://github.com/bitcoin/bips/blob/master/bip&#45;0013.mediawiki. " alt="" coords="503,649,645,675"/>
+<area shape="rect" id="node28" href="$class_c_wallet.html#a209237e7f3f95ca6f5faab3357c2340b" title="Explicitly make the wallet learn the related scripts for outputs to the given key. " alt="" coords="747,649,943,675"/>
+<area shape="rect" id="node30" href="$group__map_wallet.html#ga84e18fec1f19c9963fd810d076b71e82" title="Private version of AddWatchOnly method which does not accept a timestamp, and which will reset the wa..." alt="" coords="492,699,656,724"/>
+<area shape="rect" id="node31" href="$group__map_wallet.html#gaf96e275eac457df2013e8ceb1810b703" title="Adds a watch&#45;only address to the store, and saves it to disk. " alt="" coords="763,699,927,724"/>
+<area shape="rect" id="node33" href="$group__map_wallet.html#gadabead3d4280f27df269edd4d02174af" title="Notifies listeners of the new active block chain on&#45;disk. " alt="" coords="480,748,668,773"/>
+<area shape="rect" id="node35" href="$group__map_wallet.html#gae9a1e6ac444b30d9464bf0b1fa5f97bb" title="Increment the next transaction order id. " alt="" coords="485,252,663,277"/>
+<area shape="rect" id="node37" href="$class_c_wallet.html#ab4275cb774fcd80a7b89ed7f63293962" title="CWallet::MarkPreSplitKeys" alt="" coords="484,797,664,823"/>
+<area shape="rect" id="node39" href="$group__map_wallet.html#gab520e9876bc48da8c3cf8582ab995e9a" title="signify that a particular wallet feature is now used. this may change nWalletVersion and nWalletMaxVe..." alt="" coords="494,104,654,129"/>
+<area shape="rect" id="node40" href="$group__map_wallet.html#gab34fe5bf771619dcbe22a65f013e5469" title="CWallet::EncryptWallet" alt="" coords="1038,180,1194,205"/>
+<area shape="rect" id="node42" href="$class_c_wallet.html#acbeae89a10e129930e5059d9167697e5" title="Adds a destination data tuple to the store, and saves it to disk. " alt="" coords="497,847,651,872"/>
+<area shape="rect" id="node43" href="$wallet__tests_8cpp.html#a2b23928120096538b0ebd1a75b70897e" title="BOOST_AUTO_TEST_CASE" alt="" coords="746,847,944,872"/>
+<area shape="rect" id="node45" href="$group__map_wallet.html#gafb01fcc10d890174b2db560a7f27b58a" title="CWallet::DeriveNewChildKey" alt="" coords="477,153,671,179"/>
+<area shape="rect" id="node46" href="$group__map_wallet.html#ga41223271c99bd3468e9f75c0c9155c21" title="CWallet::SetHDChain" alt="" coords="499,203,648,228"/>
+<area shape="rect" id="node47" href="$group__map_wallet.html#ga61216d96cb2c06c11372d16f0ae61d4b" title="CWallet::SetHDSeed" alt="" coords="772,205,918,231"/>
+<area shape="rect" id="node49" href="$group__map_wallet.html#ga4b1f15f42d4b9705635d381d592ef8bb" title="set a single wallet flag " alt="" coords="495,899,653,924"/>
+<area shape="rect" id="node50" href="$wallet__tests_8cpp.html#a4ac645d11ca6e840af0fd6a2dc80b421" title="BOOST_FIXTURE_TEST_CASE" alt="" coords="736,899,954,924"/>
+</map>

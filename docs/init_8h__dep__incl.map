@@ -1,0 +1,8 @@
+<map id="src/init.h" name="src/init.h">
+<area shape="rect" id="node2" href="$bsha3d_8cpp.html" title="src/bsha3d.cpp" alt="" coords="5,85,117,111"/>
+<area shape="rect" id="node3" href="$init_8cpp.html" title="src/init.cpp" alt="" coords="141,85,226,111"/>
+<area shape="rect" id="node4" href="$node_8cpp.html" title="src/interfaces/node.cpp" alt="" coords="251,85,410,111"/>
+<area shape="rect" id="node5" href="$utilitydialog_8cpp.html" title="src/qt/utilitydialog.cpp" alt="" coords="433,85,582,111"/>
+<area shape="rect" id="node6" href="$wallet_2init_8cpp.html" title="src/wallet/init.cpp" alt="" coords="606,85,729,111"/>
+<area shape="rect" id="node7" href="$init__tests_8cpp.html" title="src/wallet/test/init\l_tests.cpp" alt="" coords="753,79,876,117"/>
+</map>

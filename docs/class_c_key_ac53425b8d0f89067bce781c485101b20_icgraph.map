@@ -1,0 +1,11 @@
+<map id="CKey::VerifyPubKey" name="CKey::VerifyPubKey">
+<area shape="rect" id="node2" href="$group__map_wallet.html#ga5abb589b31879b8f4bf1890c22f15f64" title="keystore implementation Generate a new key " alt="" coords="195,5,375,31"/>
+<area shape="rect" id="node4" href="$group__map_wallet.html#gaf72003c77abf215cc1576ab6c50125f7" title="CWallet::DeriveNewSeed" alt="" coords="199,55,370,80"/>
+<area shape="rect" id="node8" href="$key_8h.html#adc8d142f5bcd2ca6646462fb45a7945d" title="Check that required EC support is available at runtime. " alt="" coords="210,104,360,129"/>
+<area shape="rect" id="node9" href="$rpcwallet_8cpp.html#a2f46e2bb304dda9a197b5a68db6106f7" title="importprivkey" alt="" coords="235,153,335,179"/>
+<area shape="rect" id="node10" href="$wallet__tests_8cpp.html#a8c64ef6e0ced69002923098229448758" title="importwallet" alt="" coords="239,203,331,228"/>
+<area shape="rect" id="node3" href="$group___actions.html#gac452f46eafeb2b4adfe86f7208048032" title="CWallet::GetKeyFromPool" alt="" coords="428,5,606,31"/>
+<area shape="rect" id="node5" href="$group__map_wallet.html#ga35c26d9e81464f04a45375647c251d67" title="CWallet::GenerateNewSeed" alt="" coords="423,55,611,80"/>
+<area shape="rect" id="node7" href="$rpcwallet_8cpp.html#a61c7a90d1b36888fe11b751e746e18c0" title="sethdseed" alt="" coords="696,104,779,129"/>
+<area shape="rect" id="node6" href="$group__map_wallet.html#gab34fe5bf771619dcbe22a65f013e5469" title="CWallet::EncryptWallet" alt="" coords="659,55,816,80"/>
+</map>

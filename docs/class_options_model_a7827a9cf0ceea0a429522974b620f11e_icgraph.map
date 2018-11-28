@@ -1,0 +1,35 @@
+<map id="OptionsModel::displayUnitChanged" name="OptionsModel::displayUnitChanged">
+<area shape="rect" id="node2" href="$class_unit_display_status_bar_control.html#ac8d2a43f66f3f71c7d6926dbd5927066" title="Lets the control know about the Options Model (and its signals) " alt="" coords="233,64,423,103"/>
+<area shape="rect" id="node8" href="$class_options_model.html#a42efacc748130848acc20247a7ed4617" title="Updates current unit in memory, settings and emits displayUnitChanged(newUnit) signal. " alt="" coords="230,131,426,156"/>
+<area shape="rect" id="node12" href="$class_overview_page.html#a2ed52a3a87e9c74fee38fa873c9bc71f" title="OverviewPage::setWalletModel" alt="" coords="474,184,680,209"/>
+<area shape="rect" id="node15" href="$class_receive_coins_dialog.html#a856e5bbe280d792004e97e703f42c7f8" title="ReceiveCoinsDialog\l::setModel" alt="" coords="506,233,648,272"/>
+<area shape="rect" id="node16" href="$class_receive_request_dialog.html#a2392a9b3bf94d7267dee0695049711a6" title="ReceiveRequestDialog\l::setModel" alt="" coords="249,448,406,487"/>
+<area shape="rect" id="node19" href="$class_recent_requests_table_model.html#aea45f8031e5181beb8c6adeaee2a3ace" title="RecentRequestsTableModel\l::RecentRequestsTableModel" alt="" coords="230,336,425,375"/>
+<area shape="rect" id="node20" href="$class_send_coins_dialog.html#a73a6c1b1850a334ee652ac167713a2aa" title="SendCoinsDialog::setModel" alt="" coords="484,296,670,321"/>
+<area shape="rect" id="node21" href="$class_send_coins_entry.html#a831f8f9a63acd77b7d66d5393e12310b" title="SendCoinsEntry::setModel" alt="" coords="238,399,417,424"/>
+<area shape="rect" id="node34" href="$class_transaction_table_model.html#addebfd4c35896f17a6a9fec9f40eeeb7" title="TransactionTableModel\l::TransactionTableModel" alt="" coords="245,511,411,549"/>
+<area shape="rect" id="node3" href="$class_bitcoin_g_u_i.html#a99d71e1f8478ab937ce2522c8d3815e3" title="Set the client model. " alt="" coords="487,69,667,95"/>
+<area shape="rect" id="node4" href="$class_bitcoin_application.html#a37c560d4c04d14a6da151b82caf8888f" title="Request core shutdown. " alt="" coords="1283,5,1415,44"/>
+<area shape="rect" id="node5" href="$class_bitcoin_application.html#a5bcf1bf32a7508326e0dd630a59a887d" title="BitcoinApplication\l::initializeResult" alt="" coords="768,63,895,101"/>
+<area shape="rect" id="node6" href="$class_bitcoin_application.html#a61afce9356e452c53ad4c83f5ca19df8" title="BitcoinApplication\l::startThread" alt="" coords="1032,63,1159,101"/>
+<area shape="rect" id="node7" href="$class_bitcoin_application.html#ade19c44b87b00b6b19b433caf4c22ba6" title="Request core initialization. " alt="" coords="1286,68,1412,107"/>
+<area shape="rect" id="node9" href="$class_unit_display_status_bar_control.html#a8989bed2d30e0e376046356adc216a12" title="Tells underlying optionsModel to update its current display unit. " alt="" coords="482,121,672,160"/>
+<area shape="rect" id="node10" href="$class_unit_display_status_bar_control.html#a3d131e977c2e9095d05d362d456a0e47" title="Creates context menu, its actions, and wires up all the relevant signals for mouse events..." alt="" coords="736,125,927,164"/>
+<area shape="rect" id="node11" href="$class_unit_display_status_bar_control.html#a7db4ef1ea7a6a457d7981ee1719b62c1" title="UnitDisplayStatusBarControl\l::UnitDisplayStatusBarControl" alt="" coords="997,125,1194,164"/>
+<area shape="rect" id="node13" href="$class_wallet_view.html#a0a37ff693a4f9c1e5ddc23f9cd3913be" title="Set the wallet model. " alt="" coords="739,239,924,264"/>
+<area shape="rect" id="node14" href="$class_wallet_frame.html#a06cb28194836995e50cc46716b2227ff" title="WalletFrame::addWallet" alt="" coords="1014,237,1177,263"/>
+<area shape="rect" id="node17" href="$class_receive_coins_dialog.html#a5eabd6106c8e3b275305b84c0303f314" title="ReceiveCoinsDialog\l::on_recentRequestsView\l_doubleClicked" alt="" coords="490,497,663,549"/>
+<area shape="rect" id="node18" href="$class_receive_coins_dialog.html#a56df78045de75af55f4c4045ad4b7fcd" title="ReceiveCoinsDialog\l::on_showRequestButton\l_clicked" alt="" coords="746,547,917,599"/>
+<area shape="rect" id="node22" href="$class_send_coins_dialog.html#a3d680a76b967641115c6ff2fa83fb62a" title="SendCoinsDialog::addEntry" alt="" coords="484,399,669,424"/>
+<area shape="rect" id="node23" href="$class_send_coins_dialog.html#affacd36b4df87a68e2fe706ef388c0a6" title="SendCoinsDialog::SendCoins\lDialog" alt="" coords="997,287,1194,325"/>
+<area shape="rect" id="node24" href="$class_send_coins_dialog.html#a127bddff45f49ff5e6e263efe218ae26" title="SendCoinsDialog::clear" alt="" coords="751,349,912,375"/>
+<area shape="rect" id="node27" href="$class_send_coins_dialog.html#aabd82a79bd2358493f36425f1d62136b" title="SendCoinsDialog::removeEntry" alt="" coords="728,399,935,424"/>
+<area shape="rect" id="node28" href="$class_send_coins_dialog.html#a920b2dbf121ca3cfac2adc56e96295f8" title="SendCoinsDialog::setAddress" alt="" coords="732,448,931,473"/>
+<area shape="rect" id="node30" href="$class_send_coins_dialog.html#a4440d15ced5d217baaad33a17d56b409" title="SendCoinsDialog::pasteEntry" alt="" coords="734,497,929,523"/>
+<area shape="rect" id="node25" href="$class_send_coins_dialog.html#a4879553d77d29f522ac92ac04580f4ad" title="SendCoinsDialog::reject" alt="" coords="1013,399,1178,424"/>
+<area shape="rect" id="node26" href="$class_send_coins_dialog.html#af2185c3d29e43d37c30669f0def46060" title="SendCoinsDialog::accept" alt="" coords="1010,349,1181,375"/>
+<area shape="rect" id="node29" href="$class_wallet_view.html#a2a70c2b00b097dd7b83b6915bb037ea3" title="Switch to send coins page. " alt="" coords="987,448,1204,473"/>
+<area shape="rect" id="node31" href="$class_send_coins_dialog.html#a82ed6a3badadaa523415e1924ebd292a" title="SendCoinsDialog::handlePayment\lRequest" alt="" coords="983,497,1208,536"/>
+<area shape="rect" id="node32" href="$class_wallet_view.html#a0ae21d91a9d7755026ce2a6846cef68d" title="WalletView::handlePayment\lRequest" alt="" coords="1256,497,1442,536"/>
+<area shape="rect" id="node33" href="$class_wallet_frame.html#aa8c5b10f2240df164795619ca41c619c" title="WalletFrame::handlePayment\lRequest" alt="" coords="1490,497,1687,536"/>
+</map>

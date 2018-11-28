@@ -1,0 +1,7 @@
+<map id="CheckInputs" name="CheckInputs">
+<area shape="rect" id="node2" href="$class_c_transaction.html#a96256e8ac1bf79ad9c057e48c41132dd" title="CTransaction::IsCoinBase" alt="" coords="149,5,325,31"/>
+<area shape="rect" id="node3" href="$class_c_s_h_a3.html#a439a0fade3fa1b7989c6cf053d39161b" title="CSHA3::Write" alt="" coords="185,55,289,80"/>
+<area shape="rect" id="node4" href="$class_s_h_a3__256.html#a8356957ea403c5da326fc6899b91ea71" title="Updates the hash with more data. " alt="" coords="373,55,507,80"/>
+<area shape="rect" id="node5" href="$class_keccak_core.html#aaaa0355ccec0f469ac8eb577bdf853ed" title="Updates the Keccak sponge function with more input data. " alt="" coords="555,55,697,80"/>
+<area shape="rect" id="node6" href="$class_keccak_core.html#aba3225c7a4ceff3580236a900b72a1c3" title="Transform the state with the KECCAK&#45;p sponge function with b = 1600. " alt="" coords="745,55,895,80"/>
+</map>
