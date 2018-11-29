@@ -1,0 +1,11 @@
+<map id="GetWalletEnv" name="GetWalletEnv">
+<area shape="rect" id="node2" href="$class_berkeley_batch.html#ae703f8cc421a53c8638da12914769acb" title="BerkeleyBatch::Recover" alt="" coords="168,105,333,131"/>
+<area shape="rect" id="node7" href="$class_berkeley_batch.html#a3fd5c230cbc516ad57eed9fed8b18454" title="BerkeleyBatch::VerifyEnvironment" alt="" coords="395,19,618,44"/>
+<area shape="rect" id="node9" href="$class_berkeley_batch.html#a7a90b43e500951e81f6c60f9ec0239f1" title="BerkeleyBatch::VerifyDatabaseFile" alt="" coords="393,156,620,181"/>
+<area shape="rect" id="node10" href="$class_berkeley_database.html#a2b0e32e1f4c1530057a3bccac9fd017c" title="Create DB handle to real database. " alt="" coords="156,207,345,245"/>
+<area shape="rect" id="node3" href="$class_wallet_batch.html#a21d7235ff86bf6308a79c9ddfdbbab41" title="WalletBatch::Recover" alt="" coords="432,105,581,131"/>
+<area shape="rect" id="node4" href="$class_c_wallet.html#a76e7655272faf35c16e9525ab232c3d1" title="Verify wallet naming and perform salvage on the wallet if required. " alt="" coords="927,105,1035,131"/>
+<area shape="rect" id="node5" href="$class_wallet_batch.html#a70f9277beaa21e9a28e744c996a0eb65" title="WalletBatch::Recover" alt="" coords="699,55,848,80"/>
+<area shape="rect" id="node6" href="$class_wallet_batch.html#a92563e74e5656264cfe5c5603ea230ef" title="WalletBatch::VerifyDatabaseFile" alt="" coords="668,156,879,181"/>
+<area shape="rect" id="node8" href="$class_wallet_batch.html#a6cc30ea4d8aa4dcd2ad97211a5e95e10" title="WalletBatch::VerifyEnvironment" alt="" coords="670,5,877,31"/>
+</map>

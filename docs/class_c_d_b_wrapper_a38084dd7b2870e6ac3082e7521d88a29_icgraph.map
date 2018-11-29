@@ -1,0 +1,10 @@
+<map id="CDBWrapper::Read" name="CDBWrapper::Read">
+<area shape="rect" id="node2" href="$class_tx_index_1_1_d_b.html#a7eeb3325ee83f6fe2736278a7952ba5c" title="Migrate txindex data from the block tree DB, where it may be for older nodes that have not been upgra..." alt="" coords="469,204,643,229"/>
+<area shape="rect" id="node3" href="$class_c_coins_view_d_b.html#a2a018edc94bdca2b96a126688f22770d" title="Retrieve the Coin (unspent transaction output) for a given outpoint. " alt="" coords="223,55,391,80"/>
+<area shape="rect" id="node4" href="$class_c_coins_view_d_b.html#aac696880a5bb854dcdcb20d8a035be9b" title="Retrieve the block hash whose state this CCoinsView currently represents. " alt="" coords="207,5,407,31"/>
+<area shape="rect" id="node6" href="$class_c_coins_view_d_b.html#aec0d3d60ab629a23873894e44b6bc266" title="Retrieve the range of blocks that may have been only partially written. " alt="" coords="201,156,413,181"/>
+<area shape="rect" id="node7" href="$class_c_block_tree_d_b.html#a3f597e6bab0a7003cbf7ea86cb434e85" title="CBlockTreeDB::ReadBlockFileInfo" alt="" coords="194,205,419,231"/>
+<area shape="rect" id="node8" href="$class_c_block_tree_d_b.html#adb1276fe2f0e0c4c106660948c581711" title="CBlockTreeDB::ReadLastBlockFile" alt="" coords="193,255,421,280"/>
+<area shape="rect" id="node9" href="$class_c_block_tree_d_b.html#acd779c4653fd9a87fffe95d53ce7c6d3" title="CBlockTreeDB::ReadFlag" alt="" coords="220,304,394,329"/>
+<area shape="rect" id="node5" href="$class_c_coins_view_d_b.html#a86359fc2e09d57c7cd6966bd6569fe05" title="Get a cursor to iterate over the whole state. " alt="" coords="476,5,636,31"/>
+</map>

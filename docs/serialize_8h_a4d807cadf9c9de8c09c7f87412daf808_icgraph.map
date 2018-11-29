@@ -1,0 +1,10 @@
+<map id="Serialize" name="Serialize">
+<area shape="rect" id="node2" href="$class_c_hash_writer.html#a6551aed7315be5ba750680df18562f3a" title="CHashWriter::operator\&lt;\&lt;" alt="" coords="135,5,305,31"/>
+<area shape="rect" id="node3" href="$serialize_8h.html#a6724f283710e869aa8caabba08bfd2af" title="Serialize_impl" alt="" coords="168,55,272,80"/>
+<area shape="rect" id="node4" href="$serialize_8h.html#aa2b7d9cb5647ec7cedf17e1c68653e02" title="pair " alt="" coords="184,104,256,129"/>
+<area shape="rect" id="node5" href="$class_c_size_computer.html#a03a29c76f82dca1559e7922b35bebd0d" title="CSizeComputer::operator\&lt;\&lt;" alt="" coords="126,153,314,179"/>
+<area shape="rect" id="node6" href="$serialize_8h.html#a6448dde7699ff5695e96a1ea1f7c698c" title="SerializeMany" alt="" coords="167,203,272,228"/>
+<area shape="rect" id="node7" href="$class_override_stream.html#a959347a477ffbcf25741b88f4646aa16" title="OverrideStream::operator\&lt;\&lt;" alt="" coords="126,252,314,277"/>
+<area shape="rect" id="node8" href="$class_c_vector_writer.html#a6c272556159a2c5f69b0882f67724845" title="CVectorWriter::operator\&lt;\&lt;" alt="" coords="131,301,308,327"/>
+<area shape="rect" id="node9" href="$class_c_auto_file.html#a8e194596d1f8f64059247724b25df82c" title="CAutoFile::operator\&lt;\&lt;" alt="" coords="144,351,296,376"/>
+</map>

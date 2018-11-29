@@ -1,0 +1,12 @@
+<map id="SetupServerArgs" name="SetupServerArgs">
+<area shape="rect" id="node2" href="$chainparamsbase_8cpp.html#a976659dcbae70425b86d6506194b00e5" title="Creates and returns a std::unique_ptr&lt;CBaseChainParams&gt; of the chosen chain. " alt="" coords="176,5,349,31"/>
+<area shape="rect" id="node3" href="$chainparams_8cpp.html#a5ea79f6881b2b728e4e732889fb0aa1b" title="Creates and returns a std::unique_ptr&lt;CChainParams&gt; of the chosen chain. " alt="" coords="191,55,334,80"/>
+<area shape="rect" id="node4" href="$class_args_manager.html#a453e50e62e5cde685d804185819fc93c" title="Add argument. " alt="" coords="186,104,339,129"/>
+<area shape="rect" id="node5" href="$server_8cpp.html#ac2592c3f87216377b10947aa07a0c9c5" title="help" alt="" coords="397,104,443,129"/>
+<area shape="rect" id="node6" href="$class_uni_value.html#a5a7394aeb8d5584db7a90c2c041726b1" title="UniValue::size" alt="" coords="500,55,606,80"/>
+<area shape="rect" id="node7" href="$class_uni_value.html#a087ea6ccec615333371fa1aaf83ab7df" title="UniValue::get_str" alt="" coords="492,104,614,129"/>
+<area shape="rect" id="node9" href="$class_c_r_p_c_table.html#ae2bcbc6e3d62ac9f335aa2347f304485" title="Note: This interface may still be subject to change. " alt="" coords="491,153,615,179"/>
+<area shape="rect" id="node8" href="$class_uni_value.html#a4c9a5fa9114affbf31f6e346c032be12" title="UniValue::getValStr" alt="" coords="663,104,799,129"/>
+<area shape="rect" id="node10" href="$utilstrencodings_8cpp.html#a07fea13e4dba45392e84b1205a3fa598" title="Capitalizes the first character of the given string. " alt="" coords="691,153,771,179"/>
+<area shape="rect" id="node11" href="$utilstrencodings_8h.html#a305ed1b8de935913a95c40bacfd98fdc" title="Converts the given character to its uppercase equivalent. " alt="" coords="847,153,918,179"/>
+</map>

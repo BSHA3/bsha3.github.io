@@ -1,0 +1,16 @@
+<map id="src/policy/fees.h" name="src/policy/fees.h">
+<area shape="rect" id="node2" href="$amount_8h.html" title="amount.h" alt="" coords="1160,152,1237,177"/>
+<area shape="rect" id="node4" href="$feerate_8h.html" title="policy/feerate.h" alt="" coords="1023,79,1135,104"/>
+<area shape="rect" id="node40" href="$uint256_8h.html" title="uint256.h" alt="" coords="490,152,566,177"/>
+<area shape="rect" id="node44" href="$random_8h.html" title="random.h" alt="" coords="416,79,493,104"/>
+<area shape="rect" id="node46" href="$sync_8h.html" title="sync.h" alt="" coords="1425,79,1485,104"/>
+<area shape="rect" id="node5" href="$serialize_8h.html" title="serialize.h" alt="" coords="1055,152,1137,177"/>
+<area shape="rect" id="node6" href="$endian_8h.html" title="compat/endian.h" alt="" coords="328,299,448,324"/>
+<area shape="rect" id="node19" href="$prevector_8h.html" title="prevector.h" alt="" coords="1388,225,1476,251"/>
+<area shape="rect" id="node39" href="$span_8h.html" title="span.h" alt="" coords="1865,225,1927,251"/>
+<area shape="rect" id="node7" href="$byteswap_8h.html" title="compat/byteswap.h" alt="" coords="349,372,485,397"/>
+<area shape="rect" id="node24" href="$compat_8h.html" title="compat.h" alt="" coords="1374,299,1450,324"/>
+<area shape="rect" id="node43" href="$common_8h.html" title="crypto/common.h" alt="" coords="248,225,371,251"/>
+<area shape="rect" id="node45" href="$chacha20_8h.html" title="crypto/chacha20.h" alt="" coords="43,225,173,251"/>
+<area shape="rect" id="node47" href="$threadsafety_8h.html" title="threadsafety.h" alt="" coords="1261,152,1366,177"/>
+</map>

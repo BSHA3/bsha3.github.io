@@ -1,0 +1,5 @@
+<map id="NodeEvictionCandidate" name="NodeEvictionCandidate">
+<area shape="rect" id="node2" href="$class_c_address.html" title="A CService with information about it as peer. " alt="" coords="46,155,126,180"/>
+<area shape="rect" id="node3" href="$class_c_service.html" title="A combination of a network address (CNetAddr) and a (TCP) port. " alt="" coords="48,80,123,105"/>
+<area shape="rect" id="node4" href="$class_c_net_addr.html" title="IP address (IPv6, or IPv4 using mapped IPv6 range (::FFFF:0:0/96)) " alt="" coords="46,5,126,31"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="CWallet::EncryptWallet" name="CWallet::EncryptWallet">
+<area shape="rect" id="node2" href="$class_c_crypto_key_store.html#acc8fed44366c98fb481333ca6e867088" title="CCryptoKeyStore::IsCrypted" alt="" coords="998,25,1187,50"/>
+<area shape="rect" id="node3" href="$random_8cpp.html#ad3431dd191f6ae9977f482c150da3d6f" title="Function to gather random data from multiple sources, failing whenever any of those sources fail to p..." alt="" coords="762,771,909,797"/>
+<area shape="rect" id="node4" href="$utiltime_8cpp.html#a139d0fe6387b9e230a9b8bb12d9b43b9" title="GetTimeMillis" alt="" coords="253,767,355,793"/>
+<area shape="rect" id="node5" href="$class_c_crypter.html#a5368279e4a1549d3c1d15d8aa2179708" title="CCrypter::SetKeyFromPassphrase" alt="" coords="446,818,673,843"/>
+<area shape="rect" id="node8" href="$class_c_wallet.html#a4083c9a8583aa7b355da55280a519cc8" title="Prepends the wallet name in logging output to ease debugging in multi&#45;wallet use cases. " alt="" coords="477,526,642,551"/>
+<area shape="rect" id="node9" href="$class_c_crypter.html#a0d86aa5dcc5b52200359948fed9f599e" title="CCrypter::Encrypt" alt="" coords="241,967,368,993"/>
+<area shape="rect" id="node10" href="$class_c_crypto_key_store.html#a8c0f6b63fb04193df16243c4459b7c61" title="will encrypt previously unencrypted keys " alt="" coords="456,125,663,150"/>
+<area shape="rect" id="node16" href="$group__map_wallet.html#gab520e9876bc48da8c3cf8582ab995e9a" title="signify that a particular wallet feature is now used. this may change nWalletVersion and nWalletMaxVe..." alt="" coords="224,275,385,301"/>
+<area shape="rect" id="node21" href="$class_c_crypto_key_store.html#ab73ebcbfa6e0aaf271d0fff9369a6685" title="CCryptoKeyStore::Lock" alt="" coords="224,869,385,894"/>
+<area shape="rect" id="node23" href="$group__map_wallet.html#ga002c61a2b74f2c46063340c568e6cc1b" title="CWallet::Unlock" alt="" coords="246,918,362,943"/>
+<area shape="rect" id="node27" href="$group__map_wallet.html#gaa2d7f7fa5d6e003460484231b7894f03" title="CWallet::IsHDEnabled" alt="" coords="227,1017,381,1042"/>
+<area shape="rect" id="node29" href="$group__map_wallet.html#ga61216d96cb2c06c11372d16f0ae61d4b" title="CWallet::SetHDSeed" alt="" coords="232,375,377,401"/>
+<area shape="rect" id="node37" href="$group__map_wallet.html#ga35c26d9e81464f04a45375647c251d67" title="CWallet::GenerateNewSeed" alt="" coords="210,646,398,671"/>
+<area shape="rect" id="node45" href="$group___actions.html#ga7353ba1e79fc4167fbfbe79b41698fa7" title="Mark old keypool keys as used, and generate all new keys. " alt="" coords="229,475,380,501"/>
+<area shape="rect" id="node6" href="$class_c_crypter.html#a55ab8ab7270b5e4df07bacf4fb630632" title="CCrypter::BytesToKeySHA512AES" alt="" coords="721,870,950,895"/>
+<area shape="rect" id="node7" href="$cleanse_8cpp.html#a5a4afb85dd16ecc1f6019c782db78663" title="memory_cleanse" alt="" coords="774,821,897,846"/>
+<area shape="rect" id="node11" href="$class_c_key.html#aa1085c59603a62db6ec776300f250337" title="Compute the public key from a private key. " alt="" coords="771,475,900,501"/>
+<area shape="rect" id="node13" href="$class_c_key.html#ab8dee0ad9d933304a22284ee40040847" title="CKey::begin" alt="" coords="788,75,882,101"/>
+<area shape="rect" id="node14" href="$class_c_key.html#a41c700c4a732672e4b7cc60d811dbf41" title="CKey::end" alt="" coords="794,125,877,150"/>
+<area shape="rect" id="node12" href="$secp256k1_8h.html#a7438071aa8a6dc4697abe4f4659f2161" title="Compute the public key for a secret key. " alt="" coords="1014,462,1171,501"/>
+<area shape="rect" id="node15" href="$class_c_key.html#a468a9a8cd148ab4a43e7d76bbdc78abe" title="Simple read&#45;only vector&#45;like interface. " alt="" coords="1050,125,1135,150"/>
+<area shape="rect" id="node17" href="$class_wallet_batch.html#a233ed69f35b247e75e7c992877dc805f" title="WalletBatch::WriteMinVersion" alt="" coords="462,175,658,201"/>
+<area shape="rect" id="node18" href="$class_wallet_batch.html#a552eb421cff45a9ed94b1ec77e5c76c3" title="WalletBatch::WriteIC" alt="" coords="1021,226,1164,251"/>
+<area shape="rect" id="node19" href="$class_berkeley_batch.html#ac31c83ec96f7bd149f856d28e97dba23" title="BerkeleyBatch::Write" alt="" coords="1261,226,1407,251"/>
+<area shape="rect" id="node20" href="$class_berkeley_database.html#a313cd767c211da5738bdb5578cd59af7" title="BerkeleyDatabase::Increment\lUpdateCounter" alt="" coords="1235,287,1432,326"/>
+<area shape="rect" id="node22" href="$class_c_crypto_key_store.html#af202f587051735be5a39344d9e333720" title="CCryptoKeyStore::SetCrypted" alt="" coords="736,919,935,945"/>
+<area shape="rect" id="node24" href="$class_c_crypter.html#a55859da12c03984ed0f9b24e0db6ec43" title="CCrypter::Decrypt" alt="" coords="496,969,624,994"/>
+<area shape="rect" id="node26" href="$class_c_crypto_key_store.html#a81bd70e18aa75f566526620a74f9cd88" title="CCryptoKeyStore::Unlock" alt="" coords="473,919,646,945"/>
+<area shape="rect" id="node25" href="$class_a_e_s256_c_b_c_decrypt.html#a3fce5ea3ae8ca711eaf8bc6447199037" title="AES256CBCDecrypt::Decrypt" alt="" coords="737,969,934,994"/>
+<area shape="rect" id="node28" href="$classbase__blob.html#aba89c6722866a5850882a509d27d7bbd" title="base_blob::IsNull" alt="" coords="498,1018,621,1043"/>
+<area shape="rect" id="node30" href="$class_c_wallet.html#a22312062d026a1c0a992773386101b50" title="check whether we are allowed to upgrade (or already support) to the named feature ..." alt="" coords="464,275,656,301"/>
+<area shape="rect" id="node31" href="$class_c_pub_key.html#a2675f7e6f72eff68e7a5227289feb021" title="Get the KeyID of this public key (hash of its serialization) " alt="" coords="775,525,895,550"/>
+<area shape="rect" id="node35" href="$group__map_wallet.html#ga41223271c99bd3468e9f75c0c9155c21" title="CWallet::SetHDChain" alt="" coords="485,226,634,251"/>
+<area shape="rect" id="node32" href="$_hash_8h.html#a3f56a9b8501ec9d021aad11389d419c4" title="Compute the 160&#45;bit hash an object. " alt="" coords="1055,525,1130,550"/>
+<area shape="rect" id="node34" href="$class_c_pub_key.html#a6bb28fcf0a5f799c69f5b7269363b309" title="Simple read&#45;only vector&#45;like interface to the pubkey data. " alt="" coords="1038,574,1147,599"/>
+<area shape="rect" id="node33" href="$class_c_hash360.html#a9268162ed4d951b479493d16f0bfb5df" title="CHash360::Write" alt="" coords="1272,525,1395,550"/>
+<area shape="rect" id="node36" href="$class_wallet_batch.html#a730373abe82d3c9dc4fe328caeafaeec" title="write the hdchain model (external chain child index counter) " alt="" coords="743,226,928,251"/>
+<area shape="rect" id="node38" href="$group__map_wallet.html#ga647681fa084c9d03742f9522f8779ca7" title="check if a certain wallet flag is set " alt="" coords="751,426,919,451"/>
+<area shape="rect" id="node39" href="$class_c_key.html#a9d12ed9d297e4286250fd7ea6b59e1a5" title="Generate a new private key using a cryptographic PRNG. " alt="" coords="488,677,631,702"/>
+<area shape="rect" id="node41" href="$group__map_wallet.html#gaf72003c77abf215cc1576ab6c50125f7" title="CWallet::DeriveNewSeed" alt="" coords="474,627,645,653"/>
+<area shape="rect" id="node40" href="$class_c_key.html#acec869bc75fa8f4d619ab025d367a97c" title="Check whether the 32&#45;byte array pointed to by vch is valid keydata. " alt="" coords="786,722,885,747"/>
+<area shape="rect" id="node42" href="$utiltime_8cpp.html#a46fac5fba8ba905b5f9acb364f5d8c6f" title="GetTimeMicros() and GetTimeMillis() both return the system time, but in different units..." alt="" coords="799,623,871,649"/>
+<area shape="rect" id="node43" href="$class_c_key.html#ac53425b8d0f89067bce781c485101b20" title="Verify thoroughly whether a private key and a public key match. " alt="" coords="765,673,906,698"/>
+<area shape="rect" id="node44" href="$group__map_wallet.html#ga2b0c518df362a1a765a241c1ca5c69a0" title="Adds a key to the store, and saves it to disk. " alt="" coords="751,574,920,599"/>
+<area shape="rect" id="node46" href="$class_wallet_batch.html#a12d883a8b0d8245a3d4f5a85c64fe9fc" title="WalletBatch::ErasePool" alt="" coords="479,325,640,350"/>
+<area shape="rect" id="node48" href="$group___actions.html#ga9730278506e0a4f1c65239b951525b55" title="CWallet::TopUpKeyPool" alt="" coords="478,374,641,399"/>
+<area shape="rect" id="node47" href="$class_wallet_batch.html#a9142686ef26de3c4ab3062237a81f345" title="WalletBatch::EraseIC" alt="" coords="1019,315,1166,341"/>
+<area shape="rect" id="node49" href="$class_c_crypto_key_store.html#a52919fa284a3aa10f1b4bd6018b6dbee" title="CCryptoKeyStore::IsLocked" alt="" coords="742,275,928,301"/>
+<area shape="rect" id="node50" href="$class_args_manager.html#adb5d644d273b3a259f792affcdca8283" title="Return string argument or default value. " alt="" coords="760,377,911,402"/>
+</map>

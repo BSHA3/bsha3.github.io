@@ -1,0 +1,5 @@
+<map id="SHA3_512::SHA3_512" name="SHA3_512::SHA3_512">
+<area shape="rect" id="node2" href="$class_keccak_core.html#ab3c1905f2002e49aca085d6f0b5546f7" title="Sets the capacity of the Keccak sponge function in bits. " alt="" coords="211,31,382,56"/>
+<area shape="rect" id="node3" href="$class_keccak_core.html#a9a5536728c084ebb46c7d95789d05311" title="Returns the capacity of the sponge function in bits. " alt="" coords="430,5,580,31"/>
+<area shape="rect" id="node4" href="$class_keccak_core.html#a5a322eb7e3b5c1eaad127c9c6e6a529b" title="Resets the Keccak sponge function ready for a new session. " alt="" coords="440,55,571,80"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="BaseRequestHandler" name="BaseRequestHandler">
+<area shape="rect" id="node2" href="$class_default_request_handler.html" title="Process default single requests. " alt="" coords="5,79,165,104"/>
+<area shape="rect" id="node3" href="$class_getinfo_request_handler.html" title="Process getinfo requests. " alt="" coords="189,79,350,104"/>
+</map>

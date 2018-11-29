@@ -1,0 +1,5 @@
+<map id="CWalletTx::RelayWalletTransaction" name="CWalletTx::RelayWalletTransaction">
+<area shape="rect" id="node2" href="$group__map_wallet.html#gab1b375d6b93df5a21b50b9187ad2bb99" title="CWallet::ResendWalletTransactions\lBefore" alt="" coords="283,5,516,44"/>
+<area shape="rect" id="node4" href="$group___actions.html#ga2faeb244cf83bbae1304ae2f4acc7d93" title="Call after CreateTransaction unless you want to abort. " alt="" coords="305,68,495,93"/>
+<area shape="rect" id="node3" href="$group__map_wallet.html#gae244d73570ef856a448683122e817041" title="Tells listeners to broadcast their data. " alt="" coords="564,12,797,37"/>
+</map>

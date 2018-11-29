@@ -1,0 +1,6 @@
+<map id="GetDefaultDataDir" name="GetDefaultDataDir">
+<area shape="rect" id="node2" href="$class_intro.html#aad225845533fc7f451648dc7c9643e6a" title="Determine default data directory for operating system. " alt="" coords="184,56,381,81"/>
+<area shape="rect" id="node3" href="$class_intro.html#a2f11c0fccc56ec7bb53cfddec98ee21b" title="Intro::setDataDirectory" alt="" coords="432,5,587,31"/>
+<area shape="rect" id="node4" href="$class_intro.html#ae4cefbcd5e61f62cb2a59f38bc2ae52f" title="Intro::on_dataDirDefault\l_clicked" alt="" coords="638,24,801,63"/>
+<area shape="rect" id="node5" href="$class_intro.html#a104214b46bc549a8017906302e4b62bf" title="Determine data directory. " alt="" coords="429,107,590,132"/>
+</map>

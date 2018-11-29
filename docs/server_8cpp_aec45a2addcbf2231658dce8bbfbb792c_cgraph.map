@@ -1,0 +1,10 @@
+<map id="RPCTypeCheckObj" name="RPCTypeCheckObj">
+<area shape="rect" id="node2" href="$univalue_8h.html#a33625d562f1ef5f44ceb171d5c8f2a85" title="find_value" alt="" coords="214,5,296,31"/>
+<area shape="rect" id="node3" href="$class_uni_value.html#a3661be0f5580daceb23e5338e3a0df22" title="UniValue::isNull" alt="" coords="198,55,313,80"/>
+<area shape="rect" id="node4" href="$rpc_2protocol_8cpp.html#a40b75d3d265c4a2e1d5fe3e129743884" title="JSONRPCError" alt="" coords="198,104,313,129"/>
+<area shape="rect" id="node6" href="$class_uni_value.html#a5b33bfd4be1574e610eee5a7cdae77d1" title="UniValue::type" alt="" coords="202,153,309,179"/>
+<area shape="rect" id="node8" href="$univalue_8h.html#aa037153cdbc98dd3683ff1918dc70932" title="uvTypeName" alt="" coords="205,203,305,228"/>
+<area shape="rect" id="node9" href="$class_uni_value.html#a67e4178f582aa9f7bc39e71066ad786e" title="UniValue::getKeys" alt="" coords="190,252,320,277"/>
+<area shape="rect" id="node5" href="$util_8h.html#a96c5fc7111f69f7dcaba992d95d13e03" title="error" alt="" coords="408,104,458,129"/>
+<area shape="rect" id="node7" href="$class_uni_value.html#a2dbc9c5aa9d209338b0bef650f3d1987" title="UniValue::getType" alt="" coords="368,153,498,179"/>
+</map>

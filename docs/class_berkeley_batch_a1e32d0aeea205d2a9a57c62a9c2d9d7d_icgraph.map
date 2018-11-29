@@ -1,0 +1,11 @@
+<map id="BerkeleyBatch::GetCursor" name="BerkeleyBatch::GetCursor">
+<area shape="rect" id="node2" href="$class_wallet_batch.html#af17758ea2f62ca2d80def7ae780e81f8" title="WalletBatch::LoadWallet" alt="" coords="235,17,401,43"/>
+<area shape="rect" id="node5" href="$class_wallet_batch.html#a32af4723c4cb7cb41958b42b13f78f78" title="WalletBatch::FindWalletTx" alt="" coords="230,68,406,93"/>
+<area shape="rect" id="node3" href="$group___actions.html#ga5d7b244b8ed0cbe24233ee0b6ca3cae0" title="CWallet::LoadWallet" alt="" coords="471,15,612,40"/>
+<area shape="rect" id="node4" href="$struct_wallet_testing_setup.html#a0125ada997b4b16803624bfd537d8902" title="WalletTestingSetup\l::WalletTestingSetup" alt="" coords="680,5,823,44"/>
+<area shape="rect" id="node6" href="$class_wallet_batch.html#ac79856b5948d8a13415547fd3e9374f2" title="WalletBatch::ZapSelectTx" alt="" coords="454,68,628,93"/>
+<area shape="rect" id="node9" href="$class_wallet_batch.html#a50a18be2146809a540975db37225775f" title="WalletBatch::ZapWalletTx" alt="" coords="454,117,628,143"/>
+<area shape="rect" id="node7" href="$group___actions.html#ga01a1096ab883f9278d00c7b0d555bb2a" title="CWallet::ZapSelectTx" alt="" coords="676,68,826,93"/>
+<area shape="rect" id="node8" href="$rpcwallet_8cpp.html#a85478b0b9837a3e5467dce66fcb5ffb0" title="removeprunedfunds" alt="" coords="874,68,1014,93"/>
+<area shape="rect" id="node10" href="$group___actions.html#ga71d4b810d6fce19efd455ded3e450a1b" title="CWallet::ZapWalletTx" alt="" coords="677,117,826,143"/>
+</map>

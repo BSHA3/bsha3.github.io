@@ -1,0 +1,6 @@
+<map id="SignPSBTInput" name="SignPSBTInput">
+<area shape="rect" id="node2" href="$rawtransaction_8cpp.html#a5edaef38949646889470912893a56b88" title="finalizepsbt" alt="" coords="166,5,254,31"/>
+<area shape="rect" id="node3" href="$rpcwallet_8h.html#ab2cdd07070dae2e6b1a2ea36a619b233" title="FillPSBT" alt="" coords="173,55,246,80"/>
+<area shape="rect" id="node4" href="$rpcwallet_8cpp.html#a9c99ceacf389a1ce91977c6f7ffa5022" title="walletprocesspsbt" alt="" coords="317,29,445,55"/>
+<area shape="rect" id="node5" href="$rpcwallet_8cpp.html#afca55ac7a3c6c274b8b7b3e6eab9cd86" title="walletcreatefundedpsbt" alt="" coords="302,79,460,104"/>
+</map>

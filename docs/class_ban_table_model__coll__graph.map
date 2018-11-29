@@ -1,0 +1,6 @@
+<map id="BanTableModel" name="BanTableModel">
+<area shape="rect" id="node3" href="$class_client_model.html" title="Model for Bitcoin network client. " alt="" coords="247,179,339,204"/>
+<area shape="rect" id="node5" href="$class_peer_table_model.html" title="Qt model providing information about connected peers, similar to the &quot;getpeerinfo&quot; RPC call..." alt="" coords="234,265,352,291"/>
+<area shape="rect" id="node6" href="$classinterfaces_1_1_node.html" title="Top&#45;level interface for a bitcoin node (bsha3d process). " alt="" coords="267,5,386,31"/>
+<area shape="rect" id="node7" href="$class_options_model.html" title="Interface from Qt to configuration data structure for Bitcoin client. " alt="" coords="403,92,506,117"/>
+</map>

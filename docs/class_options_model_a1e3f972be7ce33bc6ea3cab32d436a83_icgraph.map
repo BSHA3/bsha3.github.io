@@ -1,0 +1,10 @@
+<map id="OptionsModel::isRestartRequired" name="OptionsModel::isRestartRequired">
+<area shape="rect" id="node2" href="$class_options_dialog.html#a11e902a52cb7472497d14e70cd9399d9" title="OptionsDialog::setModel" alt="" coords="734,12,900,37"/>
+<area shape="rect" id="node7" href="$class_options_dialog.html#acd07b7058fd097bea5beb5cdd6fc1ad9" title="OptionsDialog::clearStatus\lLabel" alt="" coords="271,33,450,72"/>
+<area shape="rect" id="node3" href="$class_bitcoin_g_u_i.html#a203d9003ab4de369e35599aaaae6f17a" title="Open the OptionsDialog on the specified tab index. " alt="" coords="948,5,1154,44"/>
+<area shape="rect" id="node4" href="$class_bitcoin_g_u_i.html#a58564e8398e33db7beca224c0f71c2b6" title="BitcoinGUI::BitcoinGUI" alt="" coords="1650,12,1807,37"/>
+<area shape="rect" id="node5" href="$class_bitcoin_g_u_i.html#a366dfb05459cb49fec8adb7f97bf2ad7" title="Show configuration dialog. " alt="" coords="1202,37,1381,63"/>
+<area shape="rect" id="node6" href="$class_bitcoin_g_u_i.html#a7340679e1356b1bb3cfaeb64a3e93218" title="Create the main UI actions. " alt="" coords="1429,37,1602,63"/>
+<area shape="rect" id="node8" href="$class_options_dialog.html#a866e74896ea7dacdc99b5e0af4fd5b38" title="OptionsDialog::showRestart\lWarning" alt="" coords="499,33,685,72"/>
+<area shape="rect" id="node9" href="$class_options_dialog.html#a47a812f6d8e96f7a672dd39283822341" title="OptionsDialog::updateProxy\lValidationState" alt="" coords="498,96,686,135"/>
+</map>

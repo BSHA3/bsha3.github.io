@@ -1,0 +1,5 @@
+<map id="CAddrMan::SetServices" name="CAddrMan::SetServices">
+<area shape="rect" id="node2" href="$class_c_addr_man.html#a0c2677ae50ce0d680f0105b285d1f5d0" title="Consistency check. " alt="" coords="237,5,368,31"/>
+<area shape="rect" id="node3" href="$class_c_addr_man.html#ad58bc489d8eb0c5233dec4693a05b432" title="Update an entry&#39;s service bits. " alt="" coords="217,55,388,80"/>
+<area shape="rect" id="node4" href="$class_c_addr_man.html#a7566e599fd71aab7214d9ef1aeaa5514" title="Find an entry. " alt="" coords="436,55,554,80"/>
+</map>

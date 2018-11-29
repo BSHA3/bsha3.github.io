@@ -1,0 +1,9 @@
+<map id="WalletBatch::WriteHDChain" name="WalletBatch::WriteHDChain">
+<area shape="rect" id="node2" href="$group__map_wallet.html#gafb01fcc10d890174b2db560a7f27b58a" title="CWallet::DeriveNewChildKey" alt="" coords="238,5,431,31"/>
+<area shape="rect" id="node5" href="$group__map_wallet.html#ga41223271c99bd3468e9f75c0c9155c21" title="CWallet::SetHDChain" alt="" coords="260,55,409,80"/>
+<area shape="rect" id="node3" href="$group__map_wallet.html#ga5abb589b31879b8f4bf1890c22f15f64" title="keystore implementation Generate a new key " alt="" coords="479,5,659,31"/>
+<area shape="rect" id="node4" href="$group___actions.html#gac452f46eafeb2b4adfe86f7208048032" title="CWallet::GetKeyFromPool" alt="" coords="707,5,885,31"/>
+<area shape="rect" id="node6" href="$group__map_wallet.html#ga61216d96cb2c06c11372d16f0ae61d4b" title="CWallet::SetHDSeed" alt="" coords="497,55,642,80"/>
+<area shape="rect" id="node7" href="$group__map_wallet.html#gab34fe5bf771619dcbe22a65f013e5469" title="CWallet::EncryptWallet" alt="" coords="718,55,874,80"/>
+<area shape="rect" id="node8" href="$rpcwallet_8cpp.html#a61c7a90d1b36888fe11b751e746e18c0" title="sethdseed" alt="" coords="755,104,837,129"/>
+</map>

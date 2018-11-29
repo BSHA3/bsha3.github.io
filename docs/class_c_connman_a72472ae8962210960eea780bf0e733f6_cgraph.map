@@ -1,0 +1,4 @@
+<map id="CConnman::GetBanned" name="CConnman::GetBanned">
+<area shape="rect" id="node2" href="$class_c_connman.html#a0695d37447e19cfde25be7e9b7f13f67" title="clean unused entries (if bantime has expired) " alt="" coords="217,5,400,31"/>
+<area shape="rect" id="node3" href="$utiltime_8cpp.html#a46fac5fba8ba905b5f9acb364f5d8c6f" title="GetTimeMicros() and GetTimeMillis() both return the system time, but in different units..." alt="" coords="448,5,520,31"/>
+</map>

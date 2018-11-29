@@ -1,0 +1,12 @@
+<map id="RPCConsole::peerSelected" name="RPCConsole::peerSelected">
+<area shape="rect" id="node2" href="$class_client_model.html#a643fc112ce94f50ac7187ecdf3c75360" title="ClientModel::getPeerTable\lModel" alt="" coords="255,17,433,56"/>
+<area shape="rect" id="node3" href="$class_peer_table_model.html#a98084d3299642316c71c5de3d36b9859" title="PeerTableModel::getNodeStats" alt="" coords="241,80,447,105"/>
+<area shape="rect" id="node4" href="$class_r_p_c_console.html#a0bd7e2be4a07bcf4f8b20eb1881dacbb" title="show detailed information on ui about selected node " alt="" coords="238,129,450,155"/>
+<area shape="rect" id="node5" href="$namespace_g_u_i_util.html#ac0c0a23fbbfefc827220eebcacc3ee63" title="GUIUtil::formatServicesStr" alt="" coords="499,5,677,31"/>
+<area shape="rect" id="node6" href="$namespace_g_u_i_util.html#aaf51686c47c77ad81c51d115d150e867" title="GUIUtil::formatDurationStr" alt="" coords="500,55,676,80"/>
+<area shape="rect" id="node7" href="$utiltime_8cpp.html#a1c4021a78be4eeffa05732694ab4bab0" title="GetSystemTimeInSeconds" alt="" coords="498,104,678,129"/>
+<area shape="rect" id="node9" href="$namespace_g_u_i_util.html#a3d10a887d17d7ddafdf1b4428feed494" title="GUIUtil::formatBytes" alt="" coords="517,153,659,179"/>
+<area shape="rect" id="node10" href="$namespace_g_u_i_util.html#a432bcee36e242a968c9149fadfba44fa" title="GUIUtil::formatPingTime" alt="" coords="505,203,671,228"/>
+<area shape="rect" id="node11" href="$namespace_g_u_i_util.html#abcdfa2d127580ddd43eab822f7aca267" title="GUIUtil::formatTimeOffset" alt="" coords="501,252,675,277"/>
+<area shape="rect" id="node8" href="$utiltime_8cpp.html#a0c5a06b50cd805b1923552114494c029" title="GetTimeMicros" alt="" coords="726,104,837,129"/>
+</map>

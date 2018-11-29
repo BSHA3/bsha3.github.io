@@ -1,0 +1,8 @@
+<map id="CChainState::DisconnectBlock" name="CChainState::DisconnectBlock">
+<area shape="rect" id="node2" href="$class_c_chain_state.html#a57682556dc35715fba5f0c6075efcc6e" title="Disconnect chainActive&#39;s tip. " alt="" coords="256,68,445,93"/>
+<area shape="rect" id="node3" href="$class_c_chain_state.html#afb6986710de5db645a000d4bac55cf9f" title="Try to make some progress towards making pindexMostWork the active block. " alt="" coords="500,5,679,44"/>
+<area shape="rect" id="node4" href="$class_c_chain_state.html#a657a2d93faf38567ef34aeb75295ef4e" title="CChainState::InvalidateBlock" alt="" coords="493,68,687,93"/>
+<area shape="rect" id="node6" href="$class_c_chain_state.html#afc0586502e4dd4092c4a0707d329f6eb" title="CChainState::RewindBlock\lIndex" alt="" coords="499,117,680,156"/>
+<area shape="rect" id="node5" href="$validation_8h.html#ac1125805255945a06f6f6fe1d9c6c154" title="Mark a block as invalid. " alt="" coords="745,68,856,93"/>
+<area shape="rect" id="node7" href="$validation_8h.html#a2e51de180124822c526ac8f82777fa32" title="When there are blocks in the active chain with missing data, rewind the chainstate and remove them fr..." alt="" coords="735,124,866,149"/>
+</map>

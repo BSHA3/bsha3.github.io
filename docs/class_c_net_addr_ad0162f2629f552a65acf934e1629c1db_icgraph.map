@@ -1,0 +1,6 @@
+<map id="CNetAddr::GetNetwork" name="CNetAddr::GetNetwork">
+<area shape="rect" id="node2" href="$net_8h.html#a058b75c6fcc94a0643184c237ad6de93" title="IsPeerAddrLocalGood" alt="" coords="211,5,364,31"/>
+<area shape="rect" id="node4" href="$net_8h.html#a7f5f5a0bf934e49c7137ee4aa6eb8732" title="IsLimited" alt="" coords="250,55,325,80"/>
+<area shape="rect" id="node5" href="$net_8h.html#a0eb7db987ad1a1bf139d0cd46873ed29" title="check whether a given address is in a network we can probably connect to " alt="" coords="240,104,335,129"/>
+<area shape="rect" id="node3" href="$net_8h.html#a0cde2b3256757536c42c0bd3037847d1" title="AdvertiseLocal" alt="" coords="412,5,520,31"/>
+</map>

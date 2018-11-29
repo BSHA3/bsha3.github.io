@@ -1,0 +1,8 @@
+<map id="JSONRPCProcessBatchReply" name="JSONRPCProcessBatchReply">
+<area shape="rect" id="node2" href="$class_uni_value.html#a1d2e9479d4fb330a73e0fd41197aec35" title="UniValue::isArray" alt="" coords="258,5,381,31"/>
+<area shape="rect" id="node3" href="$class_uni_value.html#a5a7394aeb8d5584db7a90c2c041726b1" title="UniValue::size" alt="" coords="267,55,373,80"/>
+<area shape="rect" id="node4" href="$class_uni_value.html#af1a6df88c2bee59a863dd6f8d12e9be5" title="UniValue::isObject" alt="" coords="255,104,385,129"/>
+<area shape="rect" id="node5" href="$class_uni_value.html#af45edc6e67eaa6d1f271ce18e435a376" title="UniValue::get_int" alt="" coords="259,153,381,179"/>
+<area shape="rect" id="node6" href="$utilstrencodings_8cpp.html#a880a215d9e931432b095084c756a49bb" title="Convert string to signed 32&#45;bit integer with strict parse error feedback. " alt="" coords="458,128,544,153"/>
+<area shape="rect" id="node7" href="$class_uni_value.html#a4c9a5fa9114affbf31f6e346c032be12" title="UniValue::getValStr" alt="" coords="433,177,568,203"/>
+</map>

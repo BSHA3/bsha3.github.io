@@ -1,0 +1,4 @@
+<map id="ResetBlockFailureFlags" name="ResetBlockFailureFlags">
+<area shape="rect" id="node2" href="$class_c_chain_state.html#a6e35ac867678ce71b05ff271c44bde29" title="CChainState::ResetBlockFailure\lFlags" alt="" coords="215,5,428,44"/>
+<area shape="rect" id="node3" href="$class_c_chain.html#a578545bde95163bee37b1be28e7b2755" title="Returns the index entry for the tip of this chain, or nullptr if none. " alt="" coords="476,12,567,37"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="CMerkleTx::IsCoinBase" name="CMerkleTx::IsCoinBase">
+<area shape="rect" id="node2" href="$group__map_wallet.html#ga796c23450c8482e10e0c75ae5c1fa8ed" title="CWallet::ReacceptWalletTransactions" alt="" coords="215,37,458,63"/>
+<area shape="rect" id="node4" href="$group__map_wallet.html#ga9919bca1768b0c825ecd4080255fb083" title="CWalletTx::RelayWalletTransaction" alt="" coords="222,117,451,143"/>
+<area shape="rect" id="node8" href="$class_c_merkle_tx.html#adf7a2cf7e7e0fd77290f3bbdb41f5188" title="CMerkleTx::GetBlocksToMaturity" alt="" coords="229,167,444,192"/>
+<area shape="rect" id="node20" href="$rpcwallet_8cpp.html#a8235b0bea61ab4fa73e579239cd08a00" title="for" alt="" coords="317,216,356,241"/>
+<area shape="rect" id="node3" href="$class_c_wallet.html#af90da574ac532d56da917168add3e5be" title="Wallet post&#45;init setup Gives the wallet a chance to register repetitive tasks and complete post&#45;init ..." alt="" coords="540,5,706,31"/>
+<area shape="rect" id="node5" href="$group__map_wallet.html#gab1b375d6b93df5a21b50b9187ad2bb99" title="CWallet::ResendWalletTransactions\lBefore" alt="" coords="506,55,740,93"/>
+<area shape="rect" id="node7" href="$group___actions.html#ga2faeb244cf83bbae1304ae2f4acc7d93" title="Call after CreateTransaction unless you want to abort. " alt="" coords="528,117,718,143"/>
+<area shape="rect" id="node6" href="$group__map_wallet.html#gae244d73570ef856a448683122e817041" title="Tells listeners to broadcast their data. " alt="" coords="788,40,1021,65"/>
+<area shape="rect" id="node9" href="$class_c_merkle_tx.html#acb62dfe9de72cdf75520b0f367097eda" title="CMerkleTx::IsImmatureCoinBase" alt="" coords="514,167,732,192"/>
+<area shape="rect" id="node10" href="$group__map_wallet.html#ga7e8f86fd4171608c1777ece32dffc57b" title="CWalletTx::GetCredit" alt="" coords="831,89,978,115"/>
+<area shape="rect" id="node11" href="$group__map_wallet.html#gabb3eec7968dec62cf41937aab0985087" title="CWalletTx::GetImmatureCredit" alt="" coords="803,139,1006,164"/>
+<area shape="rect" id="node13" href="$group__map_wallet.html#ga6a008c5f06fa405ed345c2ad389faac1" title="CWalletTx::GetAvailableCredit" alt="" coords="804,188,1005,213"/>
+<area shape="rect" id="node17" href="$group__map_wallet.html#ga283fbf2ff029a0052aba10aa4224fbdb" title="CWalletTx::GetImmatureWatch\lOnlyCredit" alt="" coords="802,237,1007,276"/>
+<area shape="rect" id="node19" href="$group___actions.html#ga0bbcbd8b9632b13e646f046d4dcc17d6" title="CWallet::GetAddressBalances" alt="" coords="804,300,1004,325"/>
+<area shape="rect" id="node12" href="$group___actions.html#ga6ab8dfa75c5c8d5539325f3981697964" title="CWallet::GetImmatureBalance" alt="" coords="1079,89,1279,115"/>
+<area shape="rect" id="node14" href="$group___actions.html#ga595a76e26660b8066450c21bb883ef7f" title="CWallet::GetBalance" alt="" coords="1107,139,1251,164"/>
+<area shape="rect" id="node15" href="$group___actions.html#ga6e6e1497535d499242c2f2a76d1cbe63" title="CWallet::GetUnconfirmedBalance" alt="" coords="1069,188,1289,213"/>
+<area shape="rect" id="node16" href="$group___actions.html#gab0c110f14f0429f9de594b2293837621" title="CWallet::GetUnconfirmedWatch\lOnlyBalance" alt="" coords="1074,237,1284,276"/>
+<area shape="rect" id="node18" href="$group___actions.html#ga1372ba886aaeda65bf28758c9ccb65b4" title="CWallet::GetImmatureWatch\lOnlyBalance" alt="" coords="1084,300,1274,339"/>
+<area shape="rect" id="node21" href="$class_keccak_core.html#acaf5c13452003e6e2e7793939f62a123" title="Extracts data from the Keccak sponge function and uses it to encrypt a buffer. " alt="" coords="550,216,696,241"/>
+</map>

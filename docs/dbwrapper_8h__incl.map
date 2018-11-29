@@ -1,0 +1,21 @@
+<map id="src/dbwrapper.h" name="src/dbwrapper.h">
+<area shape="rect" id="node2" href="$clientversion_8h.html" title="clientversion.h" alt="" coords="1893,159,2000,184"/>
+<area shape="rect" id="node5" href="$fs_8h.html" title="fs.h" alt="" coords="2466,239,2509,264"/>
+<area shape="rect" id="node9" href="$serialize_8h.html" title="serialize.h" alt="" coords="659,159,740,184"/>
+<area shape="rect" id="node34" href="$streams_8h.html" title="streams.h" alt="" coords="941,79,1021,104"/>
+<area shape="rect" id="node37" href="$util_8h.html" title="util.h" alt="" coords="2111,79,2160,104"/>
+<area shape="rect" id="node47" href="$utilstrencodings_8h.html" title="utilstrencodings.h" alt="" coords="1693,159,1818,184"/>
+<area shape="rect" id="node48" href="$version_8h.html" title="version.h" alt="" coords="2602,79,2677,104"/>
+<area shape="rect" id="node10" href="$endian_8h.html" title="compat/endian.h" alt="" coords="564,239,684,264"/>
+<area shape="rect" id="node22" href="$prevector_8h.html" title="prevector.h" alt="" coords="236,239,323,264"/>
+<area shape="rect" id="node33" href="$span_8h.html" title="span.h" alt="" coords="150,239,212,264"/>
+<area shape="rect" id="node11" href="$byteswap_8h.html" title="compat/byteswap.h" alt="" coords="653,312,789,337"/>
+<area shape="rect" id="node27" href="$compat_8h.html" title="compat.h" alt="" coords="2048,312,2124,337"/>
+<area shape="rect" id="node35" href="$zeroafterfree_8h.html" title="support/allocators\l/zeroafterfree.h" alt="" coords="1068,152,1195,191"/>
+<area shape="rect" id="node36" href="$cleanse_8h.html" title="support/cleanse.h" alt="" coords="1068,239,1195,264"/>
+<area shape="rect" id="node38" href="$logging_8h.html" title="logging.h" alt="" coords="2023,159,2099,184"/>
+<area shape="rect" id="node39" href="$tinyformat_8h.html" title="tinyformat.h" alt="" coords="1477,239,1568,264"/>
+<area shape="rect" id="node41" href="$sync_8h.html" title="sync.h" alt="" coords="2324,159,2384,184"/>
+<area shape="rect" id="node42" href="$utilmemory_8h.html" title="utilmemory.h" alt="" coords="1269,159,1365,184"/>
+<area shape="rect" id="node43" href="$utiltime_8h.html" title="utiltime.h" alt="" coords="2200,239,2274,264"/>
+</map>

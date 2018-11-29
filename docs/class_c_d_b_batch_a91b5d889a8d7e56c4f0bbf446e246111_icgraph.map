@@ -1,0 +1,8 @@
+<map id="CDBBatch::Write" name="CDBBatch::Write">
+<area shape="rect" id="node2" href="$class_c_d_b_wrapper.html#a6600aa8c2b30880dd7e032ea21f74aed" title="CDBWrapper::Write" alt="" coords="211,24,350,50"/>
+<area shape="rect" id="node6" href="$class_tx_index_1_1_d_b.html#a1a74538fe62aa9bea4c4ad27a090b902" title="Write a batch of transaction positions to the DB. " alt="" coords="203,74,358,99"/>
+<area shape="rect" id="node7" href="$class_c_block_tree_d_b.html#af5509ed62ce84023882fe243e4cd21ba" title="CBlockTreeDB::WriteBatchSync" alt="" coords="175,123,386,148"/>
+<area shape="rect" id="node3" href="$class_tx_index_1_1_d_b.html#a7eeb3325ee83f6fe2736278a7952ba5c" title="Migrate txindex data from the block tree DB, where it may be for older nodes that have not been upgra..." alt="" coords="696,24,871,50"/>
+<area shape="rect" id="node4" href="$class_c_block_tree_d_b.html#a55914903b15bc119d0c4952af8fdf721" title="CBlockTreeDB::WriteReindexing" alt="" coords="434,24,648,50"/>
+<area shape="rect" id="node5" href="$class_c_block_tree_d_b.html#af2f65b70ac5d8a198d4f29a7e909c08a" title="CBlockTreeDB::WriteFlag" alt="" coords="455,74,628,99"/>
+</map>

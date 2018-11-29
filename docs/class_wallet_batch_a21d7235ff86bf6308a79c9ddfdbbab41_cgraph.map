@@ -1,0 +1,5 @@
+<map id="WalletBatch::Recover" name="WalletBatch::Recover">
+<area shape="rect" id="node2" href="$class_berkeley_batch.html#ae703f8cc421a53c8638da12914769acb" title="BerkeleyBatch::Recover" alt="" coords="202,31,367,56"/>
+<area shape="rect" id="node3" href="$db_8cpp.html#ad35888bb71f9a2822294063004aab1d5" title="Get BerkeleyEnvironment and database filename given a wallet path. " alt="" coords="415,5,517,31"/>
+<area shape="rect" id="node4" href="$utiltime_8cpp.html#a46fac5fba8ba905b5f9acb364f5d8c6f" title="GetTimeMicros() and GetTimeMillis() both return the system time, but in different units..." alt="" coords="430,55,502,80"/>
+</map>

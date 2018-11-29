@@ -1,0 +1,12 @@
+<map id="prevector::insert" name="prevector::insert">
+<area shape="rect" id="node2" href="$classprevector.html#aa9210cbe708412a70868d6e0bca844c9" title="prevector::begin" alt="" coords="204,195,321,220"/>
+<area shape="rect" id="node3" href="$classprevector.html#a59f1d7bcbc751cfa0faddd7ffa184846" title="prevector::item_ptr" alt="" coords="403,245,535,271"/>
+<area shape="rect" id="node7" href="$classprevector.html#a626f7d206dbc24e5610631809762758b" title="prevector::size" alt="" coords="415,43,523,68"/>
+<area shape="rect" id="node8" href="$classprevector.html#a833f4c9e5c4804fb8ac57b708657af24" title="prevector::capacity" alt="" coords="196,5,329,31"/>
+<area shape="rect" id="node9" href="$classprevector.html#a0e673654d3b7d8d6f79534e17f68741a" title="prevector::change_capacity" alt="" coords="170,145,355,171"/>
+<area shape="rect" id="node11" href="$glibc__compat_8cpp.html#a9778d49e9029dd75bc53ecbbf9f5e9a1" title="memmove" alt="" coords="616,320,700,345"/>
+<area shape="rect" id="node4" href="$classprevector.html#a933e204a7e29c6bbc85479d023c00ff8" title="prevector::is_direct" alt="" coords="591,68,725,93"/>
+<area shape="rect" id="node5" href="$classprevector.html#a20150a43dd87c33f0e855a55bd3418e8" title="prevector::direct_ptr" alt="" coords="588,169,728,195"/>
+<area shape="rect" id="node6" href="$classprevector.html#ae3343cc65be9fd678b4a6f8305624de6" title="prevector::indirect_ptr" alt="" coords="583,232,733,257"/>
+<area shape="rect" id="node10" href="$glibc__compat_8cpp.html#a0f46826ab0466591e136db24394923cf" title="memcpy" alt="" coords="433,295,505,320"/>
+</map>

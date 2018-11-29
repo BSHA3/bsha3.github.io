@@ -1,0 +1,12 @@
+<map id="CConnman::DumpData" name="CConnman::DumpData">
+<area shape="rect" id="node2" href="$class_c_connman.html#aefdc911e6c978574ec42051faeaea041" title="CConnman::DumpAddresses" alt="" coords="213,55,408,80"/>
+<area shape="rect" id="node5" href="$class_c_connman.html#a6e729a956380ac422ab78d842e158df1" title="CConnman::DumpBanlist" alt="" coords="225,156,397,181"/>
+<area shape="rect" id="node3" href="$utiltime_8cpp.html#a139d0fe6387b9e230a9b8bb12d9b43b9" title="GetTimeMillis" alt="" coords="510,55,612,80"/>
+<area shape="rect" id="node4" href="$class_c_addr_d_b.html#aaec90dba59cd69a2f25bc5630a1dde39" title="CAddrDB::Write" alt="" coords="503,5,619,31"/>
+<area shape="rect" id="node6" href="$class_c_connman.html#a0695d37447e19cfde25be7e9b7f13f67" title="clean unused entries (if bantime has expired) " alt="" coords="714,156,896,181"/>
+<area shape="rect" id="node8" href="$class_c_connman.html#ac5a5efb5d7a41f9a6f99c7328997f40d" title="check is the banlist has unwritten changes " alt="" coords="461,156,661,181"/>
+<area shape="rect" id="node9" href="$class_c_connman.html#a72472ae8962210960eea780bf0e733f6" title="CConnman::GetBanned" alt="" coords="479,205,643,231"/>
+<area shape="rect" id="node10" href="$class_c_ban_d_b.html#a0550a06c6b5987869f557467fe7f9896" title="CBanDB::Write" alt="" coords="505,255,617,280"/>
+<area shape="rect" id="node11" href="$class_c_connman.html#a6006659dcdda45215102e5982d4879a1" title="set the &quot;dirty&quot; flag for the banlist " alt="" coords="456,304,666,329"/>
+<area shape="rect" id="node7" href="$utiltime_8cpp.html#a46fac5fba8ba905b5f9acb364f5d8c6f" title="GetTimeMicros() and GetTimeMillis() both return the system time, but in different units..." alt="" coords="944,156,1016,181"/>
+</map>

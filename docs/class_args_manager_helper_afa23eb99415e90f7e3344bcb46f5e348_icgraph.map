@@ -1,0 +1,4 @@
+<map id="ArgsManagerHelper::GetNetBoolArg" name="ArgsManagerHelper::GetNetBoolArg">
+<area shape="rect" id="node2" href="$class_args_manager.html#affa2882d98a54a58bff11b510cd2abde" title="Looks for &#45;regtest, &#45;testnet and returns the appropriate BIP70 chain name. " alt="" coords="201,12,402,37"/>
+<area shape="rect" id="node3" href="$class_args_manager.html#aec848fd54ace0df3df48dac446feb7d2" title="ArgsManager::ReadConfigFiles" alt="" coords="450,12,657,37"/>
+</map>

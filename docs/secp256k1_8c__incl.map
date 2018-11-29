@@ -1,0 +1,24 @@
+<map id="src/secp256k1/src/secp256k1.c" name="src/secp256k1/src/secp256k1.c">
+<area shape="rect" id="node2" href="$secp256k1_8h.html" title="include/secp256k1.h" alt="" coords="1065,152,1207,177"/>
+<area shape="rect" id="node4" href="$secp256k1_2src_2util_8h.html" title="util.h" alt="" coords="250,445,299,471"/>
+<area shape="rect" id="node8" href="$num__impl_8h.html" title="num_impl.h" alt="" coords="671,299,761,324"/>
+<area shape="rect" id="node10" href="$field__impl_8h.html" title="field_impl.h" alt="" coords="93,299,182,324"/>
+<area shape="rect" id="node11" href="$scalar__impl_8h.html" title="scalar_impl.h" alt="" coords="631,225,731,251"/>
+<area shape="rect" id="node15" href="$group__impl_8h.html" title="group_impl.h" alt="" coords="307,225,405,251"/>
+<area shape="rect" id="node16" href="$ecmult__impl_8h.html" title="ecmult_impl.h" alt="" coords="1686,152,1789,177"/>
+<area shape="rect" id="node19" href="$ecmult__const__impl_8h.html" title="ecmult_const_impl.h" alt="" coords="1526,79,1669,104"/>
+<area shape="rect" id="node21" href="$ecmult__gen__impl_8h.html" title="ecmult_gen_impl.h" alt="" coords="479,152,612,177"/>
+<area shape="rect" id="node23" href="$hash__impl_8h.html" title="hash_impl.h" alt="" coords="9,372,103,397"/>
+<area shape="rect" id="node25" href="$ecdsa__impl_8h.html" title="ecdsa_impl.h" alt="" coords="910,79,1010,104"/>
+<area shape="rect" id="node27" href="$eckey__impl_8h.html" title="eckey_impl.h" alt="" coords="737,79,836,104"/>
+<area shape="rect" id="node9" href="$num_8h.html" title="num.h" alt="" coords="864,372,923,397"/>
+<area shape="rect" id="node12" href="$group_8h.html" title="group.h" alt="" coords="860,299,927,324"/>
+<area shape="rect" id="node14" href="$scalar_8h.html" title="scalar.h" alt="" coords="1012,299,1079,324"/>
+<area shape="rect" id="node13" href="$field_8h.html" title="field.h" alt="" coords="246,372,303,397"/>
+<area shape="rect" id="node18" href="$ecmult_8h.html" title="ecmult.h" alt="" coords="1277,225,1349,251"/>
+<area shape="rect" id="node20" href="$ecmult__const_8h.html" title="ecmult_const.h" alt="" coords="1424,225,1536,251"/>
+<area shape="rect" id="node22" href="$ecmult__gen_8h.html" title="ecmult_gen.h" alt="" coords="755,225,856,251"/>
+<area shape="rect" id="node24" href="$secp256k1_2src_2_hash_8h.html" title="hash.h" alt="" coords="25,445,87,471"/>
+<area shape="rect" id="node26" href="$ecdsa_8h.html" title="ecdsa.h" alt="" coords="1231,152,1299,177"/>
+<area shape="rect" id="node28" href="$eckey_8h.html" title="eckey.h" alt="" coords="923,152,989,177"/>
+</map>

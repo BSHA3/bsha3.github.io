@@ -1,0 +1,4 @@
+<map id="CSHA3::CSHA3" name="CSHA3::CSHA3">
+<area shape="rect" id="node2" href="$class_s_h_a3__256.html#a57b5f29347a733e04fe47d60621f3202" title="Resets the hash ready for a new hashing process. " alt="" coords="171,5,294,31"/>
+<area shape="rect" id="node3" href="$class_keccak_core.html#a5a322eb7e3b5c1eaad127c9c6e6a529b" title="Resets the Keccak sponge function ready for a new session. " alt="" coords="342,5,473,31"/>
+</map>

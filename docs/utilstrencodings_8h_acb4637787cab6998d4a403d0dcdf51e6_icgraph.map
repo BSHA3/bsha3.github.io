@@ -1,0 +1,7 @@
+<map id="ParseInt64" name="ParseInt64">
+<area shape="rect" id="node2" href="$class_c_reg_test_params.html#a52c820fd72a630b0d1599a00b45264c8" title="CRegTestParams::UpdateVersion\lBitsParametersFromArgs" alt="" coords="139,5,360,44"/>
+<area shape="rect" id="node3" href="$class_uni_value.html#a34bd3bc2de335486d2060ff907b317d0" title="UniValue::get_int64" alt="" coords="181,68,318,93"/>
+<area shape="rect" id="node4" href="$rawtransaction_8h.html#aee85a5d91a985f7e1bc1b4a124870ab3" title="Create a transaction from univalue parameters. " alt="" coords="408,68,555,93"/>
+<area shape="rect" id="node5" href="$rawtransaction_8cpp.html#ab96b0b3cf82a8f50975ee74c26c4dbf8" title="createpsbt" alt="" coords="641,43,724,68"/>
+<area shape="rect" id="node6" href="$rpcwallet_8cpp.html#afca55ac7a3c6c274b8b7b3e6eab9cd86" title="walletcreatefundedpsbt" alt="" coords="603,92,762,117"/>
+</map>

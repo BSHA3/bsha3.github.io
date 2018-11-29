@@ -1,0 +1,12 @@
+<map id="CTxMemPool::CalculateDescendants" name="CTxMemPool::CalculateDescendants">
+<area shape="rect" id="node2" href="$class_block_assembler.html#aa40ec5976e37afeadce20559ddee1717" title="Add descendants of given transactions to mapModifiedTx with ancestor state updated assuming given tra..." alt="" coords="299,5,524,44"/>
+<area shape="rect" id="node4" href="$class_c_tx_mem_pool.html#ae6df7d624e9ef0fb35004e09077e39c6" title="For each transaction being removed, update ancestors and any direct children. " alt="" coords="300,120,523,159"/>
+<area shape="rect" id="node6" href="$class_c_tx_mem_pool.html#a1bdc49203ca7654d8508c356bcbca47e" title="CTxMemPool::removeRecursive" alt="" coords="843,79,1056,104"/>
+<area shape="rect" id="node9" href="$class_c_tx_mem_pool.html#a283d0422469c908a881a6484308ee2b6" title="Expire all transaction (and their dependencies) in the mempool older than time. " alt="" coords="876,183,1023,208"/>
+<area shape="rect" id="node10" href="$class_c_tx_mem_pool.html#adb0214b2760eaedf15eb351348bc4f43" title="Remove transactions from the mempool until its dynamic size is &lt;= sizelimit. " alt="" coords="861,232,1037,257"/>
+<area shape="rect" id="node11" href="$class_c_tx_mem_pool.html#a076041ea11b38722d1419c1640bf6ac4" title="Affect CreateNewBlock prioritisation of transactions. " alt="" coords="296,285,527,311"/>
+<area shape="rect" id="node3" href="$class_block_assembler.html#ac88956b3067e44661e837505d1540aa0" title="Add transactions based on feerate including unconfirmed ancestors Increments nPackagesSelected / nDes..." alt="" coords="575,12,795,37"/>
+<area shape="rect" id="node5" href="$class_c_tx_mem_pool.html#a89e7372fff3b27b9969f4f94d1f5cff0" title="Remove a set of transactions from the mempool. " alt="" coords="584,129,785,155"/>
+<area shape="rect" id="node8" href="$class_c_tx_mem_pool.html#af0d277f190f134638cb0aa18e2099094" title="Called when a block is connected. " alt="" coords="1357,104,1564,129"/>
+<area shape="rect" id="node7" href="$class_c_tx_mem_pool.html#a01aa5f8ce16839bfbaacf67f40fe461d" title="CTxMemPool::removeConflicts" alt="" coords="1104,79,1309,104"/>
+</map>

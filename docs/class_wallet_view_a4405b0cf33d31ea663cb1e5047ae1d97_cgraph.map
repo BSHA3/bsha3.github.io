@@ -1,0 +1,6 @@
+<map id="WalletView::setBitcoinGUI" name="WalletView::setBitcoinGUI">
+<area shape="rect" id="node2" href="$class_bitcoin_g_u_i.html#ad3d278358e571a9b70ee99dacaeaa0f5" title="Notify the user of an event from the core network or transaction handling code. " alt="" coords="229,64,375,89"/>
+<area shape="rect" id="node3" href="$class_bitcoin_g_u_i.html#aca9a193e0484c1caf924e76d96800a9f" title="Show window if hidden, unminimize when minimized, rise when obscured or show if hidden and fToggleHid..." alt="" coords="423,29,597,68"/>
+<area shape="rect" id="node4" href="$class_notificator.html#ae08e1e7e85ddc4690f307649021f7fdc" title="Show notification message. " alt="" coords="450,92,571,117"/>
+<area shape="rect" id="node5" href="$class_notificator.html#ac48ec94cd02fc4ea80db6c50e24086c1" title="Notificator::notifySystray" alt="" coords="645,92,810,117"/>
+</map>

@@ -1,0 +1,32 @@
+<map id="AddressTableModel::getAddressData" name="AddressTableModel::getAddressData">
+<area shape="rect" id="node2" href="$class_address_table_model.html#afcdbfc17ac480f5a57382cbcf096ccb3" title="Look up label for address in address book, if not found return empty string. " alt="" coords="199,199,345,237"/>
+<area shape="rect" id="node31" href="$class_address_table_model.html#af91c153d5258a6afae19f8fc7977560d" title="Look up purpose for address in address book, if not found return empty string. " alt="" coords="199,105,345,144"/>
+<area shape="rect" id="node3" href="$class_coin_control_dialog.html#aadea33050e5c1efd5eae8d2fcfa721f9" title="CoinControlDialog::\lupdateView" alt="" coords="424,136,561,175"/>
+<area shape="rect" id="node10" href="$class_edit_address_dialog.html#a2bf04c11b3638604dae3b7aabaefbd29" title="Return a descriptive string when adding an already&#45;existing address fails. " alt="" coords="396,73,589,112"/>
+<area shape="rect" id="node12" href="$class_send_coins_dialog.html#a1f419f2381bce2ae9b4a7bd140f25a4e" title="SendCoinsDialog::coinControl\lChangeEdited" alt="" coords="640,256,839,295"/>
+<area shape="rect" id="node14" href="$class_send_coins_entry.html#a16e0fdd3248cbf32b60fd601dc8d565a" title="SendCoinsEntry::updateLabel" alt="" coords="393,320,592,345"/>
+<area shape="rect" id="node16" href="$class_transaction_table_model.html#af13204a63b9901c0d9aeb9f43f915001" title="TransactionTableModel\l::lookupAddress" alt="" coords="413,372,572,411"/>
+<area shape="rect" id="node30" href="$class_transaction_table_model.html#a4350aca09ceca354956d9a00514c627a" title="TransactionTableModel\l::addressColor" alt="" coords="413,199,572,237"/>
+<area shape="rect" id="node4" href="$class_coin_control_dialog.html#a4c34a48574814089c54f763a22f5317a" title="CoinControlDialog::\lsetModel" alt="" coords="671,68,808,107"/>
+<area shape="rect" id="node7" href="$class_coin_control_dialog.html#a1990d478f3ffba666c358a4f1bd395ec" title="CoinControlDialog::\lradioTreeMode" alt="" coords="671,131,808,169"/>
+<area shape="rect" id="node9" href="$class_coin_control_dialog.html#a775c6d290cb63667a434b09072094533" title="CoinControlDialog::\lradioListMode" alt="" coords="671,193,808,232"/>
+<area shape="rect" id="node5" href="$class_send_coins_dialog.html#a59d757d9e4bea5b380eb480fd79cfb49" title="SendCoinsDialog::coinControl\lButtonClicked" alt="" coords="887,71,1086,109"/>
+<area shape="rect" id="node6" href="$class_send_coins_dialog.html#affacd36b4df87a68e2fe706ef388c0a6" title="SendCoinsDialog::SendCoins\lDialog" alt="" coords="1134,199,1331,237"/>
+<area shape="rect" id="node8" href="$class_coin_control_dialog.html#a3cec3ece6aa5eec3e7829e042356a659" title="CoinControlDialog::\lCoinControlDialog" alt="" coords="918,136,1055,175"/>
+<area shape="rect" id="node11" href="$class_edit_address_dialog.html#ac52b71129806bccf6533d0e9441393b6" title="EditAddressDialog::\laccept" alt="" coords="670,5,808,44"/>
+<area shape="rect" id="node13" href="$class_send_coins_dialog.html#a21224b0dedf14f7a6c05174bff9dea65" title="SendCoinsDialog::coinControl\lChangeChecked" alt="" coords="887,256,1086,295"/>
+<area shape="rect" id="node15" href="$class_send_coins_entry.html#a73088d2789e8ced5de3a0597fb1f30c5" title="SendCoinsEntry::on\l_payTo_textChanged" alt="" coords="665,319,813,357"/>
+<area shape="rect" id="node17" href="$class_transaction_table_model.html#ada92bead83848f3ec231833e5964c27f" title="TransactionTableModel\l::formatTxToAddress" alt="" coords="660,381,818,420"/>
+<area shape="rect" id="node18" href="$class_transaction_table_model.html#a535a0f50a4404a73194e02c3c09e13c0" title="TransactionTableModel\l::formatTooltip" alt="" coords="907,352,1066,391"/>
+<area shape="rect" id="node19" href="$class_transaction_table_model.html#a02173c31b6014bff182e320217e30e10" title="TransactionTableModel\l::data" alt="" coords="1153,380,1312,419"/>
+<area shape="rect" id="node20" href="$class_transaction_table_model.html#af3a9a49314f80268a77a704f7f028905" title="TransactionTableModel\l::index" alt="" coords="1379,380,1538,419"/>
+<area shape="rect" id="node27" href="$class_wallet_view.html#addde7d2260658ee06f47f9c095a8cb2a" title="Show incoming transaction notification for new transactions. " alt="" coords="1586,444,1822,469"/>
+<area shape="rect" id="node21" href="$class_transaction_table_model.html#a5899d9eda6465bfb16d2846b6459567e" title="TransactionTableModel\l::updateConfirmations" alt="" coords="1625,319,1783,357"/>
+<area shape="rect" id="node24" href="$class_transaction_table_model.html#a8b73ff7d72ec2dd69790bc61bbe8575e" title="TransactionTableModel\l::updateDisplayUnit" alt="" coords="1625,381,1783,420"/>
+<area shape="rect" id="node26" href="$class_transaction_view.html#a03be25d0d7808e8f96dffc8fb83e637e" title="TransactionView::focusTransaction" alt="" coords="1590,269,1818,295"/>
+<area shape="rect" id="node22" href="$class_wallet_model.html#a51469b2d95cfd4bc0a14ee456fca7b95" title="WalletModel::pollBalance\lChanged" alt="" coords="1877,319,2048,357"/>
+<area shape="rect" id="node23" href="$class_wallet_model.html#ac0d2832c06b91e9f0aecb2c7d45fce81" title="WalletModel::WalletModel" alt="" coords="2103,325,2277,351"/>
+<area shape="rect" id="node25" href="$class_transaction_table_model.html#addebfd4c35896f17a6a9fec9f40eeeb7" title="TransactionTableModel\l::TransactionTableModel" alt="" coords="1879,381,2045,420"/>
+<area shape="rect" id="node28" href="$class_wallet_view.html#a0a37ff693a4f9c1e5ddc23f9cd3913be" title="Set the wallet model. " alt="" coords="1870,444,2055,469"/>
+<area shape="rect" id="node29" href="$class_wallet_frame.html#a06cb28194836995e50cc46716b2227ff" title="WalletFrame::addWallet" alt="" coords="2109,444,2271,469"/>
+</map>

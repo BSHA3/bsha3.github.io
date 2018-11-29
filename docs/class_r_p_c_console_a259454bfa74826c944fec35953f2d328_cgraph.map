@@ -1,0 +1,9 @@
+<map id="RPCConsole::fontSmaller" name="RPCConsole::fontSmaller">
+<area shape="rect" id="node2" href="$class_r_p_c_console.html#a385a3c3b75604e379ce4ed26b697cb36" title="RPCConsole::setFontSize" alt="" coords="227,44,403,69"/>
+<area shape="rect" id="node3" href="$rpcconsole_8cpp.html#aa2dbbb8d07fa94117835608f55f0318a" title="FONT_RANGE" alt="" coords="462,19,574,44"/>
+<area shape="rect" id="node4" href="$class_r_p_c_console.html#a8ce64bac6c4420afacee4d2ead446649" title="RPCConsole::clear" alt="" coords="451,68,586,93"/>
+<area shape="rect" id="node5" href="$class_platform_style.html#adecebc4670880700203340d322351f89" title="Colorize an image (given filename) with the icon color. " alt="" coords="634,5,810,44"/>
+<area shape="rect" id="node7" href="$namespace_g_u_i_util.html#af6b9624383a5313a5d856c59913b599b" title="GUIUtil::fixedPitchFont" alt="" coords="644,68,800,93"/>
+<area shape="rect" id="node8" href="$class_r_p_c_console.html#a359683e12b88843c61a73ddce72e17cc" title="Append the message to the message widget. " alt="" coords="642,141,802,167"/>
+<area shape="rect" id="node6" href="$class_platform_style.html#a76949291f8dfc8b7a34f90cf119ed8e4" title="PlatformStyle::SingleColor" alt="" coords="858,12,1035,37"/>
+</map>

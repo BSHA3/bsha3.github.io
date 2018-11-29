@@ -1,0 +1,6 @@
+<map id="FONT_RANGE" name="FONT_RANGE">
+<area shape="rect" id="node2" href="$class_r_p_c_console.html#a385a3c3b75604e379ce4ed26b697cb36" title="RPCConsole::setFontSize" alt="" coords="166,31,342,56"/>
+<area shape="rect" id="node3" href="$class_r_p_c_console.html#ad120baf8f0d43b56fca2a8e8d4dda50f" title="RPCConsole::fontBigger" alt="" coords="393,5,560,31"/>
+<area shape="rect" id="node5" href="$class_r_p_c_console.html#a259454bfa74826c944fec35953f2d328" title="RPCConsole::fontSmaller" alt="" coords="390,55,563,80"/>
+<area shape="rect" id="node4" href="$class_r_p_c_console.html#a0f58ae3018a64fb4fd15be25345df9e9" title="RPCConsole::RPCConsole" alt="" coords="611,31,794,56"/>
+</map>

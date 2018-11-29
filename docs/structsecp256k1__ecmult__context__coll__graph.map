@@ -1,0 +1,4 @@
+<map id="secp256k1_ecmult_context" name="secp256k1_ecmult_context">
+<area shape="rect" id="node2" href="$structsecp256k1__ge__storage.html" title="secp256k1_ge_storage" alt="" coords="17,105,177,131"/>
+<area shape="rect" id="node3" href="$structsecp256k1__fe__storage.html" title="secp256k1_fe_storage" alt="" coords="19,5,175,31"/>
+</map>

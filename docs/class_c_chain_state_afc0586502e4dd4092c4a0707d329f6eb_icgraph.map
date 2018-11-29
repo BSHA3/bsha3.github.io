@@ -1,0 +1,3 @@
+<map id="CChainState::RewindBlockIndex" name="CChainState::RewindBlockIndex">
+<area shape="rect" id="node2" href="$validation_8h.html#a2e51de180124822c526ac8f82777fa32" title="When there are blocks in the active chain with missing data, rewind the chainstate and remove them fr..." alt="" coords="235,12,366,37"/>
+</map>

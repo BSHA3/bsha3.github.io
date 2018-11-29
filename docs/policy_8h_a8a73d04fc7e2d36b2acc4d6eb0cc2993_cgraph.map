@@ -1,0 +1,17 @@
+<map id="IsWitnessStandard" name="IsWitnessStandard">
+<area shape="rect" id="node2" href="$class_c_transaction.html#a96256e8ac1bf79ad9c057e48c41132dd" title="CTransaction::IsCoinBase" alt="" coords="204,5,379,31"/>
+<area shape="rect" id="node3" href="$class_c_coins_view_cache.html#afd0144ded5ce891084aabff29141f8b2" title="Return a reference to Coin in the cache, or a pruned one if not found. " alt="" coords="187,55,397,80"/>
+<area shape="rect" id="node6" href="$class_c_script.html#a0c3729c606d318923dc06f95d85a0971" title="CScript::IsPayToScriptHash" alt="" coords="452,91,637,116"/>
+<area shape="rect" id="node9" href="$interpreter_8cpp.html#a139a577767e128d3fd49a7b7afd4d1cb" title="EvalScript" alt="" coords="251,180,332,205"/>
+<area shape="rect" id="node15" href="$class_c_script.html#ae6f2ab1af6361c5772f62b28b19f5eae" title="CScript::IsWitnessProgram" alt="" coords="201,243,382,268"/>
+<area shape="rect" id="node4" href="$class_c_coins_view_cache.html#aad44dd0b312871702e46ddfb449cecba" title="CCoinsViewCache::FetchCoin" alt="" coords="445,41,645,67"/>
+<area shape="rect" id="node5" href="$class_c_coins_view.html#a435080be262889508365787dcc75cf95" title="Retrieve the Coin (unspent transaction output) for a given outpoint. " alt="" coords="693,41,843,67"/>
+<area shape="rect" id="node7" href="$classprevector.html#a626f7d206dbc24e5610631809762758b" title="prevector::size" alt="" coords="714,168,822,193"/>
+<area shape="rect" id="node8" href="$classprevector.html#a933e204a7e29c6bbc85479d023c00ff8" title="prevector::is_direct" alt="" coords="899,168,1033,193"/>
+<area shape="rect" id="node10" href="$classprevector.html#aa9210cbe708412a70868d6e0bca844c9" title="prevector::begin" alt="" coords="486,293,603,319"/>
+<area shape="rect" id="node14" href="$classprevector.html#aab7f6e13a3cac85cc340fc6b90c5365c" title="prevector::end" alt="" coords="492,192,598,217"/>
+<area shape="rect" id="node11" href="$classprevector.html#a59f1d7bcbc751cfa0faddd7ffa184846" title="prevector::item_ptr" alt="" coords="702,217,834,243"/>
+<area shape="rect" id="node12" href="$classprevector.html#a20150a43dd87c33f0e855a55bd3418e8" title="prevector::direct_ptr" alt="" coords="896,267,1036,292"/>
+<area shape="rect" id="node13" href="$classprevector.html#ae3343cc65be9fd678b4a6f8305624de6" title="prevector::indirect_ptr" alt="" coords="891,217,1041,243"/>
+<area shape="rect" id="node16" href="$class_c_script.html#a7f975fca06b3e9a17da8ba23c7647e2e" title="Encode/decode small integers: " alt="" coords="467,343,622,368"/>
+</map>

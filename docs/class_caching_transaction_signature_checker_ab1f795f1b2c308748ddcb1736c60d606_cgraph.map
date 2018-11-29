@@ -1,0 +1,8 @@
+<map id="CachingTransactionSignatureChecker::VerifySignature" name="CachingTransactionSignatureChecker::VerifySignature">
+<area shape="rect" id="node2" href="$class_generic_transaction_signature_checker.html#adcdb4b9bf20fcc77cb23d7f6e03daee6" title="GenericTransactionSignature\lChecker::VerifySignature" alt="" coords="250,49,444,88"/>
+<area shape="rect" id="node3" href="$class_c_pub_key.html#a5b3fef213b227394ca9d0a1e3baa957e" title="Verify a DER signature (~72 bytes). " alt="" coords="492,56,611,81"/>
+<area shape="rect" id="node4" href="$class_c_pub_key.html#a4fa94293cf8577fd039b9a133f6c7f30" title="CPubKey::IsValid" alt="" coords="675,5,799,31"/>
+<area shape="rect" id="node5" href="$class_c_pub_key.html#a6bb28fcf0a5f799c69f5b7269363b309" title="Simple read&#45;only vector&#45;like interface to the pubkey data. " alt="" coords="864,31,973,56"/>
+<area shape="rect" id="node7" href="$secp256k1_8h.html#a4e5dc8952c9a7e791376505ef2023ca1" title="Parse a variable&#45;length public key into the pubkey object. " alt="" coords="659,107,816,145"/>
+<area shape="rect" id="node6" href="$class_c_pub_key.html#a7dc71b3f037c84268dc22de97d7b65fb" title="Compute the length of a pubkey with a given first byte. " alt="" coords="1021,31,1150,56"/>
+</map>

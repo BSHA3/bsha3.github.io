@@ -1,0 +1,51 @@
+<map id="BitcoinGUI::BitcoinGUI" name="BitcoinGUI::BitcoinGUI">
+<area shape="rect" id="node2" href="$class_wallet_model.html#af6b4f24cc4b4cf1633cf63754b4647c3" title="WalletModel::isWalletEnabled" alt="" coords="214,35,411,60"/>
+<area shape="rect" id="node6" href="$class_network_style.html#a12eab0110656b06afe8ef5dc4cf1f810" title="NetworkStyle::getTitleAddText" alt="" coords="473,83,672,108"/>
+<area shape="rect" id="node7" href="$class_network_style.html#af5283ee841d921ddca3e54667828cb7a" title="NetworkStyle::getTrayAnd\lWindowIcon" alt="" coords="484,132,660,171"/>
+<area shape="rect" id="node8" href="$class_mac_dock_icon_handler.html#afd3ef7126d0b6ef02eaf85e5455fe6f4" title="MacDockIconHandler\l::instance" alt="" coords="238,243,387,281"/>
+<area shape="rect" id="node9" href="$class_mac_dock_icon_handler.html#a537f8eb3c9752089e3e2e0e30011a65b" title="MacDockIconHandler\l::setIcon" alt="" coords="238,305,387,344"/>
+<area shape="rect" id="node10" href="$class_network_style.html#ad91c8a6d8f33741cdbe0ebbd716a36bb" title="NetworkStyle::getAppIcon" alt="" coords="225,368,400,393"/>
+<area shape="rect" id="node11" href="$class_bitcoin_g_u_i.html#a7340679e1356b1bb3cfaeb64a3e93218" title="Create the main UI actions. " alt="" coords="226,471,399,496"/>
+<area shape="rect" id="node19" href="$class_bitcoin_g_u_i.html#a203d9003ab4de369e35599aaaae6f17a" title="Open the OptionsDialog on the specified tab index. " alt="" coords="744,211,950,249"/>
+<area shape="rect" id="node39" href="$class_bitcoin_g_u_i.html#ad2b1493b0020942a205874cd6ba92aa3" title="Create the menu bar and sub&#45;menus. " alt="" coords="221,520,404,545"/>
+<area shape="rect" id="node41" href="$class_bitcoin_g_u_i.html#a8fbec6fcade955033be921ff2c236f72" title="Create the toolbars. " alt="" coords="222,569,403,595"/>
+<area shape="rect" id="node42" href="$class_bitcoin_g_u_i.html#a0e3abd85dddb97ddb05b03f5f74dbae3" title="Create system tray icon and notification. " alt="" coords="222,139,403,164"/>
+<area shape="rect" id="node43" href="$class_bitcoin_g_u_i.html#aa0a8982fc9bc4ae45f4a1e5320528335" title="Enable or disable all wallet&#45;related actions. " alt="" coords="217,619,408,657"/>
+<area shape="rect" id="node44" href="$class_bitcoin_g_u_i.html#a8e5e53a469d5a8f4d87a1b9dfdd9d296" title="Connect core signals to GUI client. " alt="" coords="216,681,409,720"/>
+<area shape="rect" id="node46" href="$classinterfaces_1_1_node.html#a2598bfc315aab09e2523a953107b2aec" title="Set network active. " alt="" coords="216,744,409,783"/>
+<area shape="rect" id="node47" href="$classinterfaces_1_1_node.html#a7dad5e394f6afbacdcacd02640f3762c" title="Get network active. " alt="" coords="216,807,409,845"/>
+<area shape="rect" id="node48" href="$class_bitcoin_g_u_i.html#af5d948da1312b28fcf6dcfb89f34ba85" title="BitcoinGUI::showModalOverlay" alt="" coords="210,1107,415,1132"/>
+<area shape="rect" id="node3" href="$class_args_manager.html#af81c6e2a9dcd6b12557a2387fd67b2a6" title="Return boolean argument or default value. " alt="" coords="484,33,661,59"/>
+<area shape="rect" id="node4" href="$class_args_manager.html#a113a1b8c5471d2fff0108058be8b86af" title="Return true if the argument was originally passed as a negated option, i.e. " alt="" coords="752,5,942,31"/>
+<area shape="rect" id="node5" href="$class_args_manager_helper.html#aa4f8f77dc468b29cffe50513c78a87cd" title="ArgsManagerHelper::\lGetArg" alt="" coords="773,55,921,93"/>
+<area shape="rect" id="node12" href="$class_platform_style.html#a3f4ff8b7a2054cbd4283e67208523035" title="Colorize an icon (given filename) with the icon color. " alt="" coords="471,619,673,644"/>
+<area shape="rect" id="node14" href="$class_platform_style.html#ac3c91893b60a84a98155b7b9603918bd" title="Colorize an icon (given filename) with the text color. " alt="" coords="478,668,667,693"/>
+<area shape="rect" id="node16" href="$class_bitcoin_g_u_i.html#aca9a193e0484c1caf924e76d96800a9f" title="Show window if hidden, unminimize when minimized, rise when obscured or show if hidden and fToggleHid..." alt="" coords="760,821,934,860"/>
+<area shape="rect" id="node17" href="$class_bitcoin_g_u_i.html#a684a65883555153c40ccff323adc22e9" title="Show about dialog. " alt="" coords="488,569,657,595"/>
+<area shape="rect" id="node18" href="$class_bitcoin_g_u_i.html#a366dfb05459cb49fec8adb7f97bf2ad7" title="Show configuration dialog. " alt="" coords="483,247,662,272"/>
+<area shape="rect" id="node23" href="$class_bitcoin_g_u_i.html#a6ca9ded69ab510195ff04fe7f5754ff5" title="Simply calls showNormalIfMinimized(true) for use in SLOT() macro. " alt="" coords="487,780,658,805"/>
+<area shape="rect" id="node24" href="$class_bitcoin_g_u_i.html#ad6fbd364904e1468e77f09265f7a287b" title="Show help message dialog. " alt="" coords="470,717,675,756"/>
+<area shape="rect" id="node25" href="$class_bitcoin_g_u_i.html#a74409c12921d2a420809890827863546" title="Show debug window. " alt="" coords="742,885,952,911"/>
+<area shape="rect" id="node26" href="$class_wallet_frame.html#a8a9a419ba3e249f29fe321f2d789b761" title="Encrypt the wallet. " alt="" coords="480,520,664,545"/>
+<area shape="rect" id="node29" href="$class_wallet_frame.html#a76aa3543635fedea052661a4cd44b81d" title="Backup the wallet. " alt="" coords="481,471,664,496"/>
+<area shape="rect" id="node31" href="$class_wallet_frame.html#a0a4026a734acdc0f5fbd5f775c167443" title="Change encrypted wallet passphrase. " alt="" coords="463,296,681,321"/>
+<area shape="rect" id="node33" href="$class_wallet_frame.html#a7f697d220e7ea40d6e4d6e6c5e9ef3b4" title="Show used sending addresses. " alt="" coords="482,345,663,384"/>
+<area shape="rect" id="node35" href="$class_wallet_frame.html#a9273a0b98cf7ec9fc344658c38a4a0a3" title="Show used receiving addresses. " alt="" coords="477,408,668,447"/>
+<area shape="rect" id="node37" href="$class_bitcoin_g_u_i.html#a84773756d85102e6bd01dfdaec8601a2" title="Show debug window and set focus to the console. " alt="" coords="467,932,678,971"/>
+<area shape="rect" id="node13" href="$class_platform_style.html#a76949291f8dfc8b7a34f90cf119ed8e4" title="PlatformStyle::SingleColor" alt="" coords="758,619,935,644"/>
+<area shape="rect" id="node15" href="$class_platform_style.html#ad9c6683d8af86105edcb53970b689afb" title="PlatformStyle::TextColor" alt="" coords="765,668,929,693"/>
+<area shape="rect" id="node20" href="$class_client_model.html#ae8da1e2eabfbbcc49a7eed821908bdb6" title="ClientModel::getOptionsModel" alt="" coords="1012,168,1212,193"/>
+<area shape="rect" id="node21" href="$class_options_dialog.html#a29e0d6044e8d6ec6de789eb77b06e1bc" title="OptionsDialog::setCurrentTab" alt="" coords="1014,217,1210,243"/>
+<area shape="rect" id="node22" href="$class_options_dialog.html#a11e902a52cb7472497d14e70cd9399d9" title="OptionsDialog::setModel" alt="" coords="1029,267,1195,292"/>
+<area shape="rect" id="node27" href="$class_wallet_frame.html#a026798332d142b693e4f1820185d3f1c" title="WalletFrame::currentWalletView" alt="" coords="741,447,952,472"/>
+<area shape="rect" id="node28" href="$class_wallet_view.html#a164c3de8fc69ef6f39fb7c15e4bda553" title="Encrypt the wallet. " alt="" coords="760,545,934,571"/>
+<area shape="rect" id="node30" href="$class_wallet_view.html#a9800d793b552076b4207276d9e08c8b6" title="Backup the wallet. " alt="" coords="760,496,934,521"/>
+<area shape="rect" id="node32" href="$class_wallet_view.html#a36699c31e256becb2afd92f834830ba0" title="Change encrypted wallet passphrase. " alt="" coords="743,285,951,311"/>
+<area shape="rect" id="node34" href="$class_wallet_view.html#a6f0d012c18ea2df7336c852abe2a50d0" title="Show used sending addresses. " alt="" coords="729,335,964,360"/>
+<area shape="rect" id="node36" href="$class_wallet_view.html#accb5d9e2789c62e03ad1723518d31c02" title="Show used receiving addresses. " alt="" coords="756,384,937,423"/>
+<area shape="rect" id="node38" href="$class_r_p_c_console.html#ae786f91271c0310f900bd208cc39b197" title="set which tab has the focus (is visible) " alt="" coords="756,939,937,964"/>
+<area shape="rect" id="node40" href="$server_8cpp.html#ac2592c3f87216377b10947aa07a0c9c5" title="help" alt="" coords="549,995,596,1020"/>
+<area shape="rect" id="node45" href="$classinterfaces_1_1_node.html#a8c3c77921882f4bf8c21997bc5570f92" title="interfaces::Node::handle\lMessageBox" alt="" coords="489,1044,655,1083"/>
+<area shape="rect" id="node49" href="$class_modal_overlay.html#a98ae2c2df14fa371e5f444099f6ad75e" title="ModalOverlay::isLayerVisible" alt="" coords="476,1107,669,1132"/>
+<area shape="rect" id="node50" href="$class_modal_overlay.html#a417f7a13143484ec7813f23a81691a0c" title="ModalOverlay::toggleVisibility" alt="" coords="475,1156,670,1181"/>
+</map>

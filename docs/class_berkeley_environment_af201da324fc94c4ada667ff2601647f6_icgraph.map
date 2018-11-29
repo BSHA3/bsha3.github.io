@@ -1,0 +1,5 @@
+<map id="BerkeleyEnvironment::CloseDb" name="BerkeleyEnvironment::CloseDb">
+<area shape="rect" id="node2" href="$class_berkeley_batch.html#aeb31fe645f69bfacde35a777fef11f3e" title="BerkeleyBatch::Rewrite" alt="" coords="213,5,372,31"/>
+<area shape="rect" id="node4" href="$class_berkeley_database.html#a1ed1a615fe31ee72e30087a0707b4461" title="Back up the entire database to a file. " alt="" coords="201,55,384,80"/>
+<area shape="rect" id="node3" href="$class_berkeley_database.html#a02181a0f0943c68156d94ce658989849" title="Rewrite the entire database on disk, with the exception of key pszSkip if non&#45;zero. " alt="" coords="432,5,614,31"/>
+</map>

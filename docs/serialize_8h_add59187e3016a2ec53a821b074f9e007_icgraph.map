@@ -1,0 +1,6 @@
+<map id="UnserializeMany" name="UnserializeMany">
+<area shape="rect" id="node2" href="$sign_8h.html#ac9ca331576a7c3bde85de7b69b341f3d" title="UnserializeFromVector" alt="" coords="191,5,347,31"/>
+<area shape="rect" id="node3" href="$serialize_8h.html#af3a720670b8759198b44bc78d5d03a54" title="UnserializeMany" alt="" coords="209,55,329,80"/>
+<area shape="rect" id="node4" href="$serialize_8h.html#ab165ccca6acbf9d607875fff7e4392fa" title="SerReadWriteMany" alt="" coords="200,104,338,129"/>
+<area shape="rect" id="node5" href="$class_vector_reader.html#a6b8090a500805c44fbc93806b086c529" title="VectorReader::VectorReader" alt="" coords="173,153,365,179"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="CAddrMan::SwapRandom" name="CAddrMan::SwapRandom">
+<area shape="rect" id="node2" href="$class_c_addr_man.html#a08884f44404e8fee6975258c8133f7dd" title="Delete an entry. It must not be in tried, and have refcount 0. " alt="" coords="239,69,370,95"/>
+<area shape="rect" id="node9" href="$class_c_addr_man.html#ac0175a2ff32d2c1f459b95039b344e2a" title="Select several addresses at once. " alt="" coords="230,131,379,156"/>
+<area shape="rect" id="node3" href="$class_c_addr_man.html#a77eaffae17e5d2d253fcec22d4d19779" title="Clear a position in a &quot;new&quot; table. This is the only place where entries are actually deleted..." alt="" coords="431,5,582,31"/>
+<area shape="rect" id="node5" href="$class_c_addr_man.html#a0f280b5874a6507b463cae6075063ec2" title="Add an entry to the &quot;new&quot; table. " alt="" coords="662,56,786,81"/>
+<area shape="rect" id="node8" href="$class_c_addr_man.html#a94c76a39ab311deb9e7b810e01b664ce" title="CAddrMan::Unserialize" alt="" coords="427,107,586,132"/>
+<area shape="rect" id="node4" href="$class_c_addr_man.html#af7a45c248782cf74daced27458da236b" title="Move an entry from the &quot;new&quot; table(s) to the &quot;tried&quot; table. " alt="" coords="646,5,801,31"/>
+<area shape="rect" id="node6" href="$class_c_addr_man.html#a03fcc7109b5f014760dc50a81f68c5ec" title="Add a single address. " alt="" coords="862,56,978,81"/>
+<area shape="rect" id="node7" href="$class_c_connman.html#a47d9024273a8c421fa7de641c30e9081" title="CConnman::AddNewAddresses" alt="" coords="1026,56,1236,81"/>
+<area shape="rect" id="node10" href="$class_c_addr_man.html#a69cc6138e696cf88de60925d26023bf2" title="Return a bunch of addresses, selected at random. " alt="" coords="435,156,577,181"/>
+<area shape="rect" id="node11" href="$class_c_connman.html#a4ba34cd3557ab0ba1cfcbe7c18bf1199" title="CConnman::GetAddresses" alt="" coords="634,156,814,181"/>
+</map>

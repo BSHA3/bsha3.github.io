@@ -1,0 +1,7 @@
+<map id="CTxMemPool::UpdateTransactionsFromBlock" name="CTxMemPool::UpdateTransactionsFromBlock">
+<area shape="rect" id="node2" href="$reverse__iterator_8h.html#a5c42501cbdd92bec9f5a7886c4e9cfd5" title="reverse_iterate" alt="" coords="352,5,462,31"/>
+<area shape="rect" id="node3" href="$class_c_tx_mem_pool.html#a93ee11ea2adc6021d5bf0842516222b4" title="CTxMemPool::UpdateChild" alt="" coords="315,55,498,80"/>
+<area shape="rect" id="node4" href="$class_c_tx_mem_pool.html#ae6cc140209f782be93c522048595b797" title="CTxMemPool::UpdateParent" alt="" coords="311,104,503,129"/>
+<area shape="rect" id="node5" href="$class_c_tx_mem_pool.html#ac0d93176adaf88b89f46a3ed1796cc25" title="UpdateForDescendants is used by UpdateTransactionsFromBlock to update the descendants for a single tr..." alt="" coords="282,153,532,179"/>
+<area shape="rect" id="node6" href="$class_c_tx_mem_pool.html#a33448b87844f4e6091a394a6fdc4ebb0" title="CTxMemPool::GetMemPoolChildren" alt="" coords="580,153,817,179"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="RPCTypeCheck" name="RPCTypeCheck">
+<area shape="rect" id="node2" href="$blockchain_8cpp.html#af8ae2be64c52204527fac00aefc1151c" title="scantxoutset" alt="" coords="217,5,313,31"/>
+<area shape="rect" id="node3" href="$rawtransaction_8cpp.html#a0e9b5930a41831d5be26d74565f07340" title="decodepsbt" alt="" coords="220,55,310,80"/>
+<area shape="rect" id="node4" href="$rawtransaction_8cpp.html#a220a68cf9c7fa672caf17951c5d280bd" title="combinepsbt" alt="" coords="216,104,313,129"/>
+<area shape="rect" id="node5" href="$rawtransaction_8cpp.html#a5edaef38949646889470912893a56b88" title="finalizepsbt" alt="" coords="221,153,309,179"/>
+<area shape="rect" id="node6" href="$rawtransaction_8cpp.html#ab96b0b3cf82a8f50975ee74c26c4dbf8" title="createpsbt" alt="" coords="223,203,306,228"/>
+<area shape="rect" id="node7" href="$rawtransaction_8cpp.html#a6b6a0c0d5bd5b55553ea48b3da2e796c" title="converttopsbt" alt="" coords="214,252,315,277"/>
+<area shape="rect" id="node8" href="$wallet__tests_8cpp.html#af0e3c9469f1d8f368d3d5f38e5580367" title="importmulti" alt="" coords="221,301,308,327"/>
+<area shape="rect" id="node9" href="$rpcwallet_8h.html#a7c13054932c9e3b351bd6277fa9361d7" title="signrawtransactionwithwallet" alt="" coords="170,351,360,376"/>
+<area shape="rect" id="node10" href="$rpcwallet_8cpp.html#a9c99ceacf389a1ce91977c6f7ffa5022" title="walletprocesspsbt" alt="" coords="201,400,328,425"/>
+<area shape="rect" id="node11" href="$rpcwallet_8cpp.html#afca55ac7a3c6c274b8b7b3e6eab9cd86" title="walletcreatefundedpsbt" alt="" coords="185,449,344,475"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="error" name="error">
+<area shape="rect" id="node2" href="$class_c_script_check.html#a69fbde608ff29c1885b8b9caf0fd40a0" title="CScriptCheck::swap" alt="" coords="136,255,277,280"/>
+<area shape="rect" id="node3" href="$class_c_script_check.html#a1340496c37e521c253606b5957173afd" title="CScriptCheck::GetScriptError" alt="" coords="109,304,304,329"/>
+<area shape="rect" id="node4" href="$class_base_index.html#aec33bcb4ab5a0b0de416b4f3c4a1774b" title="Write the current chain block locator to the DB. " alt="" coords="116,353,297,379"/>
+<area shape="rect" id="node6" href="$class_tx_index_1_1_d_b.html#a7eeb3325ee83f6fe2736278a7952ba5c" title="Migrate txindex data from the block tree DB, where it may be for older nodes that have not been upgra..." alt="" coords="119,403,294,428"/>
+<area shape="rect" id="node7" href="$class_c_node.html#a331888bc15bb49775451d951735e4b6a" title="May not be called more than once. " alt="" coords="131,452,282,477"/>
+<area shape="rect" id="node8" href="$class_c_node.html#a0a55cea2748b1837610b2caed8069a90" title="CNode::SetSendVersion" alt="" coords="124,501,289,527"/>
+<area shape="rect" id="node9" href="$class_c_node.html#a253ceac237f69cc1155bfb71acd0c48f" title="CNode::GetSendVersion" alt="" coords="123,551,290,576"/>
+<area shape="rect" id="node12" href="$rpc_2protocol_8h.html#ac3b7dd20357d54461794da1213448ed8" title="JSONRPCReplyObj" alt="" coords="137,600,276,625"/>
+<area shape="rect" id="node14" href="$rpc_2protocol_8h.html#a2fdb4c40b8481244f300c15abe90c6bd" title="JSONRPCReply" alt="" coords="393,243,512,268"/>
+<area shape="rect" id="node15" href="$rpc_2protocol_8h.html#a40b75d3d265c4a2e1d5fe3e129743884" title="JSONRPCError" alt="" coords="149,803,264,828"/>
+<area shape="rect" id="node22" href="$rawtransaction_8cpp.html#a0e9b5930a41831d5be26d74565f07340" title="decodepsbt" alt="" coords="407,341,498,367"/>
+<area shape="rect" id="node23" href="$rawtransaction_8cpp.html#a220a68cf9c7fa672caf17951c5d280bd" title="combinepsbt" alt="" coords="404,1183,501,1208"/>
+<area shape="rect" id="node24" href="$rawtransaction_8cpp.html#a5edaef38949646889470912893a56b88" title="finalizepsbt" alt="" coords="409,1232,497,1257"/>
+<area shape="rect" id="node36" href="$rpcwallet_8cpp.html#a9c99ceacf389a1ce91977c6f7ffa5022" title="walletprocesspsbt" alt="" coords="389,1281,516,1307"/>
+<area shape="rect" id="node37" href="$class_payment_request_plus.html#a3d13d13cf6a552695971cc257a33ca81" title="PaymentRequestPlus\l::getMerchant" alt="" coords="132,1005,281,1044"/>
+<area shape="rect" id="node38" href="$class_args_manager.html#aec848fd54ace0df3df48dac446feb7d2" title="ArgsManager::ReadConfigFiles" alt="" coords="103,1068,310,1093"/>
+<area shape="rect" id="node39" href="$validation_8h.html#a666c20fae7b9d75f2d9f4fedd059995a" title="Check if transaction will be BIP 68 final in the next block to be created. " alt="" coords="129,1117,283,1143"/>
+<area shape="rect" id="node40" href="$validation_8h.html#aee79e45a0b167f9b312f83a23880cfbc" title="ReadBlockFromDisk" alt="" coords="135,1167,278,1192"/>
+<area shape="rect" id="node41" href="$class_c_script_check.html#a108d4c713338308be3867ed4e65b80c5" title="CScriptCheck::operator()" alt="" coords="122,1216,291,1241"/>
+<area shape="rect" id="node42" href="$class_c_chain_state.html#a84c2802e12d40109c2189bfa8a5e0e8f" title="Undo the effects of this block (with given index) on the UTXO set represented by coins. " alt="" coords="105,1368,308,1393"/>
+<area shape="rect" id="node43" href="$class_c_chain_state.html#a57682556dc35715fba5f0c6075efcc6e" title="Disconnect chainActive&#39;s tip. " alt="" coords="358,1383,547,1408"/>
+<area shape="rect" id="node44" href="$class_c_chain_state.html#afc0586502e4dd4092c4a0707d329f6eb" title="CChainState::RewindBlock\lIndex" alt="" coords="595,1351,776,1389"/>
+<area shape="rect" id="node45" href="$class_c_chain_state.html#a06a01f2d89b7a40b5341083aa522a1e2" title="Apply the effects of this block (with given index) on the UTXO set represented by coins..." alt="" coords="113,1417,300,1443"/>
+<area shape="rect" id="node46" href="$class_c_chain_state.html#ab70c11d94a3f6e5cae415521437ef627" title="If a block header hasn&#39;t already been seen, call CheckBlockHeader on it, ensure that it doesn&#39;t desce..." alt="" coords="118,1467,295,1505"/>
+<area shape="rect" id="node47" href="$validation_8h.html#a32c6dfc4ade001f117ac3fac3da9d123" title="Process an incoming block. " alt="" coords="142,701,271,727"/>
+<area shape="rect" id="node48" href="$class_c_chain_state.html#ac231f6529bc41aea7917d0716d0c9d1a" title="Apply the effects of a block on the utxo cache, ignoring that it may already have been applied..." alt="" coords="121,1529,292,1568"/>
+<area shape="rect" id="node49" href="$class_c_chain_state.html#a219bb793d4d3b0a095ccc47c45bc5b83" title="CChainState::ReplayBlocks" alt="" coords="114,1592,299,1617"/>
+<area shape="rect" id="node50" href="$class_list_coins_testing_setup.html#a8ce37c5d8d073c901b91153f83c47ee8" title="ListCoinsTestingSetup\l::AddTx" alt="" coords="130,1641,283,1680"/>
+<area shape="rect" id="node5" href="$class_base_index.html#a96a7407421fbf877509248bbe64f8d87" title="Sync the index with the block index starting from the current best block. " alt="" coords="371,5,534,31"/>
+<area shape="rect" id="node10" href="$class_peer_logic_validation.html#af87f0e0b6f4103d1c6cb35c575769ae2" title="Consider evicting an outbound peer based on the amount of time they&#39;ve been behind our tip..." alt="" coords="383,55,522,93"/>
+<area shape="rect" id="node11" href="$class_peer_logic_validation.html#a36a284fceddbba112ed000475e52a4e3" title="Send queued protocol messages to be sent to a give node. " alt="" coords="383,117,522,156"/>
+<area shape="rect" id="node13" href="$class_getinfo_request_handler.html#abc5063d93d13b72549c56082aaf607a5" title="Collect values from the batch and form a simulated getinfo reply. " alt="" coords="372,180,533,219"/>
+<area shape="rect" id="node16" href="$mining_8h.html#aeae629d66e8abfac91fb0b43f5f1962e" title="Check bounds on a command line confirm target. " alt="" coords="383,588,523,613"/>
+<area shape="rect" id="node17" href="$mining_8h.html#a4910d289954727eb7c4c24a6b3c50c55" title="Generate blocks (mine) " alt="" coords="396,292,509,317"/>
+<area shape="rect" id="node18" href="$mining_8cpp.html#a10cdffdab4c77633047f774c424a3713" title="setgenerate" alt="" coords="407,637,498,663"/>
+<area shape="rect" id="node19" href="$rawtransaction_8h.html#aee85a5d91a985f7e1bc1b4a124870ab3" title="Create a transaction from univalue parameters. " alt="" coords="379,687,526,712"/>
+<area shape="rect" id="node20" href="$rawtransaction_8h.html#a69f132a19b8e91bd9b0b1330b5323f0a" title="Sign a transaction with the given keystore and previous transactions. " alt="" coords="627,763,744,788"/>
+<area shape="rect" id="node21" href="$rawtransaction_8cpp.html#a5b2abfea4548c97e780cfae39f9ac11b" title="signrawtransaction" alt="" coords="386,837,519,863"/>
+<area shape="rect" id="node25" href="$rawtransaction_8cpp.html#a6b6a0c0d5bd5b55553ea48b3da2e796c" title="converttopsbt" alt="" coords="402,887,503,912"/>
+<area shape="rect" id="node26" href="$server_8h.html#a34ca526f05cc7f2281e634a5be48c121" title="Type&#45;check one argument; throws JSONRPCError if wrong type given. " alt="" coords="366,936,540,961"/>
+<area shape="rect" id="node27" href="$server_8h.html#ab6e621702aaefd12b164609463e81150" title="RPCTypeCheckObj" alt="" coords="384,788,521,813"/>
+<area shape="rect" id="node28" href="$server_8h.html#abee2131e97f3e3d0ab3bdc47916e29f4" title="AmountFromValue" alt="" coords="387,985,518,1011"/>
+<area shape="rect" id="node29" href="$server_8h.html#adb231eaeb57d26011655ee8aaa5315e2" title="Utilities: convert hex&#45;encoded Values (throws error if not hex). " alt="" coords="404,1035,501,1060"/>
+<area shape="rect" id="node30" href="$server_8h.html#a250d292e8ce3793abe154667a8297d08" title="ParseHexV" alt="" coords="408,1084,497,1109"/>
+<area shape="rect" id="node31" href="$class_j_s_o_n_r_p_c_request.html#a9ef1fae13a78674369efe21a5861426e" title="JSONRPCRequest::parse" alt="" coords="365,1133,540,1159"/>
+<area shape="rect" id="node32" href="$rpc_2util_8h.html#ac18ea86a874bf7841b716eca2b467746" title="HexToPubKey" alt="" coords="400,391,505,416"/>
+<area shape="rect" id="node33" href="$rpc_2util_8h.html#ad97eb14e556166df34392ec8eb8d3167" title="AddrToPubKey" alt="" coords="397,440,508,465"/>
+<area shape="rect" id="node34" href="$rpc_2util_8h.html#a804d6824bed98b30dc92d53b40d776c9" title="CreateMultisigRedeemscript" alt="" coords="358,489,547,515"/>
+<area shape="rect" id="node35" href="$rpcwallet_8cpp.html#a2f46e2bb304dda9a197b5a68db6106f7" title="importprivkey" alt="" coords="402,539,503,564"/>
+</map>

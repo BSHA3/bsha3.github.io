@@ -1,0 +1,5 @@
+<map id="WalletFrame::requestedSyncWarningInfo" name="WalletFrame::requestedSyncWarningInfo">
+<area shape="rect" id="node2" href="$class_bitcoin_g_u_i.html#a58564e8398e33db7beca224c0f71c2b6" title="BitcoinGUI::BitcoinGUI" alt="" coords="276,5,432,31"/>
+<area shape="rect" id="node3" href="$class_wallet_frame.html#a9b846a7ce32f1bca329a0ef634c73524" title="Pass on signal over requested out&#45;of&#45;sync&#45;warning information. " alt="" coords="246,55,461,93"/>
+<area shape="rect" id="node4" href="$class_wallet_frame.html#a06cb28194836995e50cc46716b2227ff" title="WalletFrame::addWallet" alt="" coords="509,61,672,87"/>
+</map>

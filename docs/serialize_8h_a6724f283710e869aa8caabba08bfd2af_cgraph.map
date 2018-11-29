@@ -1,0 +1,14 @@
+<map id="Serialize_impl" name="Serialize_impl">
+<area shape="rect" id="node2" href="$serialize_8h.html#aff862d80e345fc18ed8a3e0b3a0ce528" title="WriteCompactSize" alt="" coords="158,29,289,55"/>
+<area shape="rect" id="node5" href="$classprevector.html#a626f7d206dbc24e5610631809762758b" title="prevector::size" alt="" coords="364,105,472,131"/>
+<area shape="rect" id="node7" href="$classprevector.html#aa9210cbe708412a70868d6e0bca844c9" title="prevector::begin" alt="" coords="165,180,282,205"/>
+<area shape="rect" id="node11" href="$classprevector.html#aab7f6e13a3cac85cc340fc6b90c5365c" title="prevector::end" alt="" coords="170,131,277,156"/>
+<area shape="rect" id="node12" href="$serialize_8h.html#a4d807cadf9c9de8c09c7f87412daf808" title="Serialize" alt="" coords="187,229,260,255"/>
+<area shape="rect" id="node3" href="$class_c_size_computer.html#a8f51357462d7960b27155d4f58558177" title="Pretend _nSize bytes are written, without specifying them. " alt="" coords="343,5,494,31"/>
+<area shape="rect" id="node4" href="$serialize_8h.html#a404beecbf8d7aec8d2cdac3cbb71e808" title="Compact Size size &lt; 253 – 1 byte size &lt;= USHRT_MAX – 3 bytes (253 + 2 bytes) size &lt;= UINT_MAX – 5 ..." alt="" coords="337,55,499,80"/>
+<area shape="rect" id="node6" href="$classprevector.html#a933e204a7e29c6bbc85479d023c00ff8" title="prevector::is_direct" alt="" coords="555,105,689,131"/>
+<area shape="rect" id="node8" href="$classprevector.html#a59f1d7bcbc751cfa0faddd7ffa184846" title="prevector::item_ptr" alt="" coords="352,155,484,180"/>
+<area shape="rect" id="node9" href="$classprevector.html#a20150a43dd87c33f0e855a55bd3418e8" title="prevector::direct_ptr" alt="" coords="552,155,692,180"/>
+<area shape="rect" id="node10" href="$classprevector.html#ae3343cc65be9fd678b4a6f8305624de6" title="prevector::indirect_ptr" alt="" coords="547,204,698,229"/>
+<area shape="rect" id="node13" href="$serialize_8h.html#ab121fe5d3f3371e3c57b45235a8d7802" title="ser_writedata8" alt="" coords="364,229,473,255"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="KeccakCore::setCapacity" name="KeccakCore::setCapacity">
+<area shape="rect" id="node2" href="$class_keccak_core.html#a9a5536728c084ebb46c7d95789d05311" title="Returns the capacity of the sponge function in bits. " alt="" coords="224,5,375,31"/>
+<area shape="rect" id="node3" href="$class_keccak_core.html#a5a322eb7e3b5c1eaad127c9c6e6a529b" title="Resets the Keccak sponge function ready for a new session. " alt="" coords="234,55,365,80"/>
+</map>

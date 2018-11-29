@@ -1,0 +1,14 @@
+<map id="WalletBatch::ReadPool" name="WalletBatch::ReadPool">
+<area shape="rect" id="node2" href="$group___actions.html#gaa869ffae7560168064463f3157633a8b" title="Reserves a key from the keypool and sets nIndex to its index. " alt="" coords="211,51,440,76"/>
+<area shape="rect" id="node5" href="$group___actions.html#ga23a900513e363e8e79d604cab9a7c7fc" title="Marks all keys in the keypool up to and including reserve_key as used. " alt="" coords="234,100,417,139"/>
+<area shape="rect" id="node13" href="$class_c_wallet.html#ab4275cb774fcd80a7b89ed7f63293962" title="CWallet::MarkPreSplitKeys" alt="" coords="235,163,416,188"/>
+<area shape="rect" id="node3" href="$group___actions.html#gac452f46eafeb2b4adfe86f7208048032" title="CWallet::GetKeyFromPool" alt="" coords="513,5,690,31"/>
+<area shape="rect" id="node4" href="$group___actions.html#gad2347fdc30dfbba5298f2386a219c13d" title="CReserveKey::GetReservedKey" alt="" coords="495,55,708,80"/>
+<area shape="rect" id="node6" href="$group__map_wallet.html#gaee8f634287d083737471595f658da519" title="Add a transaction to the wallet, or update it. " alt="" coords="488,107,715,132"/>
+<area shape="rect" id="node7" href="$group__map_wallet.html#ga09e75fcbc98be305e68e99495570687c" title="CWallet::SyncTransaction" alt="" coords="763,107,937,132"/>
+<area shape="rect" id="node8" href="$group__map_wallet.html#gae44ec090ec7c87725fb22d33887ad1a7" title="Notifies listeners of a transaction having been added to mempool. " alt="" coords="1013,19,1195,57"/>
+<area shape="rect" id="node9" href="$group__map_wallet.html#ga8871fb58a2872900558d69d71baddfca" title="Notifies listeners of a block being connected. " alt="" coords="1018,81,1190,107"/>
+<area shape="rect" id="node10" href="$group__map_wallet.html#ga3aa53a08f7071c42c0ef82ea468d19ae" title="Notifies listeners of a block being disconnected. " alt="" coords="1010,131,1198,156"/>
+<area shape="rect" id="node11" href="$group__map_wallet.html#gaabb1db808d082d6df2b1e37cbf3f8f98" title="Scan the block chain (starting in pindexStart) for transactions from or to us. " alt="" coords="985,180,1223,205"/>
+<area shape="rect" id="node12" href="$rpcwallet_8cpp.html#a151535abf7394b299deb8d0a333de70b" title="rescanblockchain" alt="" coords="1271,180,1395,205"/>
+</map>

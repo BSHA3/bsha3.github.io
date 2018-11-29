@@ -1,0 +1,12 @@
+<map id="CMerkleTx::SetTx" name="CMerkleTx::SetTx">
+<area shape="rect" id="node2" href="$group__map_wallet.html#ga71c829a50abbcd74c1884b1f86527755" title="CWallet::AddToWallet" alt="" coords="186,117,335,143"/>
+<area shape="rect" id="node11" href="$class_c_merkle_tx.html#a381bb26e9a8924b8a1311d45dfd18809" title="CMerkleTx::CMerkleTx" alt="" coords="181,167,339,192"/>
+<area shape="rect" id="node3" href="$group__map_wallet.html#gaee8f634287d083737471595f658da519" title="Add a transaction to the wallet, or update it. " alt="" coords="387,93,615,119"/>
+<area shape="rect" id="node10" href="$group___actions.html#ga2faeb244cf83bbae1304ae2f4acc7d93" title="Call after CreateTransaction unless you want to abort. " alt="" coords="406,143,596,168"/>
+<area shape="rect" id="node4" href="$group__map_wallet.html#ga09e75fcbc98be305e68e99495570687c" title="CWallet::SyncTransaction" alt="" coords="663,93,837,119"/>
+<area shape="rect" id="node5" href="$group__map_wallet.html#gae44ec090ec7c87725fb22d33887ad1a7" title="Notifies listeners of a transaction having been added to mempool. " alt="" coords="912,5,1095,44"/>
+<area shape="rect" id="node6" href="$group__map_wallet.html#ga8871fb58a2872900558d69d71baddfca" title="Notifies listeners of a block being connected. " alt="" coords="917,68,1089,93"/>
+<area shape="rect" id="node7" href="$group__map_wallet.html#ga3aa53a08f7071c42c0ef82ea468d19ae" title="Notifies listeners of a block being disconnected. " alt="" coords="909,117,1098,143"/>
+<area shape="rect" id="node8" href="$group__map_wallet.html#gaabb1db808d082d6df2b1e37cbf3f8f98" title="Scan the block chain (starting in pindexStart) for transactions from or to us. " alt="" coords="885,167,1122,192"/>
+<area shape="rect" id="node9" href="$rpcwallet_8cpp.html#a151535abf7394b299deb8d0a333de70b" title="rescanblockchain" alt="" coords="1170,167,1295,192"/>
+</map>

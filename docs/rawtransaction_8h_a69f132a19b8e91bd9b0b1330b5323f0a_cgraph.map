@@ -1,0 +1,50 @@
+<map id="SignTransaction" name="SignTransaction">
+<area shape="rect" id="node2" href="$class_c_coins_view_backed.html#a7eaddfbfd401a95c2fda2a8d8feaaf73" title="CCoinsViewBacked::SetBackend" alt="" coords="171,5,388,31"/>
+<area shape="rect" id="node3" href="$class_c_coins_view_cache.html#afd0144ded5ce891084aabff29141f8b2" title="Return a reference to Coin in the cache, or a pruned one if not found. " alt="" coords="174,55,384,80"/>
+<area shape="rect" id="node6" href="$class_uni_value.html#a3661be0f5580daceb23e5338e3a0df22" title="UniValue::isNull" alt="" coords="479,129,593,155"/>
+<area shape="rect" id="node7" href="$class_uni_value.html#aa9751b5797cb84d15b9fe4ca217f0b63" title="UniValue::get_array" alt="" coords="210,156,348,181"/>
+<area shape="rect" id="node8" href="$class_uni_value.html#a5a7394aeb8d5584db7a90c2c041726b1" title="UniValue::size" alt="" coords="226,205,332,231"/>
+<area shape="rect" id="node9" href="$class_uni_value.html#af1a6df88c2bee59a863dd6f8d12e9be5" title="UniValue::isObject" alt="" coords="214,255,344,280"/>
+<area shape="rect" id="node10" href="$rpc_2protocol_8cpp.html#a40b75d3d265c4a2e1d5fe3e129743884" title="JSONRPCError" alt="" coords="702,380,817,405"/>
+<area shape="rect" id="node12" href="$class_uni_value.html#a49a6ac464f3c2d918e7379d3203c7337" title="UniValue::get_obj" alt="" coords="216,353,342,379"/>
+<area shape="rect" id="node13" href="$server_8cpp.html#aec45a2addcbf2231658dce8bbfbb792c" title="RPCTypeCheckObj" alt="" coords="211,304,348,329"/>
+<area shape="rect" id="node14" href="$univalue_8h.html#a33625d562f1ef5f44ceb171d5c8f2a85" title="find_value" alt="" coords="495,455,577,480"/>
+<area shape="rect" id="node19" href="$server_8cpp.html#ad4549aceb751d2ed900b3235d5342815" title="ParseHashO" alt="" coords="230,505,328,531"/>
+<area shape="rect" id="node27" href="$class_uni_value.html#af45edc6e67eaa6d1f271ce18e435a376" title="UniValue::get_int" alt="" coords="218,677,340,703"/>
+<area shape="rect" id="node29" href="$server_8cpp.html#ada8166ce740029507c6f29ab8b025eab" title="ParseHexO" alt="" coords="234,555,324,580"/>
+<area shape="rect" id="node34" href="$class_coin.html#ad900ffd083fd31e3b52adf3dc4092953" title="Coin::IsSpent" alt="" coords="229,752,330,777"/>
+<area shape="rect" id="node36" href="$core__io_8h.html#a9236ffa581211a68db7f7447faa6c27c" title="Create the assembly string representation of a CScript object. " alt="" coords="223,952,336,977"/>
+<area shape="rect" id="node4" href="$class_c_coins_view_cache.html#aad44dd0b312871702e46ddfb449cecba" title="CCoinsViewCache::FetchCoin" alt="" coords="436,55,636,80"/>
+<area shape="rect" id="node5" href="$class_c_coins_view.html#a435080be262889508365787dcc75cf95" title="Retrieve the Coin (unspent transaction output) for a given outpoint. " alt="" coords="684,55,834,80"/>
+<area shape="rect" id="node11" href="$util_8h.html#a96c5fc7111f69f7dcaba992d95d13e03" title="error" alt="" coords="926,380,975,405"/>
+<area shape="rect" id="node15" href="$class_uni_value.html#a5b33bfd4be1574e610eee5a7cdae77d1" title="UniValue::type" alt="" coords="483,203,590,228"/>
+<area shape="rect" id="node17" href="$univalue_8h.html#aa037153cdbc98dd3683ff1918dc70932" title="uvTypeName" alt="" coords="486,304,586,329"/>
+<area shape="rect" id="node18" href="$class_uni_value.html#a67e4178f582aa9f7bc39e71066ad786e" title="UniValue::getKeys" alt="" coords="471,353,601,379"/>
+<area shape="rect" id="node16" href="$class_uni_value.html#a2dbc9c5aa9d209338b0bef650f3d1987" title="UniValue::getType" alt="" coords="695,203,824,228"/>
+<area shape="rect" id="node20" href="$server_8cpp.html#adb231eaeb57d26011655ee8aaa5315e2" title="Utilities: convert hex&#45;encoded Values (throws error if not hex). " alt="" coords="488,504,584,529"/>
+<area shape="rect" id="node21" href="$class_uni_value.html#a087ea6ccec615333371fa1aaf83ab7df" title="UniValue::get_str" alt="" coords="698,577,821,603"/>
+<area shape="rect" id="node23" href="$utilstrencodings_8cpp.html#a9f23401f4b871ed693f7a96a9ba40c58" title="IsHex" alt="" coords="732,479,787,504"/>
+<area shape="rect" id="node25" href="$uint256_8h.html#a52e679560cc1ebf68f878ed69e38f259" title="uint256S" alt="" coords="722,429,796,455"/>
+<area shape="rect" id="node22" href="$class_uni_value.html#a4c9a5fa9114affbf31f6e346c032be12" title="UniValue::getValStr" alt="" coords="882,627,1018,652"/>
+<area shape="rect" id="node24" href="$utilstrencodings_8cpp.html#aa59e8a8c5a39cb5041f93bb95dd02119" title="HexDigit" alt="" coords="915,479,986,504"/>
+<area shape="rect" id="node26" href="$classbase__blob.html#a5ec1f681a2830f4e180fe664c0eb4dd0" title="base_blob::SetHex" alt="" coords="883,429,1017,455"/>
+<area shape="rect" id="node28" href="$utilstrencodings_8cpp.html#a880a215d9e931432b095084c756a49bb" title="Convert string to signed 32&#45;bit integer with strict parse error feedback. " alt="" coords="493,728,579,753"/>
+<area shape="rect" id="node30" href="$server_8cpp.html#a250d292e8ce3793abe154667a8297d08" title="ParseHexV" alt="" coords="492,553,581,579"/>
+<area shape="rect" id="node31" href="$class_uni_value.html#a8abe13a4663ccfda54ae2440ed445c5a" title="UniValue::isStr" alt="" coords="705,627,814,652"/>
+<area shape="rect" id="node32" href="$utilstrencodings_8cpp.html#a5a787187ddd5c52baae692350ec5a2cb" title="ParseHex" alt="" coords="720,528,799,553"/>
+<area shape="rect" id="node33" href="$utilstrencodings_8h.html#aa30de1eac29287732050df7168cde03a" title="Tests if the given character is a whitespace character. " alt="" coords="916,528,985,553"/>
+<area shape="rect" id="node35" href="$class_c_tx_out.html#ab92a3c4c95c643f7b3ffd3ffa7cd7055" title="CTxOut::IsNull" alt="" coords="482,777,590,803"/>
+<area shape="rect" id="node37" href="$classprevector.html#aa9210cbe708412a70868d6e0bca844c9" title="prevector::begin" alt="" coords="701,979,818,1004"/>
+<area shape="rect" id="node42" href="$classprevector.html#aab7f6e13a3cac85cc340fc6b90c5365c" title="prevector::end" alt="" coords="706,877,813,903"/>
+<area shape="rect" id="node44" href="$class_c_script.html#ae07231780831ba57f723bd35e4572753" title="CScript::GetOp" alt="" coords="480,827,592,852"/>
+<area shape="rect" id="node46" href="$class_c_script.html#a11c26ad1d03fa2d60a733337c21b6719" title="Returns whether the script is guaranteed to fail at execution, regardless of the initial stack..." alt="" coords="456,928,617,953"/>
+<area shape="rect" id="node47" href="$interpreter_8cpp.html#a4e9bf849122ca85e8010906bb23a2a40" title="CheckSignatureEncoding" alt="" coords="450,977,622,1003"/>
+<area shape="rect" id="node48" href="$utilstrencodings_8h.html#ace13a819ca4e98c22847d26b3b357e75" title="HexStr" alt="" coords="505,1027,567,1052"/>
+<area shape="rect" id="node49" href="$script_8cpp.html#a573587022d52d3542eb6fbf5a1190489" title="GetOpName" alt="" coords="488,1076,584,1101"/>
+<area shape="rect" id="node38" href="$classprevector.html#a59f1d7bcbc751cfa0faddd7ffa184846" title="prevector::item_ptr" alt="" coords="884,952,1017,977"/>
+<area shape="rect" id="node39" href="$classprevector.html#a933e204a7e29c6bbc85479d023c00ff8" title="prevector::is_direct" alt="" coords="1074,903,1208,928"/>
+<area shape="rect" id="node40" href="$classprevector.html#a20150a43dd87c33f0e855a55bd3418e8" title="prevector::direct_ptr" alt="" coords="1071,952,1211,977"/>
+<area shape="rect" id="node41" href="$classprevector.html#ae3343cc65be9fd678b4a6f8305624de6" title="prevector::indirect_ptr" alt="" coords="1066,1001,1217,1027"/>
+<area shape="rect" id="node43" href="$classprevector.html#a626f7d206dbc24e5610631809762758b" title="prevector::size" alt="" coords="896,903,1004,928"/>
+<area shape="rect" id="node45" href="$script_8h.html#a7641081d14775e4dd30a9d35e82a7c31" title="GetScriptOp" alt="" coords="712,827,807,852"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="AmountFromValue" name="AmountFromValue">
+<area shape="rect" id="node2" href="$class_uni_value.html#ac5271a9bb4ece86f00052bb5603eaa78" title="UniValue::isNum" alt="" coords="193,5,313,31"/>
+<area shape="rect" id="node3" href="$class_uni_value.html#a8abe13a4663ccfda54ae2440ed445c5a" title="UniValue::isStr" alt="" coords="198,55,307,80"/>
+<area shape="rect" id="node4" href="$rpc_2protocol_8cpp.html#a40b75d3d265c4a2e1d5fe3e129743884" title="JSONRPCError" alt="" coords="195,104,310,129"/>
+<area shape="rect" id="node6" href="$utilstrencodings_8cpp.html#a88871b16821d50d5f98a07312f8f1ffb" title="Parse number as fixed point according to JSON number syntax. " alt="" coords="193,153,312,179"/>
+<area shape="rect" id="node8" href="$class_uni_value.html#a4c9a5fa9114affbf31f6e346c032be12" title="UniValue::getValStr" alt="" coords="185,203,321,228"/>
+<area shape="rect" id="node9" href="$amount_8h.html#a12db56a9a1c931941f0943ecbb278aae" title="MoneyRange" alt="" coords="202,252,303,277"/>
+<area shape="rect" id="node5" href="$util_8h.html#a96c5fc7111f69f7dcaba992d95d13e03" title="error" alt="" coords="373,104,423,129"/>
+<area shape="rect" id="node7" href="$utilstrencodings_8h.html#a41d53846b822ba6e6df3e59760de114b" title="Tests if the given character is a decimal digit. " alt="" coords="369,153,427,179"/>
+</map>

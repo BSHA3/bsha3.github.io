@@ -1,0 +1,5 @@
+<map id="AbstractThresholdConditionChecker::Period" name="AbstractThresholdConditionChecker::Period">
+<area shape="rect" id="node2" href="$class_abstract_threshold_condition_checker.html#a7986d06396d52f6961d7c983dc68b8f3" title="AbstractThresholdCondition\lChecker::GetStateFor" alt="" coords="248,5,434,44"/>
+<area shape="rect" id="node3" href="$class_abstract_threshold_condition_checker.html#aa00a2bee3e85de7445422cab3dfd1ced" title="AbstractThresholdCondition\lChecker::GetStateSinceHeightFor" alt="" coords="492,35,714,73"/>
+<area shape="rect" id="node4" href="$class_abstract_threshold_condition_checker.html#a39fd50be33408ebb3a67734c4e9604f6" title="AbstractThresholdCondition\lChecker::GetStateStatisticsFor" alt="" coords="239,120,444,159"/>
+</map>

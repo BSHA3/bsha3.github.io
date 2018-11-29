@@ -1,0 +1,10 @@
+<map id="CCoinControl::IsSelected" name="CCoinControl::IsSelected">
+<area shape="rect" id="node2" href="$group___actions.html#ga15a558d8fa0db299f38ed1e45a60aaaf" title="Insert additional inputs into the transaction by calling CreateTransaction();. " alt="" coords="224,19,399,44"/>
+<area shape="rect" id="node3" href="$class_coin_control_dialog.html#aadea33050e5c1efd5eae8d2fcfa721f9" title="CoinControlDialog::\lupdateView" alt="" coords="243,68,380,107"/>
+<area shape="rect" id="node4" href="$class_coin_control_dialog.html#a4c34a48574814089c54f763a22f5317a" title="CoinControlDialog::\lsetModel" alt="" coords="447,5,584,44"/>
+<area shape="rect" id="node7" href="$class_coin_control_dialog.html#a1990d478f3ffba666c358a4f1bd395ec" title="CoinControlDialog::\lradioTreeMode" alt="" coords="447,68,584,107"/>
+<area shape="rect" id="node9" href="$class_coin_control_dialog.html#a775c6d290cb63667a434b09072094533" title="CoinControlDialog::\lradioListMode" alt="" coords="447,131,584,169"/>
+<area shape="rect" id="node5" href="$class_send_coins_dialog.html#a59d757d9e4bea5b380eb480fd79cfb49" title="SendCoinsDialog::coinControl\lButtonClicked" alt="" coords="632,5,831,44"/>
+<area shape="rect" id="node6" href="$class_send_coins_dialog.html#affacd36b4df87a68e2fe706ef388c0a6" title="SendCoinsDialog::SendCoins\lDialog" alt="" coords="879,5,1076,44"/>
+<area shape="rect" id="node8" href="$class_coin_control_dialog.html#a3cec3ece6aa5eec3e7829e042356a659" title="CoinControlDialog::\lCoinControlDialog" alt="" coords="663,99,800,137"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="BaseIndex::Init" name="BaseIndex::Init">
+<area shape="rect" id="node2" href="$class_base_index.html#ab0f67531ab8c5fbcc292f8a19bc9e971" title="BaseIndex::GetDB" alt="" coords="176,55,308,80"/>
+<area shape="rect" id="node3" href="$struct_c_block_locator.html#ae103102302c0c4e5ecec109b7dee1512" title="CBlockLocator::SetNull" alt="" coords="163,104,321,129"/>
+<area shape="rect" id="node4" href="$validation_8cpp.html#af43d57aa8b46a53839777e8b670c9d66" title="Find the last common block between the parameter chain and a locator. " alt="" coords="164,153,320,179"/>
+<area shape="rect" id="node9" href="$class_c_chain.html#a578545bde95163bee37b1be28e7b2755" title="Returns the index entry for the tip of this chain, or nullptr if none. " alt="" coords="413,252,504,277"/>
+<area shape="rect" id="node5" href="$validation_8h.html#a9d9b2d3b31edbd48ce62f4e2a73cc04c" title="LookupBlockIndex" alt="" coords="393,5,523,31"/>
+<area shape="rect" id="node6" href="$class_c_chain.html#af1786dc229c215dea7f727c11df2c8dc" title="Efficiently check whether a block is present in this chain. " alt="" coords="395,55,521,80"/>
+<area shape="rect" id="node7" href="$class_c_block_index.html#ae1f702384690c6b8302e026a84172ef3" title="Efficiently find an ancestor of this block. " alt="" coords="369,104,547,129"/>
+<area shape="rect" id="node8" href="$class_c_chain.html#ad4758bc8872ce065a9579f77c3171d40" title="Return the maximal height in the chain. " alt="" coords="402,153,514,179"/>
+<area shape="rect" id="node10" href="$class_c_chain.html#a0af94042e68f7dbc86260d3a54f08a3f" title="Returns the index entry for the genesis block of this chain, or nullptr if none. " alt="" coords="397,203,519,228"/>
+</map>

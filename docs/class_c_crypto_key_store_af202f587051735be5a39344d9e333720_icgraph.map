@@ -1,0 +1,10 @@
+<map id="CCryptoKeyStore::SetCrypted" name="CCryptoKeyStore::SetCrypted">
+<area shape="rect" id="node2" href="$class_c_crypto_key_store.html#ab73ebcbfa6e0aaf271d0fff9369a6685" title="CCryptoKeyStore::Lock" alt="" coords="285,25,446,50"/>
+<area shape="rect" id="node5" href="$class_c_crypto_key_store.html#a81bd70e18aa75f566526620a74f9cd88" title="CCryptoKeyStore::Unlock" alt="" coords="279,74,452,100"/>
+<area shape="rect" id="node7" href="$class_c_crypto_key_store.html#a9f4d2df95008205b2b9784c5f0e8e12b" title="CCryptoKeyStore::AddCryptedKey" alt="" coords="253,124,478,149"/>
+<area shape="rect" id="node3" href="$group__map_wallet.html#ga4abcec3066e7c462f4564c159fc15031" title="CWallet::ChangeWalletPassphrase" alt="" coords="526,25,755,50"/>
+<area shape="rect" id="node4" href="$group__map_wallet.html#gab34fe5bf771619dcbe22a65f013e5469" title="CWallet::EncryptWallet" alt="" coords="803,25,960,50"/>
+<area shape="rect" id="node6" href="$group__map_wallet.html#ga002c61a2b74f2c46063340c568e6cc1b" title="CWallet::Unlock" alt="" coords="583,74,699,100"/>
+<area shape="rect" id="node8" href="$group__map_wallet.html#ga9bd8ca47110186b31c258308d3bbd7c2" title="Adds an encrypted key to the store, and saves it to disk. " alt="" coords="557,124,725,149"/>
+<area shape="rect" id="node9" href="$group__map_wallet.html#ga01fbd78238d4ef833d059f12a7e8ac9f" title="Adds an encrypted key to the store, without saving it to disk (used by LoadWallet) ..." alt="" coords="554,173,728,198"/>
+</map>

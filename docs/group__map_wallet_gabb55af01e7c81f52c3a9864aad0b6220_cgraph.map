@@ -1,0 +1,4 @@
+<map id="CWalletTx::GetConflicts" name="CWalletTx::GetConflicts">
+<area shape="rect" id="node2" href="$class_c_merkle_tx.html#a20142f81e7ff0242db646e63e0a973b3" title="CMerkleTx::GetHash" alt="" coords="217,5,362,31"/>
+<area shape="rect" id="node3" href="$group__map_wallet.html#gadff799a202f6ae33e17771f940e1232d" title="Get wallet transactions that conflict with given transaction (spend same outputs) ..." alt="" coords="216,55,363,80"/>
+</map>

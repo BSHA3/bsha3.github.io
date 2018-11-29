@@ -1,0 +1,5 @@
+<map id="AddCoins" name="AddCoins">
+<area shape="rect" id="node2" href="$validation_8cpp.html#a76ffac026788c8c1e6d55fb1beae0962" title="UpdateCoins" alt="" coords="169,5,268,31"/>
+<area shape="rect" id="node4" href="$class_c_chain_state.html#ac231f6529bc41aea7917d0716d0c9d1a" title="Apply the effects of a block on the utxo cache, ignoring that it may already have been applied..." alt="" coords="132,55,304,93"/>
+<area shape="rect" id="node3" href="$validation_8h.html#ae9afb0553a9927e26785f4e4806a9892" title="Apply the effects of this transaction on the UTXO set represented by view. " alt="" coords="352,5,451,31"/>
+</map>

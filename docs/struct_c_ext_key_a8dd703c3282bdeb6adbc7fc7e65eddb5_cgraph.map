@@ -1,0 +1,11 @@
+<map id="CExtKey::Serialize" name="CExtKey::Serialize">
+<area shape="rect" id="node2" href="$serialize_8h.html#aff862d80e345fc18ed8a3e0b3a0ce528" title="WriteCompactSize" alt="" coords="185,55,317,80"/>
+<area shape="rect" id="node5" href="$struct_c_ext_key.html#aaeb1d3aa4f5e00b32fa0728e0f8af512" title="CExtKey::Encode" alt="" coords="188,153,314,179"/>
+<area shape="rect" id="node3" href="$class_c_size_computer.html#a8f51357462d7960b27155d4f58558177" title="Pretend _nSize bytes are written, without specifying them. " alt="" coords="370,5,521,31"/>
+<area shape="rect" id="node4" href="$serialize_8h.html#a404beecbf8d7aec8d2cdac3cbb71e808" title="Compact Size size &lt; 253 – 1 byte size &lt;= USHRT_MAX – 3 bytes (253 + 2 bytes) size &lt;= UINT_MAX – 5 ..." alt="" coords="365,55,527,80"/>
+<area shape="rect" id="node6" href="$glibc__compat_8cpp.html#a0f46826ab0466591e136db24394923cf" title="memcpy" alt="" coords="410,104,481,129"/>
+<area shape="rect" id="node8" href="$classbase__blob.html#aeee68e00ceeacf49086e98b661e017ff" title="base_blob::begin" alt="" coords="384,153,507,179"/>
+<area shape="rect" id="node9" href="$class_c_key.html#a468a9a8cd148ab4a43e7d76bbdc78abe" title="Simple read&#45;only vector&#45;like interface. " alt="" coords="403,203,488,228"/>
+<area shape="rect" id="node10" href="$class_c_key.html#ab8dee0ad9d933304a22284ee40040847" title="CKey::begin" alt="" coords="399,252,493,277"/>
+<area shape="rect" id="node7" href="$glibc__compat_8cpp.html#a9778d49e9029dd75bc53ecbbf9f5e9a1" title="memmove" alt="" coords="575,104,658,129"/>
+</map>

@@ -1,0 +1,34 @@
+<map id="src/qt/guiutil.h" name="src/qt/guiutil.h">
+<area shape="rect" id="node2" href="$addressbookpage_8cpp.html" title="src/qt/addressbookpage.cpp" alt="" coords="5,79,194,104"/>
+<area shape="rect" id="node3" href="$addresstablemodel_8cpp.html" title="src/qt/addresstablemodel.cpp" alt="" coords="218,79,414,104"/>
+<area shape="rect" id="node4" href="$bantablemodel_8cpp.html" title="src/qt/bantablemodel.cpp" alt="" coords="437,79,608,104"/>
+<area shape="rect" id="node5" href="$bitcoin_8cpp.html" title="src/qt/bitcoin.cpp" alt="" coords="631,79,752,104"/>
+<area shape="rect" id="node6" href="$bitcoingui_8cpp.html" title="src/qt/bitcoingui.cpp" alt="" coords="1786,152,1925,177"/>
+<area shape="rect" id="node7" href="$clientmodel_8cpp.html" title="src/qt/clientmodel.cpp" alt="" coords="827,79,978,104"/>
+<area shape="rect" id="node8" href="$coincontroldialog_8cpp.html" title="src/qt/coincontroldialog.cpp" alt="" coords="1002,79,1185,104"/>
+<area shape="rect" id="node9" href="$editaddressdialog_8cpp.html" title="src/qt/editaddressdialog.cpp" alt="" coords="1209,79,1396,104"/>
+<area shape="rect" id="node10" href="$guiutil_8cpp.html" title="src/qt/guiutil.cpp" alt="" coords="1420,79,1537,104"/>
+<area shape="rect" id="node11" href="$intro_8cpp.html" title="src/qt/intro.cpp" alt="" coords="1561,79,1670,104"/>
+<area shape="rect" id="node12" href="$modaloverlay_8cpp.html" title="src/qt/modaloverlay.cpp" alt="" coords="1694,79,1855,104"/>
+<area shape="rect" id="node13" href="$openuridialog_8cpp.html" title="src/qt/openuridialog.cpp" alt="" coords="1880,79,2043,104"/>
+<area shape="rect" id="node14" href="$optionsdialog_8cpp.html" title="src/qt/optionsdialog.cpp" alt="" coords="2067,79,2228,104"/>
+<area shape="rect" id="node15" href="$optionsmodel_8cpp.html" title="src/qt/optionsmodel.cpp" alt="" coords="2252,79,2414,104"/>
+<area shape="rect" id="node16" href="$overviewpage_8cpp.html" title="src/qt/overviewpage.cpp" alt="" coords="2439,79,2604,104"/>
+<area shape="rect" id="node17" href="$paymentserver_8cpp.html" title="src/qt/paymentserver.cpp" alt="" coords="2628,79,2798,104"/>
+<area shape="rect" id="node18" href="$peertablemodel_8cpp.html" title="src/qt/peertablemodel.cpp" alt="" coords="2822,79,2996,104"/>
+<area shape="rect" id="node19" href="$receivecoinsdialog_8h.html" title="src/qt/receivecoinsdialog.h" alt="" coords="3177,79,3356,104"/>
+<area shape="rect" id="node21" href="$walletview_8cpp.html" title="src/qt/walletview.cpp" alt="" coords="3812,152,3955,177"/>
+<area shape="rect" id="node22" href="$receiverequestdialog_8cpp.html" title="src/qt/receiverequestdialog.cpp" alt="" coords="3379,79,3585,104"/>
+<area shape="rect" id="node23" href="$recentrequeststablemodel_8cpp.html" title="src/qt/recentrequeststablemodel.cpp" alt="" coords="3610,79,3846,104"/>
+<area shape="rect" id="node24" href="$rpcconsole_8h.html" title="src/qt/rpcconsole.h" alt="" coords="3020,79,3153,104"/>
+<area shape="rect" id="node26" href="$sendcoinsdialog_8cpp.html" title="src/qt/sendcoinsdialog.cpp" alt="" coords="3921,79,4100,104"/>
+<area shape="rect" id="node27" href="$sendcoinsentry_8cpp.html" title="src/qt/sendcoinsentry.cpp" alt="" coords="4123,79,4295,104"/>
+<area shape="rect" id="node28" href="$signverifymessagedialog_8cpp.html" title="src/qt/signverifymessagedialog.cpp" alt="" coords="4319,79,4548,104"/>
+<area shape="rect" id="node29" href="$transactiondesc_8cpp.html" title="src/qt/transactiondesc.cpp" alt="" coords="4572,79,4748,104"/>
+<area shape="rect" id="node30" href="$transactiontablemodel_8cpp.html" title="src/qt/transactiontablemodel.cpp" alt="" coords="4772,79,4985,104"/>
+<area shape="rect" id="node31" href="$transactionview_8h.html" title="src/qt/transactionview.h" alt="" coords="5009,79,5169,104"/>
+<area shape="rect" id="node33" href="$utilitydialog_8cpp.html" title="src/qt/utilitydialog.cpp" alt="" coords="5193,79,5342,104"/>
+<area shape="rect" id="node20" href="$receivecoinsdialog_8cpp.html" title="src/qt/receivecoinsdialog.cpp" alt="" coords="3177,152,3369,177"/>
+<area shape="rect" id="node25" href="$rpcconsole_8cpp.html" title="src/qt/rpcconsole.cpp" alt="" coords="3006,152,3153,177"/>
+<area shape="rect" id="node32" href="$transactionview_8cpp.html" title="src/qt/transactionview.cpp" alt="" coords="5002,152,5176,177"/>
+</map>

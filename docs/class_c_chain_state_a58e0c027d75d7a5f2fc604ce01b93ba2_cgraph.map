@@ -1,0 +1,5 @@
+<map id="CChainState::ReceivedBlockTransactions" name="CChainState::ReceivedBlockTransactions">
+<area shape="rect" id="node2" href="$validation_8cpp.html#acb0226867d001d0edd267f2e4842bace" title="Check whether witness commitments are required for block. " alt="" coords="272,5,400,31"/>
+<area shape="rect" id="node3" href="$class_c_block_index.html#a076aff906933e9d75a37aa9b81c01384" title="Raise the validity level of this block index entry. " alt="" coords="246,55,426,80"/>
+<area shape="rect" id="node4" href="$class_c_chain.html#a578545bde95163bee37b1be28e7b2755" title="Returns the index entry for the tip of this chain, or nullptr if none. " alt="" coords="290,104,381,129"/>
+</map>

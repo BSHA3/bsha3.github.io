@@ -1,0 +1,6 @@
+<map id="WalletBatch::WriteTx" name="WalletBatch::WriteTx">
+<area shape="rect" id="node2" href="$class_wallet_batch.html#a552eb421cff45a9ed94b1ec77e5c76c3" title="WalletBatch::WriteIC" alt="" coords="200,33,343,59"/>
+<area shape="rect" id="node5" href="$class_c_merkle_tx.html#a20142f81e7ff0242db646e63e0a973b3" title="CMerkleTx::GetHash" alt="" coords="198,83,344,108"/>
+<area shape="rect" id="node3" href="$class_berkeley_batch.html#ac31c83ec96f7bd149f856d28e97dba23" title="BerkeleyBatch::Write" alt="" coords="418,5,563,31"/>
+<area shape="rect" id="node4" href="$class_berkeley_database.html#a313cd767c211da5738bdb5578cd59af7" title="BerkeleyDatabase::Increment\lUpdateCounter" alt="" coords="392,55,589,93"/>
+</map>

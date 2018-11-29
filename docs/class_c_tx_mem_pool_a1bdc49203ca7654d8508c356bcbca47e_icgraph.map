@@ -1,0 +1,4 @@
+<map id="CTxMemPool::removeRecursive" name="CTxMemPool::removeRecursive">
+<area shape="rect" id="node2" href="$class_c_tx_mem_pool.html#a01aa5f8ce16839bfbaacf67f40fe461d" title="CTxMemPool::removeConflicts" alt="" coords="267,5,472,31"/>
+<area shape="rect" id="node3" href="$class_c_tx_mem_pool.html#af0d277f190f134638cb0aa18e2099094" title="Called when a block is connected. " alt="" coords="520,5,726,31"/>
+</map>

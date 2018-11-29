@@ -1,0 +1,5 @@
+<map id="CWallet::DeriveNewSeed" name="CWallet::DeriveNewSeed">
+<area shape="rect" id="node2" href="$group__map_wallet.html#ga35c26d9e81464f04a45375647c251d67" title="CWallet::GenerateNewSeed" alt="" coords="225,5,413,31"/>
+<area shape="rect" id="node4" href="$rpcwallet_8cpp.html#a61c7a90d1b36888fe11b751e746e18c0" title="sethdseed" alt="" coords="498,55,581,80"/>
+<area shape="rect" id="node3" href="$group__map_wallet.html#gab34fe5bf771619dcbe22a65f013e5469" title="CWallet::EncryptWallet" alt="" coords="461,5,618,31"/>
+</map>

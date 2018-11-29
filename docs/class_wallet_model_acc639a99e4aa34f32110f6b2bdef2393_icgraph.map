@@ -1,0 +1,5 @@
+<map id="WalletModel::requireUnlock" name="WalletModel::requireUnlock">
+<area shape="rect" id="node2" href="$class_wallet_model.html#ae98eaede9493625ce778a0a873b3d124" title="WalletModel::requestUnlock" alt="" coords="237,5,424,31"/>
+<area shape="rect" id="node3" href="$class_wallet_view.html#a0a37ff693a4f9c1e5ddc23f9cd3913be" title="Set the wallet model. " alt="" coords="238,55,423,80"/>
+<area shape="rect" id="node4" href="$class_wallet_frame.html#a06cb28194836995e50cc46716b2227ff" title="WalletFrame::addWallet" alt="" coords="472,55,635,80"/>
+</map>

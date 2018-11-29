@@ -1,0 +1,4 @@
+<map id="BerkeleyEnvironment::TxnBegin" name="BerkeleyEnvironment::TxnBegin">
+<area shape="rect" id="node2" href="$class_berkeley_batch.html#a76139fd0f7baba69592a3b62bb5d62f5" title="BerkeleyBatch::TxnBegin" alt="" coords="201,12,372,37"/>
+<area shape="rect" id="node3" href="$class_wallet_batch.html#a93956785704eb0b20052a4656ca84693" title="Begin a new transaction. " alt="" coords="420,12,576,37"/>
+</map>

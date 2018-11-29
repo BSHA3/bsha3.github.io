@@ -1,0 +1,10 @@
+<map id="interfaces::Wallet::getDefaultAddressType" name="interfaces::Wallet::getDefaultAddressType">
+<area shape="rect" id="node2" href="$class_address_table_model.html#a2a86bb0e03eed670fc02ffbe01d5a9d9" title="AddressTableModel::\lGetDefaultAddressType" alt="" coords="230,5,392,44"/>
+<area shape="rect" id="node5" href="$class_receive_coins_dialog.html#a856e5bbe280d792004e97e703f42c7f8" title="ReceiveCoinsDialog\l::setModel" alt="" coords="240,68,382,107"/>
+<area shape="rect" id="node8" href="$class_receive_coins_dialog.html#a9db8de31f6889288cb22c061aa51e0cd" title="ReceiveCoinsDialog\l::on_receiveButton_clicked" alt="" coords="221,131,401,169"/>
+<area shape="rect" id="node3" href="$class_edit_address_dialog.html#a8494a551799cd1f4c253e557424c206c" title="EditAddressDialog::\lsaveCurrentRow" alt="" coords="472,5,611,44"/>
+<area shape="rect" id="node4" href="$class_edit_address_dialog.html#ac52b71129806bccf6533d0e9441393b6" title="EditAddressDialog::\laccept" alt="" coords="694,5,833,44"/>
+<area shape="rect" id="node6" href="$class_wallet_view.html#a0a37ff693a4f9c1e5ddc23f9cd3913be" title="Set the wallet model. " alt="" coords="449,75,634,100"/>
+<area shape="rect" id="node7" href="$class_wallet_frame.html#a06cb28194836995e50cc46716b2227ff" title="WalletFrame::addWallet" alt="" coords="682,75,845,100"/>
+<area shape="rect" id="node9" href="$class_receive_coins_dialog.html#abcf17b510c473bf3e94ef12f7f5cfc10" title="ReceiveCoinsDialog\l::keyPressEvent" alt="" coords="471,131,612,169"/>
+</map>

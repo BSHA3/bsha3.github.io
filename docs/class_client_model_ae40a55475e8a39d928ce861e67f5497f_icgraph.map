@@ -1,0 +1,6 @@
+<map id="ClientModel::alertsChanged" name="ClientModel::alertsChanged">
+<area shape="rect" id="node2" href="$class_client_model.html#a006401a33f7e1a454828f637595f43c0" title="ClientModel::updateAlert" alt="" coords="257,5,425,31"/>
+<area shape="rect" id="node3" href="$class_overview_page.html#a5d2610ab2b9c58e3b5f67c05f984e097" title="OverviewPage::setClientModel" alt="" coords="239,55,443,80"/>
+<area shape="rect" id="node4" href="$class_wallet_view.html#a46d9a8d93adfdcc29cae9ff0d44c313e" title="Set the client model. " alt="" coords="491,55,673,80"/>
+<area shape="rect" id="node5" href="$class_wallet_frame.html#a06cb28194836995e50cc46716b2227ff" title="WalletFrame::addWallet" alt="" coords="721,55,884,80"/>
+</map>

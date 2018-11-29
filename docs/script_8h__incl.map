@@ -1,0 +1,9 @@
+<map id="src/script/script.h" name="src/script/script.h">
+<area shape="rect" id="node2" href="$common_8h.html" title="crypto/common.h" alt="" coords="230,79,354,104"/>
+<area shape="rect" id="node7" href="$prevector_8h.html" title="prevector.h" alt="" coords="603,152,690,177"/>
+<area shape="rect" id="node28" href="$serialize_8h.html" title="serialize.h" alt="" coords="881,79,962,104"/>
+<area shape="rect" id="node5" href="$endian_8h.html" title="compat/endian.h" alt="" coords="207,152,327,177"/>
+<area shape="rect" id="node6" href="$byteswap_8h.html" title="compat/byteswap.h" alt="" coords="109,225,246,251"/>
+<area shape="rect" id="node13" href="$compat_8h.html" title="compat.h" alt="" coords="746,225,822,251"/>
+<area shape="rect" id="node38" href="$span_8h.html" title="span.h" alt="" coords="816,152,878,177"/>
+</map>

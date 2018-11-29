@@ -1,0 +1,18 @@
+<map id="WalletBatch::ErasePool" name="WalletBatch::ErasePool">
+<area shape="rect" id="node2" href="$group___actions.html#ga7353ba1e79fc4167fbfbe79b41698fa7" title="Mark old keypool keys as used, and generate all new keys. " alt="" coords="231,55,382,80"/>
+<area shape="rect" id="node5" href="$group___actions.html#gae460b8c824a1a6633615f95373e533f2" title="CWallet::KeepKey" alt="" coords="242,115,371,140"/>
+<area shape="rect" id="node10" href="$group___actions.html#ga23a900513e363e8e79d604cab9a7c7fc" title="Marks all keys in the keypool up to and including reserve_key as used. " alt="" coords="214,185,398,224"/>
+<area shape="rect" id="node3" href="$group__map_wallet.html#gab34fe5bf771619dcbe22a65f013e5469" title="CWallet::EncryptWallet" alt="" coords="482,5,638,31"/>
+<area shape="rect" id="node4" href="$rpcwallet_8cpp.html#a61c7a90d1b36888fe11b751e746e18c0" title="sethdseed" alt="" coords="519,55,601,80"/>
+<area shape="rect" id="node6" href="$group___actions.html#gac452f46eafeb2b4adfe86f7208048032" title="CWallet::GetKeyFromPool" alt="" coords="471,104,649,129"/>
+<area shape="rect" id="node7" href="$group___actions.html#ga493d06f41ca9571f2a42c8581a3952d8" title="CReserveKey::KeepKey" alt="" coords="477,153,643,179"/>
+<area shape="rect" id="node8" href="$group___actions.html#ga15a558d8fa0db299f38ed1e45a60aaaf" title="Insert additional inputs into the transaction by calling CreateTransaction();. " alt="" coords="730,104,904,129"/>
+<area shape="rect" id="node9" href="$group___actions.html#ga2faeb244cf83bbae1304ae2f4acc7d93" title="Call after CreateTransaction unless you want to abort. " alt="" coords="722,153,912,179"/>
+<area shape="rect" id="node11" href="$group__map_wallet.html#gaee8f634287d083737471595f658da519" title="Add a transaction to the wallet, or update it. " alt="" coords="446,203,674,228"/>
+<area shape="rect" id="node12" href="$group__map_wallet.html#ga09e75fcbc98be305e68e99495570687c" title="CWallet::SyncTransaction" alt="" coords="730,203,904,228"/>
+<area shape="rect" id="node13" href="$group__map_wallet.html#gae44ec090ec7c87725fb22d33887ad1a7" title="Notifies listeners of a transaction having been added to mempool. " alt="" coords="987,115,1170,153"/>
+<area shape="rect" id="node14" href="$group__map_wallet.html#ga8871fb58a2872900558d69d71baddfca" title="Notifies listeners of a block being connected. " alt="" coords="993,177,1165,203"/>
+<area shape="rect" id="node15" href="$group__map_wallet.html#ga3aa53a08f7071c42c0ef82ea468d19ae" title="Notifies listeners of a block being disconnected. " alt="" coords="985,227,1173,252"/>
+<area shape="rect" id="node16" href="$group__map_wallet.html#gaabb1db808d082d6df2b1e37cbf3f8f98" title="Scan the block chain (starting in pindexStart) for transactions from or to us. " alt="" coords="960,276,1198,301"/>
+<area shape="rect" id="node17" href="$rpcwallet_8cpp.html#a151535abf7394b299deb8d0a333de70b" title="rescanblockchain" alt="" coords="1246,276,1370,301"/>
+</map>

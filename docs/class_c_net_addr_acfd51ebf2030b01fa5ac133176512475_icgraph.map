@@ -1,0 +1,40 @@
+<map id="CNetAddr::GetByte" name="CNetAddr::GetByte">
+<area shape="rect" id="node2" href="$class_c_net_addr.html#a6c6d7376d8d0ae4c7cb0893add58069f" title="CNetAddr::IsRFC1918" alt="" coords="189,203,344,228"/>
+<area shape="rect" id="node16" href="$class_c_net_addr.html#acd1138ebc48eb28055a49e5ffe8ebc31" title="CNetAddr::IsRFC2544" alt="" coords="189,400,344,425"/>
+<area shape="rect" id="node17" href="$class_c_net_addr.html#af75408b0ae05d1e7d3931b80b65a70c4" title="CNetAddr::IsRFC3927" alt="" coords="189,449,344,475"/>
+<area shape="rect" id="node18" href="$class_c_net_addr.html#a6a9595f10a7cb4518d9d577075eee57f" title="CNetAddr::IsRFC6598" alt="" coords="189,5,344,31"/>
+<area shape="rect" id="node19" href="$class_c_net_addr.html#a5a3b09eb486dede48cb9427a9a0ed2e2" title="CNetAddr::IsRFC5737" alt="" coords="189,55,344,80"/>
+<area shape="rect" id="node20" href="$class_c_net_addr.html#a7bf8bc283323c0cd9be42f921469c90f" title="CNetAddr::IsRFC3849" alt="" coords="189,252,344,277"/>
+<area shape="rect" id="node21" href="$class_c_net_addr.html#ae0fcf758a607567f06cb966426289cd6" title="CNetAddr::IsRFC3964" alt="" coords="189,301,344,327"/>
+<area shape="rect" id="node22" href="$class_c_net_addr.html#aec91b10228b37eb9bd67dec322730492" title="CNetAddr::IsRFC4380" alt="" coords="189,351,344,376"/>
+<area shape="rect" id="node23" href="$class_c_net_addr.html#ac2eb12a3f11d9f54fa7c5072bf065d1c" title="CNetAddr::IsRFC4193" alt="" coords="189,104,344,129"/>
+<area shape="rect" id="node24" href="$class_c_net_addr.html#af9286890842869ccc5f6fb82ce316ede" title="CNetAddr::IsRFC4843" alt="" coords="189,153,344,179"/>
+<area shape="rect" id="node25" href="$class_c_net_addr.html#a857bfcf95814b7d6ef4db309c84f179d" title="CNetAddr::IsLocal" alt="" coords="201,499,331,524"/>
+<area shape="rect" id="node3" href="$class_c_net_addr.html#a4e3b2fea2a6151c76684b3812df4a5c3" title="CNetAddr::IsRoutable" alt="" coords="392,200,543,225"/>
+<area shape="rect" id="node4" href="$class_c_addr_man.html#a0f280b5874a6507b463cae6075063ec2" title="Add an entry to the &quot;new&quot; table. " alt="" coords="898,327,1021,352"/>
+<area shape="rect" id="node7" href="$net_8h.html#a058b75c6fcc94a0643184c237ad6de93" title="IsPeerAddrLocalGood" alt="" coords="883,224,1036,249"/>
+<area shape="rect" id="node8" href="$net_8h.html#a0cde2b3256757536c42c0bd3037847d1" title="AdvertiseLocal" alt="" coords="1167,249,1276,275"/>
+<area shape="rect" id="node9" href="$net_8h.html#a337d6af198a6b0d75f830e56da9b91e9" title="AddLocal" alt="" coords="658,75,735,100"/>
+<area shape="rect" id="node12" href="$class_c_net_addr.html#ad0162f2629f552a65acf934e1629c1db" title="CNetAddr::GetNetwork" alt="" coords="618,124,776,149"/>
+<area shape="rect" id="node15" href="$class_c_net_addr.html#ac68e7eb7b10cbb18b2b8af027fa4b97a" title="Calculates a metric for how reachable (*this) is from a given partner. " alt="" coords="591,173,803,199"/>
+<area shape="rect" id="node5" href="$class_c_addr_man.html#a03fcc7109b5f014760dc50a81f68c5ec" title="Add a single address. " alt="" coords="1163,327,1279,352"/>
+<area shape="rect" id="node6" href="$class_c_connman.html#a47d9024273a8c421fa7de641c30e9081" title="CConnman::AddNewAddresses" alt="" coords="1374,327,1584,352"/>
+<area shape="rect" id="node10" href="$net_8h.html#abda4e8f87772f9a9d9d8f52a93791ffc" title="AddLocal" alt="" coords="921,75,998,100"/>
+<area shape="rect" id="node11" href="$net_8h.html#af69db74c5fca7ac2e39ab3c412de3dd4" title="Discover" alt="" coords="923,25,996,51"/>
+<area shape="rect" id="node13" href="$net_8h.html#a7f5f5a0bf934e49c7137ee4aa6eb8732" title="IsLimited" alt="" coords="922,173,997,199"/>
+<area shape="rect" id="node14" href="$net_8h.html#a0eb7db987ad1a1bf139d0cd46873ed29" title="check whether a given address is in a network we can probably connect to " alt="" coords="912,124,1007,149"/>
+<area shape="rect" id="node26" href="$class_c_net_addr.html#a6f8211515f809f6972ce327433d41458" title="CNetAddr::GetGroup" alt="" coords="394,499,540,524"/>
+<area shape="rect" id="node27" href="$class_c_addr_info.html#a11e2712f11c0d92c75976e90f2c5003e" title="Calculate in which &quot;tried&quot; bucket this entry belongs. " alt="" coords="606,499,787,524"/>
+<area shape="rect" id="node37" href="$class_c_addr_info.html#ae4459cd7719834bbcf77874757c6875e" title="Calculate in which &quot;new&quot; bucket this entry belongs, given a certain source. " alt="" coords="608,376,786,401"/>
+<area shape="rect" id="node39" href="$class_c_connman.html#aaddc98400cec25d36460a45bf6fbaabf" title="CConnman::CalculateKeyed\lNetGroup" alt="" coords="602,548,792,587"/>
+<area shape="rect" id="node28" href="$class_c_addr_man.html#af7a45c248782cf74daced27458da236b" title="Move an entry from the &quot;new&quot; table(s) to the &quot;tried&quot; table. " alt="" coords="882,573,1037,599"/>
+<area shape="rect" id="node29" href="$class_c_addr_man.html#abd5503f25498115552e410fad2c31064" title="Mark an entry &quot;good&quot;, possibly moving it from &quot;new&quot; to &quot;tried&quot;. " alt="" coords="893,623,1026,648"/>
+<area shape="rect" id="node32" href="$class_c_addr_man.html#affa9aa35cc02b08ccb908a249ee23472" title="See if any to&#45;be&#45;evicted tried table entries have been tested and if so resolve the collisions..." alt="" coords="857,425,1062,451"/>
+<area shape="rect" id="node34" href="$class_c_addr_man.html#a52982135b090086173daaaec83eca791" title="Return a random to&#45;be&#45;evicted tried table address. " alt="" coords="851,475,1068,500"/>
+<area shape="rect" id="node36" href="$class_c_addr_man.html#a94c76a39ab311deb9e7b810e01b664ce" title="CAddrMan::Unserialize" alt="" coords="880,524,1039,549"/>
+<area shape="rect" id="node30" href="$class_c_addr_man.html#acca82020635b7df1b7c24dfaf6b4de1d" title="Mark an entry as accessible. " alt="" coords="1159,623,1284,648"/>
+<area shape="rect" id="node31" href="$class_c_connman.html#a85dedb235a648a1b8370228ba62ebacb" title="CConnman::MarkAddressGood" alt="" coords="1375,623,1583,648"/>
+<area shape="rect" id="node33" href="$class_c_addr_man.html#a6bf50dc115860eb65b3ec474a50241fb" title="See if any to&#45;be&#45;evicted tried table entries have been tested and if so resolve the collisions..." alt="" coords="1122,425,1320,451"/>
+<area shape="rect" id="node35" href="$class_c_addr_man.html#a72b044d1ab8c7ec7cd67bd0fbc600e6c" title="Randomly select an address in tried that another address is attempting to evict. " alt="" coords="1116,475,1326,500"/>
+<area shape="rect" id="node38" href="$class_c_addr_info.html#a04ac79764971242edce1e82aefb2aea0" title="Calculate in which &quot;new&quot; bucket this entry belongs, using its default source. " alt="" coords="871,376,1049,401"/>
+</map>

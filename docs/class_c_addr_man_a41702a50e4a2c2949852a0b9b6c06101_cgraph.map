@@ -1,0 +1,5 @@
+<map id="CAddrMan::Attempt" name="CAddrMan::Attempt">
+<area shape="rect" id="node2" href="$class_c_addr_man.html#a0c2677ae50ce0d680f0105b285d1f5d0" title="Consistency check. " alt="" coords="200,5,330,31"/>
+<area shape="rect" id="node3" href="$class_c_addr_man.html#a92c926223093355f8a82df9d2811cfe9" title="Mark an entry as attempted to connect. " alt="" coords="192,55,338,80"/>
+<area shape="rect" id="node4" href="$class_c_addr_man.html#a7566e599fd71aab7214d9ef1aeaa5514" title="Find an entry. " alt="" coords="386,55,504,80"/>
+</map>

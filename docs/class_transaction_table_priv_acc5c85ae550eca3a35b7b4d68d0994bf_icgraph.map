@@ -1,0 +1,8 @@
+<map id="TransactionTablePriv::size" name="TransactionTablePriv::size">
+<area shape="rect" id="node2" href="$class_transaction_table_model.html#a5899d9eda6465bfb16d2846b6459567e" title="TransactionTableModel\l::updateConfirmations" alt="" coords="199,5,357,44"/>
+<area shape="rect" id="node5" href="$class_transaction_table_model.html#a133baec4cadf0b6b9f7a355d1fa14ee6" title="TransactionTableModel\l::rowCount" alt="" coords="199,68,357,107"/>
+<area shape="rect" id="node6" href="$class_transaction_table_model.html#a8b73ff7d72ec2dd69790bc61bbe8575e" title="TransactionTableModel\l::updateDisplayUnit" alt="" coords="199,131,357,169"/>
+<area shape="rect" id="node3" href="$class_wallet_model.html#a51469b2d95cfd4bc0a14ee456fca7b95" title="WalletModel::pollBalance\lChanged" alt="" coords="405,5,576,44"/>
+<area shape="rect" id="node4" href="$class_wallet_model.html#ac0d2832c06b91e9f0aecb2c7d45fce81" title="WalletModel::WalletModel" alt="" coords="624,12,798,37"/>
+<area shape="rect" id="node7" href="$class_transaction_table_model.html#addebfd4c35896f17a6a9fec9f40eeeb7" title="TransactionTableModel\l::TransactionTableModel" alt="" coords="408,131,574,169"/>
+</map>

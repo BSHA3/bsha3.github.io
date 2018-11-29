@@ -1,0 +1,5 @@
+<map id="WalletBatch::VerifyEnvironment" name="WalletBatch::VerifyEnvironment">
+<area shape="rect" id="node2" href="$class_berkeley_batch.html#a3fd5c230cbc516ad57eed9fed8b18454" title="BerkeleyBatch::VerifyEnvironment" alt="" coords="261,33,484,59"/>
+<area shape="rect" id="node3" href="$db_8cpp.html#ad35888bb71f9a2822294063004aab1d5" title="Get BerkeleyEnvironment and database filename given a wallet path. " alt="" coords="555,5,657,31"/>
+<area shape="rect" id="node4" href="$class_berkeley_environment.html#a1e5ad8ccd1e5e8ca57291bc2ec61613e" title="BerkeleyEnvironment\l::Directory" alt="" coords="532,55,680,93"/>
+</map>

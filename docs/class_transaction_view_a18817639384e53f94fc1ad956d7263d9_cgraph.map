@@ -1,0 +1,11 @@
+<map id="TransactionView::editLabel" name="TransactionView::editLabel">
+<area shape="rect" id="node2" href="$class_wallet_model.html#a89ed202e2dbc04aaa70d72872b95b351" title="WalletModel::getAddressTable\lModel" alt="" coords="234,5,435,44"/>
+<area shape="rect" id="node3" href="$class_address_table_model.html#a79b07007c147962c0119310ebd4931c1" title="AddressTableModel::data" alt="" coords="249,183,420,208"/>
+<area shape="rect" id="node4" href="$class_address_table_model.html#a74e9123471948255f87271c823c82854" title="AddressTableModel::\lindex" alt="" coords="488,120,634,159"/>
+<area shape="rect" id="node7" href="$class_address_table_model.html#a0beb94d838781d9055e393b37bf68f83" title="AddressTableModel::\llookupAddress" alt="" coords="262,120,407,159"/>
+<area shape="rect" id="node8" href="$class_edit_address_dialog.html#a57d26af2c34bd45c06596e9b3fc9a446" title="EditAddressDialog::\lsetModel" alt="" coords="265,232,404,271"/>
+<area shape="rect" id="node9" href="$class_edit_address_dialog.html#a45d90d6f757fb4b20788710c8533036b" title="EditAddressDialog::\lloadRow" alt="" coords="265,295,404,333"/>
+<area shape="rect" id="node10" href="$class_edit_address_dialog.html#afcaca5a8e493b9493d2ca2430f7ac5eb" title="EditAddressDialog::\lsetAddress" alt="" coords="265,357,404,396"/>
+<area shape="rect" id="node6" href="$namespace_g_u_i_util.html#af6b9624383a5313a5d856c59913b599b" title="GUIUtil::fixedPitchFont" alt="" coords="483,183,639,208"/>
+<area shape="rect" id="node5" href="$class_address_table_priv.html#af311eb7d0189a74a508d7ad0f563f307" title="AddressTablePriv::index" alt="" coords="687,127,852,152"/>
+</map>

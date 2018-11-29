@@ -1,0 +1,28 @@
+<map id="src/validationinterface.cpp" name="src/validationinterface.cpp">
+<area shape="rect" id="node2" href="$validationinterface_8h.html" title="validationinterface.h" alt="" coords="278,159,418,184"/>
+<area shape="rect" id="node20" href="$block_8h.html" title="primitives/block.h" alt="" coords="2491,159,2615,184"/>
+<area shape="rect" id="node21" href="$scheduler_8h.html" title="scheduler.h" alt="" coords="138,239,227,264"/>
+<area shape="rect" id="node24" href="$txmempool_8h.html" title="txmempool.h" alt="" coords="3119,79,3217,104"/>
+<area shape="rect" id="node34" href="$util_8h.html" title="util.h" alt="" coords="1475,239,1525,264"/>
+<area shape="rect" id="node46" href="$validation_8h.html" title="validation.h" alt="" coords="1883,79,1972,104"/>
+<area shape="rect" id="node3" href="$transaction_8h.html" title="primitives/transaction.h" alt="" coords="2685,239,2843,264"/>
+<area shape="rect" id="node16" href="$sync_8h.html" title="sync.h" alt="" coords="362,319,422,344"/>
+<area shape="rect" id="node5" href="$amount_8h.html" title="amount.h" alt="" coords="3307,319,3384,344"/>
+<area shape="rect" id="node6" href="$script_8h.html" title="script/script.h" alt="" coords="2575,319,2675,344"/>
+<area shape="rect" id="node7" href="$serialize_8h.html" title="serialize.h" alt="" coords="2331,399,2413,424"/>
+<area shape="rect" id="node15" href="$uint256_8h.html" title="uint256.h" alt="" coords="2851,399,2927,424"/>
+<area shape="rect" id="node17" href="$threadsafety_8h.html" title="threadsafety.h" alt="" coords="317,399,422,424"/>
+<area shape="rect" id="node25" href="$coins_8h.html" title="coins.h" alt="" coords="2836,159,2900,184"/>
+<area shape="rect" id="node26" href="$indirectmap_8h.html" title="indirectmap.h" alt="" coords="3357,159,3459,184"/>
+<area shape="rect" id="node27" href="$feerate_8h.html" title="policy/feerate.h" alt="" coords="2968,239,3080,264"/>
+<area shape="rect" id="node28" href="$random_8h.html" title="random.h" alt="" coords="3458,319,3536,344"/>
+<area shape="rect" id="node35" href="$compat_8h.html" title="compat.h" alt="" coords="952,319,1029,344"/>
+<area shape="rect" id="node36" href="$fs_8h.html" title="fs.h" alt="" coords="1664,399,1707,424"/>
+<area shape="rect" id="node37" href="$logging_8h.html" title="logging.h" alt="" coords="1562,319,1638,344"/>
+<area shape="rect" id="node38" href="$tinyformat_8h.html" title="tinyformat.h" alt="" coords="1346,399,1437,424"/>
+<area shape="rect" id="node41" href="$utilmemory_8h.html" title="utilmemory.h" alt="" coords="850,399,947,424"/>
+<area shape="rect" id="node42" href="$utiltime_8h.html" title="utiltime.h" alt="" coords="2752,399,2827,424"/>
+<area shape="rect" id="node47" href="$protocol_8h.html" title="protocol.h" alt="" coords="2472,319,2552,344"/>
+<area shape="rect" id="node48" href="$script__error_8h.html" title="script/script_error.h" alt="" coords="1379,159,1514,184"/>
+<area shape="rect" id="node49" href="$versionbits_8h.html" title="versionbits.h" alt="" coords="454,239,551,264"/>
+</map>

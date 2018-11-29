@@ -1,0 +1,20 @@
+<map id="src/protocol.cpp" name="src/protocol.cpp">
+<area shape="rect" id="node2" href="$protocol_8h.html" title="protocol.h" alt="" coords="961,79,1041,104"/>
+<area shape="rect" id="node40" href="$util_8h.html" title="util.h" alt="" coords="1848,152,1898,177"/>
+<area shape="rect" id="node50" href="$utilstrencodings_8h.html" title="utilstrencodings.h" alt="" coords="1533,232,1658,257"/>
+<area shape="rect" id="node3" href="$netaddress_8h.html" title="netaddress.h" alt="" coords="995,152,1093,177"/>
+<area shape="rect" id="node18" href="$serialize_8h.html" title="serialize.h" alt="" coords="924,232,1006,257"/>
+<area shape="rect" id="node34" href="$uint256_8h.html" title="uint256.h" alt="" coords="562,152,638,177"/>
+<area shape="rect" id="node38" href="$version_8h.html" title="version.h" alt="" coords="462,152,537,177"/>
+<area shape="rect" id="node4" href="$compat_8h.html" title="compat.h" alt="" coords="800,385,876,411"/>
+<area shape="rect" id="node33" href="$span_8h.html" title="span.h" alt="" coords="978,312,1040,337"/>
+<area shape="rect" id="node19" href="$endian_8h.html" title="compat/endian.h" alt="" coords="392,312,512,337"/>
+<area shape="rect" id="node32" href="$prevector_8h.html" title="prevector.h" alt="" coords="179,312,266,337"/>
+<area shape="rect" id="node37" href="$common_8h.html" title="crypto/common.h" alt="" coords="389,232,512,257"/>
+<area shape="rect" id="node41" href="$fs_8h.html" title="fs.h" alt="" coords="2068,312,2110,337"/>
+<area shape="rect" id="node42" href="$logging_8h.html" title="logging.h" alt="" coords="1935,232,2011,257"/>
+<area shape="rect" id="node43" href="$tinyformat_8h.html" title="tinyformat.h" alt="" coords="1852,312,1943,337"/>
+<area shape="rect" id="node44" href="$sync_8h.html" title="sync.h" alt="" coords="2135,232,2195,257"/>
+<area shape="rect" id="node45" href="$utilmemory_8h.html" title="utilmemory.h" alt="" coords="1210,232,1307,257"/>
+<area shape="rect" id="node46" href="$utiltime_8h.html" title="utiltime.h" alt="" coords="1753,312,1828,337"/>
+</map>

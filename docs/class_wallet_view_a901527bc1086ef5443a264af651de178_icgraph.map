@@ -1,0 +1,10 @@
+<map id="WalletView::message" name="WalletView::message">
+<area shape="rect" id="node2" href="$class_wallet_view.html#a8c584ab249ed6d5ca68c4f936ad74161" title="WalletView::WalletView" alt="" coords="214,5,373,31"/>
+<area shape="rect" id="node3" href="$class_wallet_view.html#a4405b0cf33d31ea663cb1e5047ae1d97" title="WalletView::setBitcoinGUI" alt="" coords="206,55,381,80"/>
+<area shape="rect" id="node5" href="$class_wallet_view.html#a0a37ff693a4f9c1e5ddc23f9cd3913be" title="Set the wallet model. " alt="" coords="201,104,386,129"/>
+<area shape="rect" id="node6" href="$class_wallet_view.html#a9800d793b552076b4207276d9e08c8b6" title="Backup the wallet. " alt="" coords="207,153,380,179"/>
+<area shape="rect" id="node4" href="$class_wallet_frame.html#a06cb28194836995e50cc46716b2227ff" title="WalletFrame::addWallet" alt="" coords="444,80,607,105"/>
+<area shape="rect" id="node7" href="$class_wallet_frame.html#a76aa3543635fedea052661a4cd44b81d" title="Backup the wallet. " alt="" coords="434,153,617,179"/>
+<area shape="rect" id="node8" href="$class_bitcoin_g_u_i.html#a7340679e1356b1bb3cfaeb64a3e93218" title="Create the main UI actions. " alt="" coords="665,153,839,179"/>
+<area shape="rect" id="node9" href="$class_bitcoin_g_u_i.html#a58564e8398e33db7beca224c0f71c2b6" title="BitcoinGUI::BitcoinGUI" alt="" coords="887,153,1043,179"/>
+</map>

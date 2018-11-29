@@ -1,0 +1,8 @@
+<map id="CTxMemPool::DynamicMemoryUsage" name="CTxMemPool::DynamicMemoryUsage">
+<area shape="rect" id="node2" href="$blockchain_8h.html#a7305038a43cc5f399ca00e00c6f07186" title="Mempool information to JSON. " alt="" coords="277,5,425,31"/>
+<area shape="rect" id="node3" href="$class_c_tx_mem_pool.html#a232651541c3393c81153ffc289e7b71d" title="The minimum fee to get into the mempool, which may itself not be enough for larger&#45;sized transactions..." alt="" coords="263,55,438,80"/>
+<area shape="rect" id="node7" href="$class_c_tx_mem_pool.html#adb0214b2760eaedf15eb351348bc4f43" title="Remove transactions from the mempool until its dynamic size is &lt;= sizelimit. " alt="" coords="263,104,439,129"/>
+<area shape="rect" id="node4" href="$wallet_2fees_8h.html#a9d542d5ea12dcb9956820227d7fdd50b" title="Estimate the minimum fee rate considering user set parameters and the required fee. " alt="" coords="487,55,635,80"/>
+<area shape="rect" id="node5" href="$group___actions.html#ga588aa50e86669d089e0debe68665ada0" title="Shuffle and select coins until nTargetValue is reached while avoiding small change; This method is st..." alt="" coords="683,29,878,55"/>
+<area shape="rect" id="node6" href="$wallet_2fees_8h.html#aa38f3270682c7f696a702ab43ec76001" title="Estimate the minimum fee considering user set parameters and the required fee. " alt="" coords="720,79,840,104"/>
+</map>

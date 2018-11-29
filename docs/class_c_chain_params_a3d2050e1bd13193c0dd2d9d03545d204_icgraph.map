@@ -1,0 +1,4 @@
+<map id="CChainParams::TxData" name="CChainParams::TxData">
+<area shape="rect" id="node2" href="$group__map_wallet.html#gaabb1db808d082d6df2b1e37cbf3f8f98" title="Scan the block chain (starting in pindexStart) for transactions from or to us. " alt="" coords="215,5,453,31"/>
+<area shape="rect" id="node3" href="$rpcwallet_8cpp.html#a151535abf7394b299deb8d0a333de70b" title="rescanblockchain" alt="" coords="501,5,626,31"/>
+</map>

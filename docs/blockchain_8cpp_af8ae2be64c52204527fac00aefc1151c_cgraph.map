@@ -1,0 +1,17 @@
+<map id="scantxoutset" name="scantxoutset">
+<area shape="rect" id="node2" href="$class_uni_value.html#a5a7394aeb8d5584db7a90c2c041726b1" title="UniValue::size" alt="" coords="400,5,506,31"/>
+<area shape="rect" id="node3" href="$server_8cpp.html#a1d3e3ccc5d3ba3ee1314be41a2039e0f" title="Type&#45;check arguments; throws JSONRPCError if wrong type given. " alt="" coords="176,56,292,81"/>
+<area shape="rect" id="node11" href="$class_uni_value.html#a087ea6ccec615333371fa1aaf83ab7df" title="UniValue::get_str" alt="" coords="172,105,295,131"/>
+<area shape="rect" id="node13" href="$class_coins_view_scan_reserver.html#ae97d608dd699ec00814dc6074680f8a9" title="CoinsViewScanReserver\l::reserve" alt="" coords="150,155,318,193"/>
+<area shape="rect" id="node14" href="$class_uni_value.html#abab649c2dbd593233de6364254456026" title="UniValue::pushKV" alt="" coords="170,217,298,243"/>
+<area shape="rect" id="node4" href="$class_uni_value.html#a3661be0f5580daceb23e5338e3a0df22" title="UniValue::isNull" alt="" coords="396,55,510,80"/>
+<area shape="rect" id="node5" href="$server_8cpp.html#a34ca526f05cc7f2281e634a5be48c121" title="Type&#45;check one argument; throws JSONRPCError if wrong type given. " alt="" coords="366,104,540,129"/>
+<area shape="rect" id="node6" href="$class_uni_value.html#a5b33bfd4be1574e610eee5a7cdae77d1" title="UniValue::type" alt="" coords="592,55,699,80"/>
+<area shape="rect" id="node8" href="$rpc_2protocol_8cpp.html#a40b75d3d265c4a2e1d5fe3e129743884" title="JSONRPCError" alt="" coords="588,104,703,129"/>
+<area shape="rect" id="node10" href="$univalue_8h.html#aa037153cdbc98dd3683ff1918dc70932" title="uvTypeName" alt="" coords="595,153,695,179"/>
+<area shape="rect" id="node7" href="$class_uni_value.html#a2dbc9c5aa9d209338b0bef650f3d1987" title="UniValue::getType" alt="" coords="751,55,880,80"/>
+<area shape="rect" id="node9" href="$util_8h.html#a96c5fc7111f69f7dcaba992d95d13e03" title="error" alt="" coords="791,104,840,129"/>
+<area shape="rect" id="node12" href="$class_uni_value.html#a4c9a5fa9114affbf31f6e346c032be12" title="UniValue::getValStr" alt="" coords="385,153,521,179"/>
+<area shape="rect" id="node15" href="$class_uni_value.html#a85f3a2f520375b464fb506b2ede5c3df" title="UniValue::findKey" alt="" coords="390,209,516,235"/>
+<area shape="rect" id="node16" href="$class_uni_value.html#a505a2087cb7d9ee51d24a97a5cc7910c" title="UniValue::__pushKV" alt="" coords="381,259,525,284"/>
+</map>

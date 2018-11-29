@@ -1,0 +1,6 @@
+<map id="CPartialMerkleTree::CalcTreeWidth" name="CPartialMerkleTree::CalcTreeWidth">
+<area shape="rect" id="node2" href="$class_c_partial_merkle_tree.html#a69e7771f95c498f6a340dcc227abcde4" title="calculate the hash of a node in the merkle tree (at leaf level: the txid&#39;s themselves) ..." alt="" coords="194,5,330,44"/>
+<area shape="rect" id="node3" href="$class_c_partial_merkle_tree.html#a62bdcaf5b5ee6c6327ef67fb027a5fef" title="recursive function that traverses tree nodes, storing the data as bits and hashes ..." alt="" coords="383,56,519,95"/>
+<area shape="rect" id="node4" href="$class_c_partial_merkle_tree.html#a0656767dc0d8f3d603c54e5be21d3890" title="Construct a partial merkle tree from a list of transaction ids, and a mask that selects a subset of t..." alt="" coords="567,85,710,124"/>
+<area shape="rect" id="node5" href="$class_c_partial_merkle_tree.html#ae91d33a101afde8870f56b2cd5526441" title="recursive function that traverses tree nodes, consuming the bits and hashes produced by TraverseAndBu..." alt="" coords="189,171,335,209"/>
+</map>

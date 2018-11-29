@@ -1,0 +1,12 @@
+<map id="src/primitives/transaction.h" name="src/primitives/transaction.h">
+<area shape="rect" id="node3" href="$amount_8h.html" title="amount.h" alt="" coords="962,79,1039,104"/>
+<area shape="rect" id="node4" href="$script_8h.html" title="script/script.h" alt="" coords="1478,79,1578,104"/>
+<area shape="rect" id="node30" href="$serialize_8h.html" title="serialize.h" alt="" coords="1179,152,1261,177"/>
+<area shape="rect" id="node43" href="$uint256_8h.html" title="uint256.h" alt="" coords="1895,79,1972,104"/>
+<area shape="rect" id="node5" href="$common_8h.html" title="crypto/common.h" alt="" coords="1996,152,2119,177"/>
+<area shape="rect" id="node9" href="$prevector_8h.html" title="prevector.h" alt="" coords="1336,225,1424,251"/>
+<area shape="rect" id="node7" href="$endian_8h.html" title="compat/endian.h" alt="" coords="1987,225,2107,251"/>
+<area shape="rect" id="node8" href="$byteswap_8h.html" title="compat/byteswap.h" alt="" coords="1835,299,1971,324"/>
+<area shape="rect" id="node15" href="$compat_8h.html" title="compat.h" alt="" coords="666,299,742,324"/>
+<area shape="rect" id="node40" href="$span_8h.html" title="span.h" alt="" coords="509,225,571,251"/>
+</map>

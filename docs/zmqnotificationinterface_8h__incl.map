@@ -1,0 +1,16 @@
+<map id="src/zmq/zmqnotificationinterface.h" name="src/zmq/zmqnotificationinterface.h">
+<area shape="rect" id="node2" href="$validationinterface_8h.html" title="validationinterface.h" alt="" coords="477,79,617,104"/>
+<area shape="rect" id="node3" href="$transaction_8h.html" title="primitives/transaction.h" alt="" coords="765,152,923,177"/>
+<area shape="rect" id="node44" href="$sync_8h.html" title="sync.h" alt="" coords="517,152,577,177"/>
+<area shape="rect" id="node5" href="$amount_8h.html" title="amount.h" alt="" coords="716,299,793,324"/>
+<area shape="rect" id="node6" href="$script_8h.html" title="script/script.h" alt="" coords="1130,225,1230,251"/>
+<area shape="rect" id="node29" href="$serialize_8h.html" title="serialize.h" alt="" coords="845,299,926,324"/>
+<area shape="rect" id="node42" href="$uint256_8h.html" title="uint256.h" alt="" coords="1555,225,1632,251"/>
+<area shape="rect" id="node7" href="$common_8h.html" title="crypto/common.h" alt="" coords="1792,299,1915,324"/>
+<area shape="rect" id="node11" href="$prevector_8h.html" title="prevector.h" alt="" coords="935,372,1022,397"/>
+<area shape="rect" id="node9" href="$endian_8h.html" title="compat/endian.h" alt="" coords="1696,372,1816,397"/>
+<area shape="rect" id="node10" href="$byteswap_8h.html" title="compat/byteswap.h" alt="" coords="1569,445,1706,471"/>
+<area shape="rect" id="node17" href="$compat_8h.html" title="compat.h" alt="" coords="481,445,557,471"/>
+<area shape="rect" id="node39" href="$span_8h.html" title="span.h" alt="" coords="351,372,412,397"/>
+<area shape="rect" id="node45" href="$threadsafety_8h.html" title="threadsafety.h" alt="" coords="353,225,458,251"/>
+</map>

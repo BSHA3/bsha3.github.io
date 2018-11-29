@@ -1,0 +1,7 @@
+<map id="CWallet::SyncTransaction" name="CWallet::SyncTransaction">
+<area shape="rect" id="node2" href="$group__map_wallet.html#gae44ec090ec7c87725fb22d33887ad1a7" title="Notifies listeners of a transaction having been added to mempool. " alt="" coords="255,5,437,44"/>
+<area shape="rect" id="node3" href="$group__map_wallet.html#ga8871fb58a2872900558d69d71baddfca" title="Notifies listeners of a block being connected. " alt="" coords="260,68,432,93"/>
+<area shape="rect" id="node4" href="$group__map_wallet.html#ga3aa53a08f7071c42c0ef82ea468d19ae" title="Notifies listeners of a block being disconnected. " alt="" coords="252,117,440,143"/>
+<area shape="rect" id="node5" href="$group__map_wallet.html#gaabb1db808d082d6df2b1e37cbf3f8f98" title="Scan the block chain (starting in pindexStart) for transactions from or to us. " alt="" coords="227,167,465,192"/>
+<area shape="rect" id="node6" href="$rpcwallet_8cpp.html#a151535abf7394b299deb8d0a333de70b" title="rescanblockchain" alt="" coords="513,167,637,192"/>
+</map>

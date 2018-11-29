@@ -1,0 +1,5 @@
+<map id="HelpRequiringPassphrase" name="HelpRequiringPassphrase">
+<area shape="rect" id="node2" href="$rpcwallet_8h.html#a7c13054932c9e3b351bd6277fa9361d7" title="signrawtransactionwithwallet" alt="" coords="230,5,420,31"/>
+<area shape="rect" id="node3" href="$rpcwallet_8cpp.html#a61c7a90d1b36888fe11b751e746e18c0" title="sethdseed" alt="" coords="283,55,366,80"/>
+<area shape="rect" id="node4" href="$rpcwallet_8cpp.html#a9c99ceacf389a1ce91977c6f7ffa5022" title="walletprocesspsbt" alt="" coords="261,104,388,129"/>
+</map>

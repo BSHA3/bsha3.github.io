@@ -1,0 +1,4 @@
+<map id="CCoinsViewDB::Cursor" name="CCoinsViewDB::Cursor">
+<area shape="rect" id="node2" href="$class_c_coins_view_d_b.html#aac696880a5bb854dcdcb20d8a035be9b" title="Retrieve the block hash whose state this CCoinsView currently represents. " alt="" coords="213,5,413,31"/>
+<area shape="rect" id="node3" href="$class_c_d_b_wrapper.html#a38084dd7b2870e6ac3082e7521d88a29" title="CDBWrapper::Read" alt="" coords="461,5,601,31"/>
+</map>

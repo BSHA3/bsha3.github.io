@@ -1,0 +1,6 @@
+<map id="Intro::startThread" name="Intro::startThread">
+<area shape="rect" id="node2" href="$class_intro.html#a07d9b3b639deb51f1c7b1a9cedf09840" title="Intro::setStatus" alt="" coords="210,5,321,31"/>
+<area shape="rect" id="node3" href="$class_freespace_checker.html#afb1648f73f72526df2dc0a25e047bbfd" title="FreespaceChecker::check" alt="" coords="177,55,353,80"/>
+<area shape="rect" id="node4" href="$class_intro.html#abf2dd8b7560a605b281a165cc5368ad6" title="Intro::getPathToCheck" alt="" coords="418,29,571,55"/>
+<area shape="rect" id="node5" href="$namespace_g_u_i_util.html#a057acdc7bef131814bbef6634f09fcf3" title="GUIUtil::qstringToBoostPath" alt="" coords="401,79,588,104"/>
+</map>

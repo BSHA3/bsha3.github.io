@@ -1,0 +1,4 @@
+<map id="SendCoinsDialog::setClientModel" name="SendCoinsDialog::setClientModel">
+<area shape="rect" id="node2" href="$class_wallet_view.html#a46d9a8d93adfdcc29cae9ff0d44c313e" title="Set the client model. " alt="" coords="237,12,419,37"/>
+<area shape="rect" id="node3" href="$class_wallet_frame.html#a06cb28194836995e50cc46716b2227ff" title="WalletFrame::addWallet" alt="" coords="467,12,630,37"/>
+</map>

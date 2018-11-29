@@ -1,0 +1,22 @@
+<map id="src/qt/sendcoinsdialog.cpp" name="src/qt/sendcoinsdialog.cpp">
+<area shape="rect" id="node2" href="$sendcoinsdialog_8h.html" title="qt/sendcoinsdialog.h" alt="" coords="937,79,1080,104"/>
+<area shape="rect" id="node11" href="$addresstablemodel_8h.html" title="qt/addresstablemodel.h" alt="" coords="3348,79,3508,104"/>
+<area shape="rect" id="node14" href="$bitcoinunits_8h.html" title="qt/bitcoinunits.h" alt="" coords="2085,79,2199,104"/>
+<area shape="rect" id="node16" href="$clientmodel_8h.html" title="qt/clientmodel.h" alt="" coords="3032,152,3147,177"/>
+<area shape="rect" id="node20" href="$coincontroldialog_8h.html" title="qt/coincontroldialog.h" alt="" coords="337,79,485,104"/>
+<area shape="rect" id="node27" href="$guiutil_8h.html" title="qt/guiutil.h" alt="" coords="1518,79,1600,104"/>
+<area shape="rect" id="node35" href="$optionsmodel_8h.html" title="qt/optionsmodel.h" alt="" coords="2222,79,2349,104"/>
+<area shape="rect" id="node36" href="$platformstyle_8h.html" title="qt/platformstyle.h" alt="" coords="1938,79,2061,104"/>
+<area shape="rect" id="node38" href="$sendcoinsentry_8h.html" title="qt/sendcoinsentry.h" alt="" coords="760,79,896,104"/>
+<area shape="rect" id="node39" href="$chainparams_8h.html" title="chainparams.h" alt="" coords="2899,152,3008,177"/>
+<area shape="rect" id="node40" href="$node_8h.html" title="interfaces/node.h" alt="" coords="2581,152,2705,177"/>
+<area shape="rect" id="node41" href="$key__io_8h.html" title="key_io.h" alt="" coords="2930,79,3001,104"/>
+<area shape="rect" id="node42" href="$coincontrol_8h.html" title="wallet/coincontrol.h" alt="" coords="2594,79,2729,104"/>
+<area shape="rect" id="node43" href="$policy_2fees_8h.html" title="policy/fees.h" alt="" coords="2729,152,2824,177"/>
+<area shape="rect" id="node44" href="$ui__interface_8h.html" title="ui_interface.h" alt="" coords="2804,79,2906,104"/>
+<area shape="rect" id="node45" href="$txmempool_8h.html" title="txmempool.h" alt="" coords="2460,152,2557,177"/>
+<area shape="rect" id="node46" href="$wallet_2fees_8h.html" title="wallet/fees.h" alt="" coords="2373,79,2468,104"/>
+<area shape="rect" id="node3" href="$walletmodel_8h.html" title="qt/walletmodel.h" alt="" coords="754,152,871,177"/>
+<area shape="rect" id="node4" href="$amount_8h.html" title="amount.h" alt="" coords="2333,225,2410,251"/>
+<area shape="rect" id="node28" href="$fs_8h.html" title="fs.h" alt="" coords="1206,152,1249,177"/>
+</map>

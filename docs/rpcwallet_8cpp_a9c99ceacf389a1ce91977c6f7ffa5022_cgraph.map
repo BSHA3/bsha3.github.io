@@ -1,0 +1,51 @@
+<map id="walletprocesspsbt" name="walletprocesspsbt">
+<area shape="rect" id="node2" href="$rpcwallet_8cpp.html#a13cf9bdc928d8ca0b67e34791da05ddc" title="Figures out what wallet, if any, to use for a JSONRPCRequest. " alt="" coords="181,104,393,129"/>
+<area shape="rect" id="node5" href="$rpc_2protocol_8cpp.html#a40b75d3d265c4a2e1d5fe3e129743884" title="JSONRPCError" alt="" coords="801,281,916,307"/>
+<area shape="rect" id="node6" href="$util_8h.html#a96c5fc7111f69f7dcaba992d95d13e03" title="error" alt="" coords="1068,231,1118,256"/>
+<area shape="rect" id="node8" href="$rpcwallet_8cpp.html#ae44c9e4546fdf6e182276fada0126649" title="EnsureWalletIsAvailable" alt="" coords="205,353,369,379"/>
+<area shape="rect" id="node10" href="$class_uni_value.html#a5a7394aeb8d5584db7a90c2c041726b1" title="UniValue::size" alt="" coords="518,407,624,432"/>
+<area shape="rect" id="node11" href="$rpcwallet_8cpp.html#a36c79784e41a4cdcb7a3701790dc76f7" title="HelpRequiringPassphrase" alt="" coords="199,707,375,732"/>
+<area shape="rect" id="node13" href="$server_8cpp.html#a26bafe3d526ee8cbc84b3c0b0dc3a43b" title="HelpExampleCli" alt="" coords="229,756,345,781"/>
+<area shape="rect" id="node14" href="$server_8cpp.html#a1d3e3ccc5d3ba3ee1314be41a2039e0f" title="Type&#45;check arguments; throws JSONRPCError if wrong type given. " alt="" coords="229,455,345,480"/>
+<area shape="rect" id="node15" href="$class_uni_value.html#a3661be0f5580daceb23e5338e3a0df22" title="UniValue::isNull" alt="" coords="514,505,628,531"/>
+<area shape="rect" id="node20" href="$core__io_8h.html#a5961d702bf5ed07bfce97f697136d732" title="DecodePSBT" alt="" coords="236,831,338,856"/>
+<area shape="rect" id="node23" href="$class_uni_value.html#a087ea6ccec615333371fa1aaf83ab7df" title="UniValue::get_str" alt="" coords="510,555,632,580"/>
+<area shape="rect" id="node25" href="$core__io_8h.html#a54a58438a2f3f96d0697910ca68aa9da" title="ParseSighashString" alt="" coords="217,556,357,581"/>
+<area shape="rect" id="node26" href="$class_uni_value.html#ae8a27d40aa1b1322ea95ff4fb2dec2b1" title="UniValue::get_bool" alt="" coords="221,931,354,956"/>
+<area shape="rect" id="node29" href="$rpcwallet_8cpp.html#aa42cddcbe0807aed19d6aa60b01a9485" title="FillPSBT" alt="" coords="250,657,324,683"/>
+<area shape="rect" id="node3" href="$rpcwallet_8cpp.html#af704ea42262521346e3be551cfbc5a7f" title="GetWalletNameFromJSONRPCRequest" alt="" coords="441,5,701,31"/>
+<area shape="rect" id="node4" href="$wallet_2wallet_8cpp.html#a59fb74ca7a0b34f8f86ec58464a72f8a" title="GetWallet" alt="" coords="531,55,611,80"/>
+<area shape="rect" id="node7" href="$dummywallet_8cpp.html#ab8562a8762a7793fdf5b8ae9465e1b85" title="GetWallets" alt="" coords="528,104,614,129"/>
+<area shape="rect" id="node9" href="$wallet_2wallet_8cpp.html#a9bc62b5b6dea0a67f248bc07019a851f" title="HasWallets" alt="" coords="527,357,615,383"/>
+<area shape="rect" id="node12" href="$class_c_crypto_key_store.html#acc8fed44366c98fb481333ca6e867088" title="CCryptoKeyStore::IsCrypted" alt="" coords="476,859,666,884"/>
+<area shape="rect" id="node16" href="$server_8cpp.html#a34ca526f05cc7f2281e634a5be48c121" title="Type&#45;check one argument; throws JSONRPCError if wrong type given. " alt="" coords="484,456,658,481"/>
+<area shape="rect" id="node17" href="$class_uni_value.html#a5b33bfd4be1574e610eee5a7cdae77d1" title="UniValue::type" alt="" coords="805,407,912,432"/>
+<area shape="rect" id="node19" href="$univalue_8h.html#aa037153cdbc98dd3683ff1918dc70932" title="uvTypeName" alt="" coords="809,456,909,481"/>
+<area shape="rect" id="node18" href="$class_uni_value.html#a2dbc9c5aa9d209338b0bef650f3d1987" title="UniValue::getType" alt="" coords="1028,407,1158,432"/>
+<area shape="rect" id="node21" href="$utilstrencodings_8cpp.html#a78fcb7c758b97a058d9033831640203a" title="DecodeBase64" alt="" coords="515,932,627,957"/>
+<area shape="rect" id="node22" href="$class_uni_value.html#a944cd1b59b040cd24c9f46b55a68d49a" title="UniValue::push_back" alt="" coords="785,1004,932,1029"/>
+<area shape="rect" id="node24" href="$class_uni_value.html#a4c9a5fa9114affbf31f6e346c032be12" title="UniValue::getValStr" alt="" coords="791,505,927,531"/>
+<area shape="rect" id="node27" href="$class_uni_value.html#acb5c848d20cb741dbe65e28bc513baa8" title="UniValue::getBool" alt="" coords="508,1029,635,1055"/>
+<area shape="rect" id="node28" href="$class_uni_value.html#a1491167609f899d0c7773749b5047969" title="UniValue::isTrue" alt="" coords="799,1053,918,1079"/>
+<area shape="rect" id="node30" href="$sign_8cpp.html#a33bc722e714f999819a59ba925ce7bce" title="Signs a PSBTInput, verifying that all provided data matches what is being signed. ..." alt="" coords="515,757,627,783"/>
+<area shape="rect" id="node37" href="$sign_8cpp.html#a0c453416d09212d876bee81dc9353c16" title="Produce a script signature using a generic signature creator. " alt="" coords="795,955,923,980"/>
+<area shape="rect" id="node49" href="$struct_p_s_b_t_output.html#aed37e5f0eeb0998c9ce8ba54207d9b11" title="PSBTOutput::FillSignatureData" alt="" coords="756,604,961,629"/>
+<area shape="rect" id="node50" href="$struct_p_s_b_t_output.html#af18dc37906919ec9fa9aa7b559f8ea74" title="PSBTOutput::FromSignatureData" alt="" coords="749,555,969,580"/>
+<area shape="rect" id="node31" href="$classprevector.html#a0057a2d5ac2bbff636af5fbd87ae5235" title="prevector::empty" alt="" coords="1033,655,1153,680"/>
+<area shape="rect" id="node34" href="$struct_c_script_witness.html#adc63cbb14bf507c490b3a99801e476ff" title="CScriptWitness::IsNull" alt="" coords="1017,853,1170,879"/>
+<area shape="rect" id="node35" href="$struct_p_s_b_t_input.html#aac68b5e551ba160e4f9fb393f94845bb" title="PSBTInput::FillSignatureData" alt="" coords="761,755,956,780"/>
+<area shape="rect" id="node36" href="$class_c_tx_out.html#ab92a3c4c95c643f7b3ffd3ffa7cd7055" title="CTxOut::IsNull" alt="" coords="805,705,913,731"/>
+<area shape="rect" id="node38" href="$struct_p_s_b_t_input.html#ad4eae111b69112fac6fd802b9e647d8e" title="PSBTInput::FromSignatureData" alt="" coords="754,853,963,879"/>
+<area shape="rect" id="node48" href="$class_c_tx_out.html#a9fe5e6a1be651f130d3dc84a64e78a24" title="CTxOut::SetNull" alt="" coords="800,804,918,829"/>
+<area shape="rect" id="node32" href="$classprevector.html#a626f7d206dbc24e5610631809762758b" title="prevector::size" alt="" coords="1828,783,1936,808"/>
+<area shape="rect" id="node33" href="$classprevector.html#a933e204a7e29c6bbc85479d023c00ff8" title="prevector::is_direct" alt="" coords="1997,808,2131,833"/>
+<area shape="rect" id="node39" href="$class_c_script.html#a7b2baf842621f07c4939408acf63377c" title="CScript::clear" alt="" coords="1042,804,1144,829"/>
+<area shape="rect" id="node40" href="$classprevector.html#a412f07b8bf5485dabe2fe9d6d5dfe763" title="prevector::clear" alt="" coords="1218,832,1331,857"/>
+<area shape="rect" id="node47" href="$classprevector.html#a3b82afa760e2aabd8373994a1316523e" title="prevector::shrink_to_fit" alt="" coords="1379,756,1535,781"/>
+<area shape="rect" id="node41" href="$classprevector.html#ad2d97a45e0d2872260e868a540d31860" title="prevector::resize" alt="" coords="1397,857,1517,883"/>
+<area shape="rect" id="node42" href="$classprevector.html#a780af143deebcaaecb164fa1a2d98156" title="prevector::erase" alt="" coords="1617,857,1734,883"/>
+<area shape="rect" id="node43" href="$classprevector.html#a59f1d7bcbc751cfa0faddd7ffa184846" title="prevector::item_ptr" alt="" coords="1816,959,1948,984"/>
+<area shape="rect" id="node44" href="$classprevector.html#aab7f6e13a3cac85cc340fc6b90c5365c" title="prevector::end" alt="" coords="1622,959,1729,984"/>
+<area shape="rect" id="node45" href="$classprevector.html#a833f4c9e5c4804fb8ac57b708657af24" title="prevector::capacity" alt="" coords="1816,832,1949,857"/>
+<area shape="rect" id="node46" href="$classprevector.html#a0e673654d3b7d8d6f79534e17f68741a" title="prevector::change_capacity" alt="" coords="1583,756,1768,781"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="src/warnings.h" name="src/warnings.h">
+<area shape="rect" id="node2" href="$base_8cpp.html" title="src/index/base.cpp" alt="" coords="5,79,138,104"/>
+<area shape="rect" id="node3" href="$init_8cpp.html" title="src/init.cpp" alt="" coords="162,79,247,104"/>
+<area shape="rect" id="node4" href="$node_8cpp.html" title="src/interfaces/node.cpp" alt="" coords="272,79,431,104"/>
+<area shape="rect" id="node5" href="$bitcoin_8cpp.html" title="src/qt/bitcoin.cpp" alt="" coords="455,79,576,104"/>
+<area shape="rect" id="node6" href="$clientmodel_8cpp.html" title="src/qt/clientmodel.cpp" alt="" coords="600,79,751,104"/>
+<area shape="rect" id="node7" href="$blockchain_8cpp.html" title="src/rpc/blockchain.cpp" alt="" coords="775,79,928,104"/>
+<area shape="rect" id="node8" href="$mining_8cpp.html" title="src/rpc/mining.cpp" alt="" coords="952,79,1082,104"/>
+<area shape="rect" id="node9" href="$misc_8cpp.html" title="src/rpc/misc.cpp" alt="" coords="1106,79,1224,104"/>
+<area shape="rect" id="node10" href="$rpc_2net_8cpp.html" title="src/rpc/net.cpp" alt="" coords="1248,79,1357,104"/>
+<area shape="rect" id="node11" href="$timedata_8cpp.html" title="src/timedata.cpp" alt="" coords="1380,79,1499,104"/>
+<area shape="rect" id="node12" href="$validation_8cpp.html" title="src/validation.cpp" alt="" coords="1523,79,1647,104"/>
+<area shape="rect" id="node13" href="$warnings_8cpp.html" title="src/warnings.cpp" alt="" coords="1671,79,1792,104"/>
+</map>

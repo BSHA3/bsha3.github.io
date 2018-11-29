@@ -1,0 +1,5 @@
+<map id="OverviewPage::showOutOfSyncWarning" name="OverviewPage::showOutOfSyncWarning">
+<area shape="rect" id="node2" href="$class_overview_page.html#ab377237585c9eeabc2eec882cec9a1e2" title="OverviewPage::OverviewPage" alt="" coords="265,5,467,31"/>
+<area shape="rect" id="node3" href="$class_wallet_view.html#af3ed06b191b6d933788f32ed2daa5fae" title="WalletView::showOutOfSync\lWarning" alt="" coords="271,55,461,93"/>
+<area shape="rect" id="node4" href="$class_wallet_frame.html#a06cb28194836995e50cc46716b2227ff" title="WalletFrame::addWallet" alt="" coords="515,61,678,87"/>
+</map>

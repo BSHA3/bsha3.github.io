@@ -1,0 +1,10 @@
+<map id="BerkeleyBatch::BerkeleyBatch" name="BerkeleyBatch::BerkeleyBatch">
+<area shape="rect" id="node2" href="$class_berkeley_database.html#a613ff711faa19bc0a970fb598ab4f886" title="Return whether this database handle is a dummy for testing. " alt="" coords="254,5,448,31"/>
+<area shape="rect" id="node3" href="$class_berkeley_environment.html#a377e27a4fe936bf73091c6b0560492fd" title="BerkeleyEnvironment\l::Open" alt="" coords="277,55,425,93"/>
+<area shape="rect" id="node6" href="$class_berkeley_environment.html#a2911294d38e8e0431cb5bde625879b61" title="BerkeleyEnvironment\l::IsMock" alt="" coords="277,117,425,156"/>
+<area shape="rect" id="node7" href="$class_berkeley_batch.html#a739cd356431ea488faad8f82e3cd285d" title="BerkeleyBatch::Exists" alt="" coords="276,180,426,205"/>
+<area shape="rect" id="node8" href="$class_berkeley_batch.html#a1a8d93f8f46e534ec0a15290d4d01cd6" title="BerkeleyBatch::WriteVersion" alt="" coords="256,229,446,255"/>
+<area shape="rect" id="node4" href="$util_8cpp.html#a9042a919d837da9d97311a0c460c597c" title="Ignores exceptions thrown by Boost&#39;s create_directories if the requested directory exists..." alt="" coords="497,37,641,63"/>
+<area shape="rect" id="node5" href="$util_8cpp.html#a38866b1eecfde801d3bf4c200d6ca262" title="LockDirectory" alt="" coords="517,87,620,112"/>
+<area shape="rect" id="node9" href="$class_berkeley_batch.html#ac31c83ec96f7bd149f856d28e97dba23" title="BerkeleyBatch::Write" alt="" coords="496,229,642,255"/>
+</map>

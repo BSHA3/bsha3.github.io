@@ -1,0 +1,20 @@
+<map id="CBlockHeader::SetNull" name="CBlockHeader::SetNull">
+<area shape="rect" id="node2" href="$class_partially_downloaded_block.html#ae31ee4302e77d9757aae8b96df99486a" title="PartiallyDownloadedBlock\l::FillBlock" alt="" coords="224,5,399,44"/>
+<area shape="rect" id="node3" href="$class_c_block_header.html#a9afed57bea877bbd25b5eb6740c6990d" title="CBlockHeader::CBlockHeader" alt="" coords="211,68,412,93"/>
+<area shape="rect" id="node4" href="$class_c_block.html#a0410d7ba8d60679c4cf364b82ffffea5" title="CBlock::SetNull" alt="" coords="254,117,368,143"/>
+<area shape="rect" id="node19" href="$validation_8h.html#ad959cc64d22660f1f561798040bb1f6a" title="Process incoming block headers. " alt="" coords="222,167,401,192"/>
+<area shape="rect" id="node5" href="$class_c_block.html#aaaf8819d785559699cffbbfccb37a3b6" title="CBlock::CBlock" alt="" coords="475,93,588,119"/>
+<area shape="rect" id="node6" href="$validation_8h.html#a578c1df234b05798180f0235d469a5ba" title="Functions for disk access for blocks. " alt="" coords="460,143,603,168"/>
+<area shape="rect" id="node7" href="$group__map_wallet.html#gaabb1db808d082d6df2b1e37cbf3f8f98" title="Scan the block chain (starting in pindexStart) for transactions from or to us. " alt="" coords="651,19,888,44"/>
+<area shape="rect" id="node9" href="$validation_8h.html#ae62f71fbc880d892968f6276e0b806aa" title="Retrieve a transaction (from memory pool, or from disk, if possible) " alt="" coords="713,68,825,93"/>
+<area shape="rect" id="node10" href="$validation_8h.html#aee79e45a0b167f9b312f83a23880cfbc" title="ReadBlockFromDisk" alt="" coords="698,117,841,143"/>
+<area shape="rect" id="node11" href="$class_c_chain_state.html#a57682556dc35715fba5f0c6075efcc6e" title="Disconnect chainActive&#39;s tip. " alt="" coords="675,167,864,192"/>
+<area shape="rect" id="node17" href="$class_c_chain_state.html#a1ac66256eca2e5a25c7484f82b3b50ad" title="Connect a new block to chainActive. " alt="" coords="683,216,855,241"/>
+<area shape="rect" id="node18" href="$class_c_chain_state.html#ac231f6529bc41aea7917d0716d0c9d1a" title="Apply the effects of a block on the utxo cache, ignoring that it may already have been applied..." alt="" coords="684,265,855,304"/>
+<area shape="rect" id="node8" href="$rpcwallet_8cpp.html#a151535abf7394b299deb8d0a333de70b" title="rescanblockchain" alt="" coords="971,19,1095,44"/>
+<area shape="rect" id="node12" href="$class_c_chain_state.html#afb6986710de5db645a000d4bac55cf9f" title="Try to make some progress towards making pindexMostWork the active block. " alt="" coords="944,104,1122,143"/>
+<area shape="rect" id="node13" href="$class_c_chain_state.html#a657a2d93faf38567ef34aeb75295ef4e" title="CChainState::InvalidateBlock" alt="" coords="936,167,1130,192"/>
+<area shape="rect" id="node15" href="$class_c_chain_state.html#afc0586502e4dd4092c4a0707d329f6eb" title="CChainState::RewindBlock\lIndex" alt="" coords="943,216,1124,255"/>
+<area shape="rect" id="node14" href="$validation_8h.html#ac1125805255945a06f6f6fe1d9c6c154" title="Mark a block as invalid. " alt="" coords="1188,167,1299,192"/>
+<area shape="rect" id="node16" href="$validation_8h.html#a2e51de180124822c526ac8f82777fa32" title="When there are blocks in the active chain with missing data, rewind the chainstate and remove them fr..." alt="" coords="1178,223,1309,248"/>
+</map>

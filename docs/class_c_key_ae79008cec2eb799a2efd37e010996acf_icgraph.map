@@ -1,0 +1,6 @@
+<map id="CKey::Derive" name="CKey::Derive">
+<area shape="rect" id="node2" href="$struct_c_ext_key.html#a589df63664c6d12bfe071b747a245b1d" title="CExtKey::Derive" alt="" coords="153,5,272,31"/>
+<area shape="rect" id="node3" href="$group__map_wallet.html#gafb01fcc10d890174b2db560a7f27b58a" title="CWallet::DeriveNewChildKey" alt="" coords="320,5,514,31"/>
+<area shape="rect" id="node4" href="$group__map_wallet.html#ga5abb589b31879b8f4bf1890c22f15f64" title="keystore implementation Generate a new key " alt="" coords="562,5,742,31"/>
+<area shape="rect" id="node5" href="$group___actions.html#gac452f46eafeb2b4adfe86f7208048032" title="CWallet::GetKeyFromPool" alt="" coords="790,5,967,31"/>
+</map>

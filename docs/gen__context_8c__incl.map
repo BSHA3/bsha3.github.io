@@ -1,0 +1,16 @@
+<map id="src/secp256k1/src/gen_context.c" name="src/secp256k1/src/gen_context.c">
+<area shape="rect" id="node2" href="$basic-config_8h.html" title="basic&#45;config.h" alt="" coords="5,92,109,117"/>
+<area shape="rect" id="node3" href="$secp256k1_8h.html" title="include/secp256k1.h" alt="" coords="132,92,275,117"/>
+<area shape="rect" id="node5" href="$field__impl_8h.html" title="field_impl.h" alt="" coords="273,239,362,264"/>
+<area shape="rect" id="node10" href="$scalar__impl_8h.html" title="scalar_impl.h" alt="" coords="473,165,572,191"/>
+<area shape="rect" id="node15" href="$group__impl_8h.html" title="group_impl.h" alt="" coords="351,165,449,191"/>
+<area shape="rect" id="node16" href="$ecmult__gen__impl_8h.html" title="ecmult_gen_impl.h" alt="" coords="631,92,764,117"/>
+<area shape="rect" id="node6" href="$secp256k1_2src_2util_8h.html" title="util.h" alt="" coords="398,385,447,411"/>
+<area shape="rect" id="node11" href="$group_8h.html" title="group.h" alt="" coords="489,239,556,264"/>
+<area shape="rect" id="node14" href="$scalar_8h.html" title="scalar.h" alt="" coords="622,239,689,264"/>
+<area shape="rect" id="node12" href="$num_8h.html" title="num.h" alt="" coords="493,312,552,337"/>
+<area shape="rect" id="node13" href="$field_8h.html" title="field.h" alt="" coords="394,312,451,337"/>
+<area shape="rect" id="node17" href="$ecmult__gen_8h.html" title="ecmult_gen.h" alt="" coords="646,165,748,191"/>
+<area shape="rect" id="node18" href="$hash__impl_8h.html" title="hash_impl.h" alt="" coords="595,312,688,337"/>
+<area shape="rect" id="node19" href="$secp256k1_2src_2_hash_8h.html" title="hash.h" alt="" coords="610,385,672,411"/>
+</map>

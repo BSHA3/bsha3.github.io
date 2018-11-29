@@ -1,0 +1,8 @@
+<map id="PrintExceptionContinue" name="PrintExceptionContinue">
+<area shape="rect" id="node2" href="$class_bitcoin_core.html#a8269c96a3abdb322e4b3275a866aeaee" title="Pass fatal exception message to UI thread. " alt="" coords="214,37,407,76"/>
+<area shape="rect" id="node3" href="$class_bitcoin_core.html#af34ca069cda1d4362dcc109b4397fb62" title="BitcoinCore::initialize" alt="" coords="460,19,605,44"/>
+<area shape="rect" id="node7" href="$class_bitcoin_core.html#a94f3f4622ba698e321f3a2e0e686129f" title="BitcoinCore::shutdown" alt="" coords="455,68,610,93"/>
+<area shape="rect" id="node4" href="$class_bitcoin_application.html#a61afce9356e452c53ad4c83f5ca19df8" title="BitcoinApplication\l::startThread" alt="" coords="658,37,785,76"/>
+<area shape="rect" id="node5" href="$class_bitcoin_application.html#ade19c44b87b00b6b19b433caf4c22ba6" title="Request core initialization. " alt="" coords="836,5,962,44"/>
+<area shape="rect" id="node6" href="$class_bitcoin_application.html#a37c560d4c04d14a6da151b82caf8888f" title="Request core shutdown. " alt="" coords="833,68,965,107"/>
+</map>

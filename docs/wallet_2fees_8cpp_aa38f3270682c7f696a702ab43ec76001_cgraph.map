@@ -1,0 +1,20 @@
+<map id="GetMinimumFee" name="GetMinimumFee">
+<area shape="rect" id="node2" href="$wallet_2fees_8cpp.html#a9d542d5ea12dcb9956820227d7fdd50b" title="Estimate the minimum fee rate considering user set parameters and the required fee. " alt="" coords="173,345,321,371"/>
+<area shape="rect" id="node13" href="$class_c_fee_rate.html#a1173705aceba99303d6485d1c2f3f9a8" title="Return the fee in satoshis for the given size in bytes. " alt="" coords="861,453,995,479"/>
+<area shape="rect" id="node3" href="$class_c_block_policy_estimator.html#af766877edc815e15192134ff3401658c" title="Estimate feerate needed to get be included in a block within confTarget blocks. " alt="" coords="379,279,535,317"/>
+<area shape="rect" id="node9" href="$class_c_tx_mem_pool.html#a232651541c3393c81153ffc289e7b71d" title="The minimum fee to get into the mempool, which may itself not be enough for larger&#45;sized transactions..." alt="" coords="369,397,545,423"/>
+<area shape="rect" id="node14" href="$class_args_manager.html#adb5d644d273b3a259f792affcdca8283" title="Return string argument or default value. " alt="" coords="381,135,532,160"/>
+<area shape="rect" id="node4" href="$class_c_block_policy_estimator.html#ae6b52f035c5946e6f29af903400c4972" title="Calculation of highest target that reasonable estimate can be provided for. " alt="" coords="620,247,775,285"/>
+<area shape="rect" id="node7" href="$class_c_block_policy_estimator.html#ad6be71975c32281e23234c14068e009f" title="Helper for estimateSmartFee. " alt="" coords="616,309,779,348"/>
+<area shape="rect" id="node8" href="$class_c_block_policy_estimator.html#ac5707c649c1c5989a314a4e0be0e72ac" title="Helper for estimateSmartFee. " alt="" coords="607,184,787,223"/>
+<area shape="rect" id="node5" href="$class_c_block_policy_estimator.html#ad870b8402333d44c86c35ce1f40e21d7" title="Number of blocks of data recorded while fee estimates have been running. " alt="" coords="850,283,1006,321"/>
+<area shape="rect" id="node6" href="$class_c_block_policy_estimator.html#a12176ac3e097524b3e7e24a7515d7ea3" title="Number of blocks of recorded fee estimate data represented in saved data file. " alt="" coords="850,220,1006,259"/>
+<area shape="rect" id="node10" href="$utiltime_8cpp.html#a46fac5fba8ba905b5f9acb364f5d8c6f" title="GetTimeMicros() and GetTimeMillis() both return the system time, but in different units..." alt="" coords="661,421,733,447"/>
+<area shape="rect" id="node11" href="$class_c_tx_mem_pool.html#a4fcf05ad5f15a565c4b43c4b9f29906e" title="CTxMemPool::DynamicMemory\lUsage" alt="" coords="593,471,802,509"/>
+<area shape="rect" id="node12" href="$class_c_fee_rate.html#ac772be79983433d442d6b871d2fb6e11" title="Return the fee in satoshis for a size of 1000 bytes. " alt="" coords="616,372,779,397"/>
+<area shape="rect" id="node15" href="$class_args_manager.html#a113a1b8c5471d2fff0108058be8b86af" title="Return true if the argument was originally passed as a negated option, i.e. " alt="" coords="602,135,793,160"/>
+<area shape="rect" id="node17" href="$class_args_manager_helper.html#aa4f8f77dc468b29cffe50513c78a87cd" title="ArgsManagerHelper::\lGetArg" alt="" coords="623,69,771,108"/>
+<area shape="rect" id="node16" href="$class_args_manager_helper.html#a863ddbcfbd113cf88cf622a0a4e32c1d" title="Convert regular argument into the network&#45;specific setting. " alt="" coords="854,131,1002,169"/>
+<area shape="rect" id="node18" href="$class_args_manager_helper.html#a1804a95992b4e10d04f0b92c53032b29" title="Return true/false if an argument is set in a map, and also return the first (or last) of the possibly..." alt="" coords="854,5,1002,44"/>
+<area shape="rect" id="node19" href="$class_args_manager_helper.html#a43f3488403e4f0433ade323e48008359" title="Determine whether to use config settings in the default section, See also comments around ArgsManager..." alt="" coords="854,68,1002,107"/>
+</map>

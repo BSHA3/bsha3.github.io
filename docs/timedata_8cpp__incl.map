@@ -1,0 +1,18 @@
+<map id="src/timedata.cpp" name="src/timedata.cpp">
+<area shape="rect" id="node2" href="$timedata_8h.html" title="timedata.h" alt="" coords="1564,159,1647,184"/>
+<area shape="rect" id="node7" href="$netaddress_8h.html" title="netaddress.h" alt="" coords="1643,79,1742,104"/>
+<area shape="rect" id="node31" href="$sync_8h.html" title="sync.h" alt="" coords="3210,159,3270,184"/>
+<area shape="rect" id="node36" href="$ui__interface_8h.html" title="ui_interface.h" alt="" coords="3294,159,3395,184"/>
+<area shape="rect" id="node38" href="$util_8h.html" title="util.h" alt="" coords="2522,79,2572,104"/>
+<area shape="rect" id="node48" href="$utilstrencodings_8h.html" title="utilstrencodings.h" alt="" coords="2640,159,2766,184"/>
+<area shape="rect" id="node49" href="$warnings_8h.html" title="warnings.h" alt="" coords="3685,79,3771,104"/>
+<area shape="rect" id="node8" href="$compat_8h.html" title="compat.h" alt="" coords="701,159,777,184"/>
+<area shape="rect" id="node24" href="$serialize_8h.html" title="serialize.h" alt="" coords="1824,159,1905,184"/>
+<area shape="rect" id="node30" href="$span_8h.html" title="span.h" alt="" coords="1442,239,1503,264"/>
+<area shape="rect" id="node32" href="$threadsafety_8h.html" title="threadsafety.h" alt="" coords="3197,239,3302,264"/>
+<area shape="rect" id="node39" href="$fs_8h.html" title="fs.h" alt="" coords="2830,239,2872,264"/>
+<area shape="rect" id="node40" href="$logging_8h.html" title="logging.h" alt="" coords="2789,159,2865,184"/>
+<area shape="rect" id="node41" href="$tinyformat_8h.html" title="tinyformat.h" alt="" coords="2186,239,2277,264"/>
+<area shape="rect" id="node43" href="$utilmemory_8h.html" title="utilmemory.h" alt="" coords="3040,159,3137,184"/>
+<area shape="rect" id="node44" href="$utiltime_8h.html" title="utiltime.h" alt="" coords="2031,159,2106,184"/>
+</map>

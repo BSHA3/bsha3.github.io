@@ -1,0 +1,6 @@
+<map id="interfaces::Node::appInitMain" name="interfaces::Node::appInitMain">
+<area shape="rect" id="node2" href="$class_bitcoin_core.html#af34ca069cda1d4362dcc109b4397fb62" title="BitcoinCore::initialize" alt="" coords="248,44,393,69"/>
+<area shape="rect" id="node3" href="$class_bitcoin_application.html#a61afce9356e452c53ad4c83f5ca19df8" title="BitcoinApplication\l::startThread" alt="" coords="441,37,568,76"/>
+<area shape="rect" id="node4" href="$class_bitcoin_application.html#ade19c44b87b00b6b19b433caf4c22ba6" title="Request core initialization. " alt="" coords="619,5,745,44"/>
+<area shape="rect" id="node5" href="$class_bitcoin_application.html#a37c560d4c04d14a6da151b82caf8888f" title="Request core shutdown. " alt="" coords="616,68,748,107"/>
+</map>

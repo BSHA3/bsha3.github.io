@@ -1,0 +1,19 @@
+<map id="src/script/descriptor.h" name="src/script/descriptor.h">
+<area shape="rect" id="node2" href="$script_8h.html" title="script/script.h" alt="" coords="539,299,639,324"/>
+<area shape="rect" id="node39" href="$sign_8h.html" title="script/sign.h" alt="" coords="872,79,965,104"/>
+<area shape="rect" id="node3" href="$common_8h.html" title="crypto/common.h" alt="" coords="277,379,400,404"/>
+<area shape="rect" id="node8" href="$prevector_8h.html" title="prevector.h" alt="" coords="1215,459,1302,484"/>
+<area shape="rect" id="node26" href="$serialize_8h.html" title="serialize.h" alt="" coords="1185,379,1266,404"/>
+<area shape="rect" id="node6" href="$endian_8h.html" title="compat/endian.h" alt="" coords="280,459,400,484"/>
+<area shape="rect" id="node7" href="$byteswap_8h.html" title="compat/byteswap.h" alt="" coords="280,532,416,557"/>
+<area shape="rect" id="node14" href="$compat_8h.html" title="compat.h" alt="" coords="1543,532,1619,557"/>
+<area shape="rect" id="node36" href="$span_8h.html" title="span.h" alt="" coords="1807,459,1868,484"/>
+<area shape="rect" id="node42" href="$pubkey_8h.html" title="pubkey.h" alt="" coords="973,152,1048,177"/>
+<area shape="rect" id="node45" href="$interpreter_8h.html" title="script/interpreter.h" alt="" coords="529,152,657,177"/>
+<area shape="rect" id="node48" href="$streams_8h.html" title="streams.h" alt="" coords="1467,299,1547,324"/>
+<area shape="rect" id="node43" href="$_hash_8h.html" title="hash.h" alt="" coords="980,225,1041,251"/>
+<area shape="rect" id="node44" href="$uint256_8h.html" title="uint256.h" alt="" coords="830,299,906,324"/>
+<area shape="rect" id="node46" href="$script__error_8h.html" title="script/script_error.h" alt="" coords="475,225,610,251"/>
+<area shape="rect" id="node47" href="$transaction_8h.html" title="primitives/transaction.h" alt="" coords="634,225,792,251"/>
+<area shape="rect" id="node49" href="$zeroafterfree_8h.html" title="support/allocators\l/zeroafterfree.h" alt="" coords="1543,372,1670,411"/>
+</map>

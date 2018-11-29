@@ -1,0 +1,4 @@
+<map id="CCryptoKeyStore::Lock" name="CCryptoKeyStore::Lock">
+<area shape="rect" id="node2" href="$group__map_wallet.html#ga4abcec3066e7c462f4564c159fc15031" title="CWallet::ChangeWalletPassphrase" alt="" coords="214,5,443,31"/>
+<area shape="rect" id="node3" href="$group__map_wallet.html#gab34fe5bf771619dcbe22a65f013e5469" title="CWallet::EncryptWallet" alt="" coords="250,55,407,80"/>
+</map>

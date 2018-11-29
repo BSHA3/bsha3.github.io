@@ -1,0 +1,15 @@
+<map id="src/wallet/coinselection.h" name="src/wallet/coinselection.h">
+<area shape="rect" id="node2" href="$amount_8h.html" title="amount.h" alt="" coords="887,152,964,177"/>
+<area shape="rect" id="node4" href="$transaction_8h.html" title="primitives/transaction.h" alt="" coords="1455,79,1612,104"/>
+<area shape="rect" id="node46" href="$random_8h.html" title="random.h" alt="" coords="2393,79,2471,104"/>
+<area shape="rect" id="node5" href="$script_8h.html" title="script/script.h" alt="" coords="1754,152,1854,177"/>
+<area shape="rect" id="node31" href="$serialize_8h.html" title="serialize.h" alt="" coords="1493,225,1574,251"/>
+<area shape="rect" id="node44" href="$uint256_8h.html" title="uint256.h" alt="" coords="2221,152,2297,177"/>
+<area shape="rect" id="node6" href="$common_8h.html" title="crypto/common.h" alt="" coords="2432,225,2555,251"/>
+<area shape="rect" id="node10" href="$prevector_8h.html" title="prevector.h" alt="" coords="1579,299,1666,324"/>
+<area shape="rect" id="node8" href="$endian_8h.html" title="compat/endian.h" alt="" coords="2335,299,2455,324"/>
+<area shape="rect" id="node9" href="$byteswap_8h.html" title="compat/byteswap.h" alt="" coords="2180,372,2316,397"/>
+<area shape="rect" id="node16" href="$compat_8h.html" title="compat.h" alt="" coords="773,372,849,397"/>
+<area shape="rect" id="node41" href="$span_8h.html" title="span.h" alt="" coords="1076,299,1138,324"/>
+<area shape="rect" id="node47" href="$chacha20_8h.html" title="crypto/chacha20.h" alt="" coords="2580,299,2711,324"/>
+</map>

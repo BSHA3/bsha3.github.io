@@ -1,0 +1,9 @@
+<map id="src/policy/feerate.h" name="src/policy/feerate.h">
+<area shape="rect" id="node2" href="$amount_8h.html" title="amount.h" alt="" coords="1852,79,1929,104"/>
+<area shape="rect" id="node4" href="$serialize_8h.html" title="serialize.h" alt="" coords="1285,79,1366,104"/>
+<area shape="rect" id="node5" href="$endian_8h.html" title="compat/endian.h" alt="" coords="1459,152,1579,177"/>
+<area shape="rect" id="node18" href="$prevector_8h.html" title="prevector.h" alt="" coords="1098,152,1185,177"/>
+<area shape="rect" id="node38" href="$span_8h.html" title="span.h" alt="" coords="1260,152,1321,177"/>
+<area shape="rect" id="node6" href="$byteswap_8h.html" title="compat/byteswap.h" alt="" coords="1568,225,1704,251"/>
+<area shape="rect" id="node23" href="$compat_8h.html" title="compat.h" alt="" coords="809,225,885,251"/>
+</map>

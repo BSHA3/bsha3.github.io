@@ -1,0 +1,10 @@
+<map id="CConnman::GetAddresses" name="CConnman::GetAddresses">
+<area shape="rect" id="node2" href="$class_c_addr_man.html#a69cc6138e696cf88de60925d26023bf2" title="Return a bunch of addresses, selected at random. " alt="" coords="234,31,376,56"/>
+<area shape="rect" id="node3" href="$class_c_addr_man.html#a0c2677ae50ce0d680f0105b285d1f5d0" title="Consistency check. " alt="" coords="434,5,564,31"/>
+<area shape="rect" id="node4" href="$class_c_addr_man.html#ac0175a2ff32d2c1f459b95039b344e2a" title="Select several addresses at once. " alt="" coords="424,55,574,80"/>
+<area shape="rect" id="node5" href="$class_c_addr_man.html#a4bf12611bd89c5e524396e50bf8f3846" title="Wraps GetRandInt to allow tests to override RandomInt and make it determinismistic. " alt="" coords="631,29,789,55"/>
+<area shape="rect" id="node9" href="$class_c_addr_man.html#a53ccac30857aeb88ce0ddcf619e9c6ec" title="Swap two elements in vRandom. " alt="" coords="622,79,798,104"/>
+<area shape="rect" id="node6" href="$random_8cpp.html#a0e44e088732172da6662db2d5e37d4b2" title="GetRandInt" alt="" coords="846,29,935,55"/>
+<area shape="rect" id="node7" href="$random_8cpp.html#a27d9149d522b1fa87d84e5e9ca902aef" title="GetRand" alt="" coords="983,29,1058,55"/>
+<area shape="rect" id="node8" href="$random_8cpp.html#ada0c29949c4d1ac0cc027d93c4771423" title="Functions to gather random data via the OpenSSL PRNG. " alt="" coords="1106,29,1214,55"/>
+</map>

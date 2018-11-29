@@ -1,0 +1,12 @@
+<map id="ProcessNewBlockHeaders" name="ProcessNewBlockHeaders">
+<area shape="rect" id="node2" href="$class_c_block_header.html#ae39c04a4357417d98954a51f53beb78a" title="CBlockHeader::SetNull" alt="" coords="243,40,400,65"/>
+<area shape="rect" id="node4" href="$class_c_chain_state.html#ab70c11d94a3f6e5cae415521437ef627" title="If a block header hasn&#39;t already been seen, call CheckBlockHeader on it, ensure that it doesn&#39;t desce..." alt="" coords="233,123,410,161"/>
+<area shape="rect" id="node3" href="$classbase__blob.html#aa340be5328d911272eded433d03f30a3" title="base_blob::SetNull" alt="" coords="495,5,629,31"/>
+<area shape="rect" id="node5" href="$class_c_block_header.html#af0239f86a13f622a826e9eea66b2d7f3" title="CBlockHeader::GetHash" alt="" coords="478,55,646,80"/>
+<area shape="rect" id="node7" href="$class_c_chain_params.html#aa366d4f63c8d16d625336dca61ca65e5" title="CChainParams::GetConsensus" alt="" coords="458,104,666,129"/>
+<area shape="rect" id="node8" href="$class_c_validation_state.html#a1646cea7505a779d16ca77237ec1e621" title="CValidationState::Invalid" alt="" coords="479,153,645,179"/>
+<area shape="rect" id="node10" href="$util_8h.html#a96c5fc7111f69f7dcaba992d95d13e03" title="error" alt="" coords="537,203,587,228"/>
+<area shape="rect" id="node11" href="$classbase__blob.html#a7a0d25782830d8b087c4da839f3ccdeb" title="base_blob::ToString" alt="" coords="492,252,631,277"/>
+<area shape="rect" id="node6" href="$_hash_8h.html#a6de694e43f17c62025c6883965b65e63" title="Compute the 256&#45;bit hash of an object&#39;s serialization. " alt="" coords="738,55,842,80"/>
+<area shape="rect" id="node9" href="$class_c_validation_state.html#a084ab7448f23966f0650d3ca53d0b88a" title="CValidationState::DoS" alt="" coords="714,153,867,179"/>
+</map>

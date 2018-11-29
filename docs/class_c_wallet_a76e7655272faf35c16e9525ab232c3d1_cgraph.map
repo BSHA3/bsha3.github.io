@@ -1,0 +1,19 @@
+<map id="CWallet::Verify" name="CWallet::Verify">
+<area shape="rect" id="node2" href="$dummywallet_8cpp.html#aa4cddcdbe214eef41ac6e1f6666a8048" title="Get the path of the wallet directory. " alt="" coords="219,5,315,31"/>
+<area shape="rect" id="node3" href="$wallet_2wallet_8cpp.html#ab8562a8762a7793fdf5b8ae9465e1b85" title="GetWallets" alt="" coords="224,55,310,80"/>
+<area shape="rect" id="node4" href="$class_c_wallet.html#a2771f3279a4f9f0817c7840b5c9b2f6c" title="Get a name for this wallet for logging/debugging purposes. " alt="" coords="201,104,333,129"/>
+<area shape="rect" id="node5" href="$class_wallet_batch.html#a6cc30ea4d8aa4dcd2ad97211a5e95e10" title="WalletBatch::VerifyEnvironment" alt="" coords="163,153,371,179"/>
+<area shape="rect" id="node9" href="$namespacefsbridge.html#a241cfd75140a3af913b13eb7a505dd5c" title="fsbridge::get_filesystem\l_error_message" alt="" coords="187,203,348,241"/>
+<area shape="rect" id="node10" href="$class_berkeley_database.html#a66c0f9ed9325cb69e9902fb15ceb509a" title="Return object for accessing dummy database with no read/write capabilities. " alt="" coords="178,265,356,304"/>
+<area shape="rect" id="node11" href="$class_wallet_batch.html#a21d7235ff86bf6308a79c9ddfdbbab41" title="WalletBatch::Recover" alt="" coords="460,432,609,457"/>
+<area shape="rect" id="node14" href="$class_wallet_batch.html#a104b46c34eff3b01f72c7f75b0536938" title="WalletBatch::RecoverKeys\lOnlyFilter" alt="" coords="178,377,357,416"/>
+<area shape="rect" id="node15" href="$class_wallet_batch.html#a92563e74e5656264cfe5c5603ea230ef" title="WalletBatch::VerifyDatabaseFile" alt="" coords="162,328,373,353"/>
+<area shape="rect" id="node6" href="$class_berkeley_batch.html#a3fd5c230cbc516ad57eed9fed8b18454" title="BerkeleyBatch::VerifyEnvironment" alt="" coords="423,155,646,180"/>
+<area shape="rect" id="node7" href="$db_8cpp.html#ad35888bb71f9a2822294063004aab1d5" title="Get BerkeleyEnvironment and database filename given a wallet path. " alt="" coords="908,269,1010,295"/>
+<area shape="rect" id="node8" href="$class_berkeley_environment.html#a1e5ad8ccd1e5e8ca57291bc2ec61613e" title="BerkeleyEnvironment\l::Directory" alt="" coords="704,205,852,244"/>
+<area shape="rect" id="node12" href="$class_berkeley_batch.html#ae703f8cc421a53c8638da12914769acb" title="BerkeleyBatch::Recover" alt="" coords="696,432,860,457"/>
+<area shape="rect" id="node13" href="$utiltime_8cpp.html#a46fac5fba8ba905b5f9acb364f5d8c6f" title="GetTimeMicros() and GetTimeMillis() both return the system time, but in different units..." alt="" coords="923,432,995,457"/>
+<area shape="rect" id="node16" href="$class_berkeley_batch.html#a7a90b43e500951e81f6c60f9ec0239f1" title="BerkeleyBatch::VerifyDatabaseFile" alt="" coords="421,327,648,352"/>
+<area shape="rect" id="node17" href="$class_berkeley_environment.html#a7ff8fa4ca71a32b5ee8ecaed23dd31f8" title="BerkeleyEnvironment\l::Verify" alt="" coords="704,320,852,359"/>
+<area shape="rect" id="node18" href="$util_8h.html#aad133bb6103b53cebf03fd01e2f11ba1" title="Translation function. " alt="" coords="758,383,797,408"/>
+</map>

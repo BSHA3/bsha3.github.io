@@ -1,0 +1,3 @@
+<map id="CTxMemPool::trackPackageRemoved" name="CTxMemPool::trackPackageRemoved">
+<area shape="rect" id="node2" href="$class_c_tx_mem_pool.html#adb0214b2760eaedf15eb351348bc4f43" title="Remove transactions from the mempool until its dynamic size is &lt;= sizelimit. " alt="" coords="244,12,419,37"/>
+</map>

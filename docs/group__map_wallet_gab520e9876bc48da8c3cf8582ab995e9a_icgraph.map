@@ -1,0 +1,5 @@
+<map id="CWallet::SetMinVersion" name="CWallet::SetMinVersion">
+<area shape="rect" id="node2" href="$group__map_wallet.html#ga5abb589b31879b8f4bf1890c22f15f64" title="keystore implementation Generate a new key " alt="" coords="214,5,394,31"/>
+<area shape="rect" id="node4" href="$group__map_wallet.html#gab34fe5bf771619dcbe22a65f013e5469" title="CWallet::EncryptWallet" alt="" coords="226,55,383,80"/>
+<area shape="rect" id="node3" href="$group___actions.html#gac452f46eafeb2b4adfe86f7208048032" title="CWallet::GetKeyFromPool" alt="" coords="442,5,620,31"/>
+</map>

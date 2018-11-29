@@ -1,0 +1,4 @@
+<map id="BaseIndex" name="BaseIndex">
+<area shape="rect" id="node3" href="$class_tx_index.html" title="TxIndex is used to look up transactions included in the blockchain by hash. " alt="" coords="41,152,110,177"/>
+<area shape="rect" id="node2" href="$class_c_validation_interface.html" title="Implement this to subscribe to events generated in validation. " alt="" coords="5,5,146,31"/>
+</map>

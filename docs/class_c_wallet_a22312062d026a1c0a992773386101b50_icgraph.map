@@ -1,0 +1,10 @@
+<map id="CWallet::CanSupportFeature" name="CWallet::CanSupportFeature">
+<area shape="rect" id="node2" href="$group__map_wallet.html#ga5abb589b31879b8f4bf1890c22f15f64" title="keystore implementation Generate a new key " alt="" coords="538,5,718,31"/>
+<area shape="rect" id="node4" href="$group__map_wallet.html#gafb01fcc10d890174b2db560a7f27b58a" title="CWallet::DeriveNewChildKey" alt="" coords="263,55,456,80"/>
+<area shape="rect" id="node5" href="$group__map_wallet.html#ga61216d96cb2c06c11372d16f0ae61d4b" title="CWallet::SetHDSeed" alt="" coords="287,104,432,129"/>
+<area shape="rect" id="node8" href="$group___actions.html#gaa869ffae7560168064463f3157633a8b" title="Reserves a key from the keypool and sets nIndex to its index. " alt="" coords="245,155,474,180"/>
+<area shape="rect" id="node3" href="$group___actions.html#gac452f46eafeb2b4adfe86f7208048032" title="CWallet::GetKeyFromPool" alt="" coords="782,80,959,105"/>
+<area shape="rect" id="node6" href="$group__map_wallet.html#gab34fe5bf771619dcbe22a65f013e5469" title="CWallet::EncryptWallet" alt="" coords="550,55,706,80"/>
+<area shape="rect" id="node7" href="$rpcwallet_8cpp.html#a61c7a90d1b36888fe11b751e746e18c0" title="sethdseed" alt="" coords="587,104,669,129"/>
+<area shape="rect" id="node9" href="$group___actions.html#gad2347fdc30dfbba5298f2386a219c13d" title="CReserveKey::GetReservedKey" alt="" coords="522,205,734,231"/>
+</map>

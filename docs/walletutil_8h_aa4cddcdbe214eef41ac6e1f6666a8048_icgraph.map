@@ -1,0 +1,4 @@
+<map id="GetWalletDir" name="GetWalletDir">
+<area shape="rect" id="node2" href="$class_c_wallet.html#a76e7655272faf35c16e9525ab232c3d1" title="Verify wallet naming and perform salvage on the wallet if required. " alt="" coords="150,5,258,31"/>
+<area shape="rect" id="node3" href="$walletutil_8cpp.html#a0db2d80f498cd2ac9d03bb28935c61ea" title="Get wallets in wallet directory. " alt="" coords="156,55,252,80"/>
+</map>

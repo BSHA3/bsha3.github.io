@@ -1,0 +1,5 @@
+<map id="BerkeleyBatch::Rewrite" name="BerkeleyBatch::Rewrite">
+<area shape="rect" id="node2" href="$class_berkeley_database.html#a613ff711faa19bc0a970fb598ab4f886" title="Return whether this database handle is a dummy for testing. " alt="" coords="213,5,407,31"/>
+<area shape="rect" id="node3" href="$class_berkeley_environment.html#af201da324fc94c4ada667ff2601647f6" title="BerkeleyEnvironment\l::CloseDb" alt="" coords="236,55,384,93"/>
+<area shape="rect" id="node4" href="$class_berkeley_environment.html#ac5eda28daa4264a1272e73814dac49c7" title="BerkeleyEnvironment\l::CheckpointLSN" alt="" coords="236,117,384,156"/>
+</map>

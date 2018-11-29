@@ -1,0 +1,8 @@
+<map id="BitcoinGUI::updateHeadersSyncProgressLabel" name="BitcoinGUI::updateHeadersSyncProgressLabel">
+<area shape="rect" id="node2" href="$class_client_model.html#a9dbed4eb3ca6afcdeef233f35cd7dc41" title="ClientModel::getHeaderTipTime" alt="" coords="237,5,446,31"/>
+<area shape="rect" id="node4" href="$class_client_model.html#a2d3579ef717497df235062ee3f874dc6" title="ClientModel::getHeaderTip\lHeight" alt="" coords="252,55,431,93"/>
+<area shape="rect" id="node5" href="$utiltime_8cpp.html#a46fac5fba8ba905b5f9acb364f5d8c6f" title="GetTimeMicros() and GetTimeMillis() both return the system time, but in different units..." alt="" coords="305,117,377,143"/>
+<area shape="rect" id="node6" href="$chainparams_8cpp.html#ace5c5b706d71a324a417dd2db394fd4a" title="Return the currently selected parameters. " alt="" coords="308,167,375,192"/>
+<area shape="rect" id="node7" href="$class_c_chain_params.html#aa366d4f63c8d16d625336dca61ca65e5" title="CChainParams::GetConsensus" alt="" coords="238,216,445,241"/>
+<area shape="rect" id="node3" href="$classinterfaces_1_1_node.html#aa7305fdaaf98f0002a2569a2b8e32b60" title="Get header tip height and time. " alt="" coords="494,33,700,59"/>
+</map>

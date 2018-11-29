@@ -1,0 +1,41 @@
+<map id="WalletBatch::EraseIC" name="WalletBatch::EraseIC">
+<area shape="rect" id="node2" href="$class_wallet_batch.html#aedb04ca48f568fb7fa884cc5c578bbf9" title="WalletBatch::EraseName" alt="" coords="216,55,386,80"/>
+<area shape="rect" id="node4" href="$class_wallet_batch.html#a33be275c670a51126f707629b133bf2a" title="WalletBatch::ErasePurpose" alt="" coords="209,5,393,31"/>
+<area shape="rect" id="node5" href="$class_wallet_batch.html#ad33ea8fb2b154ad6992377c0c81c2367" title="WalletBatch::EraseTx" alt="" coords="226,153,375,179"/>
+<area shape="rect" id="node11" href="$class_wallet_batch.html#a45b7a4bd5e378d007d18495d4be640fa" title="WalletBatch::WriteCryptedKey" alt="" coords="201,203,401,228"/>
+<area shape="rect" id="node13" href="$class_wallet_batch.html#a440e6261a45315893be17b92d2d86e27" title="WalletBatch::EraseWatchOnly" alt="" coords="201,252,400,277"/>
+<area shape="rect" id="node25" href="$class_wallet_batch.html#a12d883a8b0d8245a3d4f5a85c64fe9fc" title="WalletBatch::ErasePool" alt="" coords="712,328,873,353"/>
+<area shape="rect" id="node39" href="$class_wallet_batch.html#a61aee616b4021bc80a6e1fc8667bc053" title="Erase destination data tuple from wallet database. " alt="" coords="206,104,396,129"/>
+<area shape="rect" id="node3" href="$group___actions.html#gac6542da8493cbb958068b7a01c05b631" title="CWallet::DelAddressBook" alt="" coords="456,5,631,31"/>
+<area shape="rect" id="node6" href="$class_wallet_batch.html#ac79856b5948d8a13415547fd3e9374f2" title="WalletBatch::ZapSelectTx" alt="" coords="456,153,631,179"/>
+<area shape="rect" id="node9" href="$class_wallet_batch.html#a50a18be2146809a540975db37225775f" title="WalletBatch::ZapWalletTx" alt="" coords="457,104,630,129"/>
+<area shape="rect" id="node7" href="$group___actions.html#ga01a1096ab883f9278d00c7b0d555bb2a" title="CWallet::ZapSelectTx" alt="" coords="718,153,868,179"/>
+<area shape="rect" id="node8" href="$rpcwallet_8cpp.html#a85478b0b9837a3e5467dce66fcb5ffb0" title="removeprunedfunds" alt="" coords="970,153,1110,179"/>
+<area shape="rect" id="node10" href="$group___actions.html#ga71d4b810d6fce19efd455ded3e450a1b" title="CWallet::ZapWalletTx" alt="" coords="718,104,867,129"/>
+<area shape="rect" id="node12" href="$group__map_wallet.html#ga9bd8ca47110186b31c258308d3bbd7c2" title="Adds an encrypted key to the store, and saves it to disk. " alt="" coords="459,203,628,228"/>
+<area shape="rect" id="node14" href="$group__map_wallet.html#gaca3c3836aa8bf1e706951886ba77080c" title="CWallet::RemoveWatchOnly" alt="" coords="449,252,638,277"/>
+<area shape="rect" id="node15" href="$group__map_wallet.html#gaf482ede71b2fde291b8c6ec262b22ef4" title="CWallet::AddKeyPubKeyWithDB" alt="" coords="686,252,900,277"/>
+<area shape="rect" id="node16" href="$group__map_wallet.html#ga5abb589b31879b8f4bf1890c22f15f64" title="keystore implementation Generate a new key " alt="" coords="949,252,1130,277"/>
+<area shape="rect" id="node18" href="$group__map_wallet.html#ga2b0c518df362a1a765a241c1ca5c69a0" title="Adds a key to the store, and saves it to disk. " alt="" coords="955,203,1124,228"/>
+<area shape="rect" id="node17" href="$group___actions.html#gac452f46eafeb2b4adfe86f7208048032" title="CWallet::GetKeyFromPool" alt="" coords="1205,353,1382,379"/>
+<area shape="rect" id="node19" href="$group__map_wallet.html#gaf72003c77abf215cc1576ab6c50125f7" title="CWallet::DeriveNewSeed" alt="" coords="1208,153,1379,179"/>
+<area shape="rect" id="node23" href="$rpcwallet_8cpp.html#a2f46e2bb304dda9a197b5a68db6106f7" title="importprivkey" alt="" coords="1243,203,1344,228"/>
+<area shape="rect" id="node24" href="$wallet__tests_8cpp.html#a5dfd138cbfb5e97ec54f8d807f9a4231" title="BOOST_FIXTURE_TEST_CASE" alt="" coords="1185,252,1402,277"/>
+<area shape="rect" id="node20" href="$group__map_wallet.html#ga35c26d9e81464f04a45375647c251d67" title="CWallet::GenerateNewSeed" alt="" coords="1456,204,1644,229"/>
+<area shape="rect" id="node22" href="$rpcwallet_8cpp.html#a61c7a90d1b36888fe11b751e746e18c0" title="sethdseed" alt="" coords="1771,204,1854,229"/>
+<area shape="rect" id="node21" href="$group__map_wallet.html#gab34fe5bf771619dcbe22a65f013e5469" title="CWallet::EncryptWallet" alt="" coords="1734,253,1891,279"/>
+<area shape="rect" id="node26" href="$group___actions.html#ga7353ba1e79fc4167fbfbe79b41698fa7" title="Mark old keypool keys as used, and generate all new keys. " alt="" coords="1475,253,1626,279"/>
+<area shape="rect" id="node27" href="$group___actions.html#gae460b8c824a1a6633615f95373e533f2" title="CWallet::KeepKey" alt="" coords="975,353,1104,379"/>
+<area shape="rect" id="node31" href="$group___actions.html#ga23a900513e363e8e79d604cab9a7c7fc" title="Marks all keys in the keypool up to and including reserve_key as used. " alt="" coords="948,424,1131,463"/>
+<area shape="rect" id="node28" href="$group___actions.html#ga493d06f41ca9571f2a42c8581a3952d8" title="CReserveKey::KeepKey" alt="" coords="1211,403,1376,428"/>
+<area shape="rect" id="node29" href="$group___actions.html#ga15a558d8fa0db299f38ed1e45a60aaaf" title="Insert additional inputs into the transaction by calling CreateTransaction();. " alt="" coords="1463,353,1638,379"/>
+<area shape="rect" id="node30" href="$group___actions.html#ga2faeb244cf83bbae1304ae2f4acc7d93" title="Call after CreateTransaction unless you want to abort. " alt="" coords="1455,403,1645,428"/>
+<area shape="rect" id="node32" href="$group__map_wallet.html#gaee8f634287d083737471595f658da519" title="Add a transaction to the wallet, or update it. " alt="" coords="1179,452,1407,477"/>
+<area shape="rect" id="node33" href="$group__map_wallet.html#ga09e75fcbc98be305e68e99495570687c" title="CWallet::SyncTransaction" alt="" coords="1463,452,1637,477"/>
+<area shape="rect" id="node34" href="$group__map_wallet.html#gae44ec090ec7c87725fb22d33887ad1a7" title="Notifies listeners of a transaction having been added to mempool. " alt="" coords="1721,473,1904,512"/>
+<area shape="rect" id="node35" href="$group__map_wallet.html#ga8871fb58a2872900558d69d71baddfca" title="Notifies listeners of a block being connected. " alt="" coords="1726,536,1898,561"/>
+<area shape="rect" id="node36" href="$group__map_wallet.html#ga3aa53a08f7071c42c0ef82ea468d19ae" title="Notifies listeners of a block being disconnected. " alt="" coords="1718,375,1906,400"/>
+<area shape="rect" id="node37" href="$group__map_wallet.html#gaabb1db808d082d6df2b1e37cbf3f8f98" title="Scan the block chain (starting in pindexStart) for transactions from or to us. " alt="" coords="1693,424,1931,449"/>
+<area shape="rect" id="node38" href="$rpcwallet_8cpp.html#a151535abf7394b299deb8d0a333de70b" title="rescanblockchain" alt="" coords="1979,424,2103,449"/>
+<area shape="rect" id="node40" href="$class_c_wallet.html#a9a03cf9972842588178387839f0ded3c" title="Erases a destination data tuple in the store and on disk. " alt="" coords="461,55,626,80"/>
+</map>

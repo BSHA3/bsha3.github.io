@@ -1,0 +1,11 @@
+<map id="src/qt/paymentrequestplus.h" name="src/qt/paymentrequestplus.h">
+<area shape="rect" id="node3" href="$amount_8h.html" title="amount.h" alt="" coords="5,152,82,177"/>
+<area shape="rect" id="node5" href="$script_8h.html" title="script/script.h" alt="" coords="717,79,816,104"/>
+<area shape="rect" id="node6" href="$common_8h.html" title="crypto/common.h" alt="" coords="265,152,388,177"/>
+<area shape="rect" id="node10" href="$prevector_8h.html" title="prevector.h" alt="" coords="639,225,726,251"/>
+<area shape="rect" id="node31" href="$serialize_8h.html" title="serialize.h" alt="" coords="814,152,895,177"/>
+<area shape="rect" id="node8" href="$endian_8h.html" title="compat/endian.h" alt="" coords="241,225,361,251"/>
+<area shape="rect" id="node9" href="$byteswap_8h.html" title="compat/byteswap.h" alt="" coords="208,299,344,324"/>
+<area shape="rect" id="node16" href="$compat_8h.html" title="compat.h" alt="" coords="888,299,965,324"/>
+<area shape="rect" id="node41" href="$span_8h.html" title="span.h" alt="" coords="1168,225,1229,251"/>
+</map>

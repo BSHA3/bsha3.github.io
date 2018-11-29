@@ -1,0 +1,6 @@
+<map id="GetBlockProofEquivalentTime" name="GetBlockProofEquivalentTime">
+<area shape="rect" id="node2" href="$chain_8cpp.html#a334aa8015cc7185f7fdf484783e40f38" title="GetBlockProof" alt="" coords="272,5,379,31"/>
+<area shape="rect" id="node4" href="$classbase__uint.html#afe1eacc0b592cf184ac8ee0446997fbe" title="Returns the position of the highest bit set plus one, or zero if the value is zero. " alt="" coords="272,55,379,80"/>
+<area shape="rect" id="node5" href="$classbase__uint.html#ad8dbf3216dd15a64f1598344ad7a71ea" title="base_uint::GetLow64" alt="" coords="252,104,399,129"/>
+<area shape="rect" id="node3" href="$classarith__uint256.html#a06c0f1937edece69b8d33f88e8d35bc8" title="The &quot;compact&quot; format is a representation of a whole number N using an unsigned 32bit number similar t..." alt="" coords="447,5,627,31"/>
+</map>

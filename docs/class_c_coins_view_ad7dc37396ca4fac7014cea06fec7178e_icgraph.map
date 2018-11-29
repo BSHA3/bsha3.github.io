@@ -1,0 +1,4 @@
+<map id="CCoinsView::BatchWrite" name="CCoinsView::BatchWrite">
+<area shape="rect" id="node2" href="$class_c_coins_view_backed.html#a81ecc3121e837ed6c99ba8cd7d36e6c9" title="Do a bulk modification (multiple Coin changes + BestBlock change). " alt="" coords="219,5,430,31"/>
+<area shape="rect" id="node3" href="$class_c_coins_view_cache.html#ac9888d4feaa46666d03871cd7cd1c01d" title="Push the modifications applied to this cache to its base. " alt="" coords="239,55,411,80"/>
+</map>

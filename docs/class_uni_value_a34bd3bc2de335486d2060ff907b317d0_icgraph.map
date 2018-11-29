@@ -1,0 +1,5 @@
+<map id="UniValue::get_int64" name="UniValue::get_int64">
+<area shape="rect" id="node2" href="$rawtransaction_8h.html#aee85a5d91a985f7e1bc1b4a124870ab3" title="Create a transaction from univalue parameters. " alt="" coords="190,31,338,56"/>
+<area shape="rect" id="node3" href="$rawtransaction_8cpp.html#ab96b0b3cf82a8f50975ee74c26c4dbf8" title="createpsbt" alt="" coords="423,5,507,31"/>
+<area shape="rect" id="node4" href="$rpcwallet_8cpp.html#afca55ac7a3c6c274b8b7b3e6eab9cd86" title="walletcreatefundedpsbt" alt="" coords="386,55,544,80"/>
+</map>

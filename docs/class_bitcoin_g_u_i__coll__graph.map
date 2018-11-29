@@ -1,0 +1,17 @@
+<map id="BitcoinGUI" name="BitcoinGUI">
+<area shape="rect" id="node19" href="$class_wallet_frame.html" title="A container for embedding all wallet&#45;related controls into BitcoinGUI. " alt="" coords="1360,552,1456,577"/>
+<area shape="rect" id="node3" href="$class_help_message_dialog.html" title="&quot;Help message&quot; dialog box " alt="" coords="812,125,952,150"/>
+<area shape="rect" id="node5" href="$class_g_u_i_util_1_1_clickable_progress_bar.html" title="GUIUtil::ClickableProgressBar" alt="" coords="782,294,982,320"/>
+<area shape="rect" id="node7" href="$class_platform_style.html" title="PlatformStyle" alt="" coords="502,64,602,89"/>
+<area shape="rect" id="node16" href="$class_r_p_c_console.html" title="Local Bitcoin RPC console. " alt="" coords="833,721,931,746"/>
+<area shape="rect" id="node8" href="$class_client_model.html" title="Model for Bitcoin network client. " alt="" coords="506,548,598,573"/>
+<area shape="rect" id="node10" href="$class_peer_table_model.html" title="Qt model providing information about connected peers, similar to the &quot;getpeerinfo&quot; RPC call..." alt="" coords="823,369,941,394"/>
+<area shape="rect" id="node13" href="$class_ban_table_model.html" title="Qt model providing information about connected peers, similar to the &quot;getpeerinfo&quot; RPC call..." alt="" coords="825,526,939,552"/>
+<area shape="rect" id="node24" href="$class_notificator.html" title="Cross&#45;platform desktop notification client. " alt="" coords="663,629,745,654"/>
+<area shape="rect" id="node12" href="$classinterfaces_1_1_node.html" title="Top&#45;level interface for a bitcoin node (bsha3d process). " alt="" coords="15,604,133,629"/>
+<area shape="rect" id="node14" href="$class_options_model.html" title="Interface from Qt to configuration data structure for Bitcoin client. " alt="" coords="243,848,346,873"/>
+<area shape="rect" id="node25" href="$class_unit_display_status_bar_control.html" title="UnitDisplayStatusBarControl" alt="" coords="787,913,977,938"/>
+<area shape="rect" id="node23" href="$class_modal_overlay.html" title="Modal overlay to display information about the chain&#45;sync state. " alt="" coords="830,777,934,802"/>
+<area shape="rect" id="node18" href="$class_r_p_c_timer_interface.html" title="RPC timer &quot;driver&quot;. " alt="" coords="484,733,619,758"/>
+<area shape="rect" id="node21" href="$class_g_u_i_util_1_1_clickable_label.html" title="GUIUtil::ClickableLabel" alt="" coords="803,838,961,864"/>
+</map>

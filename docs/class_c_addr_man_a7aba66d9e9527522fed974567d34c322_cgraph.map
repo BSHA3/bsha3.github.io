@@ -1,0 +1,5 @@
+<map id="CAddrMan::Connected" name="CAddrMan::Connected">
+<area shape="rect" id="node2" href="$class_c_addr_man.html#a0c2677ae50ce0d680f0105b285d1f5d0" title="Consistency check. " alt="" coords="227,5,358,31"/>
+<area shape="rect" id="node3" href="$class_c_addr_man.html#ae114a717a8b6edf7e12141c8aa4ee66c" title="Mark an entry as currently&#45;connected&#45;to. " alt="" coords="210,55,375,80"/>
+<area shape="rect" id="node4" href="$class_c_addr_man.html#a7566e599fd71aab7214d9ef1aeaa5514" title="Find an entry. " alt="" coords="423,55,541,80"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="CAddrMan::ClearNew" name="CAddrMan::ClearNew">
+<area shape="rect" id="node2" href="$class_c_addr_man.html#a08884f44404e8fee6975258c8133f7dd" title="Delete an entry. It must not be in tried, and have refcount 0. " alt="" coords="204,5,335,31"/>
+<area shape="rect" id="node3" href="$class_c_addr_man.html#a53ccac30857aeb88ce0ddcf619e9c6ec" title="Swap two elements in vRandom. " alt="" coords="383,5,560,31"/>
+</map>

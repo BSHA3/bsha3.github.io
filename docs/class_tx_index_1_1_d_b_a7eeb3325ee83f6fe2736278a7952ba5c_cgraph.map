@@ -1,0 +1,10 @@
+<map id="TxIndex::DB::MigrateData" name="TxIndex::DB::MigrateData">
+<area shape="rect" id="node2" href="$class_c_block_tree_d_b.html#acd779c4653fd9a87fffe95d53ce7c6d3" title="CBlockTreeDB::ReadFlag" alt="" coords="228,5,402,31"/>
+<area shape="rect" id="node3" href="$class_c_d_b_wrapper.html#a38084dd7b2870e6ac3082e7521d88a29" title="CDBWrapper::Read" alt="" coords="450,31,590,56"/>
+<area shape="rect" id="node4" href="$class_c_d_b_wrapper.html#a6600aa8c2b30880dd7e032ea21f74aed" title="CDBWrapper::Write" alt="" coords="451,156,589,181"/>
+<area shape="rect" id="node8" href="$util_8h.html#a96c5fc7111f69f7dcaba992d95d13e03" title="error" alt="" coords="290,157,340,183"/>
+<area shape="rect" id="node9" href="$class_c_block_tree_d_b.html#af2f65b70ac5d8a198d4f29a7e909c08a" title="CBlockTreeDB::WriteFlag" alt="" coords="229,207,402,232"/>
+<area shape="rect" id="node5" href="$class_c_d_b_batch.html#a91b5d889a8d7e56c4f0bbf446e246111" title="CDBBatch::Write" alt="" coords="663,131,785,156"/>
+<area shape="rect" id="node7" href="$class_c_d_b_wrapper.html#a3624c2e99b0d4e9a4edc679b304fa180" title="CDBWrapper::WriteBatch" alt="" coords="638,180,811,205"/>
+<area shape="rect" id="node6" href="$class_c_data_stream.html#a5542e71bd7af2ab7cd7be0f381d39cb5" title="CDataStream::reserve" alt="" coords="859,131,1013,156"/>
+</map>

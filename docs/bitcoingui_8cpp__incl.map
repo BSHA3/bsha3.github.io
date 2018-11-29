@@ -1,0 +1,22 @@
+<map id="src/qt/bitcoingui.cpp" name="src/qt/bitcoingui.cpp">
+<area shape="rect" id="node2" href="$bitcoingui_8h.html" title="qt/bitcoingui.h" alt="" coords="423,79,526,104"/>
+<area shape="rect" id="node3" href="$optionsdialog_8h.html" title="qt/optionsdialog.h" alt="" coords="163,152,289,177"/>
+<area shape="rect" id="node11" href="$bitcoinunits_8h.html" title="qt/bitcoinunits.h" alt="" coords="1772,152,1886,177"/>
+<area shape="rect" id="node12" href="$clientmodel_8h.html" title="qt/clientmodel.h" alt="" coords="798,79,913,104"/>
+<area shape="rect" id="node14" href="$guiconstants_8h.html" title="qt/guiconstants.h" alt="" coords="551,79,673,104"/>
+<area shape="rect" id="node15" href="$guiutil_8h.html" title="qt/guiutil.h" alt="" coords="57,152,139,177"/>
+<area shape="rect" id="node17" href="$modaloverlay_8h.html" title="qt/modaloverlay.h" alt="" coords="1561,79,1687,104"/>
+<area shape="rect" id="node18" href="$networkstyle_8h.html" title="qt/networkstyle.h" alt="" coords="938,79,1059,104"/>
+<area shape="rect" id="node19" href="$notificator_8h.html" title="qt/notificator.h" alt="" coords="1084,79,1188,104"/>
+<area shape="rect" id="node20" href="$openuridialog_8h.html" title="qt/openuridialog.h" alt="" coords="1212,79,1339,104"/>
+<area shape="rect" id="node21" href="$optionsmodel_8h.html" title="qt/optionsmodel.h" alt="" coords="955,152,1082,177"/>
+<area shape="rect" id="node22" href="$platformstyle_8h.html" title="qt/platformstyle.h" alt="" coords="1414,79,1537,104"/>
+<area shape="rect" id="node23" href="$rpcconsole_8h.html" title="qt/rpcconsole.h" alt="" coords="161,79,273,104"/>
+<area shape="rect" id="node24" href="$utilitydialog_8h.html" title="qt/utilitydialog.h" alt="" coords="1711,79,1824,104"/>
+<area shape="rect" id="node25" href="$chainparams_8h.html" title="chainparams.h" alt="" coords="1848,79,1957,104"/>
+<area shape="rect" id="node26" href="$handler_8h.html" title="interfaces/handler.h" alt="" coords="1980,79,2118,104"/>
+<area shape="rect" id="node27" href="$node_8h.html" title="interfaces/node.h" alt="" coords="1106,152,1230,177"/>
+<area shape="rect" id="node28" href="$noui_8h.html" title="noui.h" alt="" coords="2194,79,2251,104"/>
+<area shape="rect" id="node29" href="$ui__interface_8h.html" title="ui_interface.h" alt="" coords="2276,79,2377,104"/>
+<area shape="rect" id="node4" href="$amount_8h.html" title="amount.h" alt="" coords="980,225,1057,251"/>
+</map>

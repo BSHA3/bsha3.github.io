@@ -1,0 +1,7 @@
+<map id="CalculateMaximumSignedInputSize" name="CalculateMaximumSignedInputSize">
+<area shape="rect" id="node2" href="$group__map_wallet.html#gaf05175134d84fe36b859e531c7353ff7" title="CWallet::DummySignInput" alt="" coords="299,55,476,80"/>
+<area shape="rect" id="node5" href="$policy_8cpp.html#a81253f3b89831b7d024f71245ad79988" title="GetVirtualTransactionInputSize" alt="" coords="285,104,490,129"/>
+<area shape="rect" id="node3" href="$sign_8cpp.html#a0c453416d09212d876bee81dc9353c16" title="Produce a script signature using a generic signature creator. " alt="" coords="562,5,690,31"/>
+<area shape="rect" id="node4" href="$sign_8cpp.html#a2051a9625f7300cb8ad7fdc1bc06f5c5" title="UpdateInput" alt="" coords="579,55,673,80"/>
+<area shape="rect" id="node6" href="$policy_8cpp.html#a657a593ec90452062582ccf893a8488d" title="Compute the virtual transaction size (weight reinterpreted as bytes). " alt="" coords="538,104,714,129"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="fsbridge::fopen" name="fsbridge::fopen">
+<area shape="rect" id="node2" href="$class_b_c_log_1_1_logger.html#a12ad70c2b4904e1326f2af1097ed9216" title="BCLog::Logger::OpenDebugLog" alt="" coords="165,5,378,31"/>
+<area shape="rect" id="node4" href="$class_b_c_log_1_1_logger.html#a7326a0d81dfe27f8c475c1e0038fbd18" title="Send a string to the log output. " alt="" coords="179,55,364,80"/>
+<area shape="rect" id="node5" href="$class_b_c_log_1_1_logger.html#ad36820e45dd853e26e20daa802202d61" title="BCLog::Logger::ShrinkDebugFile" alt="" coords="163,104,380,129"/>
+<area shape="rect" id="node6" href="$util_8h.html#a4d79c90e36d7957a773336ec3d55a842" title="DirIsWritable" alt="" coords="223,153,320,179"/>
+<area shape="rect" id="node7" href="$util_8h.html#a1c0f9b041628dcb399a023bc9913f41d" title="CreatePidFile" alt="" coords="220,203,322,228"/>
+<area shape="rect" id="node8" href="$validation_8h.html#a4b0f164432912c7b1b0e3535c13ad01c" title="Dump the mempool to disk. " alt="" coords="216,252,327,277"/>
+<area shape="rect" id="node3" href="$init_8h.html#a50b568a1d0cbbcde470f678bbbd60ecf" title="Bitcoin core main initialization. " alt="" coords="428,104,520,129"/>
+</map>

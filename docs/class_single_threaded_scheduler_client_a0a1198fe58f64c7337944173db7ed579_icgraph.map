@@ -1,0 +1,5 @@
+<map id="SingleThreadedSchedulerClient::ProcessQueue" name="SingleThreadedSchedulerClient::ProcessQueue">
+<area shape="rect" id="node2" href="$class_single_threaded_scheduler_client.html#a4ba96c33ff19150bb0f055b1f3435f70" title="SingleThreadedSchedulerClient\l::MaybeScheduleProcessQueue" alt="" coords="263,5,475,44"/>
+<area shape="rect" id="node4" href="$class_single_threaded_scheduler_client.html#a00007a60e2f73bc9932aeb3f7a446b77" title="SingleThreadedSchedulerClient\l::EmptyQueue" alt="" coords="264,68,474,107"/>
+<area shape="rect" id="node3" href="$class_single_threaded_scheduler_client.html#a627fd930cb0b0a84660a9698ee4d3fdc" title="Add a callback to be executed. " alt="" coords="523,5,733,44"/>
+</map>

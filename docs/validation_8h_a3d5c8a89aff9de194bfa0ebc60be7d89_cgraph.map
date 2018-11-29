@@ -1,0 +1,4 @@
+<map id="LoadChainTip" name="LoadChainTip">
+<area shape="rect" id="node2" href="$class_c_chain.html#a578545bde95163bee37b1be28e7b2755" title="Returns the index entry for the tip of this chain, or nullptr if none. " alt="" coords="206,5,297,31"/>
+<area shape="rect" id="node3" href="$class_c_block_index.html#a98490a2788c65cdd6ae9002b004dd74c" title="CBlockIndex::GetBlockHash" alt="" coords="157,55,346,80"/>
+</map>

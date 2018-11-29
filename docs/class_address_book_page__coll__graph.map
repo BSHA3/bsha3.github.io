@@ -1,0 +1,13 @@
+<map id="AddressBookPage" name="AddressBookPage">
+<area shape="rect" id="node3" href="$class_address_table_model.html" title="Qt model of the address book in the core. " alt="" coords="287,240,425,265"/>
+<area shape="rect" id="node5" href="$class_address_table_priv.html" title="AddressTablePriv" alt="" coords="628,219,753,244"/>
+<area shape="rect" id="node6" href="$class_wallet_model.html" title="Interface to Bitcoin wallet from Qt view code. " alt="" coords="643,343,737,368"/>
+<area shape="rect" id="node9" href="$class_transaction_table_model.html" title="UI model for the transaction table of a wallet. " alt="" coords="984,387,1143,412"/>
+<area shape="rect" id="node13" href="$class_recent_requests_table_model.html" title="Model for list of recently generated payment requests / bitcoin: URIs. " alt="" coords="969,233,1157,259"/>
+<area shape="rect" id="node8" href="$structinterfaces_1_1_wallet_balances.html" title="Collection of wallet balances. " alt="" coords="267,405,445,431"/>
+<area shape="rect" id="node10" href="$class_transaction_table_priv.html" title="TransactionTablePriv" alt="" coords="1247,387,1392,412"/>
+<area shape="rect" id="node11" href="$class_platform_style.html" title="PlatformStyle" alt="" coords="640,405,740,431"/>
+<area shape="rect" id="node12" href="$classinterfaces_1_1_node.html" title="Top&#45;level interface for a bitcoin node (bsha3d process). " alt="" coords="24,520,143,545"/>
+<area shape="rect" id="node14" href="$class_options_model.html" title="Interface from Qt to configuration data structure for Bitcoin client. " alt="" coords="304,568,408,593"/>
+<area shape="rect" id="node16" href="$class_address_book_sort_filter_proxy_model.html" title="AddressBookSortFilterProxy\lModel" alt="" coords="261,55,450,93"/>
+</map>

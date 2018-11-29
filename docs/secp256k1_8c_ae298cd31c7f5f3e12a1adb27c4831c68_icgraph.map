@@ -1,0 +1,4 @@
+<map id="secp256k1_ec_pubkey_tweak_add" name="secp256k1_ec_pubkey_tweak_add">
+<area shape="rect" id="node2" href="$class_c_pub_key.html#ac28722f47ab8a613bf9982608d13aa1f" title="Derive BIP32 child pubkey. " alt="" coords="211,12,335,37"/>
+<area shape="rect" id="node3" href="$struct_c_ext_pub_key.html#a2dae8fcc00b9617589dd0b1444f95ec8" title="CExtPubKey::Derive" alt="" coords="383,12,526,37"/>
+</map>

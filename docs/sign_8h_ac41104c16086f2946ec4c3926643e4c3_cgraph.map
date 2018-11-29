@@ -1,0 +1,10 @@
+<map id="SerializeHDKeypaths" name="SerializeHDKeypaths">
+<area shape="rect" id="node2" href="$sign_8h.html#a0ca0e322433b3a17166f3ff112196169" title="SerializeToVector" alt="" coords="201,104,325,129"/>
+<area shape="rect" id="node3" href="$serialize_8h.html#aff862d80e345fc18ed8a3e0b3a0ce528" title="WriteCompactSize" alt="" coords="384,53,515,79"/>
+<area shape="rect" id="node9" href="$span_8h.html#a4464473cb655d6f0513c8f5b330fd2fc" title="Create a span to a container exposing data() and size(). " alt="" coords="220,153,305,179"/>
+<area shape="rect" id="node6" href="$serialize_8h.html#adf4d4ad07d8f72e06ea2c39e76ae4d4a" title="GetSerializeSizeMany" alt="" coords="373,155,526,180"/>
+<area shape="rect" id="node7" href="$serialize_8h.html#a12afe7e3aa4802c5a5fc9b39a218489c" title="SerializeMany" alt="" coords="602,105,707,131"/>
+<area shape="rect" id="node4" href="$class_c_size_computer.html#a8f51357462d7960b27155d4f58558177" title="Pretend _nSize bytes are written, without specifying them. " alt="" coords="579,5,730,31"/>
+<area shape="rect" id="node5" href="$serialize_8h.html#a404beecbf8d7aec8d2cdac3cbb71e808" title="Compact Size size &lt; 253 – 1 byte size &lt;= USHRT_MAX – 3 bytes (253 + 2 bytes) size &lt;= UINT_MAX – 5 ..." alt="" coords="574,55,736,80"/>
+<area shape="rect" id="node8" href="$class_c_size_computer.html#a649d670bdcfee2b47a1982af566d3d7d" title="CSizeComputer::size" alt="" coords="581,155,728,180"/>
+</map>

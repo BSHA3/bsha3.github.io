@@ -1,0 +1,5 @@
+<map id="GetBlockProof" name="GetBlockProof">
+<area shape="rect" id="node2" href="$chain_8h.html#a6f922f61b23b0fc46182f8ab457af736" title="Return the time it would take to redo the work difference between from and to, assuming the current h..." alt="" coords="165,5,364,31"/>
+<area shape="rect" id="node3" href="$class_c_chain_state.html#a75381aa4f08cbb957a2158dd852602a8" title="CChainState::AddToBlockIndex" alt="" coords="161,55,368,80"/>
+<area shape="rect" id="node4" href="$class_c_chain_state.html#a25df87c65c89c79a4061f28c09599856" title="CChainState::LoadBlockIndex" alt="" coords="165,104,364,129"/>
+</map>

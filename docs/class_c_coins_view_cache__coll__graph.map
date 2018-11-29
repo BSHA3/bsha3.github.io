@@ -1,0 +1,6 @@
+<map id="CCoinsViewCache" name="CCoinsViewCache">
+<area shape="rect" id="node2" href="$class_c_coins_view_backed.html" title="CCoinsView backed by another CCoinsView. " alt="" coords="5,92,144,117"/>
+<area shape="rect" id="node3" href="$class_c_coins_view.html" title="Abstract view on the open txout dataset. " alt="" coords="10,5,104,31"/>
+<area shape="rect" id="node4" href="$classuint256.html" title="256&#45;bit opaque blob. " alt="" coords="167,92,232,117"/>
+<area shape="rect" id="node5" href="$classbase__blob.html" title="base_blob\&lt; 256 \&gt;" alt="" coords="136,5,264,31"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="CPubKey::Set" name="CPubKey::Set">
+<area shape="rect" id="node2" href="$class_c_pub_key.html#a169505e735a02db385486b0affeb565c" title="Recover a public key from a compact signature. " alt="" coords="158,19,346,44"/>
+<area shape="rect" id="node4" href="$class_c_pub_key.html#a572689418fecf47b300a11519bc3da36" title="Turn this public key into an uncompressed public key. " alt="" coords="172,68,332,93"/>
+<area shape="rect" id="node5" href="$class_c_pub_key.html#ac28722f47ab8a613bf9982608d13aa1f" title="Derive BIP32 child pubkey. " alt="" coords="191,117,314,143"/>
+<area shape="rect" id="node7" href="$struct_c_ext_pub_key.html#aa3038d8cc3d641842fcace7c4d942d53" title="CExtPubKey::Decode" alt="" coords="177,167,328,192"/>
+<area shape="rect" id="node10" href="$class_c_pub_key.html#a8c7527b40c96bfb8f48b669764301df8" title="Construct a public key using begin/end iterators to byte data. " alt="" coords="182,216,323,241"/>
+<area shape="rect" id="node3" href="$class_sign_verify_message_dialog.html#ae37dec200b27f23c409221511447ae1e" title="SignVerifyMessageDialog\l::on_verifyMessageButton\l_VM_clicked" alt="" coords="394,5,570,57"/>
+<area shape="rect" id="node6" href="$struct_c_ext_pub_key.html#a2dae8fcc00b9617589dd0b1444f95ec8" title="CExtPubKey::Derive" alt="" coords="411,117,554,143"/>
+<area shape="rect" id="node8" href="$key__io_8h.html#a43d8040d92cf6b2c3e779bdc4c0da099" title="DecodeExtPubKey" alt="" coords="416,167,549,192"/>
+<area shape="rect" id="node9" href="$struct_c_ext_pub_key.html#aa09888682af50a5f475d09ac539fb230" title="CExtPubKey::Unserialize" alt="" coords="397,216,567,241"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="PSBTOutput::Serialize" name="PSBTOutput::Serialize">
+<area shape="rect" id="node2" href="$classprevector.html#a0057a2d5ac2bbff636af5fbd87ae5235" title="prevector::empty" alt="" coords="210,43,330,68"/>
+<area shape="rect" id="node5" href="$sign_8h.html#a0ca0e322433b3a17166f3ff112196169" title="SerializeToVector" alt="" coords="208,104,332,129"/>
+<area shape="rect" id="node3" href="$classprevector.html#a626f7d206dbc24e5610631809762758b" title="prevector::size" alt="" coords="402,17,510,43"/>
+<area shape="rect" id="node4" href="$classprevector.html#a933e204a7e29c6bbc85479d023c00ff8" title="prevector::is_direct" alt="" coords="595,5,729,31"/>
+<area shape="rect" id="node6" href="$serialize_8h.html#aff862d80e345fc18ed8a3e0b3a0ce528" title="WriteCompactSize" alt="" coords="391,79,522,104"/>
+<area shape="rect" id="node9" href="$serialize_8h.html#adf4d4ad07d8f72e06ea2c39e76ae4d4a" title="GetSerializeSizeMany" alt="" coords="380,180,533,205"/>
+<area shape="rect" id="node10" href="$serialize_8h.html#a12afe7e3aa4802c5a5fc9b39a218489c" title="SerializeMany" alt="" coords="609,153,714,179"/>
+<area shape="rect" id="node7" href="$class_c_size_computer.html#a8f51357462d7960b27155d4f58558177" title="Pretend _nSize bytes are written, without specifying them. " alt="" coords="586,55,737,80"/>
+<area shape="rect" id="node8" href="$serialize_8h.html#a404beecbf8d7aec8d2cdac3cbb71e808" title="Compact Size size &lt; 253 – 1 byte size &lt;= USHRT_MAX – 3 bytes (253 + 2 bytes) size &lt;= UINT_MAX – 5 ..." alt="" coords="581,104,743,129"/>
+<area shape="rect" id="node11" href="$class_c_size_computer.html#a649d670bdcfee2b47a1982af566d3d7d" title="CSizeComputer::size" alt="" coords="588,203,735,228"/>
+</map>

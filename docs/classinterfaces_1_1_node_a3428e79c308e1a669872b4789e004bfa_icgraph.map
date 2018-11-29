@@ -1,0 +1,12 @@
+<map id="interfaces::Node::getWallets" name="interfaces::Node::getWallets">
+<area shape="rect" id="node2" href="$class_bitcoin_application.html#a5bcf1bf32a7508326e0dd630a59a887d" title="BitcoinApplication\l::initializeResult" alt="" coords="264,71,391,109"/>
+<area shape="rect" id="node6" href="$class_wallet_model.html#aca9e7e5008249180622c5c5c915bccb0" title="WalletModel::isMultiwallet" alt="" coords="241,135,414,160"/>
+<area shape="rect" id="node3" href="$class_bitcoin_application.html#a61afce9356e452c53ad4c83f5ca19df8" title="BitcoinApplication\l::startThread" alt="" coords="478,68,604,107"/>
+<area shape="rect" id="node4" href="$class_bitcoin_application.html#ade19c44b87b00b6b19b433caf4c22ba6" title="Request core initialization. " alt="" coords="683,5,809,44"/>
+<area shape="rect" id="node5" href="$class_bitcoin_application.html#a37c560d4c04d14a6da151b82caf8888f" title="Request core shutdown. " alt="" coords="680,68,812,107"/>
+<area shape="rect" id="node7" href="$class_receive_request_dialog.html#a8e1c0ee2fbacf42b4dc7ea05986c86c9" title="ReceiveRequestDialog\l::update" alt="" coords="462,131,619,169"/>
+<area shape="rect" id="node8" href="$class_receive_request_dialog.html#a2392a9b3bf94d7267dee0695049711a6" title="ReceiveRequestDialog\l::setModel" alt="" coords="667,131,824,169"/>
+<area shape="rect" id="node11" href="$class_receive_request_dialog.html#a43344270ef71e68ad9c7a931cc0ca9ed" title="ReceiveRequestDialog\l::setInfo" alt="" coords="667,193,824,232"/>
+<area shape="rect" id="node9" href="$class_receive_coins_dialog.html#a5eabd6106c8e3b275305b84c0303f314" title="ReceiveCoinsDialog\l::on_recentRequestsView\l_doubleClicked" alt="" coords="872,156,1045,208"/>
+<area shape="rect" id="node10" href="$class_receive_coins_dialog.html#a56df78045de75af55f4c4045ad4b7fcd" title="ReceiveCoinsDialog\l::on_showRequestButton\l_clicked" alt="" coords="1093,156,1264,208"/>
+</map>

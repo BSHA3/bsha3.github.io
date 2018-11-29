@@ -1,0 +1,21 @@
+<map id="src/addrman.h" name="src/addrman.h">
+<area shape="rect" id="node2" href="$netaddress_8h.html" title="netaddress.h" alt="" coords="957,152,1056,177"/>
+<area shape="rect" id="node29" href="$protocol_8h.html" title="protocol.h" alt="" coords="864,79,944,104"/>
+<area shape="rect" id="node34" href="$random_8h.html" title="random.h" alt="" coords="401,79,479,104"/>
+<area shape="rect" id="node36" href="$sync_8h.html" title="sync.h" alt="" coords="3194,232,3254,257"/>
+<area shape="rect" id="node41" href="$timedata_8h.html" title="timedata.h" alt="" coords="25,232,108,257"/>
+<area shape="rect" id="node42" href="$util_8h.html" title="util.h" alt="" coords="2470,152,2519,177"/>
+<area shape="rect" id="node3" href="$compat_8h.html" title="compat.h" alt="" coords="1822,232,1898,257"/>
+<area shape="rect" id="node18" href="$serialize_8h.html" title="serialize.h" alt="" coords="887,232,968,257"/>
+<area shape="rect" id="node28" href="$span_8h.html" title="span.h" alt="" coords="840,312,901,337"/>
+<area shape="rect" id="node30" href="$uint256_8h.html" title="uint256.h" alt="" coords="439,152,515,177"/>
+<area shape="rect" id="node32" href="$version_8h.html" title="version.h" alt="" coords="858,152,934,177"/>
+<area shape="rect" id="node31" href="$common_8h.html" title="crypto/common.h" alt="" coords="283,232,407,257"/>
+<area shape="rect" id="node35" href="$chacha20_8h.html" title="crypto/chacha20.h" alt="" coords="233,152,364,177"/>
+<area shape="rect" id="node37" href="$threadsafety_8h.html" title="threadsafety.h" alt="" coords="3171,312,3276,337"/>
+<area shape="rect" id="node43" href="$fs_8h.html" title="fs.h" alt="" coords="3022,312,3065,337"/>
+<area shape="rect" id="node44" href="$logging_8h.html" title="logging.h" alt="" coords="2913,232,2988,257"/>
+<area shape="rect" id="node45" href="$tinyformat_8h.html" title="tinyformat.h" alt="" coords="2646,312,2737,337"/>
+<area shape="rect" id="node46" href="$utilmemory_8h.html" title="utilmemory.h" alt="" coords="2742,232,2839,257"/>
+<area shape="rect" id="node47" href="$utiltime_8h.html" title="utiltime.h" alt="" coords="2112,232,2186,257"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="SignPSBTInput" name="SignPSBTInput">
+<area shape="rect" id="node2" href="$classprevector.html#a0057a2d5ac2bbff636af5fbd87ae5235" title="prevector::empty" alt="" coords="440,341,560,367"/>
+<area shape="rect" id="node5" href="$struct_c_script_witness.html#adc63cbb14bf507c490b3a99801e476ff" title="CScriptWitness::IsNull" alt="" coords="423,292,577,317"/>
+<area shape="rect" id="node6" href="$struct_p_s_b_t_input.html#aac68b5e551ba160e4f9fb393f94845bb" title="PSBTInput::FillSignatureData" alt="" coords="173,341,368,367"/>
+<area shape="rect" id="node7" href="$class_c_tx_out.html#ab92a3c4c95c643f7b3ffd3ffa7cd7055" title="CTxOut::IsNull" alt="" coords="217,443,325,468"/>
+<area shape="rect" id="node8" href="$sign_8cpp.html#a0c453416d09212d876bee81dc9353c16" title="Produce a script signature using a generic signature creator. " alt="" coords="207,492,335,517"/>
+<area shape="rect" id="node9" href="$struct_p_s_b_t_input.html#ad4eae111b69112fac6fd802b9e647d8e" title="PSBTInput::FromSignatureData" alt="" coords="166,292,375,317"/>
+<area shape="rect" id="node24" href="$class_c_tx_out.html#a9fe5e6a1be651f130d3dc84a64e78a24" title="CTxOut::SetNull" alt="" coords="212,191,329,216"/>
+<area shape="rect" id="node3" href="$classprevector.html#a626f7d206dbc24e5610631809762758b" title="prevector::size" alt="" coords="1235,240,1343,265"/>
+<area shape="rect" id="node4" href="$classprevector.html#a933e204a7e29c6bbc85479d023c00ff8" title="prevector::is_direct" alt="" coords="1412,216,1546,241"/>
+<area shape="rect" id="node10" href="$class_c_script.html#a7b2baf842621f07c4939408acf63377c" title="CScript::clear" alt="" coords="449,217,551,243"/>
+<area shape="rect" id="node11" href="$classprevector.html#a412f07b8bf5485dabe2fe9d6d5dfe763" title="prevector::clear" alt="" coords="625,191,738,216"/>
+<area shape="rect" id="node23" href="$classprevector.html#a3b82afa760e2aabd8373994a1316523e" title="prevector::shrink_to_fit" alt="" coords="786,291,942,316"/>
+<area shape="rect" id="node12" href="$classprevector.html#ad2d97a45e0d2872260e868a540d31860" title="prevector::resize" alt="" coords="804,164,924,189"/>
+<area shape="rect" id="node13" href="$classprevector.html#a780af143deebcaaecb164fa1a2d98156" title="prevector::erase" alt="" coords="1023,39,1141,64"/>
+<area shape="rect" id="node14" href="$classprevector.html#a59f1d7bcbc751cfa0faddd7ffa184846" title="prevector::item_ptr" alt="" coords="1223,191,1355,216"/>
+<area shape="rect" id="node17" href="$classprevector.html#aab7f6e13a3cac85cc340fc6b90c5365c" title="prevector::end" alt="" coords="1029,189,1136,215"/>
+<area shape="rect" id="node18" href="$classprevector.html#a833f4c9e5c4804fb8ac57b708657af24" title="prevector::capacity" alt="" coords="1222,65,1356,91"/>
+<area shape="rect" id="node19" href="$classprevector.html#a0e673654d3b7d8d6f79534e17f68741a" title="prevector::change_capacity" alt="" coords="990,392,1174,417"/>
+<area shape="rect" id="node22" href="$classprevector.html#adf0c95f81b436240afdae73855be7da8" title="prevector::fill" alt="" coords="1034,88,1131,113"/>
+<area shape="rect" id="node15" href="$classprevector.html#a20150a43dd87c33f0e855a55bd3418e8" title="prevector::direct_ptr" alt="" coords="1409,304,1549,329"/>
+<area shape="rect" id="node16" href="$classprevector.html#ae3343cc65be9fd678b4a6f8305624de6" title="prevector::indirect_ptr" alt="" coords="1404,373,1554,399"/>
+<area shape="rect" id="node20" href="$glibc__compat_8cpp.html#a0f46826ab0466591e136db24394923cf" title="memcpy" alt="" coords="1253,443,1325,468"/>
+<area shape="rect" id="node21" href="$glibc__compat_8cpp.html#a9778d49e9029dd75bc53ecbbf9f5e9a1" title="memmove" alt="" coords="1437,443,1521,468"/>
+</map>

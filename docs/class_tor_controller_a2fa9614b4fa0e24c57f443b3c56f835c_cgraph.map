@@ -1,0 +1,9 @@
+<map id="TorController::reconnect_cb" name="TorController::reconnect_cb">
+<area shape="rect" id="node2" href="$class_tor_controller.html#ae5d4304836fce79574ec540c5ada8269" title="Reconnect, after getting disconnected. " alt="" coords="238,68,407,93"/>
+<area shape="rect" id="node3" href="$class_tor_control_connection.html#a36b6359caf9a304efe310b9b7141a939" title="Connect to a Tor control port. " alt="" coords="483,5,633,44"/>
+<area shape="rect" id="node5" href="$class_tor_controller.html#a59d56a1525a08235b07dd9eadbae0d1f" title="Callback after successful connection. " alt="" coords="464,68,652,93"/>
+<area shape="rect" id="node6" href="$class_tor_controller.html#a81392f33f0c7e069762668ec3a757075" title="Callback after connection lost or failed connection attempt. " alt="" coords="455,117,660,143"/>
+<area shape="rect" id="node4" href="$class_tor_control_connection.html#ab956fc8db185b0559a2c17acab81b8e9" title="Disconnect from Tor control port. " alt="" coords="708,5,859,44"/>
+<area shape="rect" id="node7" href="$class_c_net_addr.html#a6fe20b8da9701ca5dc2af078e2e8ac25" title="CNetAddr::IsValid" alt="" coords="720,92,847,117"/>
+<area shape="rect" id="node8" href="$net_8cpp.html#a298d283732067adcbd421b66327413f8" title="RemoveLocal" alt="" coords="732,141,835,167"/>
+</map>

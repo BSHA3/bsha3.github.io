@@ -1,0 +1,4 @@
+<map id="CTxMemPool::CalculateDescendantMaximum" name="CTxMemPool::CalculateDescendantMaximum">
+<area shape="rect" id="node2" href="$class_c_tx_mem_pool.html#a0509eed68dd4c3cb7c9d3021a599a3f7" title="Calculate the ancestor and descendant count for the given transaction. " alt="" coords="290,5,490,44"/>
+<area shape="rect" id="node3" href="$class_c_wallet.html#ab8905842371f05e1fc1186463138ee7f" title="CWallet::GroupOutputs" alt="" coords="538,12,696,37"/>
+</map>

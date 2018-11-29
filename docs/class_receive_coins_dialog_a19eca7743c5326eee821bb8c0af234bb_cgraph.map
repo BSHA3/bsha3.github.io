@@ -1,0 +1,4 @@
+<map id="ReceiveCoinsDialog::updateDisplayUnit" name="ReceiveCoinsDialog::updateDisplayUnit">
+<area shape="rect" id="node2" href="$class_wallet_model.html#a96d53e56b3f8f07537ea2523f7a7d300" title="WalletModel::getOptionsModel" alt="" coords="195,5,397,31"/>
+<area shape="rect" id="node3" href="$class_options_model.html#a00a1f0842f764f64086e7d5d42bbce63" title="OptionsModel::getDisplayUnit" alt="" coords="197,55,394,80"/>
+</map>

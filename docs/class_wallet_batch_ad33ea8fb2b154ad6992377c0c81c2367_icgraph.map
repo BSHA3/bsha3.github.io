@@ -1,0 +1,7 @@
+<map id="WalletBatch::EraseTx" name="WalletBatch::EraseTx">
+<area shape="rect" id="node2" href="$class_wallet_batch.html#ac79856b5948d8a13415547fd3e9374f2" title="WalletBatch::ZapSelectTx" alt="" coords="202,5,377,31"/>
+<area shape="rect" id="node5" href="$class_wallet_batch.html#a50a18be2146809a540975db37225775f" title="WalletBatch::ZapWalletTx" alt="" coords="203,55,376,80"/>
+<area shape="rect" id="node3" href="$group___actions.html#ga01a1096ab883f9278d00c7b0d555bb2a" title="CWallet::ZapSelectTx" alt="" coords="425,5,574,31"/>
+<area shape="rect" id="node4" href="$rpcwallet_8cpp.html#a85478b0b9837a3e5467dce66fcb5ffb0" title="removeprunedfunds" alt="" coords="622,5,762,31"/>
+<area shape="rect" id="node6" href="$group___actions.html#ga71d4b810d6fce19efd455ded3e450a1b" title="CWallet::ZapWalletTx" alt="" coords="425,55,574,80"/>
+</map>

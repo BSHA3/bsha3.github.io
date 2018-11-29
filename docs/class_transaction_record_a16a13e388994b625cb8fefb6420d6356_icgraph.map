@@ -1,0 +1,16 @@
+<map id="TransactionRecord::statusUpdateNeeded" name="TransactionRecord::statusUpdateNeeded">
+<area shape="rect" id="node2" href="$class_transaction_table_priv.html#a59078cbe213cb4a6675cab6447be56bf" title="TransactionTablePriv\l::index" alt="" coords="200,237,345,276"/>
+<area shape="rect" id="node3" href="$class_transaction_table_model.html#af3a9a49314f80268a77a704f7f028905" title="TransactionTableModel\l::index" alt="" coords="424,125,583,164"/>
+<area shape="rect" id="node13" href="$class_transaction_view.html#a03be25d0d7808e8f96dffc8fb83e637e" title="TransactionView::focusTransaction" alt="" coords="662,245,890,271"/>
+<area shape="rect" id="node14" href="$class_transaction_view.html#abe5793b86a4ea6f80a6d822ee878e646" title="TransactionView::contextualMenu" alt="" coords="393,295,614,320"/>
+<area shape="rect" id="node4" href="$class_transaction_table_model.html#a5899d9eda6465bfb16d2846b6459567e" title="TransactionTableModel\l::updateConfirmations" alt="" coords="696,5,855,44"/>
+<area shape="rect" id="node7" href="$class_transaction_table_model.html#a02173c31b6014bff182e320217e30e10" title="TransactionTableModel\l::data" alt="" coords="696,68,855,107"/>
+<area shape="rect" id="node8" href="$class_wallet_view.html#addde7d2260658ee06f47f9c095a8cb2a" title="Show incoming transaction notification for new transactions. " alt="" coords="938,104,1174,129"/>
+<area shape="rect" id="node11" href="$class_transaction_table_model.html#a8b73ff7d72ec2dd69790bc61bbe8575e" title="TransactionTableModel\l::updateDisplayUnit" alt="" coords="696,183,855,221"/>
+<area shape="rect" id="node5" href="$class_wallet_model.html#a51469b2d95cfd4bc0a14ee456fca7b95" title="WalletModel::pollBalance\lChanged" alt="" coords="971,5,1141,44"/>
+<area shape="rect" id="node6" href="$class_wallet_model.html#ac0d2832c06b91e9f0aecb2c7d45fce81" title="WalletModel::WalletModel" alt="" coords="1227,12,1402,37"/>
+<area shape="rect" id="node9" href="$class_wallet_view.html#a0a37ff693a4f9c1e5ddc23f9cd3913be" title="Set the wallet model. " alt="" coords="1222,104,1407,129"/>
+<area shape="rect" id="node10" href="$class_wallet_frame.html#a06cb28194836995e50cc46716b2227ff" title="WalletFrame::addWallet" alt="" coords="1455,104,1617,129"/>
+<area shape="rect" id="node12" href="$class_transaction_table_model.html#addebfd4c35896f17a6a9fec9f40eeeb7" title="TransactionTableModel\l::TransactionTableModel" alt="" coords="973,183,1139,221"/>
+<area shape="rect" id="node15" href="$class_transaction_view.html#a6bad80e62c684ad1e77250510c9323aa" title="TransactionView::TransactionView" alt="" coords="664,295,888,320"/>
+</map>

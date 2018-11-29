@@ -1,0 +1,12 @@
+<map id="WalletModel::UnlockContext" name="WalletModel::UnlockContext">
+<area shape="rect" id="node2" href="$class_wallet_model.html" title="Interface to Bitcoin wallet from Qt view code. " alt="" coords="622,213,716,239"/>
+<area shape="rect" id="node5" href="$class_transaction_table_model.html" title="UI model for the transaction table of a wallet. " alt="" coords="972,317,1130,343"/>
+<area shape="rect" id="node9" href="$class_address_table_model.html" title="Qt model of the address book in the core. " alt="" coords="982,169,1120,195"/>
+<area shape="rect" id="node12" href="$class_recent_requests_table_model.html" title="Model for list of recently generated payment requests / bitcoin: URIs. " alt="" coords="957,48,1145,73"/>
+<area shape="rect" id="node4" href="$structinterfaces_1_1_wallet_balances.html" title="Collection of wallet balances. " alt="" coords="243,188,421,213"/>
+<area shape="rect" id="node7" href="$class_transaction_table_priv.html" title="TransactionTablePriv" alt="" coords="1235,276,1380,301"/>
+<area shape="rect" id="node8" href="$class_platform_style.html" title="PlatformStyle" alt="" coords="619,389,720,415"/>
+<area shape="rect" id="node10" href="$class_address_table_priv.html" title="AddressTablePriv" alt="" coords="1245,205,1370,231"/>
+<area shape="rect" id="node11" href="$classinterfaces_1_1_node.html" title="Top&#45;level interface for a bitcoin node (bsha3d process). " alt="" coords="15,253,133,279"/>
+<area shape="rect" id="node13" href="$class_options_model.html" title="Interface from Qt to configuration data structure for Bitcoin client. " alt="" coords="280,300,384,325"/>
+</map>

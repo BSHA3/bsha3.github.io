@@ -1,0 +1,6 @@
+<map id="PeerLogicValidation::SendMessages" name="PeerLogicValidation::SendMessages">
+<area shape="rect" id="node2" href="$chainparams_8cpp.html#ace5c5b706d71a324a417dd2db394fd4a" title="Return the currently selected parameters. " alt="" coords="262,5,330,31"/>
+<area shape="rect" id="node3" href="$class_c_chain_params.html#aa366d4f63c8d16d625336dca61ca65e5" title="CChainParams::GetConsensus" alt="" coords="192,55,400,80"/>
+<area shape="rect" id="node4" href="$class_c_node.html#a253ceac237f69cc1155bfb71acd0c48f" title="CNode::GetSendVersion" alt="" coords="212,104,380,129"/>
+<area shape="rect" id="node5" href="$util_8h.html#a96c5fc7111f69f7dcaba992d95d13e03" title="error" alt="" coords="448,104,497,129"/>
+</map>

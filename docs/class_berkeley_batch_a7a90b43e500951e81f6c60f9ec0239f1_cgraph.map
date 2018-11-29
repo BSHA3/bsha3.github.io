@@ -1,0 +1,6 @@
+<map id="BerkeleyBatch::VerifyDatabaseFile" name="BerkeleyBatch::VerifyDatabaseFile">
+<area shape="rect" id="node2" href="$db_8cpp.html#ad35888bb71f9a2822294063004aab1d5" title="Get BerkeleyEnvironment and database filename given a wallet path. " alt="" coords="303,5,405,31"/>
+<area shape="rect" id="node3" href="$class_berkeley_environment.html#a1e5ad8ccd1e5e8ca57291bc2ec61613e" title="BerkeleyEnvironment\l::Directory" alt="" coords="280,55,428,93"/>
+<area shape="rect" id="node4" href="$class_berkeley_environment.html#a7ff8fa4ca71a32b5ee8ecaed23dd31f8" title="BerkeleyEnvironment\l::Verify" alt="" coords="280,117,428,156"/>
+<area shape="rect" id="node5" href="$util_8h.html#aad133bb6103b53cebf03fd01e2f11ba1" title="Translation function. " alt="" coords="335,180,373,205"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="interfaces::Node::getWarnings" name="interfaces::Node::getWarnings">
+<area shape="rect" id="node2" href="$class_bitcoin_core.html#a8269c96a3abdb322e4b3275a866aeaee" title="Pass fatal exception message to UI thread. " alt="" coords="254,41,447,80"/>
+<area shape="rect" id="node8" href="$class_client_model.html#a16718fa6c90ac5bce0ce1dcbfb3ec95c" title="Return warnings to be displayed in status bar. " alt="" coords="262,104,438,143"/>
+<area shape="rect" id="node3" href="$class_bitcoin_core.html#af34ca069cda1d4362dcc109b4397fb62" title="BitcoinCore::initialize" alt="" coords="524,5,669,31"/>
+<area shape="rect" id="node7" href="$class_bitcoin_core.html#a94f3f4622ba698e321f3a2e0e686129f" title="BitcoinCore::shutdown" alt="" coords="519,55,674,80"/>
+<area shape="rect" id="node4" href="$class_bitcoin_application.html#a61afce9356e452c53ad4c83f5ca19df8" title="BitcoinApplication\l::startThread" alt="" coords="774,28,901,67"/>
+<area shape="rect" id="node5" href="$class_bitcoin_application.html#ade19c44b87b00b6b19b433caf4c22ba6" title="Request core initialization. " alt="" coords="995,8,1121,47"/>
+<area shape="rect" id="node6" href="$class_bitcoin_application.html#a37c560d4c04d14a6da151b82caf8888f" title="Request core shutdown. " alt="" coords="992,71,1124,109"/>
+<area shape="rect" id="node9" href="$class_client_model.html#a006401a33f7e1a454828f637595f43c0" title="ClientModel::updateAlert" alt="" coords="513,107,680,132"/>
+<area shape="rect" id="node10" href="$class_overview_page.html#a5d2610ab2b9c58e3b5f67c05f984e097" title="OverviewPage::setClientModel" alt="" coords="495,156,698,181"/>
+<area shape="rect" id="node11" href="$class_wallet_view.html#a46d9a8d93adfdcc29cae9ff0d44c313e" title="Set the client model. " alt="" coords="746,156,929,181"/>
+<area shape="rect" id="node12" href="$class_wallet_frame.html#a06cb28194836995e50cc46716b2227ff" title="WalletFrame::addWallet" alt="" coords="977,156,1139,181"/>
+</map>

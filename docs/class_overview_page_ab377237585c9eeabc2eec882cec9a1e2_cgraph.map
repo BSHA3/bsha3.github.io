@@ -1,0 +1,7 @@
+<map id="OverviewPage::OverviewPage" name="OverviewPage::OverviewPage">
+<area shape="rect" id="node2" href="$class_platform_style.html#a3f4ff8b7a2054cbd4283e67208523035" title="Colorize an icon (given filename) with the icon color. " alt="" coords="267,5,469,31"/>
+<area shape="rect" id="node4" href="$class_overview_page.html#a8de10507bde89116a691ed61e7e52507" title="OverviewPage::handleTransaction\lClicked" alt="" coords="255,55,480,93"/>
+<area shape="rect" id="node5" href="$class_overview_page.html#ac96ea713a074e706b4b6eadaadeca9d1" title="OverviewPage::showOutOfSync\lWarning" alt="" coords="262,117,474,156"/>
+<area shape="rect" id="node6" href="$class_overview_page.html#ab5a8627802b5810268f7e1ee9432e2b1" title="OverviewPage::handleOutOf\lSyncWarningClicks" alt="" coords="272,180,463,219"/>
+<area shape="rect" id="node3" href="$class_platform_style.html#a76949291f8dfc8b7a34f90cf119ed8e4" title="PlatformStyle::SingleColor" alt="" coords="528,5,705,31"/>
+</map>

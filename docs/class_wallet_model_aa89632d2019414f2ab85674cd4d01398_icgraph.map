@@ -1,0 +1,8 @@
+<map id="WalletModel::getEncryptionStatus" name="WalletModel::getEncryptionStatus">
+<area shape="rect" id="node2" href="$class_wallet_model.html#a89180a13e5b0c2ca7732164b9dec3806" title="WalletModel::updateStatus" alt="" coords="240,5,420,31"/>
+<area shape="rect" id="node3" href="$class_wallet_model.html#ae98eaede9493625ce778a0a873b3d124" title="WalletModel::requestUnlock" alt="" coords="236,55,423,80"/>
+<area shape="rect" id="node4" href="$class_wallet_view.html#ac258d549f0e55ad4f84b9d21848faf02" title="Ask for passphrase to unlock wallet temporarily. " alt="" coords="245,104,414,129"/>
+<area shape="rect" id="node5" href="$class_wallet_frame.html#a31b6e87c87b383ef53225b6c2b37f057" title="Ask for passphrase to unlock wallet temporarily. " alt="" coords="474,79,653,104"/>
+<area shape="rect" id="node6" href="$class_wallet_view.html#a0a37ff693a4f9c1e5ddc23f9cd3913be" title="Set the wallet model. " alt="" coords="471,128,656,153"/>
+<area shape="rect" id="node7" href="$class_wallet_frame.html#a06cb28194836995e50cc46716b2227ff" title="WalletFrame::addWallet" alt="" coords="704,128,867,153"/>
+</map>

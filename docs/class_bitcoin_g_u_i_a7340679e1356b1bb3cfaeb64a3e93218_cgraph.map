@@ -1,0 +1,48 @@
+<map id="BitcoinGUI::createActions" name="BitcoinGUI::createActions">
+<area shape="rect" id="node2" href="$class_platform_style.html#a3f4ff8b7a2054cbd4283e67208523035" title="Colorize an icon (given filename) with the icon color. " alt="" coords="234,5,437,31"/>
+<area shape="rect" id="node4" href="$class_platform_style.html#ac3c91893b60a84a98155b7b9603918bd" title="Colorize an icon (given filename) with the text color. " alt="" coords="241,55,430,80"/>
+<area shape="rect" id="node6" href="$class_bitcoin_g_u_i.html#aca9a193e0484c1caf924e76d96800a9f" title="Show window if hidden, unminimize when minimized, rise when obscured or show if hidden and fToggleHid..." alt="" coords="523,139,697,177"/>
+<area shape="rect" id="node7" href="$class_bitcoin_g_u_i.html#a684a65883555153c40ccff323adc22e9" title="Show about dialog. " alt="" coords="251,205,420,231"/>
+<area shape="rect" id="node8" href="$class_bitcoin_g_u_i.html#a366dfb05459cb49fec8adb7f97bf2ad7" title="Show configuration dialog. " alt="" coords="246,255,425,280"/>
+<area shape="rect" id="node27" href="$class_bitcoin_g_u_i.html#a6ca9ded69ab510195ff04fe7f5754ff5" title="Simply calls showNormalIfMinimized(true) for use in SLOT() macro. " alt="" coords="250,156,421,181"/>
+<area shape="rect" id="node28" href="$class_bitcoin_g_u_i.html#ad6fbd364904e1468e77f09265f7a287b" title="Show help message dialog. " alt="" coords="233,304,438,343"/>
+<area shape="rect" id="node29" href="$class_bitcoin_g_u_i.html#a74409c12921d2a420809890827863546" title="Show debug window. " alt="" coords="505,372,715,397"/>
+<area shape="rect" id="node30" href="$class_wallet_frame.html#a8a9a419ba3e249f29fe321f2d789b761" title="Encrypt the wallet. " alt="" coords="244,531,428,556"/>
+<area shape="rect" id="node35" href="$class_wallet_frame.html#a76aa3543635fedea052661a4cd44b81d" title="Backup the wallet. " alt="" coords="244,481,427,507"/>
+<area shape="rect" id="node40" href="$class_wallet_frame.html#a0a4026a734acdc0f5fbd5f775c167443" title="Change encrypted wallet passphrase. " alt="" coords="227,580,445,605"/>
+<area shape="rect" id="node42" href="$class_wallet_frame.html#a7f697d220e7ea40d6e4d6e6c5e9ef3b4" title="Show used sending addresses. " alt="" coords="245,629,426,668"/>
+<area shape="rect" id="node44" href="$class_wallet_frame.html#a9273a0b98cf7ec9fc344658c38a4a0a3" title="Show used receiving addresses. " alt="" coords="240,692,431,731"/>
+<area shape="rect" id="node46" href="$class_bitcoin_g_u_i.html#a84773756d85102e6bd01dfdaec8601a2" title="Show debug window and set focus to the console. " alt="" coords="230,419,441,457"/>
+<area shape="rect" id="node3" href="$class_platform_style.html#a76949291f8dfc8b7a34f90cf119ed8e4" title="PlatformStyle::SingleColor" alt="" coords="521,5,698,31"/>
+<area shape="rect" id="node5" href="$class_platform_style.html#ad9c6683d8af86105edcb53970b689afb" title="PlatformStyle::TextColor" alt="" coords="528,55,692,80"/>
+<area shape="rect" id="node9" href="$class_bitcoin_g_u_i.html#a203d9003ab4de369e35599aaaae6f17a" title="Open the OptionsDialog on the specified tab index. " alt="" coords="507,248,713,287"/>
+<area shape="rect" id="node10" href="$class_client_model.html#ae8da1e2eabfbbcc49a7eed821908bdb6" title="ClientModel::getOptionsModel" alt="" coords="775,205,975,231"/>
+<area shape="rect" id="node11" href="$class_options_dialog.html#a29e0d6044e8d6ec6de789eb77b06e1bc" title="OptionsDialog::setCurrentTab" alt="" coords="777,255,973,280"/>
+<area shape="rect" id="node12" href="$class_options_dialog.html#a11e902a52cb7472497d14e70cd9399d9" title="OptionsDialog::setModel" alt="" coords="792,304,959,329"/>
+<area shape="rect" id="node13" href="$class_options_model.html#a1e3f972be7ce33bc6ea3cab32d436a83" title="OptionsModel::isRestartRequired" alt="" coords="1494,193,1712,219"/>
+<area shape="rect" id="node14" href="$class_options_dialog.html#a866e74896ea7dacdc99b5e0af4fd5b38" title="OptionsDialog::showRestart\lWarning" alt="" coords="1028,207,1214,245"/>
+<area shape="rect" id="node16" href="$class_options_model.html#ac5d555492fa4d6bba68d00e798efca50" title="OptionsModel::getOverridden\lByCommandLine" alt="" coords="1023,269,1219,308"/>
+<area shape="rect" id="node17" href="$class_options_dialog.html#a2088ec5bbb90ec27675f441e750e55b8" title="OptionsDialog::setMapper" alt="" coords="1033,332,1209,357"/>
+<area shape="rect" id="node18" href="$class_options_dialog.html#a44ffc21aae73b251333b75907aa8ff8c" title="OptionsDialog::updateDefault\lProxyNets" alt="" coords="1023,381,1219,420"/>
+<area shape="rect" id="node26" href="$class_options_dialog.html#a5c34115da016060677582839740b7ba6" title="OptionsDialog::togglePrune\lWarning" alt="" coords="1029,444,1213,483"/>
+<area shape="rect" id="node15" href="$class_options_dialog.html#acd07b7058fd097bea5beb5cdd6fc1ad9" title="OptionsDialog::clearStatus\lLabel" alt="" coords="1267,207,1446,245"/>
+<area shape="rect" id="node19" href="$class_options_model.html#ad5ae1bb7c44cc3d9ae91cbee7e3a4830" title="OptionsModel::node" alt="" coords="1286,408,1427,433"/>
+<area shape="rect" id="node20" href="$classinterfaces_1_1_node.html#a62123e0abdccfc6dbc7ef77b52bb02f8" title="Get proxy. " alt="" coords="1267,457,1446,483"/>
+<area shape="rect" id="node21" href="$class_c_net_addr.html#a0c8d9b5ed3824546ff4dccca3b28b073" title="CNetAddr::ToStringIP" alt="" coords="1282,309,1431,335"/>
+<area shape="rect" id="node25" href="$class_c_service.html#a95d6f24b6a613fca24734ba4e38ef3dc" title="CService::ToStringPort" alt="" coords="1278,359,1435,384"/>
+<area shape="rect" id="node22" href="$class_c_net_addr.html#a4db37b4997ff3b8c57959f2aa915a9a3" title="CNetAddr::IsTor" alt="" coords="1545,260,1661,285"/>
+<area shape="rect" id="node23" href="$utilstrencodings_8cpp.html#aed1944a78afffe9d5f3129e656dc8aa6" title="EncodeBase32" alt="" coords="1547,309,1659,335"/>
+<area shape="rect" id="node24" href="$class_c_net_addr.html#ab0848a1ba29b6f72fcc3b6ba8d7c8fbb" title="CNetAddr::IsInternal" alt="" coords="1532,359,1674,384"/>
+<area shape="rect" id="node31" href="$class_wallet_frame.html#a026798332d142b693e4f1820185d3f1c" title="WalletFrame::currentWalletView" alt="" coords="505,577,715,603"/>
+<area shape="rect" id="node32" href="$class_wallet_view.html#a164c3de8fc69ef6f39fb7c15e4bda553" title="Encrypt the wallet. " alt="" coords="523,528,697,553"/>
+<area shape="rect" id="node33" href="$class_ask_passphrase_dialog.html#a35b83e1ef98813b6b88155aab0803ed3" title="AskPassphraseDialog\l::setModel" alt="" coords="799,612,951,651"/>
+<area shape="rect" id="node34" href="$class_wallet_view.html#ad348f2ed9f843ef9125ca416307c7412" title="Re&#45;emit encryption status signal. " alt="" coords="776,544,974,583"/>
+<area shape="rect" id="node36" href="$class_wallet_view.html#a9800d793b552076b4207276d9e08c8b6" title="Backup the wallet. " alt="" coords="523,477,697,503"/>
+<area shape="rect" id="node37" href="$namespace_g_u_i_util.html#a788c51092a2255b1f8976d4794fc3ee6" title="Get save filename, mimics QFileDialog::getSaveFileName, except that it appends a default suffix when ..." alt="" coords="786,383,964,408"/>
+<area shape="rect" id="node38" href="$class_wallet_model.html#aa3a3b4a8064de3af096dbf64bfe12655" title="WalletModel::wallet" alt="" coords="807,432,943,457"/>
+<area shape="rect" id="node39" href="$classinterfaces_1_1_wallet.html#aa969fa7dd4ad4eacb5ceb2f8524829d5" title="Back up wallet. " alt="" coords="814,481,937,520"/>
+<area shape="rect" id="node41" href="$class_wallet_view.html#a36699c31e256becb2afd92f834830ba0" title="Change encrypted wallet passphrase. " alt="" coords="506,627,714,652"/>
+<area shape="rect" id="node43" href="$class_wallet_view.html#a6f0d012c18ea2df7336c852abe2a50d0" title="Show used sending addresses. " alt="" coords="493,676,727,701"/>
+<area shape="rect" id="node45" href="$class_wallet_view.html#accb5d9e2789c62e03ad1723518d31c02" title="Show used receiving addresses. " alt="" coords="519,725,701,764"/>
+<area shape="rect" id="node47" href="$class_r_p_c_console.html#ae786f91271c0310f900bd208cc39b197" title="set which tab has the focus (is visible) " alt="" coords="519,425,701,451"/>
+</map>

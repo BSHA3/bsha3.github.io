@@ -1,0 +1,7 @@
+<map id="BitcoinCore::handleRunawayException" name="BitcoinCore::handleRunawayException">
+<area shape="rect" id="node2" href="$class_bitcoin_core.html#af34ca069cda1d4362dcc109b4397fb62" title="BitcoinCore::initialize" alt="" coords="251,19,397,44"/>
+<area shape="rect" id="node6" href="$class_bitcoin_core.html#a94f3f4622ba698e321f3a2e0e686129f" title="BitcoinCore::shutdown" alt="" coords="247,68,401,93"/>
+<area shape="rect" id="node3" href="$class_bitcoin_application.html#a61afce9356e452c53ad4c83f5ca19df8" title="BitcoinApplication\l::startThread" alt="" coords="449,37,576,76"/>
+<area shape="rect" id="node4" href="$class_bitcoin_application.html#ade19c44b87b00b6b19b433caf4c22ba6" title="Request core initialization. " alt="" coords="627,5,753,44"/>
+<area shape="rect" id="node5" href="$class_bitcoin_application.html#a37c560d4c04d14a6da151b82caf8888f" title="Request core shutdown. " alt="" coords="624,68,756,107"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="CZMQAbstractNotifier::Shutdown" name="CZMQAbstractNotifier::Shutdown">
+<area shape="rect" id="node2" href="$class_c_z_m_q_notification_interface.html#ab62768ce9682d1b141ea970c544f6226" title="Notifies listeners when the block chain tip advances. " alt="" coords="219,5,397,44"/>
+<area shape="rect" id="node3" href="$class_c_z_m_q_notification_interface.html#ad6e8baf086fdb469b72efd04daf253ec" title="Notifies listeners of a transaction having been added to mempool. " alt="" coords="205,68,410,107"/>
+<area shape="rect" id="node4" href="$class_c_z_m_q_notification_interface.html#af41681618cdb13b354ead2fe3074545b" title="Notifies listeners of a block being connected. " alt="" coords="458,36,637,75"/>
+<area shape="rect" id="node5" href="$class_c_z_m_q_notification_interface.html#a079d7619911433f35230b51d650abdf7" title="Notifies listeners of a block being disconnected. " alt="" coords="458,99,637,137"/>
+</map>

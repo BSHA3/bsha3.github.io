@@ -1,0 +1,8 @@
+<map id="SignatureExtractorChecker" name="SignatureExtractorChecker">
+<area shape="rect" id="node2" href="$class_base_signature_checker.html" title="BaseSignatureChecker" alt="" coords="5,293,164,319"/>
+<area shape="rect" id="node3" href="$struct_signature_data.html" title="SignatureData" alt="" coords="187,293,294,319"/>
+<area shape="rect" id="node4" href="$class_c_script.html" title="Serialized script, used inside transaction inputs and outputs. " alt="" coords="151,180,216,205"/>
+<area shape="rect" id="node5" href="$classprevector.html" title="Implements a drop&#45;in replacement for std::vector&lt;T&gt; which stores up to N elements directly (without h..." alt="" coords="136,105,231,131"/>
+<area shape="rect" id="node6" href="$unionprevector_1_1direct__or__indirect.html" title="prevector\&lt; N, T, Size,\l Diff \&gt;::direct_or_indirect" alt="" coords="100,5,266,44"/>
+<area shape="rect" id="node7" href="$struct_c_script_witness.html" title="CScriptWitness" alt="" coords="242,180,354,205"/>
+</map>

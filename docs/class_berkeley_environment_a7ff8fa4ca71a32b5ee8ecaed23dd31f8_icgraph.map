@@ -1,0 +1,5 @@
+<map id="BerkeleyEnvironment::Verify" name="BerkeleyEnvironment::Verify">
+<area shape="rect" id="node2" href="$class_berkeley_batch.html#a7a90b43e500951e81f6c60f9ec0239f1" title="BerkeleyBatch::VerifyDatabaseFile" alt="" coords="201,12,428,37"/>
+<area shape="rect" id="node3" href="$class_wallet_batch.html#a92563e74e5656264cfe5c5603ea230ef" title="WalletBatch::VerifyDatabaseFile" alt="" coords="476,12,687,37"/>
+<area shape="rect" id="node4" href="$class_c_wallet.html#a76e7655272faf35c16e9525ab232c3d1" title="Verify wallet naming and perform salvage on the wallet if required. " alt="" coords="735,12,844,37"/>
+</map>

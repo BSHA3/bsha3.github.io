@@ -1,0 +1,5 @@
+<map id="WalletBatch::WriteHDChain" name="WalletBatch::WriteHDChain">
+<area shape="rect" id="node2" href="$class_wallet_batch.html#a552eb421cff45a9ed94b1ec77e5c76c3" title="WalletBatch::WriteIC" alt="" coords="238,33,381,59"/>
+<area shape="rect" id="node3" href="$class_berkeley_batch.html#ac31c83ec96f7bd149f856d28e97dba23" title="BerkeleyBatch::Write" alt="" coords="455,5,601,31"/>
+<area shape="rect" id="node4" href="$class_berkeley_database.html#a313cd767c211da5738bdb5578cd59af7" title="BerkeleyDatabase::Increment\lUpdateCounter" alt="" coords="429,55,626,93"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CZMQAbstractNotifier::NotifyTransaction" name="CZMQAbstractNotifier::NotifyTransaction">
+<area shape="rect" id="node2" href="$class_c_z_m_q_notification_interface.html#ad6e8baf086fdb469b72efd04daf253ec" title="Notifies listeners of a transaction having been added to mempool. " alt="" coords="205,37,410,76"/>
+<area shape="rect" id="node3" href="$class_c_z_m_q_notification_interface.html#af41681618cdb13b354ead2fe3074545b" title="Notifies listeners of a block being connected. " alt="" coords="458,5,637,44"/>
+<area shape="rect" id="node4" href="$class_c_z_m_q_notification_interface.html#a079d7619911433f35230b51d650abdf7" title="Notifies listeners of a block being disconnected. " alt="" coords="458,68,637,107"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="CMerkleTx::IsInMainChain" name="CMerkleTx::IsInMainChain">
+<area shape="rect" id="node2" href="$group__map_wallet.html#gabb3eec7968dec62cf41937aab0985087" title="CWalletTx::GetImmatureCredit" alt="" coords="233,5,436,31"/>
+<area shape="rect" id="node4" href="$group__map_wallet.html#ga283fbf2ff029a0052aba10aa4224fbdb" title="CWalletTx::GetImmatureWatch\lOnlyCredit" alt="" coords="232,55,437,93"/>
+<area shape="rect" id="node3" href="$group___actions.html#ga6ab8dfa75c5c8d5539325f3981697964" title="CWallet::GetImmatureBalance" alt="" coords="485,5,685,31"/>
+<area shape="rect" id="node5" href="$group___actions.html#ga1372ba886aaeda65bf28758c9ccb65b4" title="CWallet::GetImmatureWatch\lOnlyBalance" alt="" coords="490,55,680,93"/>
+</map>

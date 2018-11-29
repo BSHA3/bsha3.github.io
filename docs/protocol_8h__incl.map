@@ -1,0 +1,12 @@
+<map id="src/protocol.h" name="src/protocol.h">
+<area shape="rect" id="node2" href="$netaddress_8h.html" title="netaddress.h" alt="" coords="1638,79,1736,104"/>
+<area shape="rect" id="node19" href="$serialize_8h.html" title="serialize.h" alt="" coords="1646,152,1728,177"/>
+<area shape="rect" id="node39" href="$uint256_8h.html" title="uint256.h" alt="" coords="2230,79,2306,104"/>
+<area shape="rect" id="node43" href="$version_8h.html" title="version.h" alt="" coords="2641,79,2717,104"/>
+<area shape="rect" id="node3" href="$compat_8h.html" title="compat.h" alt="" coords="865,299,941,324"/>
+<area shape="rect" id="node38" href="$span_8h.html" title="span.h" alt="" coords="1153,225,1215,251"/>
+<area shape="rect" id="node20" href="$endian_8h.html" title="compat/endian.h" alt="" coords="2258,225,2377,251"/>
+<area shape="rect" id="node34" href="$prevector_8h.html" title="prevector.h" alt="" coords="1341,225,1428,251"/>
+<area shape="rect" id="node21" href="$byteswap_8h.html" title="compat/byteswap.h" alt="" coords="2167,299,2303,324"/>
+<area shape="rect" id="node42" href="$common_8h.html" title="crypto/common.h" alt="" coords="2206,152,2330,177"/>
+</map>

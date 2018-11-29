@@ -1,0 +1,4 @@
+<map id="CWallet::ReserveKeyFromKeyPool" name="CWallet::ReserveKeyFromKeyPool">
+<area shape="rect" id="node2" href="$group___actions.html#gac452f46eafeb2b4adfe86f7208048032" title="CWallet::GetKeyFromPool" alt="" coords="299,5,477,31"/>
+<area shape="rect" id="node3" href="$group___actions.html#gad2347fdc30dfbba5298f2386a219c13d" title="CReserveKey::GetReservedKey" alt="" coords="282,55,494,80"/>
+</map>

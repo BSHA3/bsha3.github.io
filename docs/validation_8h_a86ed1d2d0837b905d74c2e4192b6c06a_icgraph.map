@@ -1,0 +1,9 @@
+<map id="FormatStateMessage" name="FormatStateMessage">
+<area shape="rect" id="node2" href="$group___actions.html#ga2faeb244cf83bbae1304ae2f4acc7d93" title="Call after CreateTransaction unless you want to abort. " alt="" coords="202,5,392,31"/>
+<area shape="rect" id="node3" href="$class_c_chain_state.html#a06a01f2d89b7a40b5341083aa522a1e2" title="Apply the effects of this block (with given index) on the UTXO set represented by coins..." alt="" coords="204,55,390,80"/>
+<area shape="rect" id="node4" href="$validation_8h.html#a32c6dfc4ade001f117ac3fac3da9d123" title="Process an incoming block. " alt="" coords="233,104,362,129"/>
+<area shape="rect" id="node7" href="$class_c_chain_state.html#afc0586502e4dd4092c4a0707d329f6eb" title="CChainState::RewindBlock\lIndex" alt="" coords="206,153,388,192"/>
+<area shape="rect" id="node5" href="$mining_8h.html#a4910d289954727eb7c4c24a6b3c50c55" title="Generate blocks (mine) " alt="" coords="449,104,562,129"/>
+<area shape="rect" id="node6" href="$rpcwallet_8cpp.html#a236a42206aa464fbb10bae6e6243092b" title="generate" alt="" coords="619,104,693,129"/>
+<area shape="rect" id="node8" href="$validation_8h.html#a2e51de180124822c526ac8f82777fa32" title="When there are blocks in the active chain with missing data, rewind the chainstate and remove them fr..." alt="" coords="440,160,571,185"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="TorController::disconnected_cb" name="TorController::disconnected_cb">
+<area shape="rect" id="node2" href="$class_c_net_addr.html#a6fe20b8da9701ca5dc2af078e2e8ac25" title="CNetAddr::IsValid" alt="" coords="258,5,385,31"/>
+<area shape="rect" id="node3" href="$net_8cpp.html#a298d283732067adcbd421b66327413f8" title="RemoveLocal" alt="" coords="270,55,373,80"/>
+</map>

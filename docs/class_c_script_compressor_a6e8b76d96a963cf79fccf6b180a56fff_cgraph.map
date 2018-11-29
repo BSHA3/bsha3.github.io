@@ -1,0 +1,19 @@
+<map id="CScriptCompressor::Unserialize" name="CScriptCompressor::Unserialize">
+<area shape="rect" id="node2" href="$compressor_8h.html#af19d884713b6311086e72ca1c123d7e5" title="GetSpecialScriptSize" alt="" coords="198,108,345,133"/>
+<area shape="rect" id="node3" href="$span_8h.html#a4464473cb655d6f0513c8f5b330fd2fc" title="Create a span to a container exposing data() and size(). " alt="" coords="229,157,314,183"/>
+<area shape="rect" id="node4" href="$compressor_8h.html#aa6bd98842f2ceb1777745343d6ec0c9a" title="DecompressScript" alt="" coords="207,207,337,232"/>
+<area shape="rect" id="node5" href="$classprevector.html#ad2d97a45e0d2872260e868a540d31860" title="prevector::resize" alt="" coords="393,207,513,232"/>
+<area shape="rect" id="node15" href="$glibc__compat_8cpp.html#a0f46826ab0466591e136db24394923cf" title="memcpy" alt="" coords="824,5,896,31"/>
+<area shape="rect" id="node18" href="$classprevector.html#a9fbdc01ee822a8e4fc6a83e7899975f4" title="prevector::data" alt="" coords="398,332,508,357"/>
+<area shape="rect" id="node6" href="$classprevector.html#a626f7d206dbc24e5610631809762758b" title="prevector::size" alt="" coords="806,257,914,283"/>
+<area shape="rect" id="node8" href="$classprevector.html#a780af143deebcaaecb164fa1a2d98156" title="prevector::erase" alt="" coords="594,359,712,384"/>
+<area shape="rect" id="node9" href="$classprevector.html#a59f1d7bcbc751cfa0faddd7ffa184846" title="prevector::item_ptr" alt="" coords="794,307,926,332"/>
+<area shape="rect" id="node12" href="$classprevector.html#aab7f6e13a3cac85cc340fc6b90c5365c" title="prevector::end" alt="" coords="600,257,706,283"/>
+<area shape="rect" id="node13" href="$classprevector.html#a833f4c9e5c4804fb8ac57b708657af24" title="prevector::capacity" alt="" coords="793,55,926,80"/>
+<area shape="rect" id="node14" href="$classprevector.html#a0e673654d3b7d8d6f79534e17f68741a" title="prevector::change_capacity" alt="" coords="561,156,745,181"/>
+<area shape="rect" id="node17" href="$classprevector.html#adf0c95f81b436240afdae73855be7da8" title="prevector::fill" alt="" coords="605,107,702,132"/>
+<area shape="rect" id="node7" href="$classprevector.html#a933e204a7e29c6bbc85479d023c00ff8" title="prevector::is_direct" alt="" coords="983,119,1117,144"/>
+<area shape="rect" id="node10" href="$classprevector.html#a20150a43dd87c33f0e855a55bd3418e8" title="prevector::direct_ptr" alt="" coords="980,181,1120,207"/>
+<area shape="rect" id="node11" href="$classprevector.html#ae3343cc65be9fd678b4a6f8305624de6" title="prevector::indirect_ptr" alt="" coords="974,256,1125,281"/>
+<area shape="rect" id="node16" href="$glibc__compat_8cpp.html#a9778d49e9029dd75bc53ecbbf9f5e9a1" title="memmove" alt="" coords="1008,5,1091,31"/>
+</map>

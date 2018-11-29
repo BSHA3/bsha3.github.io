@@ -1,0 +1,12 @@
+<map id="BaseIndex::ThreadSync" name="BaseIndex::ThreadSync">
+<area shape="rect" id="node2" href="$chainparams_8cpp.html#ace5c5b706d71a324a417dd2db394fd4a" title="Return the currently selected parameters. " alt="" coords="287,5,354,31"/>
+<area shape="rect" id="node3" href="$class_c_chain_params.html#aa366d4f63c8d16d625336dca61ca65e5" title="CChainParams::GetConsensus" alt="" coords="217,55,424,80"/>
+<area shape="rect" id="node4" href="$class_base_index.html#aec33bcb4ab5a0b0de416b4f3c4a1774b" title="Write the current chain block locator to the DB. " alt="" coords="230,104,412,129"/>
+<area shape="rect" id="node5" href="$class_base_index.html#ab0f67531ab8c5fbcc292f8a19bc9e971" title="BaseIndex::GetDB" alt="" coords="476,55,608,80"/>
+<area shape="rect" id="node6" href="$class_c_chain.html#a677f034f599fd3bdf447e2b064e3cc5f" title="Return a CBlockLocator that refers to a block in this chain (by default the tip). ..." alt="" coords="472,104,611,129"/>
+<area shape="rect" id="node11" href="$util_8h.html#a96c5fc7111f69f7dcaba992d95d13e03" title="error" alt="" coords="517,153,567,179"/>
+<area shape="rect" id="node7" href="$class_c_chain.html#a578545bde95163bee37b1be28e7b2755" title="Returns the index entry for the tip of this chain, or nullptr if none. " alt="" coords="708,29,800,55"/>
+<area shape="rect" id="node8" href="$class_c_block_index.html#a98490a2788c65cdd6ae9002b004dd74c" title="CBlockIndex::GetBlockHash" alt="" coords="659,79,848,104"/>
+<area shape="rect" id="node9" href="$class_c_chain.html#af1786dc229c215dea7f727c11df2c8dc" title="Efficiently check whether a block is present in this chain. " alt="" coords="691,128,817,153"/>
+<area shape="rect" id="node10" href="$class_c_block_index.html#ae1f702384690c6b8302e026a84172ef3" title="Efficiently find an ancestor of this block. " alt="" coords="665,177,843,203"/>
+</map>

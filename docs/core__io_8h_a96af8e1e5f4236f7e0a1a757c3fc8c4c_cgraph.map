@@ -1,0 +1,9 @@
+<map id="TxToUniv" name="TxToUniv">
+<area shape="rect" id="node2" href="$class_uni_value.html#abab649c2dbd593233de6364254456026" title="UniValue::pushKV" alt="" coords="170,29,298,55"/>
+<area shape="rect" id="node5" href="$class_c_transaction.html#a7efd1379de830341417c0bfa23a149aa" title="CTransaction::GetHash" alt="" coords="154,79,314,104"/>
+<area shape="rect" id="node6" href="$classbase__blob.html#ad7263503f949fb3c6c520ebb1f28e378" title="base_blob::GetHex" alt="" coords="166,128,302,153"/>
+<area shape="rect" id="node7" href="$class_c_transaction.html#ae6d7e5fd9eac7a11d2abe1a81e8f7cb4" title="CTransaction::GetWitnessHash" alt="" coords="130,177,338,203"/>
+<area shape="rect" id="node8" href="$serialize_8h.html#adb5a4516b4946127a59c79d21efd61ca" title="GetSerializeSize" alt="" coords="174,227,294,252"/>
+<area shape="rect" id="node3" href="$class_uni_value.html#a85f3a2f520375b464fb506b2ede5c3df" title="UniValue::findKey" alt="" coords="394,5,521,31"/>
+<area shape="rect" id="node4" href="$class_uni_value.html#a505a2087cb7d9ee51d24a97a5cc7910c" title="UniValue::__pushKV" alt="" coords="386,55,529,80"/>
+</map>

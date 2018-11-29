@@ -1,0 +1,11 @@
+<map id="WalletView::encryptionStatusChanged" name="WalletView::encryptionStatusChanged">
+<area shape="rect" id="node2" href="$class_wallet_view.html#a4405b0cf33d31ea663cb1e5047ae1d97" title="WalletView::setBitcoinGUI" alt="" coords="258,5,433,31"/>
+<area shape="rect" id="node4" href="$class_wallet_view.html#a0a37ff693a4f9c1e5ddc23f9cd3913be" title="Set the wallet model. " alt="" coords="501,56,686,81"/>
+<area shape="rect" id="node5" href="$class_wallet_view.html#ad348f2ed9f843ef9125ca416307c7412" title="Re&#45;emit encryption status signal. " alt="" coords="247,107,444,145"/>
+<area shape="rect" id="node3" href="$class_wallet_frame.html#a06cb28194836995e50cc46716b2227ff" title="WalletFrame::addWallet" alt="" coords="754,31,916,56"/>
+<area shape="rect" id="node6" href="$class_wallet_frame.html#ab6d4f86307bf1b28b53c2583c5166905" title="WalletFrame::setCurrentWallet" alt="" coords="492,109,695,135"/>
+<area shape="rect" id="node7" href="$class_wallet_view.html#a164c3de8fc69ef6f39fb7c15e4bda553" title="Encrypt the wallet. " alt="" coords="507,159,681,184"/>
+<area shape="rect" id="node8" href="$class_wallet_frame.html#a8a9a419ba3e249f29fe321f2d789b761" title="Encrypt the wallet. " alt="" coords="743,159,927,184"/>
+<area shape="rect" id="node9" href="$class_bitcoin_g_u_i.html#a7340679e1356b1bb3cfaeb64a3e93218" title="Create the main UI actions. " alt="" coords="975,159,1148,184"/>
+<area shape="rect" id="node10" href="$class_bitcoin_g_u_i.html#a58564e8398e33db7beca224c0f71c2b6" title="BitcoinGUI::BitcoinGUI" alt="" coords="1196,159,1353,184"/>
+</map>

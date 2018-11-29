@@ -1,0 +1,4 @@
+<map id="WalletModel::sendCoins" name="WalletModel::sendCoins">
+<area shape="rect" id="node2" href="$class_wallet_model_transaction.html#a4d02171de5a21bbab2fb0df15cdf31fd" title="WalletModelTransaction\l::getRecipients" alt="" coords="218,5,381,44"/>
+<area shape="rect" id="node3" href="$class_wallet_model_transaction.html#ae785ff8a91d75e5a2d034c44e97c15dd" title="WalletModelTransaction\l::getWtx" alt="" coords="218,68,381,107"/>
+</map>

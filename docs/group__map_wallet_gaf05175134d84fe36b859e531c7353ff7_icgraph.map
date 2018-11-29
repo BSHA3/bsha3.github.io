@@ -1,0 +1,5 @@
+<map id="CWallet::DummySignInput" name="CWallet::DummySignInput">
+<area shape="rect" id="node2" href="$group__map_wallet.html#gaa0456933ad14ce2ab2edb7892d326285" title="CWallet::DummySignTx" alt="" coords="265,5,428,31"/>
+<area shape="rect" id="node3" href="$group__map_wallet.html#ga05b4378caaacc3cff6da90a12f7b41d7" title="CalculateMaximumSignedInputSize" alt="" coords="231,55,462,80"/>
+<area shape="rect" id="node4" href="$class_c_wallet_tx.html#af8339d15e3525e8c21c8790ed175b132" title="CWalletTx::GetSpendSize" alt="" coords="510,55,686,80"/>
+</map>

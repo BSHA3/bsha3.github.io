@@ -1,0 +1,16 @@
+<map id="WalletBatch::WriteTx" name="WalletBatch::WriteTx">
+<area shape="rect" id="node2" href="$group__map_wallet.html#gada917e14d6336f1336b9cf0e98c9a6f2" title="CWallet::ReorderTransactions" alt="" coords="198,5,397,31"/>
+<area shape="rect" id="node3" href="$group__map_wallet.html#ga1dcacd3a98d22486288b83a4febe824f" title="Mark a transaction as replaced by another transaction (e.g., BIP 125). " alt="" coords="217,55,378,80"/>
+<area shape="rect" id="node4" href="$group__map_wallet.html#ga71c829a50abbcd74c1884b1f86527755" title="CWallet::AddToWallet" alt="" coords="223,104,373,129"/>
+<area shape="rect" id="node13" href="$group__map_wallet.html#ga9a4633bfb89da7a4afa04356a74b7970" title="CWallet::AbandonTransaction" alt="" coords="199,153,397,179"/>
+<area shape="rect" id="node14" href="$group__map_wallet.html#ga009ea6afd94f2c5d560ae063883628b5" title="CWallet::MarkConflicted" alt="" coords="216,203,380,228"/>
+<area shape="rect" id="node5" href="$group__map_wallet.html#gaee8f634287d083737471595f658da519" title="Add a transaction to the wallet, or update it. " alt="" coords="445,153,673,179"/>
+<area shape="rect" id="node12" href="$group___actions.html#ga2faeb244cf83bbae1304ae2f4acc7d93" title="Call after CreateTransaction unless you want to abort. " alt="" coords="464,104,654,129"/>
+<area shape="rect" id="node6" href="$group__map_wallet.html#ga09e75fcbc98be305e68e99495570687c" title="CWallet::SyncTransaction" alt="" coords="721,153,895,179"/>
+<area shape="rect" id="node7" href="$group__map_wallet.html#gae44ec090ec7c87725fb22d33887ad1a7" title="Notifies listeners of a transaction having been added to mempool. " alt="" coords="970,65,1153,104"/>
+<area shape="rect" id="node8" href="$group__map_wallet.html#ga8871fb58a2872900558d69d71baddfca" title="Notifies listeners of a block being connected. " alt="" coords="976,128,1148,153"/>
+<area shape="rect" id="node9" href="$group__map_wallet.html#ga3aa53a08f7071c42c0ef82ea468d19ae" title="Notifies listeners of a block being disconnected. " alt="" coords="968,177,1156,203"/>
+<area shape="rect" id="node10" href="$group__map_wallet.html#gaabb1db808d082d6df2b1e37cbf3f8f98" title="Scan the block chain (starting in pindexStart) for transactions from or to us. " alt="" coords="943,227,1181,252"/>
+<area shape="rect" id="node11" href="$rpcwallet_8cpp.html#a151535abf7394b299deb8d0a333de70b" title="rescanblockchain" alt="" coords="1229,227,1353,252"/>
+<area shape="rect" id="node15" href="$group__map_wallet.html#gab48b61409e849cb854c76d607624da5a" title="CWallet::LoadToWallet" alt="" coords="482,203,637,228"/>
+</map>

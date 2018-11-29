@@ -1,0 +1,19 @@
+<map id="CTxMemPool::addUnchecked" name="CTxMemPool::addUnchecked">
+<area shape="rect" id="node2" href="$class_c_tx_mem_pool_entry.html#aa7671b0dd01918bcb042f743e6c5ee9c" title="CTxMemPoolEntry::GetSharedTx" alt="" coords="255,5,475,31"/>
+<area shape="rect" id="node3" href="$class_c_tx_mem_pool.html#a9cadc1118067200ca6bd577deffca759" title="CTxMemPool::ApplyDelta" alt="" coords="278,55,452,80"/>
+<area shape="rect" id="node4" href="$class_c_tx_mem_pool_entry.html#a2deed4202061edf8b040a3f554417c20" title="CTxMemPoolEntry::GetTx" alt="" coords="554,189,731,215"/>
+<area shape="rect" id="node5" href="$class_c_transaction.html#a7efd1379de830341417c0bfa23a149aa" title="CTransaction::GetHash" alt="" coords="562,353,722,379"/>
+<area shape="rect" id="node6" href="$class_c_tx_mem_pool_entry.html#ab5b85d9bd797a134072fe8706d6d7e7e" title="CTxMemPoolEntry::Dynamic\lMemoryUsage" alt="" coords="268,205,461,244"/>
+<area shape="rect" id="node7" href="$class_c_tx_mem_pool.html#ac21acc8cd23934c9d88911e880476f52" title="Translate a set of hashes into a set of pool iterators to avoid repeated lookups. ..." alt="" coords="280,104,450,129"/>
+<area shape="rect" id="node9" href="$class_c_tx_mem_pool.html#ae6cc140209f782be93c522048595b797" title="CTxMemPool::UpdateParent" alt="" coords="269,331,461,356"/>
+<area shape="rect" id="node10" href="$class_c_tx_mem_pool.html#a7719e4d9c92fead8bdc0012de6d40a25" title="Update ancestors of hash to add/remove it as a descendant transaction. " alt="" coords="252,495,478,520"/>
+<area shape="rect" id="node13" href="$class_c_tx_mem_pool.html#a1ab805b110845c19e1887456197b6328" title="Set ancestor state for an entry. " alt="" coords="263,432,467,471"/>
+<area shape="rect" id="node14" href="$class_c_tx_mem_pool_entry.html#a89325fcaa8efbd1d6fe68c39d7d676b0" title="CTxMemPoolEntry::GetTxSize" alt="" coords="263,544,466,569"/>
+<area shape="rect" id="node16" href="$class_c_block_policy_estimator.html#af34606ec5f6af217e23b47b8c3b2e361" title="Process a transaction accepted to the mempool. " alt="" coords="287,268,442,307"/>
+<area shape="rect" id="node18" href="$class_c_transaction.html#ae6d7e5fd9eac7a11d2abe1a81e8f7cb4" title="CTransaction::GetWitnessHash" alt="" coords="261,593,468,619"/>
+<area shape="rect" id="node8" href="$class_c_tx_mem_pool.html#ab5e365ea8f49c38b6c99d6473af2b736" title="Returns an iterator to the given hash, if found. " alt="" coords="567,104,717,129"/>
+<area shape="rect" id="node11" href="$class_c_tx_mem_pool.html#a2015d67e9fdf55397051620dda9748d1" title="CTxMemPool::GetMemPoolParents" alt="" coords="526,495,759,520"/>
+<area shape="rect" id="node12" href="$class_c_tx_mem_pool.html#a93ee11ea2adc6021d5bf0842516222b4" title="CTxMemPool::UpdateChild" alt="" coords="551,445,734,471"/>
+<area shape="rect" id="node15" href="$policy_8cpp.html#a657a593ec90452062582ccf893a8488d" title="Compute the virtual transaction size (weight reinterpreted as bytes). " alt="" coords="555,544,730,569"/>
+<area shape="rect" id="node17" href="$class_c_tx_mem_pool_entry.html#a319f8093929fc5b6c3c66ba53ac172b5" title="CTxMemPoolEntry::GetHeight" alt="" coords="542,275,743,300"/>
+</map>
